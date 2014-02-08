@@ -1,5 +1,4 @@
-
-
+<items>
 
 <item>
 <title>GMT 14:30 FC Nurnberg vs. Bayern Munchen</title>
@@ -189,3 +188,5 @@
 <link>rtmpe://46.246.124.28:1935/redirect playpath=EURO1HD swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1_ratus pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://i294.photobucket.com/albums/mm104/fouad796/Arabic%20logo/Eurosport_2_HD_zps75e191f4.png</thumbnail>
 </item>
+
+</items>
