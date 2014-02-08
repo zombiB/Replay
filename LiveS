@@ -32,7 +32,7 @@
 <sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://93.120.27.86/live playpath=jsc02 swfUrl=http://www.dcast.tv/player/player.swf live=1pageUrl=http://www.dcast.tv/embed.php?u=jsc02&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
 </link> 
-<thumbnail>http://www.mediaunautreregard.com/wp-content/uploads/2012/08/Logo-BeIN-Sport-2-602x339.jpg</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel02.png</thumbnail> 
 </item>
 
 <item>
@@ -42,7 +42,7 @@
 <sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://93.120.27.86/live playpath=jsc03 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc03&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
 </link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/be_in_sport3_id.jpg</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel03.png</thumbnail> 
 </item>
 
 <item>
@@ -52,7 +52,7 @@
 <sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://93.120.27.86/live playpath=jsc04 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc04&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
 </link>
-<thumbnail>http://3.bp.blogspot.com/-1GnVH7NoEkM/UsNB8sCYsiI/AAAAAAAAA58/tJJngaGt2Co/s400/bein%2Bsports%2B4HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel04.png</thumbnail> 
 </item>
 
 <item>
@@ -62,7 +62,7 @@
 <sublink>rtmpe://46.246.124.23:1935/redirect/BST5/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
-<thumbnail>http://3.bp.blogspot.com/-1GnVH7NoEkM/UsNB8sCYsiI/AAAAAAAAA58/tJJngaGt2Co/s400/bein%2Bsports%2B4HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel05.png</thumbnail> 
 </item>
 
 <item>
@@ -72,7 +72,7 @@
 <sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://93.120.27.86/live playpath=jsc06 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc06&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-poVHq7geUkM/UsNCTLtsdLI/AAAAAAAAA6M/llA0eQg2o0A/s400/bein%2Bsport%2B6HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel06.png</thumbnail> 
 </item>
 
 <item>
@@ -82,7 +82,7 @@
 <sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://93.120.27.86/live playpath=jsc07 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc07&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
 </link>
-<thumbnail>http://3.bp.blogspot.com/-8Etg9u3gKb4/UsNCdkLle3I/AAAAAAAAA6U/as4CASC-kRk/s400/bein%2Bsport%2B7HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel07.png</thumbnail> 
 </item>
 
 <item>
@@ -91,7 +91,7 @@
 <sublink>rtmpe://46.246.124.23:1935/redirect/BST8/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://93.120.27.86/live playpath=jsc08 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc08&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
 </link>
-<thumbnail>http://4.bp.blogspot.com/-87AHqGsv01g/UsNCoT85A_I/AAAAAAAAA6c/Xgq1TU9OOaQ/s400/bein%2Bsport%2B8HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel08.png</thumbnail> 
 </item>
 
 <item>
@@ -100,7 +100,7 @@
 <sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://46.246.124.23:1935/redirect/BST9/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
-<thumbnail>http://4.bp.blogspot.com/-EVF7k96Fsiw/UsNC0VRjIVI/AAAAAAAAA6k/Gz3WbyuN_ng/s400/bein%2Bsport%2B9HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel09.png</thumbnail> 
 </item>
 
 <item>
@@ -112,7 +112,7 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-DMMwxE6eq8I/UsNDA8LbUUI/AAAAAAAAA6s/NgAcj8g6zJU/s400/bein%2Bsport%2B10HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel10.png</thumbnail> 
 </item>
 
 <item>
@@ -121,7 +121,7 @@
 <sublink>http://5.254.106.171/live3/stream.m3u8</sublink>
 <sublink>rtmpe://46.246.124.23:1935/redirect/BST11/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
-<thumbnail>http://imediaty.com/wp-content/uploads/2013/12/regarder-bein-sport-11-live-gratuit-sur-internet-10768170.jpg</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel11.png</thumbnail> 
 </item>
 
 <item>
@@ -130,7 +130,7 @@
 <sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmpe://46.246.124.23:1935/redirect/BST12/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
-<thumbnail>http://4.bp.blogspot.com/-Fj0QYFelAYE/UsND3lHmEjI/AAAAAAAAA7I/iOW90JFnfCg/s400/bein%2Bsport%2B12HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel12.png</thumbnail> 
 </item>
 
 <item>
@@ -142,7 +142,7 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-Mv-kzJqXGQ0/UsNEDUKNsQI/AAAAAAAAA7Q/Pm9lmzMbTyU/s400/bein%2Bsport%2B13HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel13.png</thumbnail> 
 </item>
 
 <item>
@@ -154,7 +154,7 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://3.bp.blogspot.com/-SR5GRjYWUeo/UsNESvu8ziI/AAAAAAAAA7Y/-wHbAOpCc-I/s400/bein%2Bsport%2B14HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel14.png</thumbnail> 
 </item>
 
 <item>
@@ -165,20 +165,20 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-IgAmNueMuXg/UsNEePdEh0I/AAAAAAAAA7g/fGCZCl40DyY/s400/bein%2Bsport%2B15HD.png</thumbnail> 
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel15.png</thumbnail> 
 </item>
 
 
 <item>
 <title>Sky Sports 3 HD</title>
 <link>rtmp://31.220.0.82:1935/live/ss2x pageUrl=http://www.eucast.tv/</link>
-<thumbnail>http://i294.photobucket.com/albums/mm104/fouad796/Arabic%20logo/Eurosport_2_HD_zps75e191f4.png</thumbnail>
+<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports3HD.png_1961929752.png</thumbnail>
 </item>
 
 <item>
 <title>Sky Sports 4 HD</title>
 <link>rtmp://31.220.0.133:1935/live/ss4x pageUrl=http://www.eucast.tv/</link>
-<thumbnail>http://i294.photobucket.com/albums/mm104/fouad796/Arabic%20logo/Eurosport_2_HD_zps75e191f4.png</thumbnail>
+<thumbnail>http://www.livefootball247.com/wp-content/uploads/sky_uk_sports41.png</thumbnail>
 </item>
 
 <item>
