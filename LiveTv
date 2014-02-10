@@ -1,0 +1,156 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 1
+rtmpe://93.120.27.75/live playpath=toni1 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 2 
+rtmpe://77.81.98.168/live playpath=toni2 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 3 
+rtmpe://77.81.98.168/live playpath=toni3 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 4 
+rtmpe://77.81.98.168/live playpath=toni4 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 5 
+rtmpe://77.81.98.168/live playpath=toni5 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 6 
+rtmpe://77.81.98.168/live playpath=toni6 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 7 
+rtmpe://77.81.98.168/live playpath=toni7 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 8 
+rtmpe://77.81.98.168/live playpath=toni8 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 11 
+rtmpe://77.81.98.168/live playpath=toni9 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 12 
+rtmpe://77.81.98.168/live playpath=toni10 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/
+
+
+#EXTINF:-1 group-title="Sports",SKY SPORT F1 UK:
+rtmp://31.220.0.82:1935/live/f11 pageUrl=http://www.eucast.tv/
+#EXTINF:-1 group-title="Sports",SKY SPORT 3 UK:
+rtmp://31.220.0.134:1935/live/ss3x pageUrl=http://www.eucast.tv/
+#EXTINF:-1 group-title="Sports",SKY SPORT 4 UK:
+rtmp://31.220.0.133:1935/live/ss4x pageUrl=http://www.eucast.tv/
+
+#EXTINF:-1 group-title="Sports",EUROSPORT 2 UK
+rtmp://31.220.0.82:1935/live playpath=euroz2 swfUrl=http://www.eucast.tv/player5.9.swf pageUrl=http://www.eucast.tv/embed.php?
+#EXTINF:-1 group-title="Sports",EUROSPORT 2
+rtmp://31.220.0.134:1935/live playpath=euroz2 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=euroz2&vw=620&vh=490 --live
+#EXTINF:-1 group-title="Sports",EUROSPORT
+http://cds-sr1.vmo5.sbb.rs/live/disk/test2/multi/multi-audio101_srp=64000-video=2400000.m3u8
+#EXTINF:-1 group-title="Sports",BT SPORTS
+rtmp://46.246.29.138:1935/stream/ playpath=0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=btn
+#EXTINF:-1 group-title="Sports",ESPN
+rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
+#EXTINF:-1 group-title="Sports",ESPNb
+rtmp://31.7.58.250:1935/stream/ playpath=42q5retrgh.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPNb
+#EXTINF:-1 group-title="Sports",NFL1
+rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1
+
+#EXTINF:-1 group-title="Sports",Sky Sports 2 HD
+rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
+#EXTINF:-1 group-title="Sports",Sky Sports 3 HD
+rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
+#EXTINF:-1 group-title="Sports",Sky Sports 4 HD
+rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
+#EXTINF:-1 group-title="Sports",FOX SPORTS
+http://m24.megafun.vn/live.vs?c=vstv042&q=high
+#EXTINF:-1 group-title="SPORTS",Imedi TV
+rtmp://powerstream.iphonewebtown.com:1935/imedi/mystream
+#EXTINF:-1 group-title="Sports",nba
+rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
+#EXTINF:-1 group-title="SPORTS",Boardriders TV
+rtsp://live240.impek.com/brtvhd
+#EXTINF:-1 group-title="SPORTS",Equidia Live
+http://948.livecast.kewego.com/hls/948/1328/948_1328.m3u8
+
+#EXTINF:-1 group-title="ARABIC",CCTV ARABIC
+http://88.212.11.206:5000/live/18/18.m3u8
+#EXTINF:-1 group-title="ARABIC",France 24 ARABIC
+mms://stream1.france24.yacast.net/f24_livefrda
+#EXTINF:-1 group-title="ARABIC",AL EQTESADIA TV
+mms://38.96.148.75/Eqtisadia
+#EXTINF:-1 group-title="ARABIC",Alrayi
+mms://62.215.216.130/wmtencoder/alrai350.wmv
+#EXTINF:-1 group-title="ARABIC",Russia Alyaum TV
+rtsp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_1000k_1/1000k_1
+#EXTINF:-1 group-title="ARABIC",ANN TV
+rtmp://ns8.indexforce.com/ann/ann
+
+#EXTINF:-1 group-title="French",I-TELE
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
+#EXTINF:-1 group-title="French",Itele HD
+rtmp://live-fms.canalplus.fr:443/live/itele_800@42248
+#EXTINF:-1 group-title="French",D8
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/01.m3u8
+
+#EXTINF:-1 group-title="French",NRJ 12
+rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp
+#EXTINF:-1 group-title="French",D17
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
+
+#EXTINF:-1 group-title="French",France 24
+http://tv.flux.france24.com/4684/02.m3u8
+#EXTINF:-1 group-title="French",FRANCE 24
+mms://stream1.france24.yacast.net/f24_liveen
+#EXTINF:-1 group-title="French",GULLI
+http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/hasbahca.m3u8
+#EXTINF:-1 group-title="French",FRANCE 0
+mmsh://wm.live.tv-radio.com/bouygues/all/channel5.wmv?MSWMExt=.asf
+#EXTINF:-1 group-title="French",FRANCE 1
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
+#EXTINF:-1 group-title="French",FRANCE 3
+mmsh://wm.live.tv-radio.com/bouygues/all/channel2.wmv?MSWMExt=.asf
+#EXTINF:-1 group-title="French",FRANCE 5
+mmsh://wm.live.tv-radio.com/bouygues/all/channel4.wmv?MSWMExt=.asf
+#EXTINF:-1 group-title="French",FRANCE 4
+mmsh://wm.live.tv-radio.com/bouygues/all/channel3.wmv?MSWMExt=.asf
+#EXTINF:-1 group-title="French",FRANCE 8
+mmsh://wm.live.tv-radio.com/bouygues/all/channel7.wmv?MSWMExt=.asf
+
+
+#EXTINF:-1 group-title="FRENCH",i24NEWS
+mmsh://wm.live.tv-radio.com/bouygues/all/channel12.wmv?MSWMExt=.asf
+#EXTINF:-1 group-title="FRENCH",GULLI
+mmsh://wm.live.tv-radio.com/bouygues/all/channel14.wmv?MSWMExt=.asf
+#EXTINF:-1 group-title="FRENCH",tv5monde
+http://93.155.183.131:8082/
+
+
+
+#EXTINF:-1 group-title="French",BFM TV
+mmsh://wm.live.tv-radio.com/bouygues/all/channel10.wmv?MSWMExt=.asf
+
+#EXTINF:-1 group-title="French",GULL?
+mmsh://wm.live.tv-radio.com/bouygues/all/channel14.wmv?MSWMExt=.asf
+#EXTINF:-1 group-title="FRENCH",CCTV Francais
+http://88.212.11.206:5000/live/20/20.m3u8
+#EXTINF:-1 group-title="FRENCH",ANIMAUX 
+http://109.87.145.164:8888/udp/238.0.0.86:1234 
+#EXTINF:-1 group-title="FRENCH",ENCYCLOPEDIA
+http://109.87.145.164:8888/udp/238.0.0.183:1234 
+#EXTINF:-1 group-title="FRENCH",AB MOTEURS
+http://109.87.145.164:8888/udp/238.0.0.181:1234 
+#EXTINF:-1 group-title="FRENCH",ESCALES
+http://109.87.145.164:8888/udp/238.0.0.174:1234 
+#EXTINF:-1 group-title="FRENCH",Chasse et Peche 
+http://109.87.145.164:8888/udp/238.0.0.149:1234
+
+#EXTINF:-1 group-title="Music",Q-music TV
+rtmp://vmmaeventlivefs.fplive.net/vmmaeventlive-live/vmma.radio-sdh
+#EXTINF:-1 group-title="Music",Rouge TV
+rtsp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:-1 group-title="Music",MONTECARLO MUSIC
+rtmp://fms.105.net/live/rmc1
+
+#EXTINF:-1 group-title="Documentary",DISCOVERY CHANNEL
+http://m24.megafun.vn/live.vs?c=vstv044&q=high
+
+
+
+
+
+
+
+
+
+
+
