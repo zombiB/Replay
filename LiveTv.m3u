@@ -38,9 +38,9 @@ rtmpe://77.81.98.168/live playpath=toni6 swfUrl=http://ukcast.tv/player/player.s
 rtmpe://77.81.98.168/live playpath=toni7 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
 #EXTINF:-1 group-title="SPORTS",BEIN AR 8  
 rtmpe://77.81.98.168/live playpath=toni8 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="SPORTS",BEIN AR 9  
+#EXTINF:-1 group-title="SPORTS",BEIN AR 11  
 rtmpe://77.81.98.168/live playpath=toni9 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="SPORTS",BEIN AR 10  
+#EXTINF:-1 group-title="SPORTS",BEIN AR 12  
 rtmpe://77.81.98.168/live playpath=toni10 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
 #EXTINF:-1 group-title="SPORTS",BEIN AR 11  
 rtmpe://77.81.98.168/live playpath=toni11 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
@@ -51,7 +51,7 @@ rtmpe://77.81.98.168/live playpath=toni13 swfUrl=http://ukcast.tv/player/player.
 #EXTINF:-1 group-title="SPORTS",BEIN AR 14  
 rtmpe://77.81.98.168/live playpath=toni14 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
 #EXTINF:-1 group-title="SPORTS",BEIN AR 15  
-rtmpe://77.81.98.168/live playpath=toni15 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/
+rtmpe://77.81.98.168/live playpath=toni15 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ timeout=10
 #EXTINF:-1 group-title="SPORTS",Sky Sports 2 HD
 rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 group-title="SPORTS",Sky Sports 3 HD
