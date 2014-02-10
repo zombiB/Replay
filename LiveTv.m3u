@@ -21,6 +21,37 @@ rtmpe://77.81.98.168/live playpath=toni9 swfUrl=http://ukcast.tv/player/stv39/pl
 #EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 12 
 rtmpe://77.81.98.168/live playpath=toni10 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/
 
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1 HD:
+rtmp://77.81.98.133/fot/a1 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2 HD:
+rtmp://77.81.98.133/fot/a2 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 3 HD:
+rtmp://77.81.98.133/fot/a3 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 4 HD:
+rtmp://77.81.98.133/fot/a4 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 5 HD:
+rtmp://77.81.98.133/fot/a5 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 6 HD:
+rtmp://77.81.98.133/fot/a6 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 7 HD:
+rtmp://77.81.98.133/fot/a7 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 8 HD:
+rtmp://77.81.98.133/fot/a8 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 9 HD:
+rtmp://77.81.98.133/fot/a9 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 10 HD:
+rtmp://77.81.98.133/fot/a10 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 11 HD:
+rtmp://77.81.98.133/fot/a11 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 12 HD:
+rtmp://77.81.98.133/fot/a12 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 13 HD:
+rtmp://77.81.98.133/fot/a13 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 14 HD:
+rtmp://77.81.98.133/fot/a14 pageUrl=http://www.castok.com/
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 15 HD:
+rtmp://77.81.98.133/fot/a15 pageUrl=http://www.castok.com/
+
 
 #EXTINF:-1 group-title="SPORTS",Sky Sports 2 HD
 rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
@@ -76,25 +107,19 @@ http://tv.flux.france24.com/4684/02.m3u8
 http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/hasbahca.m3u8
 #EXTINF:-1 group-title="French",FRANCE 0
 mmsh://wm.live.tv-radio.com/bouygues/all/channel5.wmv?MSWMExt=.asf
+#EXTINF:-1 group-title="French",FRANCE 2
+mmsh://wm.live.tv-radio.com/bouygues/all/channel1.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",FRANCE 3
 mmsh://wm.live.tv-radio.com/bouygues/all/channel2.wmv?MSWMExt=.asf
-#EXTINF:-1 group-title="French",FRANCE 3
-mmsh://wm.live.tv-radio.com/bouygues/all/channel1.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",FRANCE 5
 mmsh://wm.live.tv-radio.com/bouygues/all/channel4.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",FRANCE 4
 mmsh://wm.live.tv-radio.com/bouygues/all/channel3.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",BFM TV
 mmsh://wm.live.tv-radio.com/bouygues/all/channel10.wmv?MSWMExt=.asf
-#EXTINF:-1 group-title="French",RTS deux HD
-http://82.220.10.3:8080/udp/239.4.0.126:1234
-#EXTINF:-1 group-title="French",RTS un HD
-http://82.220.10.3:8080/udp/239.4.0.125:1234
-
 
 #EXTINF:-1 group-title="Music",Rouge TV
 rtsp://rtmp.infomaniak.ch/livecast/rougetv
-
 
 #EXTINF:-1 group-title="Documentary",DISCOVERY CHANNEL
 http://m24.megafun.vn/live.vs?c=vstv044&q=high
