@@ -20,39 +20,38 @@ rtmpe://77.81.98.168/live playpath=toni8 swfUrl=http://ukcast.tv/player/stv39/pl
 rtmpe://77.81.98.168/live playpath=toni9 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
 #EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 12 
 rtmpe://77.81.98.168/live playpath=toni10 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/
-
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1 HD:
-rtmp://77.81.98.133/fot/a1 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2 HD:
-rtmp://77.81.98.133/fot/a2 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 3 HD:
-rtmp://77.81.98.133/fot/a3 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 4 HD:
-rtmp://77.81.98.133/fot/a4 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 5 HD:
-rtmp://77.81.98.133/fot/a5 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 6 HD:
-rtmp://77.81.98.133/fot/a6 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 7 HD:
-rtmp://77.81.98.133/fot/a7 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 8 HD:
-rtmp://77.81.98.133/fot/a8 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 9 HD:
-rtmp://77.81.98.133/fot/a9 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 10 HD:
-rtmp://77.81.98.133/fot/a10 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 11 HD:
-rtmp://77.81.98.133/fot/a11 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 12 HD:
-rtmp://77.81.98.133/fot/a12 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 13 HD:
-rtmp://77.81.98.133/fot/a13 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 14 HD:
-rtmp://77.81.98.133/fot/a14 pageUrl=http://www.castok.com/
-#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 15 HD:
-rtmp://77.81.98.133/fot/a15 pageUrl=http://www.castok.com/
-
-
+#EXTINF:-1 group-title="SPORTS",BEIN 2 France 
+rtmp://37.187.31.197:80/liverepeater/137529 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/streamn.php?id=137529&width=650&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title="SPORTS",BEIN AR 1  
+rtmpe://77.81.98.168/live playpath=toni1 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 2  
+rtmpe://77.81.98.168/live playpath=toni2 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 3  
+rtmpe://77.81.98.168/live playpath=toni3 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 4  
+rtmpe://77.81.98.168/live playpath=toni4 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 5  
+rtmpe://77.81.98.168/live playpath=toni5 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/
+#EXTINF:-1 group-title="SPORTS",BEIN AR 6  
+rtmpe://77.81.98.168/live playpath=toni6 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 7  
+rtmpe://77.81.98.168/live playpath=toni7 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 8  
+rtmpe://77.81.98.168/live playpath=toni8 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 9  
+rtmpe://77.81.98.168/live playpath=toni9 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 10  
+rtmpe://77.81.98.168/live playpath=toni10 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 11  
+rtmpe://77.81.98.168/live playpath=toni11 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 12  
+rtmpe://77.81.98.168/live playpath=toni12 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 13  
+rtmpe://77.81.98.168/live playpath=toni13 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 14  
+rtmpe://77.81.98.168/live playpath=toni14 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
+#EXTINF:-1 group-title="SPORTS",BEIN AR 15  
+rtmpe://77.81.98.168/live playpath=toni15 swfUrl=http://ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/
 #EXTINF:-1 group-title="SPORTS",Sky Sports 2 HD
 rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 group-title="SPORTS",Sky Sports 3 HD
@@ -92,11 +91,90 @@ mms://62.215.216.130/wmtencoder/alrai350.wmv
 rtsp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_1000k_1/1000k_1
 #EXTINF:-1 group-title="ARABIC",ANN TV
 rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:-1 group-title="ARABIC", Tunisia 1 
+rtmp://94.32.97.12/satchannel1 playpath=tvtunisi.stream swfUrl=http://video.tiscali.it/inc/TiscaliVideo.swf?v=hghpl]&vURL=http://video.tiscali.it/asx/73878.asx&autoplay=1& live=1 pageUrl=http://tnmedias.perso.sfr.fr/tv7.html
+
+#EXTINF:-1 group-title="ARABIC",LBC Lebanon  
+rtmp://livestreaming.itworkscdn.net/lbclive/ playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live swfVfy=true live=true timeout=60
+#EXTINF:-1 group-title="ARABIC",NBN Lebanon  
+rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&autostart=true&%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="ARABIC",Aljazeera Arabic  
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_ara_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm swfVfy=true live=true timeout=60
+#EXTINF:-1 group-title="ARABIC",Euronews Arabic  
+rtmp://fr-par-3.stream-relay.hexaglobe.net/rtpeuronewslive/ar_video750_rtp.sdp
+#EXTINF:-1 group-title="ARABIC",Al Manar TV  
+rtmp://38.96.148.200/live/ playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/almanartv.php swfVfy=true live=true timeout=true
+#EXTINF:-1 group-title="ARABIC",Roussia Alyaum  
+rtmp://fms5.visionip.tv/live/ playpath=1000k_1 swfUrl="http://www.elahmad.com/tv/swf/russiatoday_high.swf" pageUrl="http://www.elahmad.com/tv/rtarabicru.php" swfVfy=true live=true timeout=10
+#EXTINF:-1 group-title="ARABIC",Almayadeen  
+rtmp://livestreaming3.itworkscdn.net/mayadeenlive/ playpath=mayadsat swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf pageUrl=http://www.almayadeen.net/ar/Live swfVfy=true
+#EXTINF:-1 group-title="ARABIC",Alkass TV  
+rtsp://78.100.44.238/live-kass/kass
+#EXTINF:-1 group-title="ARABIC",BAHRAIN SPORTS  
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:-1 group-title="ARABIC",Aljazeera Mobasher  
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?v=hghpl]/ playpath=aljazeera_mubasher2_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_mubasher.swf pageUrl=http://www.elahmad.com/tv/aljazeera_mubasher.htm swfVfy=true live=true timeout=60
+#EXTINF:-1 group-title="ARABIC",Nile Cinema   
+rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
+#EXTINF:-1 group-title="ARABIC",Nile Comedy Sr1 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=60
+#EXTINF:-1 group-title="ARABIC",Nile Family Sr1 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family
+#EXTINF:-1 group-title="ARABIC",Nile Life Sr1 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
+#EXTINF:-1 group-title="ARABIC",Nile Drama Sr1 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1
+#EXTINF:-1 group-title="ARABIC",Nile Sport Sr1 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
+#EXTINF:-1 group-title="ARABIC",Nile Learning 
+rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning
+#EXTINF:-1 group-title="ARABIC",Nile Culture 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture
+#EXTINF:-1 group-title="ARABIC",Kuwait TV CH.1 
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch1.sdp
+#EXTINF:-1 group-title="ARABIC",Kuwait TV CH.5 
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch5.sdp
+#EXTINF:-1 group-title="ARABIC",AL MAJD HQ 
+rtmp://ib12.islambox.tv/live/almajdhq160k.stream
+#EXTINF:-1 group-title="ARABIC",ALMAJAD ALMAIA 
+rtmp://majdsc.pwlstation.com/live/majdsc/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="ARABIC",ALMAJAD NATURE 
+rtmp://majdnat.pwlstation.com/live/majdnat/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15
+
+#EXTINF:-1 group-title="ARABIC",ALMAJD KIDS 2 
+rtmp://majdk.pwlstation.com/live/majdk/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="ARABIC",ALMAJD MASSAH 
+rtmp://majdd.pwlstation.com/live/majdd/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="ARABIC",AlMajd Quran TV 
+rtmp://ib12.islambox.tv/live/almajdhq160k.stream?key=EBD060E6742AAB057C23B67C4E71836D0A92F900ABE0F38B19B6A34DD4758E0C
+#EXTINF:-1 group-title="ARABIC",ALMAJD RODA 
+rtmp://majdr.pwlstation.com/live/majdr/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="ARABIC",ALMAJD TAGHARID 
+rtmp://majdt.pwlstation.com/live/majdt/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="RELIGION",ALMAJD TV 
+rtmp://majdg.pwlstation.com/live/majdg/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="RELIGION",AlMAJED QURAN 
+rtmp://ib12.islambox.tv/live//almajdhq160k.stream
+#EXTINF:-1 group-title="ARABIC",SAMA DUBAI 
+rtmp://wms03.endavomedia.com:1935/dmi/ playpath=dmilivesamadubai_bb.stream swfUrl=http://www.elahmad.com/tv/swf/samadubai.swf pageUrl=http://www.elahmad.com/tv/samadubai.htm swfVfy=true live=true 
+#EXTINF:-1 group-title="ARABIC",AL MASAR 
+rtmp://msr1tv.flashmediacast.com:2071/live/livestream
+#EXTINF:-1 group-title="ARABIC",DUBAI TV
+rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_1/ playpath=dmilivedubaitv_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
+
+#EXTINF:-1 group-title="KIDS",BARAEM 
+rtsp://78.100.44.238/live-baraem/baraem/
+#EXTINF:-1 group-title="KIDS",Aljazeera Kids Tv 
+rtsp://78.100.44.238/live-jscc/jscc
+#EXTINF:-1 group-title="KIDS",ALMAJD KIDS 
+rtmp://majdb.pwlstation.com/live/majdb/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
 
 #EXTINF:-1 group-title="French",I-TELE
 http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
 #EXTINF:-1 group-title="French",D8
 http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/01.m3u8
+#EXTINF:-1 group-title="French",D8 
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
 #EXTINF:-1 group-title="French",NRJ 12
 rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp
 #EXTINF:-1 group-title="French",D17
@@ -123,6 +201,8 @@ rtsp://rtmp.infomaniak.ch/livecast/rougetv
 
 #EXTINF:-1 group-title="Documentary",DISCOVERY CHANNEL
 http://m24.megafun.vn/live.vs?c=vstv044&q=high
+#EXTINF:-1 group-title="Documentary",ALMAJD DOC 
+rtmp://majddoc.pwlstation.com/live/majddoc/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
 
 #EXTINF:-1 group-title="English",FRANCE 24 En
 mms://stream1.france24.yacast.net/f24_liveen
