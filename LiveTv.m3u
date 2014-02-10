@@ -1,48 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 1
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 1
 rtmpe://93.120.27.75/live playpath=toni1 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 2 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 2 
 rtmpe://77.81.98.168/live playpath=toni2 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 3 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 3 
 rtmpe://77.81.98.168/live playpath=toni3 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 4 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 4 
 rtmpe://77.81.98.168/live playpath=toni4 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 5 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 5 
 rtmpe://77.81.98.168/live playpath=toni5 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 6 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 6 
 rtmpe://77.81.98.168/live playpath=toni6 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 7 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 7 
 rtmpe://77.81.98.168/live playpath=toni7 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 8 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 8 
 rtmpe://77.81.98.168/live playpath=toni8 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 11 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 11 
 rtmpe://77.81.98.168/live playpath=toni9 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/ 
-#EXTINF:-1 group-title="Sports",BEIN HD ARABIA 12 
+#EXTINF:-1 group-title="SPORTS",BEIN HD ARABIA 12 
 rtmpe://77.81.98.168/live playpath=toni10 swfUrl=http://ukcast.tv/player/stv39/player.swf live=1 pageUrl=http://www.ukcast.tv/
 
 
-#EXTINF:-1 group-title="Sports",Sky Sports 2 HD
+#EXTINF:-1 group-title="SPORTS",Sky Sports 2 HD
 rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1 group-title="Sports",Sky Sports 3 HD
+#EXTINF:-1 group-title="SPORTS",Sky Sports 3 HD
 rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1 group-title="Sports",SKY SPORT 3 UK:
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 3 UK:
 rtmp://31.220.0.134:1935/live/ss3x pageUrl=http://www.eucast.tv/
-#EXTINF:-1 group-title="Sports",SKY SPORT 4 UK:
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 4 UK:
 rtmp://31.220.0.133:1935/live/ss4x pageUrl=http://www.eucast.tv/
-#EXTINF:-1 group-title="Sports",EUROSPORT
+#EXTINF:-1 group-title="SPORTS",EUROSPORT
 http://cds-sr1.vmo5.sbb.rs/live/disk/test2/multi/multi-audio101_srp=64000-video=2400000.m3u8
-#EXTINF:-1 group-title="Sports",BT SPORTS
+#EXTINF:-1 group-title="SPORTS",BT SPORTS
 rtmp://46.246.29.138:1935/stream/ playpath=0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=btn
-#EXTINF:-1 group-title="Sports",ESPN
+#EXTINF:-1 group-title="SPORTS",ESPN
 rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
-#EXTINF:-1 group-title="Sports",NFL1
+#EXTINF:-1 group-title="SPORTS",NFL1
 rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1
-#EXTINF:-1 group-title="Sports",FOX SPORTS
+#EXTINF:-1 group-title="SPORTS",FOX SPORTS
 http://m24.megafun.vn/live.vs?c=vstv042&q=high
 #EXTINF:-1 group-title="SPORTS",Imedi TV
 rtmp://powerstream.iphonewebtown.com:1935/imedi/mystream
-#EXTINF:-1 group-title="Sports",nba
+#EXTINF:-1 group-title="SPORTS",nba
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
 #EXTINF:-1 group-title="SPORTS",Boardriders TV
 rtsp://live240.impek.com/brtvhd
