@@ -105,40 +105,61 @@ rtmpe://93.120.27.86/live playpath=jsc09 swfUrl=http://www.dcast.tv/player/playe
 rtmpe://93.120.27.86/live playpath=jsc012 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc012&vw=550&vh=400
 
 
-#EXTINF:-1 group-title="News",France 24 ARABIC
-mms://stream1.france24.yacast.net/f24_livefrda
+
+
+
 #EXTINF:-1 group-title="News",Aljazeera Arabic  
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_ara_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm swfVfy=true live=true timeout=60
-#EXTINF:-1 group-title="News",Aljazeera America  
-rtmp://ajam.lsops.net/live/ playpath=ajam_en_584 swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf pageUrl=http://nidal.tv/embeds/jazeeraamerica.php
-#EXTINF:-1 group-title="News",BBC Arabic mms
-mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
 #EXTINF:-1 group-title="News",Aljazeera Mobasher  
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?v=hghpl]/ playpath=aljazeera_mubasher2_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera_mubasher.swf pageUrl=http://www.elahmad.com/tv/aljazeera_mubasher.htm swfVfy=true live=true timeout=60
+#EXTINF:-1 group-title="News",Al Jazeera Mubasher MASR  
+rtmp://aljamisr.lsops.net/live/ playpath=aljamisr_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1390660825 pageUrl=http://www.livestation.com/en/aljazeera-mubasher-misr
+#EXTINF:-1 group-title="News",Aljazeera America  
+rtmp://ajam.lsops.net/live/ playpath=ajam_en_584 swfUrl=http://www.longtailvideo.com//jwplayer/jwplayer.flash.swf
+#EXTINF:-1 group-title="News",Alarabiya
+http://livestream2.alarabiya.tv/files/mainarabia.m3u8 pageUrl=http://nidal.tv/embeds/jazeeraamerica.php
+#EXTINF:-1 group-title="News",Alarabiya AlHadath 
+http://livestream2.alarabiya.tv/files/hadath.m3u8
+#EXTINF:-1 group-title="News",Al Hiwar 
+rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true timeout=15 pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&hl=en&prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&rurl=translate.google.com&sl=ar&u=http://www.alhiwar.tv/&usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg
+#EXTINF:-1 group-title="News",Al Mayadeen 
+rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1377945036 live=1 timeout=15 pageUrl=http://www.livestation.com/en/almayadeen/popout
+#EXTINF:-1 group-title="News",France 24 ARABIC
+mms://stream1.france24.yacast.net/f24_livefrda
+#EXTINF:-1 group-title="News",BBC Arabic 
+mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
 #EXTINF:-1 group-title="News",Euronews Arabic  
 rtmp://fr-par-3.stream-relay.hexaglobe.net/rtpeuronewslive/ar_video750_rtp.sdp
 #EXTINF:-1 group-title="News",Al Manar TV  
 rtmp://38.96.148.200/live/ playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/almanartv.php swfVfy=true live=true timeout=true
-#EXTINF:-1 group-title="News",Roussia Alyaum  
+#EXTINF:-1 group-title="News",Russia Alyaum TV 
 rtmp://fms5.visionip.tv/live/ playpath=1000k_1 swfUrl="http://www.elahmad.com/tv/swf/russiatoday_high.swf" pageUrl="http://www.elahmad.com/tv/rtarabicru.php" swfVfy=true live=true timeout=10
-#EXTINF:-1 group-title="News",Almayadeen  
-rtmp://livestreaming3.itworkscdn.net/mayadeenlive/ playpath=mayadsat swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf pageUrl=http://www.almayadeen.net/ar/Live swfVfy=true
+#EXTINF:-1 group-title="News",Al Alam 
+http://hd6.lsops.net/live/alalam_ar_hls.smil/playlist.m3u8  
 #EXTINF:-1 group-title="News",AL EQTESADIA TV
 mms://38.96.148.75/Eqtisadia
 #EXTINF:-1 group-title="News",CCTV ARABIC
 http://88.212.11.206:5000/live/18/18.m3u8
-#EXTINF:-1 group-title="News",Russia Alyaum TV
-rtsp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_1000k_1/1000k_1
 #EXTINF:-1 group-title="News",ANN TV
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1 group-title="News",ANN News
 rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1 group-title="News",Al Arabiya Al Hadath
-http://livestream2.alarabiya.tv/files/hadath.m3u8
-#EXTINF:-1 group-title="News",Al Arabiya News
-http://livestream2.alarabiya.tv/files/mainarabia.m3u8
+#EXTINF:-1 group-title="News",Alekhbaria Syria 
+http://82.137.248.20:8134/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="News",Al Aan  
+http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/master.m3u8
 #EXTINF:-1 group-title="News",Al Sharqiya News
 rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="RELIGION",ALMAJD TV 
 rtmp://majdg.pwlstation.com/live/majdg/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15
@@ -169,103 +190,6 @@ rtsp://38.96.148.75/Sunnah?MSWMExt=.asf
 
 
 
-#EXTINF:-1 group-title="ARABIC",DUBAI TV
-rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_1/ playpath=dmilivedubaitv_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1 group-title="ARABIC",Alrayi
-mms://62.215.216.130/wmtencoder/alrai350.wmv
-#EXTINF:-1 group-title="ARABIC", Tunisia 1 
-rtmp://94.32.97.12/satchannel1 playpath=tvtunisi.stream swfUrl=http://video.tiscali.it/inc/TiscaliVideo.swf?v=hghpl]&vURL=http://video.tiscali.it/asx/73878.asx&autoplay=1& live=1 pageUrl=http://tnmedias.perso.sfr.fr/tv7.html
-#EXTINF:-1 group-title="ARABIC",LBC Lebanon  
-rtmp://livestreaming.itworkscdn.net/lbclive/ playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live swfVfy=true live=true timeout=60
-#EXTINF:-1 group-title="ARABIC",NBN Lebanon  
-rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&autostart=true&%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15
-#EXTINF:-1 group-title="ARABIC",Nile Cinema   
-rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
-#EXTINF:-1 group-title="ARABIC",Nile Comedy 
-rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=60
-#EXTINF:-1 group-title="ARABIC",Nile Family 
-rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family
-#EXTINF:-1 group-title="ARABIC",Nile Life 
-rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
-#EXTINF:-1 group-title="ARABIC",Nile Drama 
-rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1
-#EXTINF:-1 group-title="ARABIC",Nile Learning 
-rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning
-#EXTINF:-1 group-title="ARABIC",Nile Culture 
-rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture
-#EXTINF:-1 group-title="ARABIC",Kuwait TV CH.1 
-rtmp://62.215.183.1/rtmplive/rtpencoder/ch1.sdp
-#EXTINF:-1 group-title="ARABIC",Kuwait TV CH.5 
-rtmp://62.215.183.1/rtmplive/rtpencoder/ch5.sdp
-#EXTINF:-1 group-title="ARABIC",SAMA DUBAI 
-rtmp://wms03.endavomedia.com:1935/dmi/ playpath=dmilivesamadubai_bb.stream swfUrl=http://www.elahmad.com/tv/swf/samadubai.swf pageUrl=http://www.elahmad.com/tv/samadubai.htm swfVfy=true live=true 
-#EXTINF:-1 group-title="ARABIC",Time 
-http://4.31.30.145:9062/
-#EXTINF:-1 group-title="ARABIC",Alhayat Cinema
-http://4.31.30.145:9067/
-#EXTINF:-1 group-title="ARABIC",Panorama film 
-http://4.31.30.145:9075/
-#EXTINF:-1 group-title="ARABIC",Egy 1
-http://4.31.30.145:9084/
-
-#EXTINF:-1 group-title="ARABIC",AL MASAR 
-rtmp://msr1tv.flashmediacast.com:2071/live/livestream
-#EXTINF:-1 group-title="ARABIC",KTV 1
-rtmp://62.215.183.1/rtmplive/rtpencoder/ch1.sdp
-#EXTINF:-1 group-title="ARABIC",KTV 2
-rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp
-#EXTINF:-1 group-title="ARABIC",KTV ARABE
-rtmp://62.215.183.1/rtmplive/rtpencoder/ch5.sdp
-#EXTINF:-1 group-title="ARABIC",KTV ETRAA
-rtmp://62.215.183.1/rtmplive/rtpencoder/ch4.sdp
-#EXTINF:-1 group-title="ARABIC",KTV PLUS
-rtmp://62.215.183.1/rtmplive/rtpencoder/ch6.sdp
-#EXTINF:-1 group-title="ARABIC",tunisie 1
-mms://vipmms.yacast.net/nationale1
-#EXTINF:-1 group-title="ARABIC",Irak Alsharqiah
-rtmp://ns8.indexforce.com/home/mystream
-#EXTINF:-1 group-title="ARABIC",Al alamia
-rtmp://ns8.indexforce.com/alalamia/alalamia
-#EXTINF:-1 group-title="ARABIC",AlManar Tv
-rtsp://live.almanar.com.lb/live
-#EXTINF:-1 group-title="ARABIC",ALfayhaa TV 
-mmsh://77.67.107.89/al-fayhaa
-#EXTINF:-1 group-title="ARABIC",CBC Arabic
-http://iphone-streaming.ustream.tv/uhls/8707800/streams/live/iphone/hasbahca.m3u8
-#EXTINF:-1 group-title="ARABIC",MTV Lubnan
-rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p
-#EXTINF:-1 group-title="ARABIC",I Film mms
-mms://93.190.24.114/ifilmtv
-#EXTINF:-1 group-title="ARABIC",melody Drama
-rtmp://38.96.148.206/Melody/MDramaWeb
-#EXTINF:-1 group-title="ARABIC",melody aflam
-rtmp://38.96.148.206/Melody/MAflamWeb
-#EXTINF:-1 group-title="ARABIC",melody classic
-rtmp://38.96.148.206/Melody/MClassicWeb
-#EXTINF:-1 group-title="ARABIC",melody Arabia
-rtmp://38.96.148.206/Melody/MArabiaWeb
-#EXTINF:-1 group-title="ARABIC",melody hits
-rtmp://38.96.148.206/Melody/MHitsWeb
-
-#EXTINF:-1 group-title="ARABIC",PALESTINE TODAY
-rtmp://176.9.146.151/live/paltv/tv
-#EXTINF:-1 group-title="ARABIC",IRAQIA 
-mms://212.7.196.74/iraqia
-#EXTINF:-1 group-title="ARABIC",FRANCE 24 ARABIC
-rtmp://stream2.france24.yacast.net:80/france24_live/frda/f24_livefrda
-#EXTINF:-1 group-title="ARABIC",BBC Arabic
-http://www.bbc.co.uk/arabic/meta/tx/live/atv_live_bb.asx
-#EXTINF:-1 group-title="ARABIC",BAHRAIN TV
-rtmp://155.obj.netromedia.net/alayam/alayam
-#EXTINF:-1 group-title="ARABIC",ALTAGHEER TV
-http://stream.joinvisions.net:1935/taglive/taghier/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC",AL RASHEED MMS
-mmsh://77.67.107.89/alrasheedtv?MSWMExt=.asf
-#EXTINF:-1 group-title="ARABIC",AL RAi
-http://www.elahmad.com/tv/alraitv.asx
-#EXTINF:-1 group-title="ARABIC",AL AAN
-http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/index_99_av-p.m3u8?sd=10&rebase=on
-
 
 
 #EXTINF:-1 group-title="KIDS",BARAEM 
@@ -281,6 +205,20 @@ rtmp://majdt.pwlstation.com/live/majdt/ playpath=2_livestream swfUrl=http://pwls
 #EXTINF:-1 group-title="KIDS",ALMAJD RODA 
 rtmp://majdr.pwlstation.com/live/majdr/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
 
+#EXTINF:-1 group-title="Documentary",National Geo Ad 
+http://xnatgeoabudhabilivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 group-title="Documentary",DISCOVERY CHANNEL
+http://m24.megafun.vn/live.vs?c=vstv044&q=high
+#EXTINF:-1 group-title="Documentary",ALMAJD DOC 
+rtmp://majddoc.pwlstation.com/live/majddoc/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="Documentary",ALMAJAD NATURE 
+rtmp://majdnat.pwlstation.com/live/majdnat/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="Documentary",AlJazeera Doc
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_doc_high swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/
+#EXTINF:-1 group-title="Documentary",Nile Culture 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture
+#EXTINF:-1 group-title="Documentary",Nile Learning 
+rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning
 
 #EXTINF:-1 group-title="French",I-TELE
 http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
@@ -318,14 +256,7 @@ mms://stream2.canal.qc.ca/enOndes_haut_debit
 rtsp://rtmp.infomaniak.ch/livecast/rougetv
 
 
-#EXTINF:-1 group-title="Documentary",DISCOVERY CHANNEL
-http://m24.megafun.vn/live.vs?c=vstv044&q=high
-#EXTINF:-1 group-title="Documentary",ALMAJD DOC 
-rtmp://majddoc.pwlstation.com/live/majddoc/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15
-#EXTINF:-1 group-title="Documentary",ALMAJAD NATURE 
-rtmp://majdnat.pwlstation.com/live/majdnat/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15
-#EXTINF:-1 group-title="Documentary",AlJazeera Doc
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_doc_high swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/
+
 
 
 #EXTINF:-1 group-title="English",FRANCE 24 En
@@ -426,5 +357,60 @@ http://38.96.148.24/MelodyDrama/MDrama_576p/playlist.m3u8
 rtmp://38.96.148.24/MelodyArabia playpath=MArabia_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/24 live=1 timeout=15
 
 
-#EXTINF:-1 group-title="News-teledunet",Aljazeera America 
-plugin://plugin.video.teledunet/play/aljazeera
+
+#EXTINF:-1 group-title="News-2",Aljazeera Arabic   
+http://hd3.lsops.net/live/smil:aljazeer_ar_hls/playlist.m3u8
+#EXTINF:-1 group-title="News-2",Aljazeera Mobasher  
+http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="News-2",Al Jazeera Mubasher MASR
+http://aljazeera-mubasher-misr-apple-live.adaptive.level3.net/apple/aljazeera/mub-misr/160.m3u8
+#EXTINF:-1 group-title="News-2",Alarabiya 
+http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8 
+#EXTINF:-1 group-title="News-2",Alarabiya AlHadath 
+http://livestream2.alarabiya.tv/files/hadath.m3u8 
+#EXTINF:-1 group-title="News-2",Al Hiwar 
+rtmp://185.2.136.148/livepkgr/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alhiwar.tv/android.php
+#EXTINF:-1 group-title="News-2",Almayadeen 
+rtmp://livestreaming3.itworkscdn.net/mayadeenlive/ playpath=mayadsat swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf pageUrl=http://www.almayadeen.net/ar/Live swfVfy=true live=true timeout=live
+#EXTINF:-1 group-title="News-2",Al Manar 
+http://72.55.164.21:8000/live
+#EXTINF:-1 group-title="News-2",Russia Alyaum TV
+rtmp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_1000k_1 app=rt/Russia_al_yaum_1000k_1 playpath=1000k_1 swfUrl=http://rt.com/s/swf/player.swf pageUrl=http://www.watchfomny.com/Video/Arabic/RusiyaAl-Yaum/RusiyaAl-Yaum.htm live=true swfVfy=true timeout=10
+#EXTINF:-1 group-title="News-2",Al Alam 
+rtmp://hd6.lsops.net/live/ playpath=alalam_ar_1428 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1382096815 pageUrl=http://www.livestation.com/en/alalam
+#EXTINF:-1 group-title="News-2",FRANCE 24 ARABIC
+rtmp://stream2.france24.yacast.net:80/france24_live/frda/f24_livefrda
+#EXTINF:-1 group-title="News-2",BBC Arabic
+http://www.bbc.co.uk/arabic/meta/tx/live/atv_live_bb.asx
+
+#EXTINF:-1 group-title="Documentary-2",Al Jazeera Documentary 
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8
+
+
+#EXTINF:-1 group-title="News-3",Aljazeera Arabic   
+http://hd3.lsops.net/live/aljazeer_ar_372/playlist.m3u8
+#EXTINF:-1 group-title="News-3",Aljazeera Mobasher  
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/160.m3u8
+EXTINF:-1 group-title="News-3",Al Jazeera Mubasher MASR 
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=1237551997001&lineUpId=&pubId=864352179001&playerId=1294374627001&affiliateId= playpath=aljazeera_misr_high?videoId=1237551997001&lineUpId=&pubId=864352179001&playerId=1294374627001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20140123.0946/federatedVideoUI/BrightcovePlayer.swf?uid=1390706379776 pageUrl=http://mubasher-misr.aljazeera.net/livestream/ 
+#EXTINF:-1 group-title="News-3",Russia Alyaum TV
+rtsp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_1000k_1/1000k_1
+#EXTINF:-1 group-title="News-3",AlManar Tv
+rtsp://live.almanar.com.lb/live
+
+
+#EXTINF:-1 group-title="Documentary-3",Al Jazeera Documentary 
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_doc_high swfUrl="http://admin.brightcove.com/viewer/us1.25.04.00.2011-05-19124744/federatedVideoUI/BrightcovePlayer.swf" live=true
+
+#EXTINF:-1 group-title="News-4",Aljazeera Arabic  
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
+#EXTINF:-1 group-title="News-4",Al Jazeera Mubasher MASR  
+http://hd1.lsops.net/live/smil:aljamisr_ar_hls.smil/playlist.m3u8 
+
+#EXTINF:-1 group-title="Documentary-4",Al Jazeera Documentary 
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
+
+
+
+
+
