@@ -99,6 +99,8 @@ rtmp://94.32.97.12/satchannel1 playpath=tvtunisi.stream swfUrl=http://video.tisc
 rtmp://livestreaming.itworkscdn.net/lbclive/ playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live swfVfy=true live=true timeout=60
 #EXTINF:-1 group-title="General",NBN Lebanon  
 rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&autostart=true&%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="General",2M 
+rtmp://2mmarocRTMP.giniko.com:1935/livepkgr/ playpath=2mmaroc?adbe-live-event=liveevent&adbe-record-mode=record swfUrl=http://www.giniko.com/dvr/jwplayer/jwplayer.flash.swf pageUrl=http://www.giniko.com/dvr/?gid=4 live=1
 #EXTINF:-1 group-title="General",Kuwait TV CH.1 
 rtmp://62.215.183.1/rtmplive/rtpencoder/ch1.sdp
 #EXTINF:-1 group-title="General",KTV 2
@@ -157,6 +159,47 @@ rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl
 #EXTINF:-1 group-title="General-3",Dubai 
 rtmp://dmiLiveDubaiTV.flash.internapcdn.net/ app=dmiLiveDubaiTV/live_1 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv 
 
+#EXTINF:-1 group-title="Islamic",Wesal Tv 
+rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm
+#EXTINF:-1 group-title="Islamic",Peace Tv (USA) 
+rtmp://peace.fms.visionip.tv/live playpath=b2b-peace_usa-live-25f-4x3-sdh_1 swfUrl=http://www.elahmad.com/tv/swf/peacetv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/peacetv.php
+#EXTINF:-1 group-title="Islamic",Peace Tv (UK) 
+rtmp://peace.fms.visionip.tv/live playpath=b2b-peace_sky-live-25f-4x3-sdh_1 swfUrl=http://www.elahmad.com/tv/swf/peacetv.swf?file=/tv/file.php?id=peace_sky pageUrl=http://www.elahmad.com/tv/peacetv.php
+#EXTINF:-1 group-title="Islamic",Peace Tv (Asia)
+rtmp://peace.fms.visionip.tv/live playpath=b2b-peace_asia-live-25f-4x3-sdh_1 swfUrl=http://www.elahmad.com/tv/swf/peacetv.swf?file=/tv/file.php?id=peace_asia pageUrl=http://www.elahmad.com/tv/peacetv.php
+#EXTINF:-1 group-title="Islamic",M3Ali Tv 
+rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php
+#EXTINF:-1 group-title="Islamic",Aleman Tv 
+rtmp://wos.cr1.streamzilla.xlcdn.com:80/live/_definst_/ playpath=sz=ygcrtv=aleman_tvhmd?token=11693ac266266fc6912ad08ebe0fce0e&time=52cf7b52 swfUrl=http://www.elahmad.com/tv/swf/aleman_tv.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Ahl al Quran  
+rtmp://5.9.84.178/live/instanc playpath=mycam swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=ahl_alquran&autostart=true pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Zahran   
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chzahran/2008/08/24/51149ece-8533-4a0c-a23d-38955bfbaa4f swfUrl=http://www.elahmad.com/tv/swf/player.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Almoheet  
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chalmoheettv/2008/11/26/cfced797-ca90-43ca-8f40-8194cf4e6bf1 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Yarab Tv   
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chyarabtv/2008/12/22/0ba24fa6-c117-4cd4-8409-df821868bf84 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Al Omma Tv   
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chalommatv/2008/04/22/455b08bc-01a2-4e19-8021-1b9d99deee99 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Al hidaya   
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv10/mogulus-user-files/chalhidaya/2010/09/09/401f847a-0ed7-4338-bf1d-3bf63a4b89cb swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Alganna   
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chalganna/2008/06/20/a288dfb7-30f6-402a-a0e5-3c9c4d3d9765 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Islamic Planet  need fixing not live
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chislamicplanet/2008/04/23/8e9ab7cc-0eb1-4292-bf5c-ea331195aad6 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Al Ansar  need fixing not live
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chalansar/2012/01/23/843ac146-dc55-4708-81ec-2aab01ea31af swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Nosra Tv need fixing not live
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chalnosratv/2008/08/20/7180a0c4-1385-43ad-b7f9-66ab01dbc126 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",ElBaraa  need fixing not live
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chelbaraa/2008/10/26/8486796003770443326 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Khaled Rashid  need fixing not live
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv07/mogulus-user-files/chkhaledalrashed/2010/02/09/13e9b0eb-9b82-4216-afe0-21627d620e57 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+#EXTINF:-1 group-title="Islamic",Islam Fajr  need fixing not live
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chislamfajr/2010/06/17/091fdafa-273c-4f01-95ba-e819aa50ec70 swfUrl=http://www.cdn.livestream.com/chromelessPlayer/v20/playerapi.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+
+
+
 
 #EXTINF:-1 group-title="Drama",Melody Drama 
 http://38.96.148.24/MelodyDrama/MDrama_576p/playlist.m3u8
@@ -193,3 +236,14 @@ rtmp://38.96.148.206/Melody/MAflamWeb
 rtmp://38.96.148.206/Melody/MClassicWeb
 #EXTINF:-1 group-title="Drama-2",Al-Nahar Drama 
 rtmp://50.7.180.18/nahar1/alnahardrama.stream_720p app=nahar1 playPath=alnahardrama.stream_720p pageUrl=http://demos.streamtrix.com/alnahardrama/ swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf
+
+
+#EXTINF:-1 group-title="Music",melody Arabia
+rtmp://38.96.148.206/Melody/MArabiaWeb
+#EXTINF:-1 group-title="Music",melody hits
+rtmp://38.96.148.206/Melody/MHitsWeb
+
+#EXTINF:-1 group-title="Music-2",Melody Hits 
+rtmp://38.96.148.24/MelodyHits/MHits_576p 
+#EXTINF:-1 group-title="Music-2",Melody Arabia 
+rtmp://38.96.148.24/MelodyArabia playpath=MArabia_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/24 live=1 timeout=15 
