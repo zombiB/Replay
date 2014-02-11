@@ -77,3 +77,89 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 rtsp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_1000k_1/1000k_1
 #EXTINF:-1 group-title="News-3",AlManar Tv
 rtsp://live.almanar.com.lb/live
+
+
+#EXTINF:-1 group-title="General",DUBAI TV
+rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_1/ playpath=dmilivedubaitv_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="General",Al alamia
+rtmp://ns8.indexforce.com/alalamia/alalamia
+#EXTINF:-1 group-title="General",ALfayhaa TV 
+mmsh://77.67.107.89/al-fayhaa
+#EXTINF:-1 group-title="General",CBC Arabic
+http://iphone-streaming.ustream.tv/uhls/8707800/streams/live/iphone/hasbahca.m3u8
+#EXTINF:-1 group-title="General",MTV Lubnan
+rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p
+#EXTINF:-1 group-title="General",MBC 
+rtmp://206.190.138.68/live playpath=fregregerg?id=181857 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf live=true timeout=15 pageUrl=http://mips.tv/embedplayer/fregregerg/1/600/380
+#EXTINF:-1 group-title="General",Al-Nahar  
+rtmp://50.7.180.18/nahar1/nahar1.stream_480p
+#EXTINF:-1 group-title="General",Aljadeed 
+http://origin.etacdn.com/jadeedlive/smil:live.smil/chunklist_w1449481831_b525000.m3u8?nimblesessionid=124
+#EXTINF:-1 group-title="General",Alrai
+mms://62.215.216.130/wmtencoder/alrai350.wmv
+#EXTINF:-1 group-title="General",Tunisia 1 
+rtmp://94.32.97.12/satchannel1 playpath=tvtunisi.stream swfUrl=http://video.tiscali.it/inc/TiscaliVideo.swf?v=hghpl]&vURL=http://video.tiscali.it/asx/73878.asx&autoplay=1& live=1 pageUrl=http://tnmedias.perso.sfr.fr/tv7.html
+#EXTINF:-1 group-title="General",LBC Lebanon  
+rtmp://livestreaming.itworkscdn.net/lbclive/ playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf pageUrl=http://www.lbcgroup.tv/watch-lbci-live swfVfy=true live=true timeout=60
+#EXTINF:-1 group-title="General",NBN Lebanon  
+rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&autostart=true&%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15
+#EXTINF:-1 group-title="General",Kuwait TV CH.1 
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch1.sdp
+#EXTINF:-1 group-title="General",KTV 2
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp
+#EXTINF:-1 group-title="General",KTV ARABE
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch5.sdp
+#EXTINF:-1 group-title="General",KTV ETRAA
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch4.sdp
+#EXTINF:-1 group-title="General",KTV PLUS
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch6.sdp
+#EXTINF:-1 group-title="General",Alsharqiah
+rtmp://ns8.indexforce.com/home/mystream
+#EXTINF:-1 group-title="General",SAMA DUBAI 
+rtmp://wms03.endavomedia.com:1935/dmi/ playpath=dmilivesamadubai_bb.stream swfUrl=http://www.elahmad.com/tv/swf/samadubai.swf pageUrl=http://www.elahmad.com/tv/samadubai.htm swfVfy=true live=true 
+#EXTINF:-1 group-title="General",Time 
+http://4.31.30.145:9062/
+#EXTINF:-1 group-title="General",Egy 1
+http://4.31.30.145:9084/
+#EXTINF:-1 group-title="General",PALESTINE TODAY
+rtmp://176.9.146.151/live/paltv/tv
+#EXTINF:-1 group-title="General",IRAQIA 
+mms://212.7.196.74/iraqia
+#EXTINF:-1 group-title="General",BAHRAIN TV
+rtmp://155.obj.netromedia.net/alayam/alayam
+#EXTINF:-1 group-title="General",ALTAGHEER TV
+http://stream.joinvisions.net:1935/taglive/taghier/playlist.m3u8
+#EXTINF:-1 group-title="General",AL RASHEED 
+mmsh://77.67.107.89/alrasheedtv?MSWMExt=.asf
+#EXTINF:-1 group-title="General",AL AAN
+http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/index_99_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="General",AL MASAR 
+rtmp://msr1tv.flashmediacast.com:2071/live/livestream
+#EXTINF:-1 group-title="General",Future TV (elahmad source)
+rtmp://livestreaming2.itworkscdn.net/ftvlive/ playpath=ftvlive swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf pageUrl=http://itworks-me.net/ftvent/index.html timeout=15 live=1 swfvfy=1
+#EXTINF:-1 group-title="General",Sama Syria 
+rtmp://sama-tv.net/live playpath=samatv swfUrl=http://www.addounia.tv/live/player.swf live=true timeout=15 pageUrl=http://www.addounia.tv/index.php?page=live</link>  
+#EXTINF:-1 group-title="General",CBC Tv 
+http://iphone-streaming.ustream.tv/ustreamVideo/8707800/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="General",CBC +2 
+http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/playlist.m3u8</link>  
+#EXTINF:-1 group-title="General",Sama Dubai 
+rtsp://wms03.endavomedia.com:1935/dmi/_definst_/dmilivesamadubai_bb.stream</link>   
+
+#EXTINF:-1 group-title="General-2",Dubai 
+rtsp://wms03.endavomedia.com:1935/dmi/_definst_/dmilivedubaitv_bb.stream
+#EXTINF:-1 group-title="General-2",AL RAi
+http://www.elahmad.com/tv/alraitv.asx
+#EXTINF:-1 group-title="General-2",tunisie 1
+mms://vipmms.yacast.net/nationale1
+#EXTINF:-1 group-title="General-2",Mtv Lebanon 
+rtmp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p app=mtvlive playPath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/600/400 swfVfy=true live=true timeout=10
+#EXTINF:-1 group-title="General-2",Sama Dubai 
+rtmp://dmiLiveSamaDubai.flash.internapcdn.net/ app=dmiLiveSamaDubai/live_1 playpath=dmilivesamadubai_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=samadubai</link>  
+
+
+
+#EXTINF:-1 group-title="General-3",Mtv Lebanon 
+rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/654/451 live=1 swfVfy=1 timeout=15 
+#EXTINF:-1 group-title="General-3",Dubai 
+rtmp://dmiLiveDubaiTV.flash.internapcdn.net/ app=dmiLiveDubaiTV/live_1 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv 
