@@ -247,3 +247,6 @@ rtmp://38.96.148.206/Melody/MHitsWeb
 rtmp://38.96.148.24/MelodyHits/MHits_576p 
 #EXTINF:-1 group-title="Music-2",Melody Arabia 
 rtmp://38.96.148.24/MelodyArabia playpath=MArabia_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/24 live=1 timeout=15 
+
+#EXTINF:-1 group-title="Kitchen",Fatafeat 
+http://212.179.77.42/live/livestream3/gmswf.m3u8
