@@ -118,6 +118,8 @@ http://4.31.30.145:9084/
 rtmp://176.9.146.151/live/paltv/tv
 #EXTINF:-1 group-title="General",IRAQIA 
 mms://212.7.196.74/iraqia
+#EXTINF:-1 group-title="General",Maghreb 24 TV 
+rtmp://maghreb24.tv:1935/view/8_155/ playpath=stream8 swfUrl=http://www.maghreb24.tv/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.17 pageUrl=http://www.maghreb24.tv/embed?scheme=embedChannel&channelId=8&showChat=0&pwidth=670&pheight=450&autoplay=yes
 #EXTINF:-1 group-title="General",BAHRAIN TV
 rtmp://155.obj.netromedia.net/alayam/alayam
 #EXTINF:-1 group-title="General",ALTAGHEER TV
