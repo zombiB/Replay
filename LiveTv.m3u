@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="SPORTS",Bein 4
+rtmpe://93.120.27.86/live playpath=jsc04 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc04&vw=550&vh=400
+#EXTINF:-1 group-title="SPORTS",BEIN 2 France 
+rtmp://37.187.31.197:80/liverepeater/137529 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/streamn.php?id=137529&width=650&height=420 token=Fo5_n0w?U.rA6l3-70w47ch timeout=30
+#EXTINF:-1 group-title="SPORTS",BAHRAIN SPORTS  
+rtmp://alayam.netromedia.net/btv3/btv3
+#EXTINF:-1 group-title="SPORTS",Nile Sport 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
+#EXTINF:-1 group-title="SPORTS",KTV SPORT
+rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp
+#EXTINF:-1 group-title="SPORTS",Sky Sports 2 HD
+rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 2 UK
+rtmp://31.220.0.82:1935/live/ss2x pageUrl=http://www.eucast.tv/ timeout=15
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 3 UK
+rtmp://31.220.0.134:1935/live/ss3x pageUrl=http://www.eucast.tv/ timeout=15
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 4 UK
+rtmp://31.220.0.133:1935/live/ss4x pageUrl=http://www.eucast.tv/ timeout=15
+#EXTINF:-1 group-title="SPORTS",Sky Sports 3 HD
+rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 3 UK
+rtmp://31.220.0.134:1935/live/ss3x pageUrl=http://www.eucast.tv/
+#EXTINF:-1 group-title="SPORTS",SKY SPORT 4 UK
+rtmp://31.220.0.133:1935/live/ss4x pageUrl=http://www.eucast.tv/
+#EXTINF:-1 group-title="SPORTS",EUROSPORT
+http://cds-sr1.vmo5.sbb.rs/live/disk/test2/multi/multi-audio101_srp=64000-video=2400000.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORTS
+rtmp://46.246.29.138:1935/stream/ playpath=0D1cF7GNSf.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=btn
+#EXTINF:-1 group-title="SPORTS",ESPN 
+rtmp://server3.ppvmania.tv:1935/live playpath=channel6 swfUrl=http://hqzone.tv/strobe/StrobeMediaPlayback.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=8 live=true timeout=10
+
 #EXTINF:-1 group-title="News",Al jazeera Arabic  
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_ara_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm swfVfy=true live=true timeout=60
 #EXTINF:-1 group-title="News",Al jazeera Mobasher  
