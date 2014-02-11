@@ -144,8 +144,6 @@ rtmp://dmiLiveSamaDubai.flash.internapcdn.net/ app=dmiLiveSamaDubai/live_1 playp
 
 #EXTINF:-1 group-title="General-2",Dubai 
 rtsp://wms03.endavomedia.com:1935/dmi/_definst_/dmilivedubaitv_bb.stream
-#EXTINF:-1 group-title="General-2",AL RAi
-http://www.elahmad.com/tv/alraitv.asx
 #EXTINF:-1 group-title="General-2",tunisie 1
 mms://vipmms.yacast.net/nationale1
 #EXTINF:-1 group-title="General-2",Mtv Lebanon 
@@ -158,3 +156,40 @@ http://iphone-streaming.ustream.tv/uhls/8707800/streams/live/iphone/hasbahca.m3u
 rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://mtv.com.lb/Player/451/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/654/451 live=1 swfVfy=1 timeout=15 
 #EXTINF:-1 group-title="General-3",Dubai 
 rtmp://dmiLiveDubaiTV.flash.internapcdn.net/ app=dmiLiveDubaiTV/live_1 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv 
+
+
+#EXTINF:-1 group-title="Drama",Melody Drama 
+http://38.96.148.24/MelodyDrama/MDrama_576p/playlist.m3u8
+#EXTINF:-1 group-title="Drama",Al-Nahar Drama  
+rtmp://50.7.180.18/nahar1/alnahardrama.stream_480p  
+#EXTINF:-1 group-title="Drama",Melody Aflam 
+rtmp://38.96.148.24/MelodyAflam playpath=MAflam_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.melody.net/pages/view/id/1 live=1 timeout=15
+#EXTINF:-1 group-title="Drama",Melody Classic 
+rtmp://38.96.148.24/MelodyClassic playpath=MClassic_576p swfUrl=http://www.melody.net/flowplayer/flowplayer.commercial-3.2.16.swf live=1 pageUrl=http://www.melody.net/halilou.com live=1 timeout=15 
+#EXTINF:-1 group-title="Drama",Nile Cinema   
+rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
+#EXTINF:-1 group-title="Drama",Nile Comedy 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=60
+#EXTINF:-1 group-title="Drama",Nile Family 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family
+#EXTINF:-1 group-title="Drama",Nile Life 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
+#EXTINF:-1 group-title="Drama",Nile Drama 
+rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1
+#EXTINF:-1 group-title="Drama",Alhayat Cinema
+http://4.31.30.145:9067/
+#EXTINF:-1 group-title="Drama",Panorama film 
+http://4.31.30.145:9075/
+#EXTINF:-1 group-title="Drama",I Film 
+mms://93.190.24.114/ifilmtv
+
+
+
+#EXTINF:-1 group-title="Drama-2",melody Drama
+rtmp://38.96.148.206/Melody/MDramaWeb
+#EXTINF:-1 group-title="Drama-2",melody aflam
+rtmp://38.96.148.206/Melody/MAflamWeb
+#EXTINF:-1 group-title="Drama-2",melody classic
+rtmp://38.96.148.206/Melody/MClassicWeb
+#EXTINF:-1 group-title="Drama-2",Al-Nahar Drama 
+rtmp://50.7.180.18/nahar1/alnahardrama.stream_720p app=nahar1 playPath=alnahardrama.stream_720p pageUrl=http://demos.streamtrix.com/alnahardrama/ swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf
