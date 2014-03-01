@@ -3,14 +3,14 @@
 <item>
 <title>Arsenal - Liverpool FC </title>
 <link>
-<sublink>http://iphone-streaming.ustream.tv/ustreamCdn/17351568/streams/live/iphone/hasbahca.m3u8</sublink>
+<sublink>http://iphone-streaming.ustream.tv/ustreamCdn/17366969/streams/live/iphone/hasbahca.m3u8</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/layout/meganavLogos/Premier_League_logo.png</thumbnail>
 </item>
 <item>
 <title>getafe vs r.madrid</title>
 <link>
-<sublink>http://www.youtube.com/watch?v=Dth2M0xjkVg</sublink>
+<sublink>rtmp://ustreamlivefs.fplive.net/ustream4live-live//stream_live_1_1_17366969</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/layout/meganavLogos/La_Liga_logo.png</thumbnail>
 </item>
@@ -18,7 +18,7 @@
 <title>Everton - Swansea City</title>
 <link>
 <sublink>http://www.youtube.com/watch?v=-7QF9RH5MMU</sublink>
-<sublink>http://iphone-streaming.ustream.tv/uhls/17207260/streams/live/iphone/hasbahca.m3u8</sublink>
+<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17366969/streams/live/playlist.m3u8</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/layout/meganavLogos/Premier_League_logo.png</thumbnail>
 </item>
