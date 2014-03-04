@@ -4,7 +4,6 @@
 <title>(Fake BeIn Sports)  Selimania Tv/ElFajer tv</title>
 <link>
 <sublink>http://68.168.103.176:1936/live2/_definst_/myStream/playlist.m3u8?wowzasessionid=1143784246</sublink>
-<sublink>http://www.youtube.com/watch?v=cko6HDOkDIk</sublink>
 </link>
 <thumbnail>http://us.cdn1.123rf.com/168nwm/quka/quka1306/quka130600048/20135591-road-sign-yellow-with-word-fake-on-blue-sky-background.jpg</thumbnail>
 </item>
@@ -12,9 +11,7 @@
 <item>
 <title>BeIN Sports 1</title>
 <link>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST1/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://93.120.27.86/live playpath=jsc01 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc01&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel01.png</thumbnail> 
 </item>
@@ -22,9 +19,7 @@
 <item>
 <title>BeIN Sports 2</title>
 <link>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST2/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://93.120.27.86/live playpath=jsc02 swfUrl=http://www.dcast.tv/player/player.swf live=1pageUrl=http://www.dcast.tv/embed.php?u=jsc02&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link> 
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel02.png</thumbnail> 
 </item>
@@ -32,9 +27,7 @@
 <item>
 <title>BeIN Sports 3</title> 
 <link>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST3/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://93.120.27.86/live playpath=jsc03 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc03&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel03.png</thumbnail> 
 </item>
@@ -42,9 +35,7 @@
 <item>
 <title>BeIN Sports 4</title> 
 <link>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST4/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://93.120.27.86/live playpath=jsc04 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc04&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel04.png</thumbnail> 
 </item>
@@ -52,9 +43,7 @@
 <item>
 <title>BeIN Sports 5</title> 
 <link>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST5/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST5/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel05.png</thumbnail> 
 </item>
@@ -62,9 +51,7 @@
 <item>
 <title>BeIN Sports 6</title> 
 <link>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST6/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://93.120.27.86/live playpath=jsc06 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc06&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel06.png</thumbnail> 
 </item>
@@ -72,9 +59,7 @@
 <item>
 <title>BeIN Sports 7</title> 
 <link>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST7/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://93.120.27.86/live playpath=jsc07 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc07&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel07.png</thumbnail> 
 </item>
@@ -82,8 +67,7 @@
 <item>
 <title>BeIN Sports 8</title> 
 <link>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST8/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://93.120.27.86/live playpath=jsc08 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=jsc08&vw=550&vh=400 swfVfy=true live=true timeout=10</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel08.png</thumbnail> 
 </item>
@@ -91,8 +75,7 @@
 <item>
 <title>BeIN Sports 9</title> 
 <link>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST9/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel09.png</thumbnail> 
 </item>
@@ -100,11 +83,7 @@
 <item>
 <title>BeIN Sports 10</title> 
 <link>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST10/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel10.png</thumbnail> 
 </item>
@@ -112,8 +91,7 @@
 <item>
 <title>BeIN Sports 11</title> 
 <link>
-<sublink>http://5.254.106.171/live3/stream.m3u8</sublink>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST11/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST11 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel11.png</thumbnail> 
 </item>
@@ -121,8 +99,7 @@
 <item>
 <title>BeIN Sports 12</title> 
 <link>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST12/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel12.png</thumbnail> 
 </item>
@@ -130,11 +107,7 @@
 <item>
 <title>BeIN Sports 13</title> 
 <link>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST13/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel13.png</thumbnail> 
 </item>
@@ -142,11 +115,7 @@
 <item>
 <title>BeIN Sports 14</title> 
 <link>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST14/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel14.png</thumbnail> 
 </item>
@@ -154,26 +123,13 @@
 <item>
 <title>BeIN Sports 15</title> 
 <link>
-<sublink>rtmpe://46.246.124.15:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmpe://46.246.124.23:1935/redirect/BST15/ swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel15.png</thumbnail> 
 </item>
 
 
-<item>
-<title>Sky Sports 3 HD</title>
-<link>rtmp://31.220.0.82:1935/live/ss2x pageUrl=http://www.eucast.tv/</link>
-<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySports3HD.png_1961929752.png</thumbnail>
-</item>
 
-<item>
-<title>Sky Sports 4 HD</title>
-<link>rtmp://31.220.0.133:1935/live/ss4x pageUrl=http://www.eucast.tv/</link>
-<thumbnail>http://www.livefootball247.com/wp-content/uploads/sky_uk_sports41.png</thumbnail>
-</item>
 
 <item>
 <title>Eurosoprt HD british</title>
