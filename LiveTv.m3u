@@ -241,8 +241,6 @@ http://4.31.30.145:9067/
 http://4.31.30.145:9075/
 #EXTINF:-1 group-title="Drama",I Film 
 mms://93.190.24.114/ifilmtv
-#EXTINF:-1 group-title="Drama",MBC Bollywood 
-rtmp://206.190.129.12/live playpath=aflam4youddd?id=152675 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 conn=S:OK --live
 #EXTINF:-1 group-title="Drama",Al-Nahar Drama 
 rtmp://50.7.180.18/nahar1/alnahardrama.stream_720p app=nahar1 playPath=alnahardrama.stream_720p pageUrl=http://demos.streamtrix.com/alnahardrama/ swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf
 
@@ -294,10 +292,6 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazee
 http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
 #EXTINF:-1 group-title="French",D8
 http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/01.m3u8
-#EXTINF:-1 group-title="French",D8 
-http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
-#EXTINF:-1 group-title="French",NRJ 12
-rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp
 #EXTINF:-1 group-title="French",D17
 http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
 #EXTINF:-1 group-title="French",France 24 FR
@@ -316,36 +310,12 @@ mmsh://wm.live.tv-radio.com/bouygues/all/channel3.wmv?MSWMExt=.asf
 mmsh://wm.live.tv-radio.com/bouygues/all/channel4.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",arte
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8                                         
-#EXTINF:-1 group-title="French",BFM TV
-mmsh://wm.live.tv-radio.com/bouygues/all/channel10.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",BFMTV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
-#EXTINF:-1 group-title="French",Canal savoir 
-mms://stream2.canal.qc.ca/enOndes_haut_debit
-#EXTINF:-1 group-title="French",CANAL+ PLUS
-rtmp://live-fms.canalplus.fr/live/canalplusclair_1500@42246 timeout=25
-#EXTINF:-1 group-title="French",CCTV F
-http://88.212.11.206:5000/live/20/20.m3u8
-#EXTINF:-1 group-title="French",CELA TV
-rtmpt://celatvlivefs.fplive.net:80/celatvlive-live/cela
 #EXTINF:-1 group-title="French",CLUBBING TV
 rtmp://204.107.26.252:8086/live/691.high.stream
 #EXTINF:-1 group-title="French",EURONEWS FR
 http://hd1.lsops.net/live/euronews_fr_340/.m3u8
 
-#EXTINF:-1 group-title="French",LCI TF 1
-rtmp://cp84002.live.edgefcs.net/live/eTF1-LCI-Flash-Int@15274
-
-
 #EXTINF:-1 group-title="French",TV 5 MONDE
 http://rm-edge-3.cdn2.streamago.tv/streamagoedge/1924/817/playlist.m3u8
-
-#EXTINF:-1 group-title="French",ZAHRA mms
-mms://live240.impek.com/zahra
-
-#EXTINF:-1 group-title="French",RADIO 105 TV
-rtmp://fms.105.net:1935/live/105Test1
-#EXTINF:-1 group-title="French",RADIO MONTE CARLO TV
-rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:-1 group-title="French",RADIO VIRGIN TV
-rtmp://fms.105.net:1935/live/virgin1
