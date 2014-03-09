@@ -19,8 +19,6 @@
 <title>BeIN Sports 1</title>
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/24.ch?u=dummy%3Ap%3D1234</sublink>
-</link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel01.png</thumbnail> 
 </item>
 
@@ -28,7 +26,6 @@
 <title>BeIN Sports 2</title>
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/25.ch?u=dummy%3Ap%3D1234</sublink>
 </link> 
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel02.png</thumbnail> 
 </item>
@@ -37,7 +34,6 @@
 <title>BeIN Sports 3</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/26.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel03.png</thumbnail> 
 </item>
@@ -46,7 +42,6 @@
 <title>BeIN Sports 4</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/27.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel04.png</thumbnail> 
 </item>
@@ -55,7 +50,6 @@
 <title>BeIN Sports 5</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/28.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel05.png</thumbnail> 
 </item>
@@ -64,7 +58,6 @@
 <title>BeIN Sports 6</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/29.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel06.png</thumbnail> 
 </item>
@@ -73,7 +66,6 @@
 <title>BeIN Sports 7</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/30.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel07.png</thumbnail> 
 </item>
@@ -82,7 +74,6 @@
 <title>BeIN Sports 8</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/31.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel08.png</thumbnail> 
 </item>
@@ -91,7 +82,6 @@
 <title>BeIN Sports 9</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/32.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel09.png</thumbnail> 
 </item>
@@ -100,7 +90,6 @@
 <title>BeIN Sports 10</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/33.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel10.png</thumbnail> 
 </item>
@@ -141,7 +130,6 @@
 <title>BeIN Sports 15</title> 
 <link>
 <sublink>rtmpe://46.246.124.7:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>http://178.63.101.141:8000/34.ch?u=dummy%3Ap%3D1234</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel15.png</thumbnail> 
 </item>
