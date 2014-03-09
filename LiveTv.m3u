@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="SPORTS",BEIN Sports News
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8
 #EXTINF:-1 group-title="SPORTS",BEIN 01
 rtmpe://46.246.124.7:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1 group-title="SPORTS",BEIN 02
