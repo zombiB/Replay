@@ -1,14 +1,5 @@
 <items>
-<item>
-<title>Manchester City - Wigan</title>
-<link>
-<sublink>http://iphone-streaming.ustream.tv/ustreamCdn/17406487/streams/live/iphone/hasbahca.m3u8</sublink>
-<sublink>http://iphone-streaming.ustream.tv/uhls/17427962/streams/live/iphone/hasbahca.m3u8</sublink>
-<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17406487/streams/live/playlist.m3u8</sublink>
-<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17427962/streams/live/playlist.m3u8</sublink>
-</link>
-<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/layout/meganavLogos/Premier_League_logo.png</thumbnail>
-</item>
+
 <item>
 <title>(Fake BeIn Sports)  Selimania Tv/ElFajer tv</title>
 <link>
@@ -24,6 +15,7 @@
 </link>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQU5ZFEn17l4_hXvj8JuUBhuY9BvTkKh_lLzrGnfMfi5TR4_YHNCw</thumbnail>
 </item>
+
 <item>
 <title>BeIN Sports 1</title>
 <link>
