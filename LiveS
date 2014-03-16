@@ -1,5 +1,21 @@
 <items>
 
+
+<item>
+<title>Live Streaming Multilink</title>
+<link>
+<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17487832/streams/live/playlist.m3u8</sublink>
+<sublink>http://62.63.207.51:4242/udp/239.193.48.17:3301?auth=yes?</sublink>
+<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/16797677/streams/live/playlist.m3u8</sublink>
+<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/16797583/streams/live/playlist.m3u8</sublink>
+<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17463710/streams/live/playlist.m3u8</sublink>
+<sublink>rtmp://199.195.194.28/live/dffyhdhcfgdsg?id=196617</sublink>
+<sublink>rtmp://93.120.27.26:5587/loadbalance/nidaltv2</sublink>
+
+</link>
+<thumbnail>http://childrenofadam.us/wp-content/uploads/2013/07/free_desktop_wallpaper_logo_live_streaming_1024x768.gif</thumbnail>
+</item>
+
 <item>
 <title>(Fake BeIn Sports)  Selimania Tv/ElFajer tv</title>
 <link>
