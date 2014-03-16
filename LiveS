@@ -43,10 +43,10 @@
 </item>
 
 <item>
-<title>BeIN Sports 2</title>
+<title>BeIN Sports 2</title> 
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-</link> 
+</link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel02.png</thumbnail> 
 </item>
 
