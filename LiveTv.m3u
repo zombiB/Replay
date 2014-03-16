@@ -2,36 +2,53 @@
 
 #EXTINF:-1 group-title="SPORTS",BEIN Sports News
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8
-#EXTINF:-1 group-title="SPORTS",BEIN 01
-rtmpe://46.246.124.7:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 02
-rtmpe://46.246.124.7:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 03
-rtmpe://46.246.124.7:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 04
-rtmpe://46.246.124.7:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 05
-rtmpe://46.246.124.7:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 06
-rtmpe://46.246.124.7:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 07
-rtmpe://46.246.124.7:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 08
-rtmpe://46.246.124.7:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 09
-rtmpe://46.246.124.7:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 10
-rtmpe://46.246.124.7:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 11
-rtmpe://46.246.124.7:1935/redirect playpath=BST11 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 12
-rtmpe://46.246.124.7:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 13
-rtmpe://46.246.124.7:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 14
-rtmpe://46.246.124.7:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1 group-title="SPORTS",BEIN 15
-rtmpe://46.246.124.7:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 1 
+rtmpe://46.246.124.38:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 2 
+rtmpe://46.246.124.38:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 3 
+rtmpe://46.246.124.38:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 4 
+rtmpe://46.246.124.38:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 5 
+rtmpe://46.246.124.38:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 6 
+rtmpe://46.246.124.38:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 7 
+rtmpe://46.246.124.38:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 8 
+rtmpe://46.246.124.38:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 9 
+rtmpe://46.246.124.13:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 10 
+rtmpe://46.246.124.13:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 11 
+rtmpe://46.246.124.13:1935/redirect playpath=BST11 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 12 
+rtmpe://46.246.124.13:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 13 
+rtmpe://46.246.124.13:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 14 
+rtmpe://46.246.124.13:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORT 15 
+rtmpe://46.246.124.13:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
+
+
 
 #EXTINF:-1 group-title="SPORTS",BAHRAIN SPORTS  
 rtmp://alayam.netromedia.net/btv3/btv3
