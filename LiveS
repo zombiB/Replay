@@ -4,6 +4,7 @@
 <item>
 <title>Live Streaming Multilink</title>
 <link>
+<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17641165/streams/live/playlist.m3u8</sublink>
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17498069/streams/live/playlist.m3u8</sublink>
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17562266/streams/live/playlist.m3u8</sublink>
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17515171/streams/live?v=3/playlist.m3u8</sublink>
@@ -12,7 +13,7 @@
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17515171/streams/live/playlist.m3u8</sublink>
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17547220/streams/live/playlist.m3u8</sublink>
 <sublink>http://iphone-streaming.ustream.tv/uhls/17378476/streams/live/iphone/playlist.m3u8</sublink>
-<sublink>http://www.youtube.com/93fybAzKhGQ</sublink>
+<sublink>http://www.youtube.com/watch?v=Dz_BiIaO68E</sublink>
 <sublink>http://www.youtube.com/watch?v=93fybAzKhGQ</sublink>
 </link>
 <thumbnail>http://childrenofadam.us/wp-content/uploads/2013/07/free_desktop_wallpaper_logo_live_streaming_1024x768.gif</thumbnail>
@@ -164,7 +165,12 @@
 <link>rtmpe://46.246.124.28:1935/redirect playpath=EURO1HD swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1_ratus pageUrl=http://www.hdcast.org/</link>
 <thumbnail>http://i294.photobucket.com/albums/mm104/fouad796/Arabic%20logo/Eurosport_2_HD_zps75e191f4.png</thumbnail>
 </item>
-
+<item>
+<title>follow me on twitter @zombixbmc</title>
+<link>
+</link>
+<thumbnail>http://icons.iconarchive.com/icons/graphics-vibe/simple-rounded-social/256/twitter-icon.png</thumbnail>
+</item>
 
 
 </items>
