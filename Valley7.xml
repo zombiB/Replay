@@ -1,10 +1,16 @@
-<?xml version="1.0" ?> 
-<items>
+<poster>[COLOR coral]Charlie Chan Collection[/COLOR]</poster>
+<fanart>http://i73.photobucket.com/albums/i211/Dukman777/CharlieChansSecret1936_zps46f7220c.jpg</fanart>
 
-<?xml version="1.0" ?> 
-<items>
+<info>
+<message>[COLOR cornsilk]- - - - - - Watch for more - - - - - -[/COLOR]</message>
+</info>
+<info>
+<message> [COLOR lime]Confusius say......[/COLOR] </message>
+</info>
 
+#ITEM1
 <item>
+
 <title>House Of Cards</title>
 <link>
 <sublink>http://bayfiles.net/...lechargement.com.mkv</sublink>
@@ -18,8 +24,10 @@
 <sublink></sublink>
 </link>
 <thumbnail>http://img547.imageshack.us/img547/1841/fwpx.jpg</thumbnail>
-</item>
+
+#ITEM2
 <item>
+
 <title>Bonusا</title>
 <link>
 <sublink>http://exashare.com/embed-ads14ycoo95o.html</sublink>
@@ -28,5 +36,4 @@
 <sublink>http://exashare.com/embed-ads14ycoo95o-640x380.html</sublink>
 </link>
 <thumbnail>http://img203.imageshack.us/img203/1148/tvg7.jpg</thumbnail>
-</item>
-</items>
+
