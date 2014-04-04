@@ -77,6 +77,7 @@
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_5</sublink>
+<sublink>rtmpe://94.242.228.24:443/liveedge/bein57083 pageUrl=http://zingo.tv/hpgdisco</sublink>
 
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel05.png</thumbnail> 
@@ -87,6 +88,7 @@
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_6</sublink>
+<sublink>rtmpe://94.242.228.36:443/liveedge/bein67017 pageUrl=http://zingo.tv/hpgdisco</sublink>
 
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel06.png</thumbnail> 
@@ -97,6 +99,7 @@
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_7</sublink>
+<sublink>rtmpe://94.242.228.36:443/liveedge/bein76269 pageUrl=http://zingo.tv/hpgdisco</sublink>
 
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel07.png</thumbnail> 
@@ -107,6 +110,7 @@
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
 <sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_8</sublink>
+<sublink>rtmpe://94.242.228.36:443/liveedge/bein88452 pageUrl=http://zingo.tv/hpgdisco</sublink>
 
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel08.png</thumbnail> 
