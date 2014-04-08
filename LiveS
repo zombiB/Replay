@@ -11,8 +11,8 @@
 <title>Live Streaming Multilink</title>
 <link>
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17710417/streams/best/playlist.m3u8</sublink>
-<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17710321/streams/best/playlist.m3u8</sublink>
-<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17710245/streams/480p/playlist.m3u8</sublink>
+<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17710321/streams/live?v=1/best.m3u8</sublink>
+<sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17710245/streams/live?v=1/best.m3u8</sublink>
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17710463/streams/best/playlist.m3u8</sublink>
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17674044/streams/best/playlist.m3u8</sublink>
 <sublink>http://iphone-streaming.ustream.tv/ustreamVideo/17547109/streams/live?v=720p/playlist.m3u8</sublink>
