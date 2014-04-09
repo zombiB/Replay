@@ -47,7 +47,7 @@
 <title>BeIN Sports 1 HD</title> 
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_1</sublink>
+<sublink>http://cms.prosatiptv.com/getChannel?channelId=09&amp;sn=12576902&amp;byPass=987</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel01.png</thumbnail> 
 </item>
@@ -57,7 +57,7 @@
 <link>
 
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_2</sublink>
+<sublink>http://cms.prosatiptv.com/getChannel?channelId=10&amp;sn=12576902&amp;byPass=987</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel02.png</thumbnail> 
 </item>
@@ -66,7 +66,7 @@
 <title>BeIN Sports 3</title> 
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_3</sublink>
+<sublink>http://cms.prosatiptv.com/getChannel?channelId=11&amp;sn=12576902&amp;byPass=987</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel03.png</thumbnail> 
 </item>
@@ -75,7 +75,7 @@
 <title>BeIN Sports 4</title> 
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_4</sublink>
+<sublink>http://cms.prosatiptv.com/getChannel?channelId=12&amp;sn=12576902&amp;byPass=987</sublink>
 </link>
 <thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel04.png</thumbnail> 
 </item>
@@ -84,7 +84,7 @@
 <title>BeIN Sports 5</title> 
 <link>
 <sublink>rtmpe://46.246.124.38:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</sublink>
-<sublink>rtmp://5.135.134.110:1935/teledunet?idu=flash_010420141749fa/bein_sport_5</sublink>
+<sublink>http://cms.prosatiptv.com/getChannel?channelId=13&amp;sn=12576902&amp;byPass=987</sublink>
 <sublink>rtmpe://94.242.228.24:443/liveedge/bein57083 pageUrl=http://zingo.tv/hpgdisco</sublink>
 
 </link>
