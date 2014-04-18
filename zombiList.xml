@@ -192,8 +192,9 @@
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/12677236/streams/live?v=720p/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
-	<streaminginfo>
+	
 		<cname>AL EQTESADIA TV</cname>
 		<item>
 			<title>AL EQTESADIA TV</title>
@@ -249,6 +250,7 @@
 			<link>rtmp://87.98.155.194/live playpath=EnnaharTV swfUrl=http://www.ennahartv.net/live/player.swf live=1 pageUrl=http://www.ennahartv.net/ar/live/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>nbn lebanon</cname>
 		<item>
