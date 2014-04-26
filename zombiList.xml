@@ -18,11 +18,6 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>http://iphone-streaming.ustream.tv/ustreamVideo/17737533/streams/live?v=720p/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>Bein Sport 2 2 HQ 2ndserver</title>
@@ -41,6 +36,13 @@
 		<item>
 			<title>Bein Sport 3</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3 youtube</cname>
+		<item>
+	   	<title>Bein Sport 3</title>
+		<link>http://www.youtube.com/watch?v=watxOQJjmyQ</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
