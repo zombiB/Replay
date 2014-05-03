@@ -384,6 +384,15 @@
 			<link>rtsp://38.96.148.75/Quran?MSWMExt=.asf</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Quran TV ksa</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>sunnah TV</cname>
 		<item>
