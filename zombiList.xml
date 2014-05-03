@@ -1,19 +1,17 @@
 <streamingInfos>
 
-
-
-
-	<streaminginfo>
+    <streaminginfo>
 		<cname>Bein Sport News</cname>
 		<item>
 			<title>Bein Sport News</title>
 			<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>Bein Sport 1</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
@@ -21,7 +19,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>Bein Sport 2</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
@@ -29,15 +27,15 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-	   	        <title>Bein Sport 2 work only when games on -ustream</title>
-		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17941240/streams/live/playlist.m3u8</link>
+	   	      <title>@zombixbmc  -ustream</title>
+		      <link>http://iphone-streaming.ustream.tv/ustreamVideo/17941240/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-	   	        <title>Bein Sport 2 work only when games on -ustream</title>
+	   	        <title>@zombixbmc  -ustream</title>
 		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17924213/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
@@ -45,7 +43,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-			<title>Bein Sport 3</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
@@ -53,52 +51,55 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-	   	        <title>Bein Sport 3 work only when games on -ustream</title>
-		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17962160/streams/live/playlist.m3u8</link>
+	   	        <title>@zombixbmc  -ustream</title>
+		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17941240/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
-	
-	
 	
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
-			<title>Bein Sport 4</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
-			<title>Bein Sport 4 2 HQ 2ndserver</title>
+			<title>@zombixbmc </title>
 			<link>http://cms.prosatiptv.com/getChannel?channelId=12&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 5</cname>
 		<item>
-			<title>Bein Sport 5</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 6</cname>
 		<item>
-			<title>Bein Sport 6</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 7</cname>
 		<item>
-			<title>Bein Sport 7</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
 		<item>
-			<title>Bein Sport 8</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
@@ -106,15 +107,15 @@
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
-			<title>Bein Sport 9</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>http://www.ustream.tv/channel/
+	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
-			<title>Bein Sport 9 work only when games on -ustream</title>
+			<title>@zombixbmc -ustream</title>
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17961457/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
@@ -122,45 +123,51 @@
 	<streaminginfo>
 		<cname>Bein Sport 10</cname>
 		<item>
-			<title>Bein Sport 10</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 11</cname>
 		<item>
-			<title>Bein Sport 11</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST11 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 12</cname>
 		<item>
-			<title>Bein Sport 12</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 13</cname>
 		<item>
-			<title>Bein Sport 13</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 14</cname>
 		<item>
-			<title>Bein Sport 14</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 15</cname>
 		<item>
-			<title>Bein Sport 15</title>
+			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>BAHRAIN SPORTS</cname>
 		<item>
@@ -168,6 +175,7 @@
 			<link>rtmp://alayam.netromedia.net/btv3/btv3</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Nile Sport</cname>
 		<item>
@@ -175,6 +183,7 @@
 			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>KTV SPORT</cname>
 		<item>
@@ -182,6 +191,7 @@
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Al Resoul TV</cname>
 		<item>
