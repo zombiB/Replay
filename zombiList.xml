@@ -42,18 +42,12 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-	   	        <title>Bein Sport 3 youtube</title>
+	   	        <title>Bein Sport 3 work only when games on -ustream</title>
 		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17961457/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Bein Sport 3 2 HQ 2ndserver</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17961457/streams/live/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
@@ -97,6 +91,7 @@
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
@@ -104,6 +99,15 @@
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>Bein Sport 9 work only when games on -ustream</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17961457/streams/live/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 10</cname>
 		<item>
