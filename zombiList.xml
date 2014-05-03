@@ -35,6 +35,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+	   	        <title>Bein Sport 2 work only when games on -ustream</title>
+		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17924213/streams/live/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>Bein Sport 3</title>
