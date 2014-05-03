@@ -24,13 +24,15 @@
 			<link>http://cms.prosatiptv.com/getChannel?channelId=10&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>Bein Sport 2 HD 3rd server</title>
-			<link>http://202.75.23.37:8800/live/ch19/03.m3u8</link>
+	   	        <title>Bein Sport 2 work only when games on -ustream</title>
+		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17962160/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
@@ -43,7 +45,7 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 	   	        <title>Bein Sport 3 work only when games on -ustream</title>
-		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17961457/streams/live/playlist.m3u8</link>
+		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17962160/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	
@@ -100,7 +102,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
+	<streaminginfo>http://www.ustream.tv/channel/
 		<cname>Bein Sport 9</cname>
 		<item>
 			<title>Bein Sport 9 work only when games on -ustream</title>
