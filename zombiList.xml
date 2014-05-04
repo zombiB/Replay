@@ -296,14 +296,14 @@
 		<cname>Tunisia national 1</cname>
 		<item>
 			<title>Tunisia national 1</title>
-			<link>rtmp://94.32.97.12/satchannel1 playpath=tvtunisi.stream swfUrl=http://video.tiscali.it/inc/TiscaliVideo.swf?v=hghpl]&amp;vURL=http://video.tiscali.it/asx/73878.asx&amp;autoplay=1&amp; live=1 pageUrl=http://tnmedias.perso.sfr.fr/tv7.html</link>
+			<link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Tunisia national 1</cname>
 		<item>
-			<title>Tunisia national 1 (mms)</title>
-			<link>mms://vipmms.yacast.net/nationale1</link>
+			<title>@zombixbmc</title>
+			<link>http://ca-edge-1.cdn2.streamago.tv:80/streamagoedge/1052/224/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -580,7 +580,7 @@
 		<cname>I-TELE</cname>
 		<item>
 			<title>I-TELE</title>
-			<link>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8</link>
+			<link>http://chkg.tdf-cdn.com/6317/02.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -871,7 +871,7 @@
 		<cname>Nessma</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://matchfree.no-ip.net/test/test/20.ch</link>
+			<link>http://matchfree.no-ip.net/test/test/19.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -879,7 +879,7 @@
 		<cname>Hanibal</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://matchfree.no-ip.net/test/test/21.ch</link>
+			<link>http://matchfree.no-ip.net/test/test/20.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -887,7 +887,7 @@
 		<cname>Al Tunisia</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://matchfree.no-ip.net/test/test/22.ch</link>
+			<link>http://matchfree.no-ip.net/test/test/21.ch</link>
 		</item>
 	</streaminginfo>
 	
