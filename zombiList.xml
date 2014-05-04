@@ -68,7 +68,7 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://www.youtube.com/watch?v=priOG58Se5A</link>
+			<link>plugin://plugin.video.youtube/?play=priOG58Se5A</link>
 		</item>
 	</streaminginfo>
 	
