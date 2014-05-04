@@ -43,8 +43,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-	   	        <title>@zombixbmc  off</title>
-		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17924213/streams/live/playlist.m3u8</link>
+	   	        <title>@zombixbmc  ustream</title>
+		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17976099/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	
@@ -587,7 +587,7 @@
 		<cname>D8</cname>
 		<item>
 			<title>D8</title>
-			<link>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/01.m3u8</link>
+			<link>http://chkg.tdf-cdn.com/6318/02.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -845,25 +845,25 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Art Aflam 2</cname>
+		<cname>ART Cinema</cname>
 		<item>
-			<title>@zombixbmc ARTcinema</title>
+			<title>@zombixbmc </title>
 			<link>http://matchfree.no-ip.net/test/test/16.ch</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Art Aflam 2</cname>
+		<cname>ART hykayet1</cname>
 		<item>
-			<title>@zombixbmc ARThykayet1</title>
+			<title>@zombixbmc </title>
 			<link>http://matchfree.no-ip.net/test/test/17.ch</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Art Aflam 1</cname>
+		<cname>ART hykayet2</cname>
 		<item>
-			<title>@zombixbmc ARThykayet2</title>
+			<title>@zombixbmc </title>
 			<link>http://matchfree.no-ip.net/test/test/18.ch</link>
 		</item>
 	</streaminginfo>
@@ -890,6 +890,63 @@
 			<link>http://matchfree.no-ip.net/test/test/21.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Al Maghribia</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://ca-edge-2.cdn2.streamago.tv:80/streamagoedge/1922/815/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>ALFALASTINIAH</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://46.43.64.166:1935/flv/flv</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Dubai</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MTV</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>AlYawm</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://839156450.e.541833257.r.w6cdn.com/541833257//mp4:freeegeYSbQLHNsFZa</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Canal plus</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/11378037/streams/live/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>2M</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/8312072/streams/live/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
 	
 	
 </streamingInfos>
