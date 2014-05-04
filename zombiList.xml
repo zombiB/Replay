@@ -562,13 +562,7 @@
 			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel5.wmv?MSWMExt=.asf</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
-			<title>FRANCE 2</title>
-			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel1.wmv?MSWMExt=.asf</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
 		<item>
@@ -603,6 +597,31 @@
    </regex>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/2.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://free:free@matchfree1to10.no-ip.net:38000/18.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>FRANCE 2</title>
+			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel1.wmv?MSWMExt=.asf</link>
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>FRANCE 3</cname>
 		<item>
@@ -672,6 +691,7 @@
 			<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
 		<item>
@@ -679,6 +699,7 @@
 			<link>http://rm-edge-3.cdn2.streamago.tv/streamagoedge/1924/817/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
