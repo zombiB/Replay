@@ -17,6 +17,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://31.220.0.82:1935/live playpath=b1r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>@zombixbmc</title>
@@ -27,15 +35,15 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-	   	      <title>@zombixbmc  -ustream</title>
-		      <link>http://iphone-streaming.ustream.tv/ustreamVideo/17941240/streams/live/playlist.m3u8</link>
+	   	      <title>@zombixbmc  </title>
+		      <link>rtmp://31.220.0.134:1935/live playpath=b2r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-	   	        <title>@zombixbmc  -ustream</title>
+	   	        <title>@zombixbmc  off</title>
 		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17924213/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
@@ -51,8 +59,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-	   	        <title>@zombixbmc  -ustream</title>
-		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17941240/streams/live/playlist.m3u8</link>
+	   	        <title>@zombixbmc  </title>
+		        <link>rtmp://31.220.0.134:1935/live playpath=b3r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
 	
@@ -68,7 +76,7 @@
 		<cname>Bein Sport 4</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://cms.prosatiptv.com/getChannel?channelId=12&amp;sn=12576902&amp;byPass=987</link>
+			<link>rtmp://31.220.0.134:1935/live playpath=bb4 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
 	
@@ -81,10 +89,26 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://31.220.0.82:1935/live playpath=b5r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 6</cname>
 		<item>
 			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://31.220.0.134:1935/live playpath=bein altechnoe.comxx6 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
 	
@@ -105,6 +129,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://31.220.0.82:1935/live playpath=b8r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
 			<title>@zombixbmc</title>
@@ -115,8 +147,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
-			<title>@zombixbmc -ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17961457/streams/live/playlist.m3u8</link>
+			<title>@zombixbmc </title>
+			<link>rtmp://31.220.0.82:1935/live playpath=b9r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
 	
@@ -137,10 +169,26 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://31.220.0.82:1935/live playpath=b11r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 12</cname>
 		<item>
 			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://31.220.0.134:1935/live playpath=b12r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
 	
@@ -538,7 +586,7 @@
 		<cname>D17</cname>
 		<item>
 			<title>D17</title>
-			<link>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8</link>
+			<link>http://chkg.tdf-cdn.com/6319/02.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -566,7 +614,7 @@
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
 		<item>
-			<title>FRANCE 2 high filmon</title>
+			<title>@zombixbmc -high filmon</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1717.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
    <regex>
      <name>url</name>
@@ -583,7 +631,7 @@
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
 		<item>
-			<title>FRANCE 2 low filmon</title>
+			<title>@zombixbmc -low filmon</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1717.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
    <regex>
      <name>url</name>
@@ -707,5 +755,133 @@
 			<link>http://matchfree.no-ip.net/test/test/1.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC 1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/6.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC 2</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/7.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC 3</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/8.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC 4</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/9.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Drama</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/10.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Action</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/11.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Bollywood</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/12.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Max</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/13.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Art Aflam 1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/14.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Art Aflam 2</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/15.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Art Aflam 2</cname>
+		<item>
+			<title>@zombixbmc ARTcinema</title>
+			<link>http://matchfree.no-ip.net/test/test/16.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Art Aflam 2</cname>
+		<item>
+			<title>@zombixbmc ARThykayet1</title>
+			<link>http://matchfree.no-ip.net/test/test/17.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Art Aflam 1</cname>
+		<item>
+			<title>@zombixbmc ARThykayet2</title>
+			<link>http://matchfree.no-ip.net/test/test/18.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nessma</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/20.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Hanibal</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/21.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Al Tunisia</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://matchfree.no-ip.net/test/test/22.ch</link>
+		</item>
+	</streaminginfo>
+	
 	
 </streamingInfos>
