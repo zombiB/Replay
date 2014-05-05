@@ -681,10 +681,30 @@
 	<streaminginfo>
 		<cname>FRANCE 3</cname>
 		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1723.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+            <regex>
+             <name>url</name>
+              <expres>rtmp:....([^\\]*)</expres>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=1723</page>
+            </regex>
+            <regex>
+            <name>key</name>
+               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+                 <page>http://www.filmon.com/tv/channel/export?channel_id=1723</page>
+            </regex>
+		</item>
+		
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>FRANCE 3</cname>
+		<item>
 			<title>FRANCE 3</title>
 			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel2.wmv?MSWMExt=.asf</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>FRANCE 4</cname>
 		<item>
@@ -973,6 +993,46 @@
 		</item>
 		
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>2M</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=526.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+            <regex>
+             <name>url</name>
+              <expres>rtmp:....([^\\]*)</expres>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=526</page>
+            </regex>
+            <regex>
+            <name>key</name>
+               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+                 <page>http://www.filmon.com/tv/channel/export?channel_id=526</page>
+            </regex>
+		</item>
+		
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>France 24 FR</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=298.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+            <regex>
+             <name>url</name>
+              <expres>rtmp:....([^\\]*)</expres>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=298</page>
+            </regex>
+            <regex>
+            <name>key</name>
+               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+                 <page>http://www.filmon.com/tv/channel/export?channel_id=298</page>
+            </regex>
+		</item>
+		
+	</streaminginfo>
+	
+	
 	
 	
 	
