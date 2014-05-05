@@ -956,7 +956,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Ajman</cname>
+		<cname>2M</cname>
 		<item>
 			<title>@zombixbmc</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=500.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
