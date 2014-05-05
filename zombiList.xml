@@ -583,6 +583,26 @@
 			<link>http://chkg.tdf-cdn.com/6317/02.m3u8</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>I-TELE</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1726.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+            <regex>
+             <name>url</name>
+              <expres>rtmp:....([^\\]*)</expres>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=1726</page>
+            </regex>
+            <regex>
+            <name>key</name>
+               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+                 <page>http://www.filmon.com/tv/channel/export?channel_id=1726</page>
+            </regex>
+		</item>
+		
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>D8</cname>
 		<item>
@@ -712,6 +732,26 @@
 			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel3.wmv?MSWMExt=.asf</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>FRANCE 5</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1720.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+            <regex>
+             <name>url</name>
+              <expres>rtmp:....([^\\]*)</expres>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=1720</page>
+            </regex>
+            <regex>
+            <name>key</name>
+               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+                 <page>http://www.filmon.com/tv/channel/export?channel_id=1720</page>
+            </regex>
+		</item>
+		
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>FRANCE 5</cname>
 		<item>
@@ -983,12 +1023,12 @@
             <regex>
              <name>url</name>
               <expres>rtmp:....([^\\]*)</expres>
-               <page>http://www.filmon.com/tv/channel/export?channel_id=1769</page>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=1814</page>
             </regex>
             <regex>
             <name>key</name>
                <expres>rtmp[^?]*(\?id=[^"]*)</expres>
-                 <page>http://www.filmon.com/tv/channel/export?channel_id=1769</page>
+                 <page>http://www.filmon.com/tv/channel/export?channel_id=1814</page>
             </regex>
 		</item>
 		
