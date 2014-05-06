@@ -299,6 +299,23 @@
 			<link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Tunisia national 1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://free:free@matchfree1to10.no-ip.net/19.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Tunisia national 2</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://free:free@matchfree1to10.no-ip.net/20.ch</link>
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Tunisia national 1</cname>
 		<item>
