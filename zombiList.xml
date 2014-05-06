@@ -995,7 +995,7 @@
 		<cname>AlYawm</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/12786066/streams/live/playlist.m3u8</link>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/12786066/streams/live/playlist.m3u8 timeout=15</link>
 		</item>
 	</streaminginfo>
 	
@@ -1003,7 +1003,7 @@
 		<cname>Canal plus</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/11378037/streams/live/playlist.m3u8</link>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/11378037/streams/live/playlist.m3u8 timeout=15</link>
 		</item>
 	</streaminginfo>
 	
