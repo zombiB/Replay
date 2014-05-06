@@ -987,7 +987,7 @@
 		<cname>AlYawm</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://839156450.e.541833257.r.w6cdn.com/541833257//mp4:freeegeYSbQLHNsFZa</link>
+			<link>rtmp://839156450.e.541833257.r.w6cdn.com/541833257//mp4:freeegeYSbQLHNsFZa timeout=15</link>
 		</item>
 	</streaminginfo>
 	
