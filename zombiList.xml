@@ -1268,5 +1268,12 @@ http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/22.ch</link>
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>alwatan</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://alwatan_hls-lh.akamaihd.net/i/alwatan_ar@91111/master.m3u8</link>
+		</item>
+	</streaminginfo>
 	
 </streamingInfos>
