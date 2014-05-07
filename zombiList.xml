@@ -1133,11 +1133,10 @@ http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/22.ch</link>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>OSN EN</cname>
+		<cname>M6</cname>
 		<item>
-			<title>@zombixbmc m6</title>
-			<link> 
-http://srv4.hls-i-akamaihd.net/live/hls/index.m3u8?c=m6&amp;auth=c4fd06c3d8fe09b6e6ad7d685fb3781f&amp;t=1399468916&amp;hmac=15b19c58fc6f7296f40c6a1ca5b4aad69e1791c7f22842f0f3aafa90&amp;tsid=30ce6c3f48dab7902d7d55b470a52bb18d0cc9aca2039cfb9ae1743430f6f4dd&amp;cid=b593f0f186631f77f86aef1e25c8c4b9540efc3b37e740b7bbe74e56609614992bfcfe53701345536473a50469425763&amp;watchid=a2b7c133486ab0cd2e62da55ce209ff3ee1769b668a13a466eae893f8a32da7b000d5ed15ccc57980ede9958db6122f11309947d3c80c943c2352e76ea0de379</link>
+			<title>@zombixbmc </title>
+			<link>http://free:free@matchfree1to10.no-ip.net/21.ch</link>
 		</item>
 	</streaminginfo>
 	
