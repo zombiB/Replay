@@ -144,19 +144,20 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
 			<title>@zombixbmc </title>
 			<link>http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/14.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>@zombixbmc OFF</title>
+			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
 	
