@@ -1191,6 +1191,15 @@ http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/17.ch</link>
 http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/18.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc OSN_Shabab</title>
+			<link>
+http://iptvfannansat.dyndns.tv/vachelzhan/vachelzhan/17.ch</link>
+		</item>
+	</streaminginfo>
 			
 <streaminginfo>
 		<cname>OSN EN</cname>
@@ -1273,6 +1282,14 @@ http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/22.ch</link>
 		<item>
 			<title>@zombixbmc </title>
 			<link>http://alwatan_hls-lh.akamaihd.net/i/alwatan_ar@91111/master.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SkyNewsArabia</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://iptvfannansat.dyndns.tv/vachelzhan/vachelzhan/85.ch</link>
 		</item>
 	</streaminginfo>
 	
