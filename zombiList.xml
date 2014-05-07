@@ -1060,6 +1060,22 @@
 		
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://82.102.232.165:1935/alfajertv_gaza/alfajertv_1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Alfajr Int</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/unlimited_1</link>
+		</item>
+	</streaminginfo>
+	
 	
 	
 	
