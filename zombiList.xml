@@ -1244,8 +1244,29 @@ http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/22.ch</link>
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Telvza TV</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://41.231.53.11:8888/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=1664158234 live=1 pageUrl=http://www.direct4live.com/2013/10/telvza-tv-en-direct-live.html</link>
+		</item>
+	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Tounesna</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://41.231.53.11:8888/thd playpath=tunisna swfUrl=http://streaminghd.tn/video/player.swf?random=1578550586 live=1 pageUrl=http://www.direct4live.com/2014/02/tounesna-tv-direct-live.html</link>
+		</item>
+	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Al Tunisia</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://iptv.web-medias.net/live playpath=al_tunisia swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/ettounsiya-tv-en-direct-live-?¸â€??¸â€ ?·A§?·A©-?·A§?¸â€??·?¾?¸E†?¸â€ ?·A³?¸U¹?·A©-?¸â€¦?·A¨?·A§?·A´?·A±-video_0cda673c9.html</link>
+		</item>
+	</streaminginfo>
 	
 	
 </streamingInfos>
