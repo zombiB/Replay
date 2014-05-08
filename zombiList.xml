@@ -3,15 +3,15 @@
     <streaminginfo>
 		<cname>Bein Sport News</cname>
 		<item>
-			<title>Bein Sport News</title>
-			<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8</link>
+			<title>Bein Sport News off</title>
+			<link></link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>@zombixbmc</title>
+			<title>@zombixbmc off</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
@@ -19,15 +19,23 @@
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>@zombixbmc</title>
+			<title>@zombixbmc off</title>
 			<link>rtmp://31.220.0.82:1935/live playpath=b1r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/1.ch</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>@zombixbmc</title>
+			<title>@zombixbmc off</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 	</streaminginfo>
@@ -35,7 +43,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-	   	      <title>@zombixbmc  </title>
+	   	      <title>@zombixbmc  off</title>
 		      <link>rtmp://31.220.0.134:1935/live playpath=b2r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
@@ -43,7 +51,15 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-	   	        <title>@zombixbmc  ustream</title>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/2.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+	   	        <title>@zombixbmc  ustream off</title>
 		        <link>http://iphone-streaming.ustream.tv/ustreamVideo/17976099/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
@@ -67,8 +83,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>plugin://plugin.video.youtube/?play=priOG58Se5A</link>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/3.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -89,6 +105,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/4.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 5</cname>
 		<item>
 			<title>@zombixbmc</title>
@@ -101,6 +125,14 @@
 		<item>
 			<title>@zombixbmc</title>
 			<link>rtmp://31.220.0.82:1935/live playpath=b5r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/5.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -121,10 +153,26 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/6.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 7</cname>
 		<item>
 			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/7.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -144,12 +192,27 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/8.ch</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
 			<title>@zombixbmc </title>
 			<link>http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/14.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/9.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -178,6 +241,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/10.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 11</cname>
 		<item>
 			<title>@zombixbmc</title>
@@ -190,6 +261,14 @@
 		<item>
 			<title>@zombixbmc</title>
 			<link>rtmp://31.220.0.82:1935/live playpath=b11r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/11.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -210,10 +289,26 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/12.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 13</cname>
 		<item>
 			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/13.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -226,10 +321,26 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/14.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 15</cname>
 		<item>
 			<title>@zombixbmc</title>
 			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>@zombixbmc on</title>
+			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/15.ch</link>
 		</item>
 	</streaminginfo>
 	
