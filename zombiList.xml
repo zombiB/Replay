@@ -11,6 +11,14 @@
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
+			<title>@zombixbmc on</title>
+			<link>http://free:free@matchfree1to10.no-ip.net/40.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
 			<title>@zombixbmc off</title>
 			<link>rtmpe://46.246.124.38:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
 		</item>
@@ -19,7 +27,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>@zombixbmc off</title>
+			<title>@zombixbmc on</title>
 			<link>rtmp://31.220.0.82:1935/live playpath=b1r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
@@ -27,10 +35,12 @@
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>@zombixbmc on</title>
+			<title>@zombixbmc </title>
 			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/1.ch</link>
 		</item>
 	</streaminginfo>
+	
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
