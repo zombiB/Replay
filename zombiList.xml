@@ -1374,7 +1374,13 @@
 	</streaminginfo>
 
 	
-	
+	<streaminginfo>
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link></link>
+		</item>
+	</streaminginfo>
 
 <streaminginfo>
 		<cname>OSN EN</cname>
@@ -1420,7 +1426,13 @@
 		</item>
 	</streaminginfo>
 
-	
+	<streaminginfo>
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link></link>
+		</item>
+	</streaminginfo>
     <streaminginfo>
 		<cname>OSN Ar</cname>
 		<item>
@@ -1535,7 +1547,13 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+	        <title>@zombixbmc </title>
+			<link></link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>OSN ALPHA orbit</cname>
 		<item>
