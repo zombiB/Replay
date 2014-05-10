@@ -60,7 +60,13 @@
 		      <link>rtmp://31.220.0.134:1935/live playpath=b2r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc HD 3</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/11.ch</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
@@ -77,7 +83,13 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>@zombixbmc HD 4</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/12.ch</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
@@ -94,7 +106,13 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>@zombixbmc HD 5</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/13.ch</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 5</cname>
 		<item>
@@ -111,7 +129,13 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>@zombixbmc HD 6</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/14.ch</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 6</cname>
 		<item>
@@ -127,7 +151,13 @@
 			<link>rtmp://31.220.0.134:1935/live playpath=bein altechnoe.comxx6 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>@zombixbmc HD 7</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/15.ch</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 7</cname>
 		<item>
@@ -144,6 +174,13 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>@zombixbmc HD 8</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/16.ch</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
 		<item>
@@ -164,56 +201,25 @@
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
-			<title>@zombixbmc </title>
-			<link>http://162.246.18.114/Egypt-love/Egypt-love/.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/9.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>@zombixbmc OFF</title>
-			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>@zombixbmc  </title>
-			<link>http://iptvserver.is-by.us/iptv-panal/free-v3/free-v3/15.ch</link>
+			<title>@zombixbmc HD 9</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/17.ch</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 10</cname>
 		<item>
-			<title>@zombixbmc OFF</title>
-			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+			<title>@zombixbmc HD 10</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/18.ch</link>
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/10.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 11</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST11 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+			<title>@zombixbmc HD 11</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/19.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -225,19 +231,12 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/11.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 12</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
+			<title>@zombixbmc HD 12</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/20.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -250,42 +249,19 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport 13</cname>
 		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/12.ch</link>
+			<title>@zombixbmc HD 13</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/21.ch</link>
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/13.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 14</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/14.ch</link>
+			<title>@zombixbmc HD 14</title>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/22.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -293,15 +269,7 @@
 		<cname>Bein Sport 15</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmpe://46.246.124.13:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/15.ch</link>
+			<link>http://162.246.18.114/Egypt-love/Egypt-love/23.ch</link>
 		</item>
 	</streaminginfo>
 	
