@@ -322,6 +322,8 @@ mmsh://wm.live.tv-radio.com/bouygues/all/channel1.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",FRANCE 3
 mmsh://wm.live.tv-radio.com/bouygues/all/channel2.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",FRANCE 4
+http://free:free@matchfree1to10.no-ip.net/23.ch
+#EXTINF:-1 group-title="French1",FRANCE 4
 mmsh://wm.live.tv-radio.com/bouygues/all/channel3.wmv?MSWMExt=.asf
 #EXTINF:-1 group-title="French",FRANCE 5
 mmsh://wm.live.tv-radio.com/bouygues/all/channel4.wmv?MSWMExt=.asf
