@@ -815,16 +815,16 @@
 		<item>
 			<title>@zombixbmc -high filmon</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1717.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
-   <regex>
-     <name>url</name>
-     <expres>rtmp:....([^\\]*)</expres>
-     <page>http://www.filmon.com/tv/channel/export?channel_id=1717</page>
-   </regex>
-   <regex>
-     <name>key</name>
-     <expres>rtmp[^?]*(\?id=[^"]*)</expres>
-     <page>http://www.filmon.com/tv/channel/export?channel_id=1717</page>
-   </regex>
+            <regex>
+             <name>url</name>
+             <expres>rtmp:....([^\\]*)</expres>
+             <page>http://www.filmon.com/tv/channel/export?channel_id=1717</page>
+             </regex>
+            <regex>
+             <name>key</name>
+              <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+              <page>http://www.filmon.com/tv/channel/export?channel_id=1717</page>
+            </regex>
 		</item>
 	</streaminginfo>
 
@@ -833,16 +833,16 @@
 		<item>
 			<title>@zombixbmc -low filmon</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1717.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
-   <regex>
-     <name>url</name>
-     <expres>rtmp:....([^\\]*)</expres>
-     <page>http://www.filmon.com/tv/channel/export?channel_id=1717</page>
-   </regex>
-   <regex>
-     <name>key</name>
-     <expres>rtmp[^?]*(\?id=[^"]*)</expres>
-     <page>http://www.filmon.com/tv/channel/export?channel_id=1717</page>
-   </regex>
+           <regex>
+             <name>url</name>
+             <expres>rtmp:....([^\\]*)</expres>
+             <page>http://www.filmon.com/tv/channel/export?channel_id=1717</page>
+           </regex>
+            <regex>
+             <name>key</name>
+              <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=1717</page>
+            </regex>
 		</item>
 	</streaminginfo>
 
