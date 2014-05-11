@@ -1154,7 +1154,7 @@
 		<cname>MBC 1</cname>
 		<item>
 	<title>@zombixbmc MBC 1 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/36.ch</link>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1187,7 +1187,7 @@
 		<cname>MBC 3</cname>
 		<item>
 	        <title>@zombixbmcMBC3 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1203,7 +1203,7 @@
 		<cname>MBC 4</cname>
 		<item>
 	<title>@zombixbmcMBC 4 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1219,7 +1219,7 @@
 		<cname>MBC Drama</cname>
 		<item>
 	<title>@zombixbmcMBC Drama iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1235,7 +1235,7 @@
 		<cname>MBC Action</cname>
 		<item>
 	<title>@zombixbmcMBC Action iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1260,7 +1260,7 @@
 		<cname>MBC Max</cname>
 		<item>
 	<title>@zombixbmcMBC MAX iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/44.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1268,7 +1268,7 @@
 		<cname>MBC Masr</cname>
 		<item>
 		<title>@zombixbmcMBC Masr iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1647,7 +1647,7 @@
 		<cname>Aljazeera Doc</cname>
 		<item>
 	        <title>@zombixbmc AL JAZEERA DOCUMENTARY iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/46.ch</link>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/47.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -1708,5 +1708,12 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Moga Comedy</cname>
+		<item>
+	        <title>@zombixbmc  iptvosn</title>
+			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/66.ch</link>
+		</item>
+	</streaminginfo>
 	
 </streamingInfos>
