@@ -21,7 +21,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>@zombixbmc HD 1</title>
+			<title>@zombixbmc HD 1 iptvosn</title>
 			<link>http://162.246.18.114/Egypt-love/Egypt-love/9.ch</link>
 		</item>
 	</streaminginfo>
@@ -30,16 +30,24 @@
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>@zombixbmc </title>
+			<title>@zombixbmc iptvosn</title>
 			<link>http://162.246.18.114/Egypt-love/Egypt-love/1.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST1</link>
+		</item>
+	</streaminginfo> 
 
 	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>@zombixbmc </title>
+			<title>@zombixbmc eucast</title>
 			<link>rtmp://31.220.0.82:1935/live playpath=b1r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
@@ -61,6 +69,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST2</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
@@ -86,6 +101,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST3</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
@@ -121,6 +143,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST4</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 5</cname>
@@ -138,6 +167,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST5</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 5 </cname>
@@ -164,6 +200,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST6</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 6</cname>
@@ -189,6 +232,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST7</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 7</cname>
@@ -215,6 +265,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST8</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
@@ -234,6 +291,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST9</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 10</cname>
@@ -243,7 +307,13 @@
 		</item>
 	</streaminginfo>
 
-	
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST10</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 11</cname>
@@ -253,6 +323,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST11</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 11</cname>
@@ -272,6 +349,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST12</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 12</cname>
@@ -290,7 +374,13 @@
 		</item>
 	</streaminginfo>
 
-	
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST13</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 14</cname>
@@ -300,6 +390,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST14</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 15</cname>
@@ -309,6 +406,13 @@
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc wiziwig</title>
+			<link>rtmp://46.246.124.22/private/_definst_/BST15</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>BAHRAIN SPORTS</cname>
