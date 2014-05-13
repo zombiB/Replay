@@ -13,7 +13,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/40.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/40.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -73,7 +73,7 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/47.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/47.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -113,7 +113,7 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/48.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/48.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -154,7 +154,7 @@
 		<cname>Bein Sport 4</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/49.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/49.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -195,7 +195,7 @@
 		<cname>Bein Sport 5</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/50.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/50.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -236,7 +236,7 @@
 		<cname>Bein Sport 6</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/51.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/51.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -276,7 +276,7 @@
 		<cname>Bein Sport 7</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/52.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/52.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -317,7 +317,7 @@
 		<cname>Bein Sport 8</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/53.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/53.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -434,7 +434,7 @@
 		<cname>Bein Sport 13</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/58.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/58.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -458,7 +458,7 @@
 		<cname>Bein Sport 14</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/59.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/59.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -482,7 +482,7 @@
 		<cname>Bein Sport 15</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@matchfree1to10.no-ip.net/60.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/60.ch beinsport2</link>
 		</item>
 	</streaminginfo>
 
@@ -584,7 +584,7 @@
 		<cname>Tunisia national 1</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/18.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/18.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -593,7 +593,7 @@
 		<cname>Tunisia national 2</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/19.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/19.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -980,7 +980,7 @@
 		<cname>FRANCE 0</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/33.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/33.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1035,7 +1035,7 @@
 		<cname>FRANCE 2</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/11.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/11.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1044,7 +1044,7 @@
 		<cname>FRANCE 2</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net:38000/18.ch</link>
+			<link>http://free:free@testserv2.no-ip.net:38000/18.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1082,7 +1082,7 @@
 		<cname>FRANCE 3</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/22.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/22.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1100,7 +1100,7 @@
 		<cname>FRANCE 4</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>hhttp://free:free@matchfree1to10.no-ip.net/23.ch</link>
+			<link>hhttp://free:free@testserv2.no-ip.net/23.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1138,7 +1138,7 @@
 		<cname>FRANCE 5</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/24.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/24.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1217,7 +1217,7 @@
 		<cname>TF1</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/16.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/16.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1226,7 +1226,7 @@
 		<cname>MBC 1</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/1.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/1.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1242,7 +1242,7 @@
 		<cname>MBC 2</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/2.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/2.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1259,7 +1259,7 @@
 		<cname>MBC 3</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/3.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/3.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1275,7 +1275,7 @@
 		<cname>MBC 4</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/4.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/4.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1291,7 +1291,7 @@
 		<cname>MBC Drama</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/5.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/5.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1307,7 +1307,7 @@
 		<cname>MBC Action</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/6.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/6.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1323,7 +1323,7 @@
 		<cname>MBC Bollywood</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/9.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/9.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1332,7 +1332,7 @@
 		<cname>MBC Max</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/10.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/10.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1356,7 +1356,7 @@
 		<cname>Art Aflam 1</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/12.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/12.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1365,7 +1365,7 @@
 		<cname>Art Aflam 2</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/13.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/13.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1374,7 +1374,7 @@
 		<cname>ART Cinema</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/20.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/20.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1392,7 +1392,7 @@
 		<cname>ART hykayet1</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/14.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/14.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1416,7 +1416,7 @@
 		<cname>ART hykayet2</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/15.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/15.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1425,7 +1425,7 @@
 		<cname>Nessma</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/11.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/11.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1434,7 +1434,7 @@
 		<cname>Hanibal</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/7.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/7.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1443,7 +1443,7 @@
 		<cname>Al Tunisia</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/8.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/8.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1655,7 +1655,7 @@
 		<cname>M6</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/21.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/21.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1664,7 +1664,7 @@
 		<cname>W9</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/37.ch</link>
+			<link>http://free:free@testserv2.no-ip.net/37.ch</link>
 		</item>
 	</streaminginfo>
 
