@@ -1383,6 +1383,14 @@
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/16.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
+		</item>
+	</streaminginfo>
 
 	
 	<streaminginfo>
@@ -1821,6 +1829,14 @@
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/21.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>M6</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/81.ch</link>
+		</item>
+	</streaminginfo>
 
 	
 	<streaminginfo>
@@ -1875,7 +1891,30 @@
 			<link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/channels/sky-news-arabia live=1</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>DW Arabic</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://dw.lsops.net/live/ playpath=dw_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/dw-arabia live=1</link>
+		</item>
+	</streaminginfo>
 
+	<streaminginfo>
+		<cname>Libya</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://hd2.lsops.net/live playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/libyatv live=1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>alnabaa</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://alnabaa.lsops.net/live playpath=alnabaa_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/al_nabaa live=1</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Roya</cname>
