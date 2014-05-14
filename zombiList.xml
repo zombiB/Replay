@@ -40,6 +40,14 @@
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
+			<title>@zombixbmc BEIN Sport 1 HD</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b1575 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST1</link>
 		</item>
@@ -68,6 +76,14 @@
 		<item>
 			<title>@zombixbmc iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/2.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 2 HD</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b2458 pageUrl=http://xuscacamusca.se/</link>
 		</item>
 	</streaminginfo>
 	
@@ -118,6 +134,14 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/48.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 3 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b3356 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
@@ -159,6 +183,16 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/49.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+	
+<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 4 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b4870 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
 
 	
 	<streaminginfo>
@@ -200,6 +234,17 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/50.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+	
+<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 5 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b5441 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
 
 	<streaminginfo>
 		<cname>Bein Sport 5</cname>
@@ -241,6 +286,17 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/51.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+	
+<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 6 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b6690 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
 
 	<streaminginfo>
 		<cname>Bein Sport 6</cname>
@@ -281,6 +337,17 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/52.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+	
+<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 7 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b7377 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
 
 	<streaminginfo>
 		<cname>Bein Sport 7</cname>
@@ -322,6 +389,17 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/53.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+		
+<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 8 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b8174 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
 
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
@@ -364,7 +442,17 @@
 			<link>rtmp://46.246.124.22/private/_definst_/BST9</link>
 		</item>
 	</streaminginfo>
-	
+		
+<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 9 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b9195 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
 	<streaminginfo>
 		<cname>Bein Sport 10</cname>
 		<item>
@@ -381,6 +469,18 @@
 		</item>
 	</streaminginfo>
 	
+		
+<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 10 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b10697 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
+	
 	<streaminginfo>
 		<cname>Bein Sport 11</cname>
 		<item>
@@ -396,6 +496,16 @@
 			<link>rtmp://46.246.124.22/private/_definst_/BST11</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 11 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b11405 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
 	
 	<streaminginfo>
 		<cname>Bein Sport 11</cname>
@@ -426,6 +536,15 @@
 	<streaminginfo>
 		<cname>Bein Sport 12</cname>
 		<item>
+			<title>@zombixbmc BEIN Sport 12 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b12405 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
 			<title>@zombixbmc eucast</title>
 			<link>rtmp://31.220.0.134:1935/live playpath=b12r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
@@ -447,6 +566,18 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/58.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+	
+	
+<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>@zombixbmc BEIN Sport 13 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b13925 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
 
 	<streaminginfo>
 		<cname>Bein Sport 13</cname>
@@ -471,6 +602,18 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/59.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+	
+	
+<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>@zombixbmc BEIN BY STVCHANN:Bein Sport 14 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b14598 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo>
+
+
 
 	<streaminginfo>
 		<cname>Bein Sport 14</cname>
@@ -495,6 +638,16 @@
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/60.ch beinsport2</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc BEIN BY STVCHANN:Bein Sport 15 HD
+</title>
+			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b15293 pageUrl=http://xuscacamusca.se/</link>
+		</item>
+	</streaminginfo> 
+
 
 	<streaminginfo>
 		<cname>Bein Sport 15</cname>
