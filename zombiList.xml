@@ -1762,7 +1762,7 @@ $setting_iptvosnUser$/$setting_iptvosnPwd$/31.ch</link>
 		<cname>SkyNewsArabia</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/vachelzhan/vachelzhan/85.ch</link>
+			<link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/channels/sky-news-arabia live=1</link>
 		</item>
 	</streaminginfo>
 
