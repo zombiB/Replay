@@ -9,20 +9,15 @@
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/40.ch</link>
-		</item>
-	</streaminginfo>
+	
 
 	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>@zombixbmc HD 1 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/8.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/8.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -31,7 +26,16 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/1.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/1.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc no-ip</title>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/40.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -57,7 +61,8 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>@zombixbmc HD 2 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/9.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/9.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -65,7 +70,8 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/2.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/2.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -97,7 +103,8 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc HD 3 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/10.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/10.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -105,7 +112,8 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/3.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/3.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -138,7 +146,8 @@
 		<cname>Bein Sport 4</cname>
 		<item>
 			<title>@zombixbmc HD 4 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/11.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/11.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -146,7 +155,8 @@
 		<cname>Bein Sport 4</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/4.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/4.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -179,7 +189,8 @@
 		<cname>Bein Sport 5</cname>
 		<item>
 			<title>@zombixbmc HD 5 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -187,7 +198,8 @@
 		<cname>Bein Sport 5</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/5.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/5.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -220,7 +232,8 @@
 		<cname>Bein Sport 6</cname>
 		<item>
 			<title>@zombixbmc HD 6 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/13.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/13.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -228,7 +241,8 @@
 		<cname>Bein Sport 6</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/6.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/6.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -260,7 +274,8 @@
 		<cname>Bein Sport 7</cname>
 		<item>
 			<title>@zombixbmc HD 7 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/14.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/14.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -268,7 +283,8 @@
 		<cname>Bein Sport 7</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/7.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/7.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -301,7 +317,8 @@
 		<cname>Bein Sport 8</cname>
 		<item>
 			<title>@zombixbmc HD 8 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/15.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/15.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -309,7 +326,8 @@
 		<cname>Bein Sport 8</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/36.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/36.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -343,7 +361,8 @@
 		<cname>Bein Sport 9</cname>
 		<item>
 			<title>@zombixbmc HD 9 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/16.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/16.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -367,7 +386,8 @@
 		<cname>Bein Sport 10</cname>
 		<item>
 			<title>@zombixbmc HD 10 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/17.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/17.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -383,7 +403,8 @@
 		<cname>Bein Sport 11</cname>
 		<item>
 			<title>@zombixbmc HD 11 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/18.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/18.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -409,7 +430,8 @@
 		<cname>Bein Sport 12</cname>
 		<item>
 			<title>@zombixbmc HD 12 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/19.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/19.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -434,7 +456,8 @@
 		<cname>Bein Sport 13</cname>
 		<item>
 			<title>@zombixbmc HD 13 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/20.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/20.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -458,7 +481,8 @@
 		<cname>Bein Sport 14</cname>
 		<item>
 			<title>@zombixbmc HD 14 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -482,7 +506,8 @@
 		<cname>Bein Sport 15</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -1242,7 +1267,8 @@
 		<cname>MBC 1</cname>
 		<item>
 	<title>@zombixbmc MBC 1 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1258,7 +1284,8 @@
 		<cname>MBC 2</cname>
 		<item>
 	        <title>@zombixbmc MBC 2 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/37.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/37.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1275,7 +1302,8 @@
 		<cname>MBC 3</cname>
 		<item>
 	        <title>@zombixbmcMBC3 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1291,7 +1319,8 @@
 		<cname>MBC 4</cname>
 		<item>
 	<title>@zombixbmcMBC 4 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1307,7 +1336,8 @@
 		<cname>MBC Drama</cname>
 		<item>
 	<title>@zombixbmcMBC Drama iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1323,7 +1353,8 @@
 		<cname>MBC Action</cname>
 		<item>
 	<title>@zombixbmcMBC Action iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1348,7 +1379,8 @@
 		<cname>MBC Max</cname>
 		<item>
 	<title>@zombixbmcMBC MAX iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/44.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/44.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1356,7 +1388,8 @@
 		<cname>MBC Masr</cname>
 		<item>
 		<title>@zombixbmcMBC Masr iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1391,7 +1424,8 @@
 		<cname>ART Cinema</cname>
 		<item>
 	        <title>@zombixbmc ART Cinema iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/32.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/32.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1408,7 +1442,8 @@
 		<cname>ART hykayet1</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/33.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/33.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1416,7 +1451,8 @@
 		<cname>ART hykayet2</cname>
 		<item>
 			<title>@zombixbmc iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/34.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/34.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1578,7 +1614,8 @@
 		<cname>OSN EN</cname>
 		<item>
 			<title>@zombixbmc OSN:OSN First HD iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/23.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/23.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1587,7 +1624,8 @@
 		<cname>OSN EN</cname>
 		<item>
 			<title>@zombixbmc OSN MOVIES ACTION iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/24.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/24.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1596,7 +1634,8 @@
 		<cname>OSN EN</cname>
 		<item>
 			<title>@zombixbmcOSN Movies HD +2 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/25.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/25.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1605,7 +1644,8 @@
 		<cname>OSN EN</cname>
 		<item>
 			<title>@zombixbmcOSN Movies Comedy HD iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/26.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/26.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1614,7 +1654,8 @@
 		<cname>OSN EN</cname>
 		<item>
 		   <title>@zombixbmcOSN Movies Premiere HD iptvosn</title>
-		   <link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/27.ch</link>
+		   <link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/27.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1629,7 +1670,8 @@
 		<cname>OSN Ar</cname>
 		<item>
 			<title>@zombixbmcOSN Yahala Drama iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/28.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/28.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1638,7 +1680,8 @@
 		<cname>OSN Ar</cname>
 		<item>
 		    <title>@zombixbmcOSN Yahala HD +2 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/29.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/29.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1646,7 +1689,8 @@
 		<cname>OSN Ar</cname>
 		<item>
 		    <title>@zombixbmc OSN Yahala iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/30.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/30.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1654,7 +1698,8 @@
 		<cname>OSN Ar</cname>
 		<item>
 		    <title>@zombixbmc OSN Shabab iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/31.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/31.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1735,7 +1780,8 @@
 		<cname>Aljazeera Doc</cname>
 		<item>
 	        <title>@zombixbmc AL JAZEERA DOCUMENTARY iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/47.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/47.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -1750,49 +1796,56 @@
 		<cname>OSN ALPHA orbit</cname>
 		<item>
 	        <title>@zombixbmc Orbit Cinema 2 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/59.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/59.ch</link>
 		</item>
 	</streaminginfo>
 <streaminginfo>
 		<cname>OSN ALPHA orbit</cname>
 		<item>
 	        <title>@zombixbmc Orbit Cinema 1 iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
 		</item>
 	</streaminginfo>
 <streaminginfo>
 		<cname>OSN ALPHA orbit</cname>
 		<item>
 	        <title>@zombixbmc Orbit Alyawm iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
 		</item>
 	</streaminginfo>
 <streaminginfo>
 		<cname>OSN ALPHA orbit</cname>
 		<item>
 	        <title>@zombixbmc Orbit Fann iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
 		</item>
 	</streaminginfo>
 <streaminginfo>
 		<cname>OSN ALPHA orbit</cname>
 		<item>
 	        <title>@zombixbmc Orbit Mmousalsalat iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
 		</item>
 	</streaminginfo>
 <streaminginfo>
 		<cname>OSN ALPHA orbit</cname>
 		<item>
 	        <title>@zombixbmc Orbit Alsafwa iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
 		</item>
 	</streaminginfo>
 <streaminginfo>
 		<cname>OSN ALPHA orbit</cname>
 		<item>
 	        <title>@zombixbmc Orbit MusicNow iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/64.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/64.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1800,7 +1853,8 @@
 		<cname>Moga Comedy</cname>
 		<item>
 	        <title>@zombixbmc  iptvosn</title>
-			<link>http://162.246.18.114/$setting_iptvosnUser$/$setting_iptvosnPwd$/66.ch</link>
+			<link>http://88.150.198.74/
+$setting_iptvosnUser$/$setting_iptvosnPwd$/66.ch</link>
 		</item>
 	</streaminginfo>
 	
