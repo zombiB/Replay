@@ -1,10 +1,10 @@
 <streamingInfos>
 
     <streaminginfo>
-		<cname>Bein Sport News vv</cname>
+		<cname>Bein Sport News </cname>
 		<item>
-			<title>Bein Sport News off</title>
-			<link></link>
+			<title>Bein Sport News </title>
+			<link>rtmp://85.91.143.23/23688/ playpath=23688.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://www.mytvonline.org/arabic-orient/Beinsports1-ar.html</link>
 		</item>
 	</streaminginfo>
 	
@@ -1691,7 +1691,7 @@
 		<cname>Canal plus</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/11378037/streams/live/playlist.m3u8 timeout=15</link>
+			<link>http://81.65.155.31:8001/1:0:1:200C:430:1:FFFF0000:0:0:0:</link>
 		</item>
 	</streaminginfo>
 
@@ -1985,6 +1985,27 @@
 		<item>
 	        <title>@zombixbmc </title>
 			<link></link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cinema EN</cname>
+		<item>
+	        <title>@zombixbmc ar</title>
+			<link>http://212.68.33.139:8001</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cinema EN</cname>
+		<item>
+	        <title>@zombixbmc fr</title>
+			<link>http://212.68.33.139:8003</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cinema EN</cname>
+		<item>
+	        <title>@zombixbmc en</title>
+			<link>http://212.68.33.139:8002</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
