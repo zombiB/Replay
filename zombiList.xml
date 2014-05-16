@@ -798,7 +798,7 @@
 			<title>nbn lebanon</title>
 			<link>rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&amp;autostart=true&amp;%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15</link>
 		</item>
-	</streaminginfo>
+	</streaminginfo> 
 
 	<streaminginfo>
 		<cname>Kuwaitvv</cname>
@@ -807,12 +807,36 @@
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch1.sdp</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Kuwait</cname>
+		<item>
+			<title>Kuwait</title>
+			<link>http://cdn-streamer2.magictvbox.com/60.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>KTV 2</cname>
+		<item>
+			<title>KTV 2</title>
+			<link>http://cdn-streamer2.magictvbox.com/61.m3u8</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
 		<cname>KTV 2vv</cname>
 		<item>
 			<title>KTV 2</title>
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>KTV ARABE</cname>
+		<item>
+			<title>KTV ARABE</title>
+			<link>http://cdn-streamer2.magictvbox.com/62.m3u8f</link>
 		</item>
 	</streaminginfo>
 
@@ -1976,6 +2000,14 @@
 		<item>
 			<title>@zombixbmc </title>
 			<link>rtmp://alnabaa.lsops.net/live playpath=alnabaa_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/al_nabaa live=1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>alnabaa</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/120.ch</link>
 		</item>
 	</streaminginfo>
 	
