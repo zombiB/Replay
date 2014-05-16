@@ -2012,6 +2012,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>BBC Arabic</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/121.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Roya</cname>
 		<item>
 			<title>@zombixbmc </title>
