@@ -3,26 +3,226 @@
     <streaminginfo>
 		<cname>Bein Sport News</cname>
 		<item>
-			<title>Bein Sport News </title>
+			<title>@zombixbmc Bein Sport News </title>
 			<link>rtmp://85.91.143.23/23688/ playpath=23688.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://www.mytvonline.org/arabic-orient/Beinsports1-ar.html</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Tele Sports vv</cname>
+		<cname>Tele Sports </cname>
 		<item>
-			<title>ustream</title>
+			<title>@zombixbmc ustream</title>
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18038516/streams/live?v=1/best.m3u8</link>
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+	
+<streaminginfo>
+		<cname>bein sport 1</cname>
 		<item>
-			<title>@zombixbmc HD 1 iptvosn</title>
+			<title>@zombixbmc iptvosn beINSPORT1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/1.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/2.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 3</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/3.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 4</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT4</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/4.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 5</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT5</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/5.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 6</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT6</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/6.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 7</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT7</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/7.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 8</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT8</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/8.ch</link>
 		</item>
 	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 1</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/9.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/10.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 3</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/11.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 4</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD4</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 5</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD5</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/13.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 6</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD6</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/14.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 7</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD7</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/15.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 8</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD8</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/16.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 9</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD9</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/17.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 10</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD10</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/18.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 11</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD11</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/19.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 12</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD12</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/20.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 13</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD13</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 14</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD14</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>bein sport 15</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD15</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/23.ch</link>
+		</item>
+	</streaminginfo>
+
 	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
@@ -32,14 +232,7 @@
 		</item>
 	</streaminginfo>
 
-	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/1.ch</link>
-		</item>
-	</streaminginfo>
+
 	
 	<streaminginfo>
 		<cname>Bein Sport 1 vv</cname>
@@ -78,22 +271,6 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>@zombixbmc HD 2 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/9.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/2.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
 			<title>@zombixbmc BEIN Sport 2 HD</title>
 			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b2458 pageUrl=http://xuscacamusca.se/</link>
 		</item>
@@ -120,22 +297,6 @@
 		<item>
 	   	    <title>@zombixbmc eucast</title>
 		    <link>rtmp://31.220.0.134:1935/live playpath=b2r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>@zombixbmc HD 3 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/10.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/3.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -171,23 +332,6 @@
 		</item>
 	</streaminginfo>
 
-	
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>@zombixbmc HD 4 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/11.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/4.ch</link>
-		</item>
-	</streaminginfo>
-	
 	<streaminginfo>
 		<cname>Bein Sport 4vv</cname>
 		<item>
@@ -223,21 +367,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>@zombixbmc HD 5 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/5.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 5vv</cname>
@@ -275,21 +404,7 @@
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>@zombixbmc HD 6 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/13.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/6.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 6vv</cname>
@@ -326,21 +441,7 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>@zombixbmc HD 7 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/14.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/7.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 7vv</cname>
@@ -368,31 +469,8 @@
 			<link>http://cms.prosatiptv.com/getChannel?channelId=15&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 7vv</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/7.ch</link>
-		</item>
-	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>@zombixbmc HD 8 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/15.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/36.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 8vv</cname>
@@ -434,14 +512,6 @@
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
-			<title>@zombixbmc HD 9 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/16.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
 			<title>@zombixbmc Bein 9 </title>
 			<link>rtmp://173.192.81.172/flash/18420 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/</link>
 		</item>
@@ -465,13 +535,7 @@
 	</streaminginfo>
 
 
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>@zombixbmc HD 10 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/17.ch</link>
-		</item>
-	</streaminginfo>
+	
 
 	<streaminginfo>
 		<cname>Bein Sport 10vv</cname>
@@ -493,14 +557,6 @@
 
 
 	
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>@zombixbmc HD 11 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/18.ch</link>
-		</item>
-	</streaminginfo>
-
 	<streaminginfo>
 		<cname>Bein Sport 11vv</cname>
 		<item>
@@ -529,13 +585,7 @@
 
 	
 	
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>@zombixbmc HD 12 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/19.ch</link>
-		</item>
-	</streaminginfo>
+	
 
 	<streaminginfo>
 		<cname>Bein Sport 12vv</cname>
@@ -563,13 +613,7 @@
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>@zombixbmc HD 13 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/20.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 13vv</cname>
@@ -599,13 +643,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>@zombixbmc HD 14 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 14vv</cname>
@@ -635,13 +673,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 15vv</cname>
@@ -1930,7 +1961,7 @@
 		<cname>Al Hiwar Ettounsi</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/38.ch</link>
+			<link>http://free:free@matchfree1to10.no-ip.net/36.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -1948,7 +1979,7 @@
 		<cname>Tounesna</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/10.ch</link>
+			<link>http://free:free@matchfree1to10.no-ip.net/38.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -2401,213 +2432,6 @@
 		<item>
 			<title>@zombixbmc iptvosn TIME CORAN</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/98.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 1</cname>
-		<item>
-			<title>@zombixbmc iptvosn beINSPORT1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/1.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 2</cname>
-		<item>
-			<title>@zombixbmc iptvosn beINSPORT2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/2.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 3</cname>
-		<item>
-			<title>@zombixbmc iptvosn beINSPORT3</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/3.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 4</cname>
-		<item>
-			<title>@zombixbmc iptvosn beINSPORT4</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/4.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 5</cname>
-		<item>
-			<title>@zombixbmc iptvosn beINSPORT5</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/5.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 6</cname>
-		<item>
-			<title>@zombixbmc iptvosn beINSPORT6</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/6.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 7</cname>
-		<item>
-			<title>@zombixbmc iptvosn beINSPORT7</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/7.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 8</cname>
-		<item>
-			<title>@zombixbmc iptvosn beINSPORT8</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/8.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 1</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/9.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 2</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/10.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 3</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD3</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/11.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 4</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD4</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 5</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD5</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/13.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 6</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD6</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/14.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 7</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD7</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/15.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 8</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD8</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/16.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 9</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD9</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/17.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 10</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD10</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/18.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 11</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD11</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/19.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 12</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD12</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/20.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 13</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD13</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 14</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD14</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 15</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD15</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/23.ch</link>
 		</item>
 	</streaminginfo>
 
