@@ -1,7 +1,7 @@
 <streamingInfos>
 
     <streaminginfo>
-		<cname>Bein Sport News </cname>
+		<cname>Bein Sport News</cname>
 		<item>
 			<title>Bein Sport News </title>
 			<link>rtmp://85.91.143.23/23688/ playpath=23688.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://www.mytvonline.org/arabic-orient/Beinsports1-ar.html</link>
@@ -2835,6 +2835,175 @@
 		<item>
 			<title>@zombixbmc iptvosn Discovery Channel</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/77.ch</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Cartoon Network</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nickelodeon</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/48.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>Fox</cname>
+		<item>
+			<title>@zombixbmc iptvosn Fox</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/75.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>Fox</cname>
+		<item>
+			<title>@zombixbmc iptvosn Fox Life</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/49.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>DISCOVERY CHANNEL</cname>
+		<item>
+			<title>@zombixbmc iptvosn Animal Planet</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/50.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Cinema 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/51.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Cinema 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/52.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit  Alyawm</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/53.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Fann</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/54.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Mmousalsalat</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/55.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Alsafwa</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/56.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit MusicNow</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/57.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>Moga Comedy</cname>
+		<item>
+			<title>@zombixbmc iptvosn Moga Comedy</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>CBC Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/59.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>CBC Extra</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC EXTRA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>On TV</cname>
+		<item>
+			<title>@zombixbmc iptvosn On Tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>Rotana cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>Rotana Aflam</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Aflam</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>Roya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Roya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/71.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>Karameesh</cname>
+		<item>
+			<title>@zombixbmc iptvosn Karameesh</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
 		</item>
 	</streaminginfo>
 
