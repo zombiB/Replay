@@ -1,7 +1,7 @@
 <streamingInfos>
 
     <streaminginfo>
-		<cname>Bein Sport News</cname>
+		<cname>Bein Sport News vv</cname>
 		<item>
 			<title>Bein Sport News off</title>
 			<link></link>
@@ -9,7 +9,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Tele Sports</cname>
+		<cname>Tele Sports vv</cname>
 		<item>
 			<title>ustream</title>
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18038516/streams/live?v=1/best.m3u8</link>
@@ -34,10 +34,10 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1 vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/40.ch</link>
+			<link></link>
 		</item>
 	</streaminginfo>
 	
@@ -50,7 +50,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1 vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST1</link>
@@ -92,15 +92,15 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 2vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/47.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/47.ch </link>
 		</item>
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 2vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST2</link>
@@ -132,10 +132,10 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 3</cname>
+		<cname>Bein Sport 3vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/48.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/48.ch</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -148,7 +148,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 3</cname>
+		<cname>Bein Sport 3vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST3</link>
@@ -181,10 +181,10 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 4</cname>
+		<cname>Bein Sport 4vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/49.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/49.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -208,7 +208,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 4</cname>
+		<cname>Bein Sport 4vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST4</link>
@@ -232,10 +232,10 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 5</cname>
+		<cname>Bein Sport 5vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/50.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/50.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -251,7 +251,7 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 5</cname>
+		<cname>Bein Sport 5vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST5</link>
@@ -284,7 +284,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 6</cname>
+		<cname>Bein Sport 6vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/51.ch beinsport2</link>
@@ -303,7 +303,7 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 6</cname>
+		<cname>Bein Sport 6vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST6</link>
@@ -335,10 +335,10 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 7</cname>
+		<cname>Bein Sport 7vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/52.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/52.ch</link>
 		</item>
 	</streaminginfo>
 	
@@ -354,7 +354,7 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 7</cname>
+		<cname>Bein Sport 7vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST7</link>
@@ -362,7 +362,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 7</cname>
+		<cname>Bein Sport 7vv</cname>
 		<item>
 			<title>@zombixbmc </title>
 			<link>http://iptvfannansat.dyndns.tv/32204d1bc5/b33d0c2254/7.ch</link>
@@ -387,10 +387,10 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 8</cname>
+		<cname>Bein Sport 8vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/53.ch beinsport2</link>
+			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/53.ch </link>
 		</item>
 	</streaminginfo>
 		
@@ -406,7 +406,7 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 8</cname>
+		<cname>Bein Sport 8vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST8</link>
@@ -440,7 +440,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 9</cname>
+		<cname>Bein Sport 9vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST9</link>
@@ -466,7 +466,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport 10vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST10</link>
@@ -494,7 +494,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport 11vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST11</link>
@@ -530,7 +530,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport 12vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST12</link>
@@ -564,7 +564,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein Sport 13vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/58.ch beinsport2</link>
@@ -584,7 +584,7 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein Sport 13vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST13</link>
@@ -600,7 +600,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein Sport 14vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/59.ch beinsport2</link>
@@ -620,7 +620,7 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein Sport 14vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST14</link>
@@ -636,7 +636,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein Sport 15vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/60.ch beinsport2</link>
@@ -644,7 +644,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 15</cname>
 		<item>
 			<title>@zombixbmc BEIN BY STVCHANN:Bein Sport 15 HD
 </title>
@@ -654,7 +654,7 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein Sport 15vv</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
 			<link>rtmp://46.246.124.22/private/_definst_/BST15</link>
@@ -680,7 +680,7 @@
 
 	
 	<streaminginfo>
-		<cname>KTV SPORT</cname>
+		<cname>KTV SPORTvv</cname>
 		<item>
 			<title>KTV SPORT</title>
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
@@ -699,7 +699,7 @@
 	
 	<streaminginfo>
 	
-		<cname>AL EQTESADIA TVC</cname>
+		<cname>AL EQTESADIA TVCvv</cname>
 		<item>
 			<title>AL EQTESADIA TV</title>
 			<link>mms://38.96.148.75/Eqtisadia</link>
@@ -723,7 +723,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>France 24 ARABIC</cname>
+		<cname>France24 Arabic</cname>
 		<item>
 			<title>France 24 ARABIC</title>
 			<link>rtmp://stream2.france24.yacast.net:80/france24_live/frda/f24_livefrda</link>
@@ -731,7 +731,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>France 24 ARABIC</cname>
+		<cname>France24 Arabic</cname>
 		<item>
 			<title>France 24 ARABIC</title>
 			<link>http://free:free@matchfree1to10.no-ip.net/13.ch</link>
@@ -747,7 +747,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Tunisia national 1</cname>
+		<cname>Tunisia national 1vv</cname>
 		<item>
 			<title>@zombixbmc no-ip</title>
 			<link>http://free:free@testserv2.no-ip.net/18.ch</link>
@@ -755,7 +755,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Tunisia national 1</cname>
+		<cname>Tunisia national 1vv</cname>
 		<item>
 			<title>Tunisia national 1</title>
 			<link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
@@ -767,7 +767,7 @@
 
 	
 	<streaminginfo>
-		<cname>Tunisia national 2</cname>
+		<cname>Tunisia national 2vv</cname>
 		<item>
 			<title>@zombixbmc</title>
 			<link>http://free:free@testserv2.no-ip.net/19.ch</link>
@@ -801,7 +801,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Kuwait</cname>
+		<cname>Kuwaitvv</cname>
 		<item>
 			<title>Kuwait</title>
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch1.sdp</link>
@@ -809,7 +809,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>KTV 2</cname>
+		<cname>KTV 2vv</cname>
 		<item>
 			<title>KTV 2</title>
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp</link>
@@ -817,7 +817,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>KTV ARABE</cname>
+		<cname>KTV ARABEvv</cname>
 		<item>
 			<title>KTV ARABE</title>
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch5.sdp</link>
@@ -825,7 +825,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>KTV ETRAA</cname>
+		<cname>KTV ETRAAvv</cname>
 		<item>
 			<title>KTV ETRAA</title>
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch4.sdp</link>
@@ -833,7 +833,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>KTV PLUS</cname>
+		<cname>KTV PLUSvv</cname>
 		<item>
 			<title>KTV PLUS</title>
 			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch6.sdp</link>
@@ -849,7 +849,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>IRAQIA</cname>
+		<cname>IRAQIAvv</cname>
 		<item>
 			<title>IRAQIA</title>
 			<link>mms://212.7.196.74/iraqia</link>
@@ -881,7 +881,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Al Majd</cname>
+		<cname>Al Majdvv</cname>
 		<item>
 			<title>Al Majd</title>
 			<link>rtmp://majdg.pwlstation.com/live/majdg/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15</link>
@@ -889,7 +889,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>ALMAJAD ALMAIA</cname>
+		<cname>ALMAJAD ALMAIAvv</cname>
 		<item>
 			<title>ALMAJAD ALMAIA</title>
 			<link>rtmp://majdsc.pwlstation.com/live/majdsc/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15</link>
@@ -897,7 +897,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>ALMAJD MASSAH </cname>
+		<cname>ALMAJD MASSAH vv</cname>
 		<item>
 			<title>ALMAJD MASSAH </title>
 			<link>rtmp://majdd.pwlstation.com/live/majdd/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
@@ -913,7 +913,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>KSA 1</cname>
+		<cname>KSA 1vv</cname>
 		<item>
 			<title>KSA 1</title>
 			<link>rtsp://38.96.148.74/CH1TV</link>
@@ -921,7 +921,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>KSA 2</cname>
+		<cname>KSA 2vv</cname>
 		<item>
 			<title>KSA 2</title>
 			<link>rtsp://38.96.148.74/CH2TV</link>
@@ -929,7 +929,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Quran TV ksa</cname>
+		<cname>Quran TV ksavv</cname>
 		<item>
 			<title>Quran TV ksa</title>
 			<link>rtsp://38.96.148.75/Quran?MSWMExt=.asf</link>
@@ -947,7 +947,7 @@
 
 	
 	<streaminginfo>
-		<cname>sunnah TV</cname>
+		<cname>sunnah TVvv</cname>
 		<item>
 			<title>sunnah TV</title>
 			<link>rtsp://38.96.148.75/Sunnah?MSWMExt=.asf</link>
@@ -1019,7 +1019,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>ALMAJD KIDS </cname>
+		<cname>ALMAJD KIDSvv </cname>
 		<item>
 			<title>ALMAJD KIDS </title>
 			<link>rtmp://majdb.pwlstation.com/live/majdb/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
@@ -1027,7 +1027,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>ALMAJD KIDS 2</cname>
+		<cname>ALMAJD KIDS 2vv</cname>
 		<item>
 			<title>ALMAJD KIDS 2</title>
 			<link>rtmp://majdk.pwlstation.com/live/majdk/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
@@ -1035,7 +1035,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>ALMAJD TAGHARID</cname>
+		<cname>ALMAJD TAGHARIDvv</cname>
 		<item>
 			<title>ALMAJD TAGHARID</title>
 			<link>rtmp://majdt.pwlstation.com/live/majdt/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
@@ -1043,7 +1043,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>ALMAJD RODA</cname>
+		<cname>ALMAJD RODAvv</cname>
 		<item>
 			<title>ALMAJD RODA</title>
 			<link>rtmp://majdr.pwlstation.com/live/majdr/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
@@ -1051,7 +1051,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>ALMAJD DOC</cname>
+		<cname>ALMAJD DOCvv</cname>
 		<item>
 			<title>ALMAJD DOC</title>
 			<link>rtmp://majddoc.pwlstation.com/live/majddoc/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
@@ -1059,7 +1059,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>ALMAJD NATURE</cname>
+		<cname>ALMAJD NATUREvv</cname>
 		<item>
 			<title>ALMAJD NATURE</title>
 			<link>rtmp://majdnat.pwlstation.com/live/majdnat/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15</link>
@@ -2049,7 +2049,7 @@
 		<cname>Al Moustakilla</cname>
 		<item>
 	        <title>@zombixbmc  no-ip</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/11.ch</link>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/40.ch</link>
 		</item>
 	</streaminginfo>
 	
