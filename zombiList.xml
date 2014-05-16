@@ -23,6 +23,14 @@
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/8.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc HD 1 </title>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=9&amp;sn=12576902&amp;byPass=987</link>
+		</item>
+	</streaminginfo>
 
 	
 	<streaminginfo>
@@ -100,10 +108,10 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 2vv</cname>
+		<cname>Bein Sport 2</cname>
 		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST2</link>
+			<title>@zombixbmc </title>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=10&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
 	
@@ -148,10 +156,10 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 3vv</cname>
+		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST3</link>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=11&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
 	
@@ -208,10 +216,10 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Bein Sport 4vv</cname>
+		<cname>Bein Sport 4</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST4</link>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=12&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
 	
@@ -251,10 +259,10 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 5vv</cname>
+		<cname>Bein Sport 5</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST5</link>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=13&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
 	
@@ -303,10 +311,10 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 6vv</cname>
+		<cname>Bein Sport 6</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST6</link>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=14&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
 	
@@ -354,10 +362,10 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 7vv</cname>
+		<cname>Bein Sport 7</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST7</link>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=15&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
 	
@@ -406,10 +414,10 @@
 
 
 	<streaminginfo>
-		<cname>Bein Sport 8vv</cname>
+		<cname>Bein Sport 8</cname>
 		<item>
 			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST8</link>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=16&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
 	
@@ -3004,6 +3012,304 @@
 		<item>
 			<title>@zombixbmc iptvosn Karameesh</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
+		</item>
+	</streaminginfo>
+	
+	    <streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv STAR 1 AFLAM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10147.stream/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+    <streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  STAR 1 AFLAM SRV 2</title>
+			<link>http://cdn-delay1.magictvbox.com/2.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  STAR 2 AFLAM</title>
+			<link>http://cdn-delay1.magictvbox.com/4.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  STAR 2 AFLAM SRV 2</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10146.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>LCD AFLAM</cname>
+		<item>
+			<title>@zombixbmc magictv  LCD AFLAM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10186.stream/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Time cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  TAIM AFLAM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10145.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Time cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  CINEMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10144.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc magictv  PNORAMMA FILM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10176.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc magictv  CINEMA 2</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10144.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Cairo Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  CAIRO CINEMA</title>
+			<link>http://cdn-delay1.magictvbox.com/1.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Time cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  TAIM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10174.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc magictv  PNORAMMA DRAMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10163.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>SadacAlBalad Drama</cname>
+		<item>
+			<title>@zombixbmc magictv  SDA AL BLAD DRAMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10169.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Al-Nahar Drama</cname>
+		<item>
+			<title>@zombixbmc magictv  AL NHAR DRAMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10151.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Sada Al Balad</cname>
+		<item>
+			<title>@zombixbmc magictv  SDA AL BLAD</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10172.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>SHAABIYAT</cname>
+		<item>
+			<title>@zombixbmc magictv  SHABIAT</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10175.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Libya</cname>
+		<item>
+			<title>@zombixbmc magictv  LIBIA AL HURA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10187.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Time Comedy</cname>
+		<item>
+			<title>@zombixbmc magictv  TAIM COMADY</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10145.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>CBC Drama</cname>
+		<item>
+			<title>@zombixbmc magictv CBC DRAMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10149.stream/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Time Comedy</cname>
+		<item>
+			<title>@zombixbmc magictv  TAIM COMADY</title>
+			<link>http://cdn-delay1.magictvbox.com/15.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Cairo Drama</cname>
+		<item>
+			<title>@zombixbmc magictv  CAIRO DRAMA</title>
+			<link>http://cdn-delay1.magictvbox.com/3.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Al Nahar</cname>
+		<item>
+			<title>@zombixbmc magictv  AL NHAR</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10150.stream/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Al Nahar</cname>
+		<item>
+			<title>@zombixbmc magictv  AL NHAR SRV 2</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10150.stream/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Al Nahar</cname>
+		<item>
+			<title>@zombixbmc magictv  AL NHAR SRV 3</title>
+			<link>http://cdn-delay1.magictvbox.com/5.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Al Maghribia</cname>
+		<item>
+			<title>@zombixbmc magictv  AL MGRBIA</title>
+			<link>http://cdn-streamer2.magictvbox.com/30.m3u8</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+		<cname>Syria</cname>
+		<item>
+			<title>@zombixbmc magictv  SYRIA</title>
+			<link>http://cdn-streamer2.magictvbox.com/37.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Jordan</cname>
+		<item>
+			<title>@zombixbmc magictv  JORDEN</title>
+			<link>http://cdn-streamer2.magictvbox.com/38.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Abu Dhabi</cname>
+		<item>
+			<title>@zombixbmc magictv  AD AL AULA</title>
+			<link>http://cdn-streamer2.magictvbox.com/40.m3u8</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+		<cname>Alhayat2</cname>
+		<item>
+			<title>@zombixbmc magictv  AL HAYAT 2</title>
+			<link>http://cdn-streamer2.magictvbox.com/63.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Kuwait</cname>
+		<item>
+			<title>@zombixbmc magictv  KUWAIT</title>
+			<link>http://cdn-streamer2.magictvbox.com/60.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>KTV 2</cname>
+		<item>
+			<title>@zombixbmc magictv  KUWAIT 2</title>
+			<link>http://cdn-streamer2.magictvbox.com/61.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc magictv  CBC</title>
+			<link>http://cdn-delay1.magictvbox.com/13.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc magictv  CBC SRV 2</title>
+			<link>http://cdn-delay1.magictvbox.com/6.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc magictv  CBC SRV 3</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10148.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>On TV</cname>
+		<item>
+			<title>@zombixbmc magictv  ON TV</title>
+			<link>http://cdn-delay1.magictvbox.com/10.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Al-Nahar Drama</cname>
+		<item>
+			<title>@zombixbmc magictv  Al-Nahar Drama</title>
+			<link>http://cdn-delay1.magictvbox.com/11.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>KTV SPORT</cname>
+		<item>
+			<title>@zombixbmc magictv  KUWAIT SPORT</title>
+			<link>http://cdn-streamer2.magictvbox.com/62.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>AlQahera W Elnas</cname>
+		<item>
+			<title>@zombixbmc magictv  </title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10170.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>AlQahera W Elnas</cname>
+		<item>
+			<title>@zombixbmc magictv  AL NHAR SPORT</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10179.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>AL AHLY</cname>
+		<item>
+			<title>@zombixbmc magictv  AL AHLY CLUB</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10165.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>SM SM KIDS</cname>
+		<item>
+			<title>@zombixbmc magictv SM SM KIDS </title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10156.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+<streaminginfo>
+		<cname>E 1 KIDS</cname>
+		<item>
+			<title>@zombixbmc magictv E 1 KIDS</title>
+			<link>http://cdn-streamer2.magictvbox.com/59.m3u8</link>
 		</item>
 	</streaminginfo>
 
