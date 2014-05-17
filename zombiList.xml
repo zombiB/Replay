@@ -29,75 +29,131 @@
 		</item>
 	</streaminginfo>
 	
+
 	
-<streaminginfo>
+	<streaminginfo>
+
 		<cname>bein sport 1</cname>
 		<item>
-			<title>@zombixbmc iptvosn beINSPORT1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/1.ch</link>
+			<title>@zombixbmc beIN Sports 1 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/9.ch</link>
 		</item>
 	</streaminginfo>
 
+    <streaminginfo>
 
-<streaminginfo>
 		<cname>bein sport 2</cname>
 		<item>
-			<title>@zombixbmc iptvosn beINSPORT2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/2.ch</link>
+			<title>@zombixbmc beIN Sports 2 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/10.ch</link>
 		</item>
 	</streaminginfo>
 
+    <streaminginfo>
 
-<streaminginfo>
 		<cname>bein sport 3</cname>
 		<item>
-			<title>@zombixbmc iptvosn beINSPORT3</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/3.ch</link>
+			<title>@zombixbmc beIN Sports 3 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/11.ch</link>
 		</item>
 	</streaminginfo>
 
+    <streaminginfo>
 
-<streaminginfo>
 		<cname>bein sport 4</cname>
 		<item>
-			<title>@zombixbmc iptvosn beINSPORT4</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/4.ch</link>
+			<title>@zombixbmc beIN Sports 4 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
 		</item>
 	</streaminginfo>
 
+    <streaminginfo>
 
-<streaminginfo>
 		<cname>bein sport 5</cname>
 		<item>
-			<title>@zombixbmc iptvosn beINSPORT5</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/5.ch</link>
+			<title>@zombixbmc beIN Sports 5 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/13.ch</link>
 		</item>
 	</streaminginfo>
 
+    <streaminginfo>
 
-<streaminginfo>
 		<cname>bein sport 6</cname>
 		<item>
-			<title>@zombixbmc iptvosn beINSPORT6</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/6.ch</link>
+			<title>@zombixbmc beIN Sports 6 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/14.ch</link>
 		</item>
 	</streaminginfo>
 
+    <streaminginfo>
 
-<streaminginfo>
 		<cname>bein sport 7</cname>
 		<item>
-			<title>@zombixbmc iptvosn beINSPORT7</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/7.ch</link>
+			<title>@zombixbmc beIN Sports 7 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/15.ch</link>
 		</item>
 	</streaminginfo>
 
+    <streaminginfo>
 
-<streaminginfo>
 		<cname>bein sport 8</cname>
 		<item>
-			<title>@zombixbmc iptvosn beINSPORT8</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/8.ch</link>
+			<title>@zombixbmc beIN Sports 8 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/16.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>bein sport 9</cname>
+		<item>
+			<title>@zombixbmc beIN SPORT 9 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/137.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>bein sport 10</cname>
+		<item>
+			<title>@zombixbmc beIN SPORT 10 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/138.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>bein sport 11</cname>
+		<item>
+			<title>@zombixbmc beIN SPORT 11 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/139.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>bein sport 12</cname>
+		<item>
+			<title>@zombixbmc beIN SPORT 12 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/140.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>bein sport 13</cname>
+		<item>
+			<title>@zombixbmc beIN Sports 13 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>bein sport 14</cname>
+		<item>
+			<title>@zombixbmc beIN Sports 14 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -106,7 +162,7 @@
 		<cname>bein sport 1</cname>
 		<item>
 			<title>@zombixbmc iptvosn beIN Sports HD1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/9.ch</link>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/142.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -115,7 +171,7 @@
 		<cname>bein sport 2</cname>
 		<item>
 			<title>@zombixbmc iptvosn beIN Sports HD2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/10.ch</link>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/141.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -124,7 +180,7 @@
 		<cname>bein sport 3</cname>
 		<item>
 			<title>@zombixbmc iptvosn beIN Sports HD3</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/11.ch</link>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/143.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -133,7 +189,7 @@
 		<cname>bein sport 4</cname>
 		<item>
 			<title>@zombixbmc iptvosn beIN Sports HD4</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/144.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -142,7 +198,7 @@
 		<cname>bein sport 5</cname>
 		<item>
 			<title>@zombixbmc iptvosn beIN Sports HD5</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/13.ch</link>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/145.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -213,7 +269,7 @@
 <streaminginfo>
 		<cname>bein sport 13</cname>
 		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD13</title>
+			<title>@zombixbmc iptvosn </title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
 		</item>
 	</streaminginfo>
@@ -222,7 +278,7 @@
 <streaminginfo>
 		<cname>bein sport 14</cname>
 		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD14</title>
+			<title>@zombixbmc iptvosn </title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
 		</item>
 	</streaminginfo>
@@ -1505,7 +1561,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		<cname>MBC 1</cname>
 		<item>
 	<title>@zombixbmc MBC 1 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/37.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1521,7 +1577,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		<cname>MBC 2</cname>
 		<item>
 	        <title>@zombixbmc MBC 2 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/37.ch</link>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1563,6 +1619,15 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		<item>
 			<title>@zombixbmc</title>
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/5.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>MBC Drama</cname>
+		<item>
+			<title>@zombixbmc MBC Drama Plus hd iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/124.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1622,6 +1687,15 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>Art Aflam 1</cname>
+		<item>
+			<title>@zombixbmc ART Aflem 1 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/134.ch</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
 		<cname>Art Aflam 1</cname>
@@ -1631,7 +1705,14 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		</item>
 	</streaminginfo>
 
-	
+	<streaminginfo>
+
+		<cname>Art Aflam 2</cname>
+		<item>
+			<title>@zombixbmc ART Aflem 2 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/135.ch</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Art Aflam 2</cname>
 		<item>
@@ -2457,7 +2538,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 <streaminginfo>
 		<cname>OSN EN</cname>
 		<item>
-			<title>@zombixbmc iptvosn OSN Moies Action HD</title>
+			<title>@zombixbmc iptvosn OSN Movies Action HD</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/25.ch</link>
 		</item>
 	</streaminginfo>
@@ -2637,7 +2718,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 <streaminginfo>
 		<cname>Aljazeera</cname>
 		<item>
-			<title>@zombixbmc iptvosn AL JAZEERA</title>
+			<title>@zombixbmc iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/116.ch</link>
 		</item>
 	</streaminginfo>
@@ -2646,7 +2727,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 <streaminginfo>
 		<cname>Aljazeera</cname>
 		<item>
-			<title>@zombixbmc iptvosn AL JAZEERA ARABIC</title>
+			<title>@zombixbmc iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/45.ch</link>
 		</item>
 	</streaminginfo>
@@ -2656,7 +2737,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 <streaminginfo>
 		<cname>Aljazeera Doc</cname>
 		<item>
-			<title>@zombixbmc iptvosn AL JAZEERA DOCUMENTARY</title>
+			<title>@zombixbmc iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/47.ch</link>
 		</item>
 	</streaminginfo>
@@ -2665,7 +2746,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 <streaminginfo>
 		<cname>Al Jazeera America</cname>
 		<item>
-			<title>@zombixbmc iptvosn Al Jazeera America</title>
+			<title>@zombixbmc iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/118.ch</link>
 		</item>
 	</streaminginfo>
@@ -2674,7 +2755,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 <streaminginfo>
 		<cname>DISCOVERY CHANNEL</cname>
 		<item>
-			<title>@zombixbmc iptvosn Discovery Channel</title>
+			<title>@zombixbmc iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/77.ch</link>
 		</item>
 	</streaminginfo>
@@ -2773,6 +2854,15 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		<item>
 			<title>@zombixbmc iptvosn Orbit MusicNow</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/57.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>CBC Sofra</cname>
+		<item>
+			<title>@zombixbmc CBC SOFRA iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/131.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -3103,6 +3193,16 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 			<link>http://cdn-streamer2.magictvbox.com/62.m3u8</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>AlQahera W Elnas</cname>
+		<item>
+			<title>@zombixbmc Al Kahera Wal Nas 2 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/133.ch</link>
+		</item>
+	</streaminginfo>
+	
 <streaminginfo>
 		<cname>AlQahera W Elnas</cname>
 		<item>
