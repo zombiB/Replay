@@ -2297,6 +2297,44 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/119.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>Melody Classic</cname>
+		<item>
+			<title>@zombixbmc Melody Classic iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/132.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>Melody Aflem</cname>
+		<item>
+			<title>@zombixbmc Melody Aflam iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/128.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>Melody Hits</cname>
+		<item>
+			<title>@zombixbmc Melody Hits iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/129.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+
+		<cname>Melody Aflem</cname>
+		<item>
+			<title>@zombixbmc MOVIES iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/126.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
 
 
 <streaminginfo>
