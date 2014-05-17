@@ -2274,13 +2274,7 @@
 		</item>
 	</streaminginfo>
 
-<streaminginfo>
-		<cname>Alhayat2</cname>
-		<item>
-			<title>@zombixbmc iptvosn AL HAYAT 2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/111.ch</link>
-		</item>
-	</streaminginfo>
+
 
 
 <streaminginfo>
@@ -3037,13 +3031,7 @@
 		</item>
 	</streaminginfo>
 
-<streaminginfo>
-		<cname>Alhayat2</cname>
-		<item>
-			<title>@zombixbmc magictv  AL HAYAT 2</title>
-			<link>http://cdn-streamer2.magictvbox.com/63.m3u8</link>
-		</item>
-	</streaminginfo>
+
 <streaminginfo>
 		<cname>Kuwait</cname>
 		<item>
