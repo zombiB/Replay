@@ -14,22 +14,6 @@
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18085991/streams/live?v=1/best.m3u8</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>@zombixbmc fcb vs at madrid ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18088771/streams/live?v=1/best.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>@zombixbmc fcb vs at madrid ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18038501/streams/live?v=1/best.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-
 	
 	<streaminginfo>
 
@@ -266,33 +250,6 @@
 	</streaminginfo>
 
 
-<streaminginfo>
-		<cname>bein sport 13</cname>
-		<item>
-			<title>@zombixbmc iptvosn </title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 14</cname>
-		<item>
-			<title>@zombixbmc iptvosn </title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>bein sport 15</cname>
-		<item>
-			<title>@zombixbmc iptvosn beIN Sports HD15</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/23.ch</link>
-		</item>
-	</streaminginfo>
-
-	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
@@ -300,33 +257,6 @@
 			<link>http://cms.prosatiptv.com/getChannel?channelId=9&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
-
-
-	
-	<streaminginfo>
-		<cname>Bein Sport 1 vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link></link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 1 HD</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b1575 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 1 vv</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST1</link>
-		</item>
-	</streaminginfo> 
-
 	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
@@ -336,32 +266,6 @@
 		</item>
 	</streaminginfo>
 
-	
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 2 HD</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b2458 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 2vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/47.ch </link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>@zombixbmc updated</title>
-			<link>
-rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.541833257.r.w6cdn.com/541833257/mp4:koraonline3yoXZhl1FgmpA swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.kora-online.tv/kora1.html
-</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
@@ -378,14 +282,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/48.ch</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 3 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b3356 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
+	
 
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
@@ -410,18 +307,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/49.ch</link>
 		</item>
 	</streaminginfo>
-	
-<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 4 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b4870 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
 
-
-	
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
@@ -447,14 +333,6 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		</item>
 	</streaminginfo>
 	
-<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 5 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b5441 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
 
 
 
@@ -485,16 +363,6 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		</item>
 	</streaminginfo>
 	
-<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 6 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b6690 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-
-
 
 	<streaminginfo>
 		<cname>Bein Sport 6</cname>
@@ -504,14 +372,6 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>@zombixbmc eucast</title>
-			<link>rtmp://31.220.0.134:1935/live playpath=bein altechnoe.comxx6 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
-		</item>
-	</streaminginfo>
-
 	
 	
 	<streaminginfo>
@@ -519,15 +379,6 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		<item>
 			<title>@zombixbmc no-ip</title>
 			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/52.ch</link>
-		</item>
-	</streaminginfo>
-	
-<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 7 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b7377 pageUrl=http://xuscacamusca.se/</link>
 		</item>
 	</streaminginfo>
 
@@ -552,7 +403,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	</streaminginfo>
 		
 <streaminginfo>
-		<cname>Bein Sport 8</cname>
+		<cname>Bein Sport 8vv</cname>
 		<item>
 			<title>@zombixbmc BEIN Sport 8 HD
 </title>
@@ -597,7 +448,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	</streaminginfo>
 		
 <streaminginfo>
-		<cname>Bein Sport 9</cname>
+		<cname>Bein Sport 9vv</cname>
 		<item>
 			<title>@zombixbmc BEIN Sport 9 HD
 </title>
@@ -618,7 +469,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	
 		
 <streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport 10vv</cname>
 		<item>
 			<title>@zombixbmc BEIN Sport 10 HD
 </title>
@@ -636,7 +487,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport 11vv</cname>
 		<item>
 			<title>@zombixbmc BEIN Sport 11 HD
 </title>
@@ -667,7 +518,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport 12vv</cname>
 		<item>
 			<title>@zombixbmc BEIN Sport 12 HD
 </title>
@@ -726,7 +577,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	
 	
 <streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein Sport 14vv</cname>
 		<item>
 			<title>@zombixbmc BEIN BY STVCHANN:Bein Sport 14 HD
 </title>
@@ -754,7 +605,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein Sport 15vv</cname>
 		<item>
 			<title>@zombixbmc BEIN BY STVCHANN:Bein Sport 15 HD
 </title>
@@ -799,7 +650,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 
 	
 	<streaminginfo>
-		<cname>Al Resoul TV</cname>
+		<cname>Al Resoul TVvv</cname>
 		<item>
 			<title>Al Resoul TV</title>
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/12677236/streams/live?v=720p/playlist.m3u8</link>
@@ -833,7 +684,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>France24 Arabic</cname>
+		<cname>France24 Arabicvv</cname>
 		<item>
 			<title>France 24 ARABIC</title>
 			<link>rtmp://stream2.france24.yacast.net:80/france24_live/frda/f24_livefrda</link>
@@ -841,7 +692,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>France24 Arabic</cname>
+		<cname>France24 Arabicvv</cname>
 		<item>
 			<title>France 24 ARABIC</title>
 			<link>http://free:free@matchfree1to10.no-ip.net/13.ch</link>
@@ -1262,21 +1113,8 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>D8</cname>
-		<item>
-			<title>D8</title>
-			<link>http://chkg.tdf-cdn.com/6318/02.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>D17</cname>
-		<item>
-			<title>D17</title>
-			<link>http://chkg.tdf-cdn.com/6319/02.m3u8</link>
-		</item>
-	</streaminginfo>
+	
+	
 
 	<streaminginfo>
 		<cname>France 24 FR</cname>
@@ -1296,7 +1134,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 
 	
 	<streaminginfo>
-		<cname>FRANCE 0</cname>
+		<cname>FRANCE 0vv</cname>
 		<item>
 			<title>@zombixbmc </title>
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/33.ch</link>
@@ -1473,7 +1311,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>arte</title>
+			<title>@zombixbmc </title>
 			<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8 </link>
 		</item>
 	</streaminginfo>
@@ -1481,7 +1319,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>arte (filmon low)</title>
+			<title>@zombixbmc (filmon low)</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1729.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
    <regex>
      <name>url</name>
@@ -1499,7 +1337,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>arte (filmon high)</title>
+			<title>@zombixbmc (filmon high)</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1729.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
            <regex>
             <name>url</name>
@@ -1517,10 +1355,36 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	<streaminginfo>
 		<cname>BFMTV</cname>
 		<item>
-			<title>BFMTV</title>
+			<title>@zombixbmc</title>
 			<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
 		</item>
 	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>Canal plusvv</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://81.65.155.31:8001/1:0:1:200C:430:1:FFFF0000:0:0:0:</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>D17</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://chkg.tdf-cdn.com/6319/02.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>D8</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://chkg.tdf-cdn.com/6318/02.m3u8</link>
+		</item>
+	</streaminginfo>
+
 
 	
 	<streaminginfo>
@@ -1854,13 +1718,6 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Canal plus</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>http://81.65.155.31:8001/1:0:1:200C:430:1:FFFF0000:0:0:0:</link>
-		</item>
-	</streaminginfo>
 
 	
 	<streaminginfo>
@@ -1921,96 +1778,19 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	<streaminginfo>
 		<cname>OSN EN</cname>
 		<item>
-			<title>@zombixbmc fb/Iptvosn</title>
+			<title>@zombixbmc usr needed from fb/Iptvosn</title>
 			<link></link>
 		</item>
 	</streaminginfo>
 
-<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmc OSN:OSN First HD iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/23.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmc OSN MOVIES ACTION iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/24.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmcOSN Movies HD +2 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/25.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmcOSN Movies Comedy HD iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/26.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-		   <title>@zombixbmcOSN Movies Premiere HD iptvosn</title>
-		   <link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/27.ch</link>
-		</item>
-	</streaminginfo>
-
 	<streaminginfo>
 		<cname>OSN Ar</cname>
 		<item>
-			<title>@zombixbmc</title>
+			<title>@zombixbmc user needed from fb/iptvosn</title>
 			<link></link>
 		</item>
 	</streaminginfo>
-    <streaminginfo>
-		<cname>OSN Ar</cname>
-		<item>
-			<title>@zombixbmcOSN Yahala Drama iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/28.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>OSN Ar</cname>
-		<item>
-		    <title>@zombixbmcOSN Yahala HD +2 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/29.ch</link>
-		</item>
-	</streaminginfo>
-
-    <streaminginfo>
-		<cname>OSN Ar</cname>
-		<item>
-		    <title>@zombixbmc OSN Yahala iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/30.ch</link>
-		</item>
-	</streaminginfo>
-
-    <streaminginfo>
-		<cname>OSN Ar</cname>
-		<item>
-		    <title>@zombixbmc OSN Shabab iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/31.ch</link>
-		</item>
-	</streaminginfo>
-
-	
+    
 	<streaminginfo>
 		<cname>M6</cname>
 		<item>
@@ -2174,7 +1954,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 	<streaminginfo>
 		<cname>OSN ALPHA orbit</cname>
 		<item>
-	        <title>@zombixbmc </title>
+	        <title>@zombixbmc usr needed from fb/Iptvosn</title>
 			<link></link>
 		</item>
 	</streaminginfo>
@@ -2199,56 +1979,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 			<link>http://212.68.33.139:8002</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-	        <title>@zombixbmc Orbit Cinema 2 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/59.ch</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-	        <title>@zombixbmc Orbit Cinema 1 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-	        <title>@zombixbmc Orbit Alyawm iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-	        <title>@zombixbmc Orbit Fann iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-	        <title>@zombixbmc Orbit Mmousalsalat iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-	        <title>@zombixbmc Orbit Alsafwa iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-	        <title>@zombixbmc Orbit MusicNow iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/64.ch</link>
-		</item>
-	</streaminginfo>
-
+	
 	<streaminginfo>
 		<cname>Moga Comedy</cname>
 		<item>
@@ -2334,7 +2065,7 @@ rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.54183325
 		</item>
 	</streaminginfo>
 
-    <streaminginfo>
+   
 
 
 <streaminginfo>
