@@ -7,7 +7,13 @@
 			<link>rtmp://85.91.143.23/23688/ playpath=23688.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://www.mytvonline.org/arabic-orient/Beinsports1-ar.html</link>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>Tele Sports </cname>
+		<item>
+			<title>@zombixbmc ustream</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18085957/streams/live?v=1/best.m3u8</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Tele Sports </cname>
 		<item>
