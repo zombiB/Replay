@@ -287,8 +287,10 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>@zombixbmc </title>
-			<link>http://cms.prosatiptv.com/getChannel?channelId=10&amp;sn=12576902&amp;byPass=987</link>
+			<title>@zombixbmc updated</title>
+			<link>
+rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.541833257.r.w6cdn.com/541833257/mp4:koraonline3yoXZhl1FgmpA swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.kora-online.tv/kora1.html
+</link>
 		</item>
 	</streaminginfo>
 	
@@ -428,8 +430,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 6</cname>
 		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>http://cms.prosatiptv.com/getChannel?channelId=14&amp;sn=12576902&amp;byPass=987</link>
+			<title>@zombixbmc updated</title>
+			<link>rtmp://31.220.0.195:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b1r&amp;vw=620&amp;vh=490 live=1</link>
 		</item>
 	</streaminginfo>
 	
