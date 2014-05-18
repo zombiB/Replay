@@ -1,6 +1,8 @@
 <streamingInfos>
 
 
+
+
 	<streaminginfo>
 		<cname>2M</cname>
 		<item>
@@ -45,7 +47,7 @@
 		</item>
 	</streaminginfo>
 	
-    <streaminginfo>
+	<streaminginfo>
 	
 		<cname>AL EQTESADIA TVCvv</cname>
 		<item>
@@ -53,6 +55,8 @@
 			<link>mms://38.96.148.75/Eqtisadia</link>
 		</item>
 	</streaminginfo>
+	
+    
 	
     <streaminginfo>
 		<cname>Al Hiwar Ettounsi</cname>
@@ -830,49 +834,6 @@
 	</streaminginfo>
 
 
-
-
-
-
-
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<streaminginfo>
-		<cname>Nile Sport</cname>
-		<item>
-			<title>@zombixbmc magictv  AL NHAR SPORT</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10179.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
     <streaminginfo>
 		<cname>Bein Sport News</cname>
 		<item>
@@ -880,350 +841,194 @@
 			<link>rtmp://85.91.143.23/23688/ playpath=23688.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://www.mytvonline.org/arabic-orient/Beinsports1-ar.html</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>@zombixbmc fcb vs at madrid ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18085991/streams/live?v=1/best.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	
-
-    
-
-	
-	
-	
 	
 	<streaminginfo>
-		<cname>Bein Sport 3vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/48.ch</link>
-		</item>
-	</streaminginfo>
-	
-
-	
-
-	<streaminginfo>
-		<cname>Bein Sport 4vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/49.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 5vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/50.ch</link>
-		</item>
-	</streaminginfo>
-	
-
-
-
-	
-
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 6vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/51.ch beinsport2</link>
-		</item>
-	</streaminginfo>
-	
-
-	
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 7vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/52.ch</link>
-		</item>
-	</streaminginfo>
-
-
-
-	
-
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 8vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/53.ch </link>
-		</item>
-	</streaminginfo>
-		
-<streaminginfo>
-		<cname>Bein Sport 8vv</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 8 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b8174 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-
-
-
-	
-	<streaminginfo>
-		<cname>Bein Sport 9vv</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST9</link>
-		</item>
-	</streaminginfo>
-		
-<streaminginfo>
-		<cname>Bein Sport 9vv</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 9 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b9195 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-
-
-	
-
-	
-
-	
-	<streaminginfo>
-		<cname>Bein Sport 11vv</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST11</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11vv</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 11 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b11405 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-
-
-	
-	
-	
-	
-
-	<streaminginfo>
-		<cname>Bein Sport 12vv</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST12</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 12vv</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 12 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b12405 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-	
-	
-
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 13vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/58.ch beinsport2</link>
-		</item>
-	</streaminginfo>
-	
-	
-<streaminginfo>
-		<cname>Bein Sport 13vv</cname>
-		<item>
-			<title>@zombixbmc BEIN Sport 13 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b13925 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-
-
-
-	<streaminginfo>
-		<cname>Bein Sport 13vv</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST13</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 14vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/59.ch beinsport2</link>
-		</item>
-	</streaminginfo>
-	
-	
-<streaminginfo>
-		<cname>Bein Sport 14vv</cname>
-		<item>
-			<title>@zombixbmc BEIN BY STVCHANN:Bein Sport 14 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b14598 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-
-
-
-	<streaminginfo>
-		<cname>Bein Sport 14vv</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST14</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 15vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv4q:iptv4q@testserv2.no-ip.net/60.ch beinsport2</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 15vv</cname>
-		<item>
-			<title>@zombixbmc BEIN BY STVCHANN:Bein Sport 15 HD
-</title>
-			<link>rtmp://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b15293 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo> 
-
-
-	<streaminginfo>
-		<cname>Bein Sport 15vv</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>rtmp://46.246.124.22/private/_definst_/BST15</link>
-		</item>
-	</streaminginfo>
-	
-	
-
-	
-	<streaminginfo>
-		<cname>Nile Sport</cname>
-		<item>
-			<title>Nile Sport</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>KTV SPORTvv</cname>
-		<item>
-			<title>KTV SPORT</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>Al Resoul TVvv</cname>
-		<item>
-			<title>Al Resoul TV</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/12677236/streams/live?v=720p/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-
-	
-
-	
-
-	<streaminginfo>
-		<cname>France24 Arabicvv</cname>
-		<item>
-			<title>France 24 ARABIC</title>
-			<link>rtmp://stream2.france24.yacast.net:80/france24_live/frda/f24_livefrda</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>France24 Arabicvv</cname>
-		<item>
-			<title>France 24 ARABIC</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/13.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-	<streaminginfo>
-		<cname>Tunisia national 1vv</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://free:free@testserv2.no-ip.net/18.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Tunisia national 1vv</cname>
-		<item>
-			<title>Tunisia national 1</title>
-			<link>http://streamer.fss.tiscali.com/satchannel1/tvtunisi.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-
-	
-	<streaminginfo>
-		<cname>Tunisia national 2vv</cname>
+		<cname>BFMTV</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://free:free@testserv2.no-ip.net/19.ch</link>
+			<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Cairo Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  CAIRO CINEMA</title>
+			<link>http://cdn-delay1.magictvbox.com/1.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Cairo Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn CAIRO CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Cairo Drama</cname>
+		<item>
+			<title>@zombixbmc magictv  CAIRO DRAMA</title>
+			<link>http://cdn-delay1.magictvbox.com/3.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+		
+    <streaminginfo>
+		<cname>Cairo Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn CAIRO DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/82.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc magictv  CBC</title>
+			<link>http://cdn-delay1.magictvbox.com/13.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc magictv  CBC SRV 2</title>
+			<link>http://cdn-delay1.magictvbox.com/6.m3u8</link>
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc magictv  CBC SRV 3</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10148.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/86.ch</link>
+		</item>
+	</streaminginfo>
+	
+<streaminginfo>
+		<cname>CBC Drama</cname>
+		<item>
+			<title>@zombixbmc magictv CBC DRAMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10149.stream/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+		
+<streaminginfo>
+		<cname>CBC Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/59.ch</link>
+		</item>
+	</streaminginfo>
+
+
+<streaminginfo>
+		<cname>CBC Extra</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC EXTRA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>CBC Sofra</cname>
+		<item>
+			<title>@zombixbmc CBC SOFRA iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/131.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Cinema EN</cname>
+		<item>
+	        <title>@zombixbmc ar</title>
+			<link>http://212.68.33.139:8001</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cinema EN</cname>
+		<item>
+	        <title>@zombixbmc fr</title>
+			<link>http://212.68.33.139:8003</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cinema EN</cname>
+		<item>
+	        <title>@zombixbmc en</title>
+			<link>http://212.68.33.139:8002</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>D17</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://chkg.tdf-cdn.com/6319/02.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>D8</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://chkg.tdf-cdn.com/6318/02.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>DISCOVERY CHANNELvv</cname>
+		<item>
+			<title>DISCOVERY CHANNEL</title>
+
+			<link>http://m24.megafun.vn/live.vs?c=vstv044&amp;q=high</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Dubai</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>DW Arabic</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://dw.lsops.net/live/ playpath=dw_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/dw-arabia live=1</link>
+		</item>
+	</streaminginfo>
+		
+<streaminginfo>
+		<cname>E 1 KIDS</cname>
+		<item>
+			<title>@zombixbmc magictv E 1 KIDS</title>
+			<link>http://cdn-streamer2.magictvbox.com/59.m3u8</link>
 		</item>
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Tunisia national 1</cname>
+<streaminginfo>
+		<cname>E 1 KIDS</cname>
 		<item>
-			<title>@zombixbmc streamago</title>
-			<link>http://ca-edge-1.cdn2.streamago.tv:80/streamagoedge/1052/224/playlist.m3u8</link>
+			<title>@zombixbmc iptvosn E 1 KIDS</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/104.ch</link>
 		</item>
 	</streaminginfo>
-
+	
+	
 	<streaminginfo>
 		<cname>EnnaharTV algerie</cname>
 		<item>
@@ -1231,363 +1036,25 @@
 			<link>rtmp://87.98.155.194/live playpath=EnnaharTV swfUrl=http://www.ennahartv.net/live/player.swf live=1 pageUrl=http://www.ennahartv.net/ar/live/</link>
 		</item>
 	</streaminginfo>
-
 	
-	<streaminginfo>
-		<cname>nbn lebanon</cname>
+	
+<streaminginfo>
+		<cname>Fox</cname>
 		<item>
-			<title>nbn lebanon</title>
-			<link>rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&amp;autostart=true&amp;%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo> 
-
-	<streaminginfo>
-		<cname>Kuwaitvv</cname>
-		<item>
-			<title>Kuwait</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch1.sdp</link>
+			<title>@zombixbmc iptvosn Fox</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/75.ch</link>
 		</item>
 	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Kuwait</cname>
+
+
+<streaminginfo>
+		<cname>Fox</cname>
 		<item>
-			<title>Kuwait</title>
-			<link>http://cdn-streamer2.magictvbox.com/60.m3u8</link>
+			<title>@zombixbmc iptvosn Fox Life</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/49.ch</link>
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>KTV 2</cname>
-		<item>
-			<title>KTV 2</title>
-			<link>http://cdn-streamer2.magictvbox.com/61.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>KTV 2vv</cname>
-		<item>
-			<title>KTV 2</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>KTV ARABE</cname>
-		<item>
-			<title>KTV ARABE</title>
-			<link>http://cdn-streamer2.magictvbox.com/62.m3u8f</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>KTV ARABEvv</cname>
-		<item>
-			<title>KTV ARABE</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch5.sdp</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>KTV ETRAAvv</cname>
-		<item>
-			<title>KTV ETRAA</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch4.sdp</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>KTV PLUSvv</cname>
-		<item>
-			<title>KTV PLUS</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch6.sdp</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-	<streaminginfo>
-		<cname>IRAQIA</cname>
-		<item>
-			<title>IRAQIA</title>
-			<link>http://cdn-streamer2.magictvbox.com/39.m3u8 </link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>IRAQIAvv</cname>
-		<item>
-			<title>IRAQIA</title>
-			<link>mms://212.7.196.74/iraqia</link>
-		</item>
-	</streaminginfo>
-
-	
-
-	
-
-	
-
-	<streaminginfo>
-		<cname>Al Majdvv</cname>
-		<item>
-			<title>Al Majd</title>
-			<link>rtmp://majdg.pwlstation.com/live/majdg/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>ALMAJAD ALMAIAvv</cname>
-		<item>
-			<title>ALMAJAD ALMAIA</title>
-			<link>rtmp://majdsc.pwlstation.com/live/majdsc/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>ALMAJD MASSAH vv</cname>
-		<item>
-			<title>ALMAJD MASSAH </title>
-			<link>rtmp://majdd.pwlstation.com/live/majdd/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Haneen Channel</cname>
-		<item>
-			<title>Haneen Channel</title>
-			<link>mmsh://stream.watchislam.com/ramadan</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>KSA 1vv</cname>
-		<item>
-			<title>KSA 1</title>
-			<link>rtsp://38.96.148.74/CH1TV</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>KSA 2vv</cname>
-		<item>
-			<title>KSA 2</title>
-			<link>rtsp://38.96.148.74/CH2TV</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Quran TV ksavv</cname>
-		<item>
-			<title>Quran TV ksa</title>
-			<link>rtsp://38.96.148.75/Quran?MSWMExt=.asf</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>Quran TV ksa</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>sunnah TVvv</cname>
-		<item>
-			<title>sunnah TV</title>
-			<link>rtsp://38.96.148.75/Sunnah?MSWMExt=.asf</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>Wesal Tv</title>
-			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>M3Ali Tv</cname>
-		<item>
-			<title>M3Ali Tv</title>
-			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Cinema</cname>
-		<item>
-			<title>Nile Cinema</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Comedy</cname>
-		<item>
-			<title>Nile Comedy</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=60</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Family</cname>
-		<item>
-			<title>Nile Family</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Life</cname>
-		<item>
-			<title>Nile Life</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Drama</cname>
-		<item>
-			<title>Nile Drama</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>I Film</cname>
-		<item>
-			<title>I Film</title>
-			<link>mms://93.190.24.114/ifilmtv</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>ALMAJD KIDSvv </cname>
-		<item>
-			<title>ALMAJD KIDS </title>
-			<link>rtmp://majdb.pwlstation.com/live/majdb/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>ALMAJD KIDS 2vv</cname>
-		<item>
-			<title>ALMAJD KIDS 2</title>
-			<link>rtmp://majdk.pwlstation.com/live/majdk/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>ALMAJD TAGHARIDvv</cname>
-		<item>
-			<title>ALMAJD TAGHARID</title>
-			<link>rtmp://majdt.pwlstation.com/live/majdt/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>ALMAJD RODAvv</cname>
-		<item>
-			<title>ALMAJD RODA</title>
-			<link>rtmp://majdr.pwlstation.com/live/majdr/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>ALMAJD DOCvv</cname>
-		<item>
-			<title>ALMAJD DOC</title>
-			<link>rtmp://majddoc.pwlstation.com/live/majddoc/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/ swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>ALMAJD NATUREvv</cname>
-		<item>
-			<title>ALMAJD NATURE</title>
-			<link>rtmp://majdnat.pwlstation.com/live/majdnat/ playpath=2_livestream swfUrl=http://pwlstation.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://almajdtv.tv/live/#docoment swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>DISCOVERY CHANNEL</cname>
-		<item>
-			<title>DISCOVERY CHANNEL</title>
-
-			<link>http://m24.megafun.vn/live.vs?c=vstv044&amp;q=high</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Culture</cname>
-		<item>
-			<title>Nile Culture</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Nile Learning</cname>
-		<item>
-			<title>Nile Learning</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>I-TELE</cname>
-		<item>
-			<title>I-TELE</title>
-			<link>http://chkg.tdf-cdn.com/6317/02.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>I-TELE</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1726.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
-            <regex>
-             <name>url</name>
-              <expres>rtmp:....([^\\]*)</expres>
-               <page>http://www.filmon.com/tv/channel/export?channel_id=1726</page>
-            </regex>
-            <regex>
-            <name>key</name>
-               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
-                 <page>http://www.filmon.com/tv/channel/export?channel_id=1726</page>
-            </regex>
-		</item>
-		
-	</streaminginfo>
-
-	
-	
-	
-
-	<streaminginfo>
-		<cname>France 24 FR</cname>
-		<item>
-			<title>France 24 FR</title>
-			<link>http://tv.flux.france24.com/4684/02.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>GULLI</cname>
-		<item>
-			<title>GULLI</title>
-			<link>http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/hasbahca.m3u8</link>
-		</item>
-	</streaminginfo>
-
 	
 	<streaminginfo>
 		<cname>FRANCE 0vv</cname>
@@ -1647,34 +1114,48 @@
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
 		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://free:free@testserv2.no-ip.net/11.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
-			<title>@zombixbmc no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/18.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
 			<title>FRANCE 2</title>
 			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel1.wmv?MSWMExt=.asf</link>
 		</item>
 	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>France 24 FR</cname>
+		<item>
+			<title>France 24 FR</title>
+			<link>http://tv.flux.france24.com/4684/02.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>France 24 FR</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=298.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+            <regex>
+             <name>url</name>
+              <expres>rtmp:....([^\\]*)</expres>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=298</page>
+            </regex>
+            <regex>
+            <name>key</name>
+               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+                 <page>http://www.filmon.com/tv/channel/export?channel_id=298</page>
+            </regex>
+		</item>
+		
+	</streaminginfo>
+
+	
+
 
 	
 	<streaminginfo>
 		<cname>FRANCE 3</cname>
 		<item>
-			<title>@zombixbmc</title>
+			<title>@zombixbmc filmon high</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1723.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
             <regex>
              <name>url</name>
@@ -1692,16 +1173,16 @@
 
 	
 	<streaminginfo>
-		<cname>FRANCE 3</cname>
+		<cname>FRANCE 3vv</cname>
 		<item>
-			<title>@zombixbmc </title>
+			<title>@zombixbmc noip</title>
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/22.ch</link>
 		</item>
 	</streaminginfo>
 
 	
 	<streaminginfo>
-		<cname>FRANCE 3</cname>
+		<cname>FRANCE 3vv</cname>
 		<item>
 			<title>FRANCE 3</title>
 			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel2.wmv?MSWMExt=.asf</link>
@@ -1710,7 +1191,7 @@
 
 	
 	<streaminginfo>
-		<cname>FRANCE 4</cname>
+		<cname>FRANCE 4vv</cname>
 		<item>
 			<title>@zombixbmc </title>
 			<link>hhttp://iptv10d:iptv10d@testserv2.no-ip.net/23.ch</link>
@@ -1719,7 +1200,7 @@
 
 	
 	<streaminginfo>
-		<cname>FRANCE 4</cname>
+		<cname>FRANCE 4vv</cname>
 		<item>
 			<title>FRANCE 4</title>
 			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel3.wmv?MSWMExt=.asf</link>
@@ -1730,7 +1211,7 @@
 	<streaminginfo>
 		<cname>FRANCE 5</cname>
 		<item>
-			<title>@zombixbmc</title>
+			<title>@zombixbmc filmon</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1720.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
             <regex>
              <name>url</name>
@@ -1748,7 +1229,7 @@
 
 	
 	<streaminginfo>
-		<cname>FRANCE 5</cname>
+		<cname>FRANCE 5vv</cname>
 		<item>
 			<title>@zombixbmc </title>
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/24.ch</link>
@@ -1757,79 +1238,242 @@
 
 	
 	<streaminginfo>
-		<cname>FRANCE 5</cname>
+		<cname>FRANCE 5vv</cname>
 		<item>
 			<title>FRANCE 5</title>
 			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel4.wmv?MSWMExt=.asf</link>
 		</item>
 	</streaminginfo>
-
 	
 	<streaminginfo>
-		<cname>BFMTV</cname>
+		<cname>GULLI</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>Canal plusvv</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>http://81.65.155.31:8001/1:0:1:200C:430:1:FFFF0000:0:0:0:</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>D17</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>http://chkg.tdf-cdn.com/6319/02.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>D8</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>http://chkg.tdf-cdn.com/6318/02.m3u8</link>
+			<title>GULLI</title>
+			<link>http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/hasbahca.m3u8</link>
 		</item>
 	</streaminginfo>
 
-
+	<streaminginfo>
+		<cname>Haneen Channel</cname>
+		<item>
+			<title>Haneen Channel</title>
+			<link>mmsh://stream.watchislam.com/ramadan</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>TV 5 MONDE</cname>
+		<cname>I Film</cname>
 		<item>
-			<title>TV 5 MONDE</title>
-			<link>http://rm-edge-3.cdn2.streamago.tv/streamagoedge/1924/817/playlist.m3u8</link>
+			<title>I Film</title>
+			<link>mms://93.190.24.114/ifilmtv</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>I-TELE</cname>
+		<item>
+			<title>I-TELE</title>
+			<link>http://chkg.tdf-cdn.com/6317/02.m3u8</link>
 		</item>
 	</streaminginfo>
 
 	
 	<streaminginfo>
-		<cname>TF1</cname>
+		<cname>I-TELE</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/16.ch</link>
+			<title>@zombixbmc filmon</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1726.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+            <regex>
+             <name>url</name>
+              <expres>rtmp:....([^\\]*)</expres>
+               <page>http://www.filmon.com/tv/channel/export?channel_id=1726</page>
+            </regex>
+            <regex>
+            <name>key</name>
+               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+                 <page>http://www.filmon.com/tv/channel/export?channel_id=1726</page>
+            </regex>
+		</item>
+		
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IRAQIA</cname>
+		<item>
+			<title>IRAQIA</title>
+			<link>http://cdn-streamer2.magictvbox.com/39.m3u8 </link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>TF1</cname>
+		<cname>Jordan</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
+			<title>@zombixbmc magictv  JORDEN</title>
+			<link>http://cdn-streamer2.magictvbox.com/38.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+<streaminginfo>
+		<cname>Jordan</cname>
+		<item>
+			<title>@zombixbmc iptvosn JORDEN</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/109.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Karameesh</cname>
+		<item>
+			<title>@zombixbmc iptvosn Karameesh</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>KTV 2</cname>
+		<item>
+			<title>KTV 2</title>
+			<link>http://cdn-streamer2.magictvbox.com/61.m3u8</link>
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>KTV 2vv</cname>
+		<item>
+			<title>KTV 2</title>
+			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>KTV ARABE</cname>
+		<item>
+			<title>KTV ARABE</title>
+			<link>http://cdn-streamer2.magictvbox.com/62.m3u8f</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>KTV ARABEvv</cname>
+		<item>
+			<title>KTV ARABE</title>
+			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch5.sdp</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>KTV ETRAAvv</cname>
+		<item>
+			<title>KTV ETRAA</title>
+			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch4.sdp</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>KTV PLUSvv</cname>
+		<item>
+			<title>KTV PLUS</title>
+			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch6.sdp</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>KTV SPORTvv</cname>
+		<item>
+			<title>KTV SPORT</title>
+			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
+		</item>
+	</streaminginfo>
+	
+	
+<streaminginfo>
+		<cname>KTV SPORT</cname>
+		<item>
+			<title>@zombixbmc magictv  KUWAIT SPORT</title>
+			<link>http://cdn-streamer2.magictvbox.com/62.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+<streaminginfo>
+		<cname>KTV SPORT</cname>
+		<item>
+			<title>@zombixbmc iptvosn KUWAIT SPORT</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/106.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>Kuwait</cname>
+		<item>
+			<title>Kuwait</title>
+			<link>http://cdn-streamer2.magictvbox.com/60.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>LCD AFLAM</cname>
+		<item>
+			<title>@zombixbmc magictv  LCD AFLAM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10186.stream/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+<streaminginfo>
+		<cname>LCD AFLAM</cname>
+		<item>
+			<title>@zombixbmc iptvosn LCD AFLAM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/99.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Libya</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://hd2.lsops.net/live playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/libyatv live=1</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+		<cname>Libya</cname>
+		<item>
+			<title>@zombixbmc magictv  LIBIA AL HURA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10187.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>M3Ali Tv</cname>
+		<item>
+			<title>M3Ali Tv</title>
+			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>M6vv</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/21.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>M6vv</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/81.ch</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>MBC 1</cname>
 		<item>
-			<title>@zombixbmc</title>
+			<title>@zombixbmc noip</title>
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/1.ch</link>
 		</item>
 	</streaminginfo>
@@ -1841,11 +1485,11 @@
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/37.ch</link>
 		</item>
 	</streaminginfo>
-
+	
 	<streaminginfo>
 		<cname>MBC 2</cname>
 		<item>
-			<title>@zombixbmc</title>
+			<title>@zombixbmc noip</title>
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/2.ch</link>
 		</item>
 	</streaminginfo>
@@ -1857,7 +1501,6 @@
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
 		</item>
 	</streaminginfo>
-
 	
 	<streaminginfo>
 		<cname>MBC 3</cname>
@@ -1874,7 +1517,7 @@
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
 		</item>
 	</streaminginfo>
-
+	
 	<streaminginfo>
 		<cname>MBC 4</cname>
 		<item>
@@ -1890,6 +1533,31 @@
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Action</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/6.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>MBC Action</cname>
+		<item>
+	<title>@zombixbmcMBC Action iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Bollywood</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/9.ch</link>
+		</item>
+	</streaminginfo>
+
 
 	<streaminginfo>
 		<cname>MBC Drama</cname>
@@ -1915,31 +1583,14 @@
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
 		</item>
 	</streaminginfo>
-
+	
 	<streaminginfo>
-		<cname>MBC Action</cname>
+		<cname>MBC Masr</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/6.ch</link>
+		<title>@zombixbmcMBC Masr iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
 		</item>
 	</streaminginfo>
-
-	<streaminginfo>
-		<cname>MBC Action</cname>
-		<item>
-	<title>@zombixbmcMBC Action iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>MBC Bollywood</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/9.ch</link>
-		</item>
-	</streaminginfo>
-
 	
 	<streaminginfo>
 		<cname>MBC Max</cname>
@@ -1952,55 +1603,49 @@
 	<streaminginfo>
 		<cname>MBC Max</cname>
 		<item>
-	<title>@zombixbmcMBC MAX iptvosn</title>
+	        <title>@zombixbmcMBC MAX iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/44.ch</link>
 		</item>
 	</streaminginfo>
-
+	
+	
+	
 	<streaminginfo>
-		<cname>MBC Masr</cname>
+
+		<cname>Melody Aflem</cname>
 		<item>
-		<title>@zombixbmcMBC Masr iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
+			<title>@zombixbmc Melody Aflam iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/128.ch</link>
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>
 
+		<cname>Melody Classic</cname>
+		<item>
+			<title>@zombixbmc Melody Classic iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/132.ch</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Nessma</cname>
+
+		<cname>Melody Hits</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/11.ch</link>
+			<title>@zombixbmc Melody Hits iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/129.ch</link>
 		</item>
 	</streaminginfo>
 
-	
-	<streaminginfo>
-		<cname>Hanibal</cname>
+
+    <streaminginfo>
+		<cname>Moga Comedy</cname>
 		<item>
-			<title>@zombixbmc</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/7.ch</link>
+			<title>@zombixbmc iptvosn Moga Comedy</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
 		</item>
 	</streaminginfo>
-
 	
-	
-	
-
-	
-	
-
-	
-	<streaminginfo>
-		<cname>Dubai</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1</link>
-		</item>
-	</streaminginfo>
-
 	
 	<streaminginfo>
 		<cname>MTV</cname>
@@ -2009,38 +1654,188 @@
 			<link>rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p</link>
 		</item>
 	</streaminginfo>
-
 	
-
 	
 	<streaminginfo>
-		<cname>France 24 FR</cname>
+		<cname>nbn lebanon</cname>
+		<item>
+			<title>nbn lebanon</title>
+			<link>rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&amp;autostart=true&amp;%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15</link>
+		</item>
+	</streaminginfo> 
+	
+	<streaminginfo>
+		<cname>Nessma</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=298.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
-            <regex>
-             <name>url</name>
-              <expres>rtmp:....([^\\]*)</expres>
-               <page>http://www.filmon.com/tv/channel/export?channel_id=298</page>
-            </regex>
-            <regex>
-            <name>key</name>
-               <expres>rtmp[^?]*(\?id=[^"]*)</expres>
-                 <page>http://www.filmon.com/tv/channel/export?channel_id=298</page>
-            </regex>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/11.ch</link>
 		</item>
-		
 	</streaminginfo>
+	
+	
+<streaminginfo>
+		<cname>Nile Cinema</cname>
+		<item>
+			<title>Nile Cinema</title>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema</link>
+		</item>
+	</streaminginfo>
+	
 
+	<streaminginfo>
+		<cname>Nile Comedy</cname>
+		<item>
+			<title>Nile Comedy</title>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=60</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>OSN EN</cname>
+		<cname>Nile Culture</cname>
 		<item>
-			<title>@zombixbmc usr needed from fb/Iptvosn</title>
+			<title>Nile Culture</title>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Nile Drama</cname>
+		<item>
+			<title>Nile Drama</title>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>Nile Family</cname>
+		<item>
+			<title>Nile Family</title>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Nile Learning</cname>
+		<item>
+			<title>Nile Learning</title>
+			<link>rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>
+		<cname>Nile Life</cname>
+		<item>
+			<title>Nile Life</title>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life</link>
+		</item>
+	</streaminginfo>
+	
+		
+    <streaminginfo>
+		<cname>Nile Sport</cname>
+		<item>
+			<title>@zombixbmc magictv  AL NHAR SPORT</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10179.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Nile Sport</cname>
+		<item>
+			<title>Nile Sport</title>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+		<cname>On TV</cname>
+		<item>
+			<title>@zombixbmc magictv  ON TV</title>
+			<link>http://cdn-delay1.magictvbox.com/10.m3u8</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+		<cname>On TV</cname>
+		<item>
+			<title>@zombixbmc iptvosn On Tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+    <streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+	        <title>@zombixbmc usr needed from fb/Iptvosn</title>
 			<link></link>
 		</item>
 	</streaminginfo>
 
+
+    <streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Cinema 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/51.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Cinema 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/52.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit  Alyawm</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/53.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Fann</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/54.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Mmousalsalat</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/55.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Alsafwa</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/56.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit MusicNow</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/57.ch</link>
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>OSN Ar</cname>
 		<item>
@@ -2048,32 +1843,340 @@
 			<link></link>
 		</item>
 	</streaminginfo>
-    
-	<streaminginfo>
-		<cname>M6</cname>
+
+    <streaminginfo>
+		<cname>OSN Ar</cname>
 		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/21.ch</link>
+			<title>@zombixbmc iptvosn OSN Yahala Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/29.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Yahala HD +2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/30.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Yahala</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/31.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Shabab</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/32.ch</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>M6</cname>
+
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc MOVIES iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/126.ch</link>
+		</item>
+	</streaminginfo>
+	
+	    <streaminginfo>
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc usr needed from fb/Iptvosn</title>
+			<link></link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN First HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/24.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Movies Action HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/25.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Movies HD +2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/26.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Movies Comedy HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/27.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Movies Premiere HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/28.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Panorama Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn PANORAMA DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/89.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc magictv  PNORAMMA FILM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10176.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc magictv  CINEMA 2</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10144.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc iptvosn PANORAMA CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/96.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc magictv  PNORAMMA DRAMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10163.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>Quran TV ksa</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+    <streaminginfo>
+		<cname>Rotana Aflam</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Aflam</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+		<cname>Rotana cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+    <streaminginfo>
+		<cname>Roya</cname>
 		<item>
 			<title>@zombixbmc </title>
+			<link>http://stream.joinvisions.net:1935/royalive/roya_2/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+		<cname>Roya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Roya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/71.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+
+    <streaminginfo>
+		<cname>Sada Al Balad</cname>
+		<item>
+			<title>@zombixbmc magictv  SDA AL BLAD</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10172.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Sada Al Balad</cname>
+		<item>
+			<title>@zombixbmc iptvosn SDA AL BLAD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/112.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SadacAlBalad Drama</cname>
+		<item>
+			<title>@zombixbmc magictv  SDA AL BLAD DRAMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10169.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+    <streaminginfo>
+		<cname>SadacAlBalad Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn SADA ALBALAD DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/92.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Sama Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn SAMA CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/88.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SHAABIYAT</cname>
+		<item>
+			<title>@zombixbmc magictv  SHABIAT</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10175.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+    <streaminginfo>
+		<cname>SHAABIYAT</cname>
+		<item>
+			<title>@zombixbmc iptvosn SHAABIYAT</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/95.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SkyNewsArabia</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/channels/sky-news-arabia live=1</link>
+		</item>
+	</streaminginfo>
+	
+		
+    <streaminginfo>
+		<cname>SM SM KIDS</cname>
+		<item>
+			<title>@zombixbmc magictv SM SM KIDS </title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10156.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+    <streaminginfo>
+		<cname>SM SM KIDS</cname>
+		<item>
+			<title>@zombixbmc iptvosn SM SM KIDS</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/102.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv STAR 1 AFLAM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10147.stream/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  STAR 1 AFLAM </title>
+			<link>http://cdn-delay1.magictvbox.com/2.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  STAR 2 AFLAM</title>
+			<link>http://cdn-delay1.magictvbox.com/4.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  STAR 2 AFLAM </title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10146.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+    <streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn STAR CINEMA 1</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/81.ch</link>
 		</item>
 	</streaminginfo>
 
-	
-	<streaminginfo>
-		<cname>W9</cname>
+
+    <streaminginfo>
+		<cname>Star Cinema</cname>
 		<item>
-			<title>@zombixbmc </title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/37.ch</link>
+			<title>@zombixbmc iptvosn STAR CINEMA 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/80.ch</link>
 		</item>
 	</streaminginfo>
+	
+    
 
+
+    <streaminginfo>
+		<cname>Syria</cname>
+		<item>
+			<title>@zombixbmc magictv  SYRIA</title>
+			<link>http://cdn-streamer2.magictvbox.com/37.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Syria Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn SYRIA DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/78.ch</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Telvza TV</cname>
@@ -2091,9 +2194,70 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/16.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
+		</item>
+	</streaminginfo>
 	
 	
+    <streaminginfo>
+		<cname>Time cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  TAIM AFLAM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10145.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+		<cname>Time cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  CINEMA</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10144.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
 
+    <streaminginfo>
+		<cname>Time cinema</cname>
+		<item>
+			<title>@zombixbmc magictv  TAIM</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10174.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+		<cname>Time Comedy</cname>
+		<item>
+			<title>@zombixbmc magictv  TAIM COMADY</title>
+			<link>http://cdn-streamer1.magictvbox.com/live/10145.stream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+		<cname>Time Comedy</cname>
+		<item>
+			<title>@zombixbmc magictv  TAIM COMADY</title>
+			<link>http://cdn-delay1.magictvbox.com/15.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>TIME CORAN</cname>
+		<item>
+			<title>@zombixbmc iptvosn TIME CORAN</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/98.ch</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Tounesna</cname>
@@ -2112,920 +2276,38 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Alarabiya</cname>
+		<cname>Tunisia national 1</cname>
+		<item>
+			<title>@zombixbmc streamago</title>
+			<link>http://ca-edge-1.cdn2.streamago.tv:80/streamagoedge/1052/224/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>TV 5 MONDE</cname>
+		<item>
+			<title>TV 5 MONDE</title>
+			<link>http://rm-edge-3.cdn2.streamago.tv/streamagoedge/1924/817/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>W9</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/20.ch</link>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/37.ch</link>
 		</item>
 	</streaminginfo>
 
-	
-	
 
-	
 	
 	
 	<streaminginfo>
-		<cname>SkyNewsArabia</cname>
+		<cname>Wesal Tv</cname>
 		<item>
-			<title>@zombixbmc </title>
-			<link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/channels/sky-news-arabia live=1</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>DW Arabic</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>rtmp://dw.lsops.net/live/ playpath=dw_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/dw-arabia live=1</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Libya</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>rtmp://hd2.lsops.net/live playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/libyatv live=1</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>BBC Arabic</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/121.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Roya</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://stream.joinvisions.net:1935/royalive/roya_2/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-	
-	<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-	        <title>@zombixbmc usr needed from fb/Iptvosn</title>
-			<link></link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Cinema EN</cname>
-		<item>
-	        <title>@zombixbmc ar</title>
-			<link>http://212.68.33.139:8001</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Cinema EN</cname>
-		<item>
-	        <title>@zombixbmc fr</title>
-			<link>http://212.68.33.139:8003</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Cinema EN</cname>
-		<item>
-	        <title>@zombixbmc en</title>
-			<link>http://212.68.33.139:8002</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Moga Comedy</cname>
-		<item>
-	        <title>@zombixbmc  iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/66.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Al Moustakilla</cname>
-		<item>
-	        <title>@zombixbmc  no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/40.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Al Mutawasit</cname>
-		<item>
-	        <title>@zombixbmc  no-ip</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/34.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>TNN</cname>
-		<item>
-	        <title>@zombixbmc  no-ip</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/35.ch</link>
-		</item>
-	</streaminginfo>
-	
-	 
-
-
-<streaminginfo>
-		<cname>Al mayaden</cname>
-		<item>
-			<title>@zombixbmc iptvosn Al Mayadeen</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/119.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-
-		<cname>Melody Classic</cname>
-		<item>
-			<title>@zombixbmc Melody Classic iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/132.ch</link>
-		</item>
-	</streaminginfo>
-
-    <streaminginfo>
-
-		<cname>Melody Aflem</cname>
-		<item>
-			<title>@zombixbmc Melody Aflam iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/128.ch</link>
-		</item>
-	</streaminginfo>
-
-    <streaminginfo>
-
-		<cname>Melody Hits</cname>
-		<item>
-			<title>@zombixbmc Melody Hits iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/129.ch</link>
-		</item>
-	</streaminginfo>
-
-    <streaminginfo>
-
-		<cname>Melody Aflem</cname>
-		<item>
-			<title>@zombixbmc MOVIES iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/126.ch</link>
-		</item>
-	</streaminginfo>
-
-   
-
-
-
-<streaminginfo>
-		<cname>KTV SPORT</cname>
-		<item>
-			<title>@zombixbmc iptvosn KUWAIT SPORT</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/106.ch</link>
-		</item>
-	</streaminginfo>
-
-
-
-<streaminginfo>
-		<cname>SM SM KIDS</cname>
-		<item>
-			<title>@zombixbmc iptvosn SM SM KIDS</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/102.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>E 1 KIDS</cname>
-		<item>
-			<title>@zombixbmc iptvosn E 1 KIDS</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/104.ch</link>
-		</item>
-	</streaminginfo>
-
-
-
-
-
-
-<streaminginfo>
-		<cname>Jordan</cname>
-		<item>
-			<title>@zombixbmc iptvosn JORDEN</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/109.ch</link>
-		</item>
-	</streaminginfo>
-
-
-
-
-<streaminginfo>
-		<cname>Sada Al Balad</cname>
-		<item>
-			<title>@zombixbmc iptvosn SDA AL BLAD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/112.ch</link>
-		</item>
-	</streaminginfo>
-
-
-
-
-
-
-<streaminginfo>
-		<cname>Syria Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn SYRIA DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/78.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Cairo Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn CAIRO DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/82.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Panorama Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn PANORAMA DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/89.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>SadacAlBalad Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn SADA ALBALAD DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/92.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Panorama film</cname>
-		<item>
-			<title>@zombixbmc iptvosn PANORAMA CINEMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/96.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Cairo Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn CAIRO CINEMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Nile Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn NILE CINEMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/87.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Sama Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn SAMA CINEMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/88.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Star Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn STAR CINEMA 1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/81.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Star Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn STAR CINEMA 2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/80.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>LCD AFLAM</cname>
-		<item>
-			<title>@zombixbmc iptvosn LCD AFLAM</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/99.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>CBC</cname>
-		<item>
-			<title>@zombixbmc iptvosn CBC</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/86.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>SHAABIYAT</cname>
-		<item>
-			<title>@zombixbmc iptvosn SHAABIYAT</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/95.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>TIME CORAN</cname>
-		<item>
-			<title>@zombixbmc iptvosn TIME CORAN</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/98.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN First HD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/24.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN Movies Action HD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/25.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN Movies HD +2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/26.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN Movies Comedy HD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/27.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN EN</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN Movies Premiere HD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/28.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN Ar</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN Yahala Drama</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/29.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN Ar</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN Yahala HD +2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/30.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN Ar</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN Yahala</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/31.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN Ar</cname>
-		<item>
-			<title>@zombixbmc iptvosn OSN Shabab</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/32.ch</link>
-		</item>
-	</streaminginfo>
-
-
-
-
-<streaminginfo>
-		<cname>MBC 1</cname>
-		<item>
-			<title>@zombixbmc iptvosn MBC 1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/37.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>MBC 2</cname>
-		<item>
-			<title>@zombixbmc iptvosn MBC 2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>MBC 3</cname>
-		<item>
-			<title>@zombixbmc iptvosn MBC 3</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>MBC 4</cname>
-		<item>
-			<title>@zombixbmc iptvosn MBC 4</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>MBC Action</cname>
-		<item>
-			<title>@zombixbmc iptvosn MBC Action</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>MBC Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn MBC Drama</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>MBC Masr</cname>
-		<item>
-			<title>@zombixbmc iptvosn MBC Masr</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>MBC Max</cname>
-		<item>
-			<title>@zombixbmc iptvosn MBC MAX</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/44.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>DISCOVERY CHANNEL</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/77.ch</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Cartoon Network</cname>
-		<item>
-			<title>@zombixbmc iptvosn Nickelodeon</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/48.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Fox</cname>
-		<item>
-			<title>@zombixbmc iptvosn Fox</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/75.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Fox</cname>
-		<item>
-			<title>@zombixbmc iptvosn Fox Life</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/49.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>DISCOVERY CHANNEL</cname>
-		<item>
-			<title>@zombixbmc iptvosn Animal Planet</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/50.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>@zombixbmc iptvosn Orbit Cinema 1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/51.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>@zombixbmc iptvosn Orbit Cinema 2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/52.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>@zombixbmc iptvosn Orbit  Alyawm</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/53.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>@zombixbmc iptvosn Orbit Fann</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/54.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>@zombixbmc iptvosn Orbit Mmousalsalat</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/55.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>@zombixbmc iptvosn Orbit Alsafwa</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/56.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>@zombixbmc iptvosn Orbit MusicNow</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/57.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-
-		<cname>CBC Sofra</cname>
-		<item>
-			<title>@zombixbmc CBC SOFRA iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/131.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Moga Comedy</cname>
-		<item>
-			<title>@zombixbmc iptvosn Moga Comedy</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>CBC Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn CBC DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/59.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>CBC Extra</cname>
-		<item>
-			<title>@zombixbmc iptvosn CBC EXTRA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>On TV</cname>
-		<item>
-			<title>@zombixbmc iptvosn On Tv</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Rotana cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn Rotana Cinema</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Rotana Aflam</cname>
-		<item>
-			<title>@zombixbmc iptvosn Rotana Aflam</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Roya</cname>
-		<item>
-			<title>@zombixbmc iptvosn Roya</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/71.ch</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Karameesh</cname>
-		<item>
-			<title>@zombixbmc iptvosn Karameesh</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
-		</item>
-	</streaminginfo>
-	
-	    <streaminginfo>
-		<cname>Star Cinema</cname>
-		<item>
-			<title>@zombixbmc magictv STAR 1 AFLAM</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10147.stream/chunklist.m3u8</link>
-		</item>
-	</streaminginfo>
-    <streaminginfo>
-		<cname>Star Cinema</cname>
-		<item>
-			<title>@zombixbmc magictv  STAR 1 AFLAM SRV 2</title>
-			<link>http://cdn-delay1.magictvbox.com/2.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Star Cinema</cname>
-		<item>
-			<title>@zombixbmc magictv  STAR 2 AFLAM</title>
-			<link>http://cdn-delay1.magictvbox.com/4.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Star Cinema</cname>
-		<item>
-			<title>@zombixbmc magictv  STAR 2 AFLAM SRV 2</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10146.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>LCD AFLAM</cname>
-		<item>
-			<title>@zombixbmc magictv  LCD AFLAM</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10186.stream/chunklist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Time cinema</cname>
-		<item>
-			<title>@zombixbmc magictv  TAIM AFLAM</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10145.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Time cinema</cname>
-		<item>
-			<title>@zombixbmc magictv  CINEMA</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10144.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Panorama film</cname>
-		<item>
-			<title>@zombixbmc magictv  PNORAMMA FILM</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10176.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Panorama film</cname>
-		<item>
-			<title>@zombixbmc magictv  CINEMA 2</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10144.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Cairo Cinema</cname>
-		<item>
-			<title>@zombixbmc magictv  CAIRO CINEMA</title>
-			<link>http://cdn-delay1.magictvbox.com/1.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Time cinema</cname>
-		<item>
-			<title>@zombixbmc magictv  TAIM</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10174.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Panorama film</cname>
-		<item>
-			<title>@zombixbmc magictv  PNORAMMA DRAMA</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10163.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>SadacAlBalad Drama</cname>
-		<item>
-			<title>@zombixbmc magictv  SDA AL BLAD DRAMA</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10169.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-<streaminginfo>
-		<cname>Sada Al Balad</cname>
-		<item>
-			<title>@zombixbmc magictv  SDA AL BLAD</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10172.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>SHAABIYAT</cname>
-		<item>
-			<title>@zombixbmc magictv  SHABIAT</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10175.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Libya</cname>
-		<item>
-			<title>@zombixbmc magictv  LIBIA AL HURA</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10187.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Time Comedy</cname>
-		<item>
-			<title>@zombixbmc magictv  TAIM COMADY</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10145.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>CBC Drama</cname>
-		<item>
-			<title>@zombixbmc magictv CBC DRAMA</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10149.stream/chunklist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Time Comedy</cname>
-		<item>
-			<title>@zombixbmc magictv  TAIM COMADY</title>
-			<link>http://cdn-delay1.magictvbox.com/15.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Cairo Drama</cname>
-		<item>
-			<title>@zombixbmc magictv  CAIRO DRAMA</title>
-			<link>http://cdn-delay1.magictvbox.com/3.m3u8</link>
-		</item>
-	</streaminginfo>
-
-<streaminginfo>
-		<cname>Syria</cname>
-		<item>
-			<title>@zombixbmc magictv  SYRIA</title>
-			<link>http://cdn-streamer2.magictvbox.com/37.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Jordan</cname>
-		<item>
-			<title>@zombixbmc magictv  JORDEN</title>
-			<link>http://cdn-streamer2.magictvbox.com/38.m3u8</link>
-		</item>
-	</streaminginfo>
-
-
-<streaminginfo>
-		<cname>Kuwait</cname>
-		<item>
-			<title>@zombixbmc magictv  KUWAIT</title>
-			<link>http://cdn-streamer2.magictvbox.com/60.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>KTV 2</cname>
-		<item>
-			<title>@zombixbmc magictv  KUWAIT 2</title>
-			<link>http://cdn-streamer2.magictvbox.com/61.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>CBC</cname>
-		<item>
-			<title>@zombixbmc magictv  CBC</title>
-			<link>http://cdn-delay1.magictvbox.com/13.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>CBC</cname>
-		<item>
-			<title>@zombixbmc magictv  CBC SRV 2</title>
-			<link>http://cdn-delay1.magictvbox.com/6.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>CBC</cname>
-		<item>
-			<title>@zombixbmc magictv  CBC SRV 3</title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10148.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>On TV</cname>
-		<item>
-			<title>@zombixbmc magictv  ON TV</title>
-			<link>http://cdn-delay1.magictvbox.com/10.m3u8</link>
-		</item>
-	</streaminginfo>
-
-<streaminginfo>
-		<cname>KTV SPORT</cname>
-		<item>
-			<title>@zombixbmc magictv  KUWAIT SPORT</title>
-			<link>http://cdn-streamer2.magictvbox.com/62.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	
-<streaminginfo>
-		<cname>SM SM KIDS</cname>
-		<item>
-			<title>@zombixbmc magictv SM SM KIDS </title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10156.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-<streaminginfo>
-		<cname>E 1 KIDS</cname>
-		<item>
-			<title>@zombixbmc magictv E 1 KIDS</title>
-			<link>http://cdn-streamer2.magictvbox.com/59.m3u8</link>
+			<title>Wesal Tv</title>
+			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm</link>
 		</item>
 	</streaminginfo>
 
