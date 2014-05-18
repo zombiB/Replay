@@ -1012,6 +1012,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Dream 1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://85.91.143.23/87521//87521.stream</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Dubai</cname>
 		<item>
 			<title>@zombixbmc</title>
@@ -1537,8 +1545,16 @@
 	<streaminginfo>
 		<cname>MBC 3</cname>
 		<item>
-	        <title>@zombixbmcMBC3 iptvosn</title>
+	        <title>@zombixbmc MBC3 iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC 3</cname>
+		<item>
+	        <title>@zombixbmc MBC3</title>
+			<link>rtmp://85.91.143.20/15678//15678.stream</link>
 		</item>
 	</streaminginfo>
 	
@@ -1555,6 +1571,14 @@
 		<item>
 	<title>@zombixbmcMBC 4 iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC 4</cname>
+		<item>
+	<title>@zombixbmcMBC 4 </title>
+			<link>rtmp://85.91.143.20/56278//56278.stream</link>
 		</item>
 	</streaminginfo>
 	
@@ -1581,6 +1605,14 @@
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/9.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Bollywood</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://85.91.143.23/35657//35657.stream</link>
+		</item>
+	</streaminginfo>
 
 
 	<streaminginfo>
@@ -1588,6 +1620,14 @@
 		<item>
 			<title>@zombixbmc</title>
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/5.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Drama</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://85.91.143.20/96514/96514.stream</link>
 		</item>
 	</streaminginfo>
 	
@@ -2134,6 +2174,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Spacetoon</cname>
+		<item>
+			<title>@zombixbmc Spacetoon</title>
+			<link>rtmp://85.91.143.21/35985/35985.stream</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Star Cinema</cname>
 		<item>
 			<title>@zombixbmc magictv STAR 1 AFLAM</title>
@@ -2307,6 +2355,13 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>TV 5 MONDE</cname>
+		<item>
+			<title>TV 5 MONDE</title>
+			<link>rtmp://85.91.143.22/90457/90457.stream</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
