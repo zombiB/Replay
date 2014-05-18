@@ -64,6 +64,13 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Al Hiwar</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true timeout=15 pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&amp;rurl=translate.google.com&amp;sl=ar&amp;u=http://www.alhiwar.tv/&amp;usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg</link>
+		</item>
+	</streaminginfo>
     
 	
     <streaminginfo>
@@ -193,7 +200,7 @@
 			<title>@zombixbmc no-ip</title>
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/8.ch</link>
 		</item>
-	</streaminginfo>
+	</streaminginfo>Al Hiwar
 	
 	
     
@@ -1133,7 +1140,16 @@
 		</item>
 	</streaminginfo>
 		
-<streaminginfo>
+    <streaminginfo>
+		<cname>Alarabiya Ahdas</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://livestream2.alarabiya.tv/files/hadath.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
 		<cname>E 1 KIDS</cname>
 		<item>
 			<title>@zombixbmc magictv E 1 KIDS</title>
