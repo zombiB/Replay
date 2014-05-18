@@ -30,6 +30,14 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Abu Dhabi</cname>
+		<item>
+			<title>@zombixbmc  AD AL AULA</title>
+			<link>http://88.150.198.74/Sanfour216/Sanfour216/108.ch</link>
+		</item>
+	</streaminginfo>
+	
 	
     <streaminginfo>
 		<cname>AL AHLY</cname>
@@ -418,6 +426,14 @@
 		<item>
 			<title>@zombixbmc </title>
 			<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8 </link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>arte</cname>
+		<item>
+			<title>@zombixbmc  </title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/147.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1295,6 +1311,14 @@
             </regex>
 		</item>
 		
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IDF1</cname>
+		<item>
+			<title>@zombixbmc  IDF1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/149.ch</link>
+		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
@@ -2299,9 +2323,14 @@
 			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/37.ch</link>
 		</item>
 	</streaminginfo>
-
-
 	
+	<streaminginfo>
+		<cname>Weo</cname>
+		<item>
+			<title>@zombixbmc  Weo</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/158.ch</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Wesal Tv</cname>
