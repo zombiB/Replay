@@ -509,7 +509,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>@zombixbmc HD 1 </title>
-			<link>http://test:test@37.220.1.218:16000/1.ch </link>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT1HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -537,7 +537,7 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>@zombixbmc HD 2 </title>
-			<link>http://test:test@37.220.1.218:16000/2.ch </link>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT2HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -570,7 +570,7 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc HD 3 </title>
-			<link>http://test:test@37.220.1.218:16000/3.ch </link>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT3HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -595,7 +595,7 @@
 		<cname>Bein Sport 4</cname>
 		<item>
 			<title>@zombixbmc HD 4 </title>
-			<link>http://test:test@37.220.1.218:16000/4.ch </link>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT4HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -636,7 +636,7 @@
 		<cname>Bein Sport 5</cname>
 		<item>
 			<title>@zombixbmc HD 5 </title>
-			<link>http://test:test@37.220.1.218:16000/5.ch </link>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT5HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -662,6 +662,22 @@
 		<item>
 			<title>@zombixbmc updated</title>
 			<link>rtmp://31.220.0.195:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b1r&amp;vw=620&amp;vh=490 live=1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>@zombixbmc HD 6 </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT6HD</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>@zombixbmc HD 7 </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT7HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -693,8 +709,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
 		<item>
-			<title>@zombixbmc HD 7</title>
-			<link>http://test:test@37.220.1.218:16000/7.ch </link>
+			<title>@zombixbmc HD 8</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT8HD</link>
 		</item>
 	</streaminginfo>
 
@@ -736,8 +752,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
-			<title>@zombixbmc HD 7</title>
-			<link>http://test:test@37.220.1.218:16000/8.ch </link>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT9HD</link>
 		</item>
 	</streaminginfo>
 
@@ -757,6 +773,14 @@
 		<item>
 			<title>@zombixbmc beIN SPORT 10 SD iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/138.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT10HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -784,6 +808,14 @@
 			<link>rtmp://31.220.0.82:1935/live playpath=b11r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT11HD</link>
+		</item>
+	</streaminginfo>
 
 	
 
@@ -799,8 +831,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 12</cname>
 		<item>
-			<title>@zombixbmc HD 12</title>
-			<link>http://test:test@37.220.1.218:16000/10.ch </link>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT12HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -824,8 +856,8 @@
 	<streaminginfo>
 		<cname>Bein Sport 13</cname>
 		<item>
-			<title>@zombixbmc HD 13</title>
-			<link>http://test:test@37.220.1.218:16000/14.ch </link>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT13HD</link>
 		</item>
 	</streaminginfo>
 
@@ -839,10 +871,26 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT14HD</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 15</cname>
 		<item>
 			<title>@zombixbmc HD 15</title>
 			<link>http://test:test@37.220.1.218:16000/15.ch </link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT15HD</link>
 		</item>
 	</streaminginfo>
 	
@@ -2066,6 +2114,38 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>		
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc OSN_Yahala_Drama</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/OSN_Yahala_Drama</link>		
+        </item>	
+	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc OSN_Yahala_Shabab</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/OSN_Yahala_Shabab</link>		
+        </item>	
+	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc OSN_Yahala+2</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/OSN_Yahala+2</link>		
+        </item>	
+	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc OSN_Hala</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/OSN_Hala</link>		
+        </item>	
+	</streaminginfo>
+	
 	    <streaminginfo>
 		<cname>OSN EN</cname>
 		<item>
@@ -2117,6 +2197,44 @@
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/28.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc OSN_Movies_Premiere</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/OSN_Movies_Premiere</link>		
+        </item>	
+	</streaminginfo>
+	
+	
+	
+	<streaminginfo>		
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc OSN_First</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/OSN_First</link>		
+        </item>	
+	</streaminginfo>
+		
+	<streaminginfo>		
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc OSN_Movies+2</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/OSN_Movies+2</link>		
+        </item>	
+		</streaminginfo>
+		
+	
+	
+	<streaminginfo>		
+		<cname>OSN EN</cname>
+		<item>
+			<title>@zombixbmc OSN_Movies_Comedy</title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/OSN_Movies_Comedy</link>		
+        </item>	
+	</streaminginfo>
+
+
 	
 	<streaminginfo>
 		<cname>Panorama Drama</cname>
