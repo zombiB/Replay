@@ -5,7 +5,7 @@
 	<streaminginfo>
 		<cname>Al Majd</cname>
 		<item>
-			<title>Al Majd **m3u8**</title>
+			<title>Almajd Space Channel</title>
 			<link>http://188.40.138.23/hls/majdq_hq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
@@ -13,7 +13,15 @@
 	<streaminginfo>
 		<cname>ALMAJD NATURE</cname>
 		<item>
-			<title>ALMAJD NATURE **m3u8**</title>
+			<title>Almajd Natural Channel</title>
+			<link>http://188.40.138.23/hls/majdnat_hq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>ALMAJD DOC</cname>
+		<item>
+			<title>Almajd Documentary Channel</title>
 			<link>http://188.40.138.23/hls/majdnat_hq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
