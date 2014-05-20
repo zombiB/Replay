@@ -3,23 +3,102 @@
 	
 
 	<streaminginfo>
+		<cname>Al Majd Hadeeth</cname>
+		<item>
+			<title>Almajd Hadeeth Channel </title>
+			<link>http://188.40.138.23/hls/majdh/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Al Majd Hadeeth</cname>
+		<item>
+			<title>Almajd Hadeeth Channel lq</title>
+			<link>http://188.40.138.23/hls/majdh_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Al Majd</cname>
 		<item>
-			<title>Almajd Space Channel</title>
+			<title>Almajd Space Channel </title>
+			<link>http://188.40.138.23/hls/majdg/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Al Majd</cname>
+		<item>
+			<title>Almajd Space Channel lq</title>
+			<link>http://188.40.138.23/hls/majdg_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Science </cname>
+		<item>
+			<title>Almajd Science Channel</title>
+			<link>http://188.40.138.23/hls/majdsc/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Science </cname>
+		<item>
+			<title>Almajd Science Channel lq</title>
+			<link>http://188.40.138.23/hls/majdsc_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Kids</cname>
+		<item>
+			<title>Almajd Kids Channel</title>
+			<link>http://188.40.138.23/hls/majdk/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Kids</cname>
+		<item>
+			<title>Almajd Kids Channel lq</title>
+			<link>http://188.40.138.23/hls/majdk_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Almajd Quran</cname>
+		<item>
+			<title>Almajd Quran Channel</title>
 			<link>http://188.40.138.23/hls/majdq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>ALMAJD NATURE</cname>
+		<cname>Almajd Quran</cname>
+		<item>
+			<title>Almajd Quran Channel lq</title>
+			<link>http://188.40.138.23/hls/majdq_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>ALMAJD Natural</cname>
 		<item>
 			<title>Almajd Natural Channel</title>
+			<link>http://188.40.138.23/hls/majdnat/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>ALMAJD Natural</cname>
+		<item>
+			<title>Almajd Natural Channel lq</title>
 			<link>http://188.40.138.23/hls/majdnat_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>ALMAJD DOC</cname>
+		<cname>ALMAJD Documentary</cname>
 		<item>
 			<title>Almajd Documentary Channel</title>
 			<link>http://188.40.138.23/hls/majdnat_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
@@ -27,12 +106,166 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>ALMAJD DOC</cname>
+		<cname>ALMAJD Documentary</cname>
 		<item>
-			<title>Almajd Documentary Channel</title>
+			<title>Almajd Documentary Channel lq</title>
 			<link>http://188.40.138.23/hls/majdnat_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Masah</cname>
+		<item>
+			<title>Almajd Masah Channel</title>
+			<link>http://188.40.138.23/hls/majdd/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Masah</cname>
+		<item>
+			<title>Almajd Masah Channel lq</title>
+			<link>http://188.40.138.23/hls/majdd_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Basmah</cname>
+		<item>
+			<title>Almajd Basmah Channel</title>
+			<link>http://188.40.138.23/hls/majdb/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Basmah</cname>
+		<item>
+			<title>Almajd Basmah Channel lq</title>
+			<link>http://188.40.138.23/hls/majdb_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd News </cname>
+		<item>
+			<title>Almajd News Channel</title>
+			<link>http://188.40.138.23/hls/majdnews/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd News</cname>
+		<item>
+			<title>Almajd News Channel lq</title>
+			<link>http://188.40.138.23/hls/majdnews_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Rawdhah</cname>
+		<item>
+			<title>Almajd Rawdhah Channel</title>
+			<link>http://188.40.138.23/hls/majdr/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Rawdhah</cname>
+		<item>
+			<title>Almajd Rawdhah Channel lq</title>
+			<link>http://188.40.138.23/hls/majdr_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Tagareed</cname>
+		<item>
+			<title>Almajd Tagareed Channel</title>
+			<link>http://188.40.138.23/hls/majdt/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Almajd Tagareed</cname>
+		<item>
+			<title>Almajd Tagareed Channel lq</title>
+			<link>http://188.40.138.23/hls/majdt_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Alburhan</cname>
+		<item>
+			<title>Alburhan Channel</title>
+			<link>http://188.40.138.23/hls/burhan/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Alburhan</cname>
+		<item>
+			<title>Alburhan Channel lq</title>
+			<link>http://188.40.138.23/hls/burhan_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Wesal Kurdi</cname>
+		<item>
+			<title>Wesal Kurdi Channel</title>
+			<link>http://188.40.138.23/hls/wesk/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Wesal Kurdi</cname>
+		<item>
+			<title>Wesal Kurdi Channel lq</title>
+			<link>http://188.40.138.23/hls/wesk_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Wesal Indo</cname>
+		<item>
+			<title>Wesal Indo Channel</title>
+			<link>http://188.40.138.23/hls/wesid/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Wesal Indo</cname>
+		<item>
+			<title>Wesal Indo Channel lq</title>
+			<link>http://188.40.138.23/hls/wesid_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Wesal Haq</cname>
+		<item>
+			<title>Wesal Haq Channel</title>
+			<link>http://188.40.138.23/hls/wesh/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Wesal Haq</cname>
+		<item>
+			<title>Wesal Haq Channel lq</title>
+			<link>http://188.40.138.23/hls/wesh_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Wesal English</cname>
+		<item>
+			<title>Wesal English Channel</title>
+			<link>http://188.40.138.23/hls/wesen/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Wesal English</cname>
+		<item>
+			<title>Wesal English Channel lq</title>
+			<link>http://188.40.138.23/hls/wesen_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
+		</item>
+	</streaminginfo>
+	
+	
 
 
 	<streaminginfo>
