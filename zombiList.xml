@@ -746,6 +746,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>LCP</cname>
+		<item>
+			<title>BAHRAIN SPORTS</title>
+			<link>mms://91.197.165.4/bouygues/all/channel6.wmv</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>BAHRAIN SPORTS</cname>
 		<item>
 			<title>BAHRAIN SPORTS</title>
@@ -1408,7 +1416,7 @@
 		<cname>D17</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://chkg.tdf-cdn.com/6319/02.m3u8</link>
+			<link>mms://91.197.165.4/bouygues/all/channel9.wmv</link>
 		</item>
 	</streaminginfo>
 	
@@ -1416,7 +1424,7 @@
 		<cname>D8</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>http://chkg.tdf-cdn.com/6318/02.m3u8</link>
+			<link>mms://91.197.165.4/bouygues/all/channel16.wmv</link>
 		</item>
 	</streaminginfo>
 	
@@ -1508,10 +1516,10 @@
 	
 	
 	<streaminginfo>
-		<cname>FRANCE 0vv</cname>
+		<cname>FRANCE 0</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/33.ch</link>
+			<link>mms://91.197.165.4/bouygues/all/channel5.wmv</link>
 		</item>
 	</streaminginfo>
 
@@ -1561,12 +1569,21 @@
 		</item>
 	</streaminginfo>
 
+
 	
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
 		<item>
 			<title>FRANCE 2</title>
 			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel1.wmv?MSWMExt=.asf</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>FRANCE 2</title>
+			<link>mms://91.197.165.4/bouygues/all/channel1.wmv</link>
 		</item>
 	</streaminginfo>
 	
@@ -1633,10 +1650,10 @@
 
 	
 	<streaminginfo>
-		<cname>FRANCE 3vv</cname>
+		<cname>FRANCE 3</cname>
 		<item>
 			<title>FRANCE 3</title>
-			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel2.wmv?MSWMExt=.asf</link>
+			<link>mms://91.197.165.4/bouygues/all/channel2.wmv</link>
 		</item>
 	</streaminginfo>
 
@@ -1651,10 +1668,10 @@
 
 	
 	<streaminginfo>
-		<cname>FRANCE 4vv</cname>
+		<cname>FRANCE 4</cname>
 		<item>
 			<title>FRANCE 4</title>
-			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel3.wmv?MSWMExt=.asf</link>
+			<link>mms://91.197.165.4/bouygues/all/channel3.wmv</link>
 		</item>
 	</streaminginfo>
 
@@ -1689,10 +1706,10 @@
 
 	
 	<streaminginfo>
-		<cname>FRANCE 5vv</cname>
+		<cname>FRANCE 5</cname>
 		<item>
 			<title>FRANCE 5</title>
-			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel4.wmv?MSWMExt=.asf</link>
+			<link>mms://91.197.165.4/bouygues/all/channel4.wmv</link>
 		</item>
 	</streaminginfo>
 	
