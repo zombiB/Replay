@@ -356,6 +356,13 @@
 	</streaminginfo>
 	
 	
+	<streaminginfo>
+		<cname>2M</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://cdn-streamer2.magictvbox.com/96.m3u8</link>
+		</item>
+	</streaminginfo>
 
 
 	<streaminginfo>
@@ -366,14 +373,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>2M</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>http://cdn-streamer2.magictvbox.com/96.m3u8</link>
-		</item>
-	</streaminginfo>
-
+	
 	
  
 	
@@ -389,7 +389,15 @@
 		<cname>Abu Dhabi</cname>
 		<item>
 			<title>@zombixbmc  AD AL AULA</title>
-			<link>http://88.150.198.74/Sanfour216/Sanfour216/108.ch</link>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/108.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>sunnah TV</cname>
+		<item>
+			<title>@zombixbmc  AD AL AULA</title>
+			<link>rtmp://5.9.81.202/live//sunna_720p</link>
 		</item>
 	</streaminginfo>
 	
@@ -2680,6 +2688,37 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Iqra</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://fl1.viastreaming.net/iqraatv/livestream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Iqra</cname>
+		<item>
+			<title>@zombixbmc iqra asia</title>
+			<link>http://fl1.viastreaming.net/iqraatv2/livestream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Iqra</cname>
+		<item>
+			<title>@zombixbmc iqra america</title>
+			<link>http://fl1.viastreaming.net/iqraatv1/livestream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Iqra</cname>
+		<item>
+			<title>@zombixbmc iqra europe</title>
+			<link>http://fl1.viastreaming.net/iqraatv3/livestream/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Quran TV ksa</cname>
@@ -2689,6 +2728,21 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Quran TV ksa</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://5.9.81.202/live//quraan_720p</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>KSA 1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTE5Ny0xNS0yMzUtNzkyMDE0LTA1LTIzLTE3LTA0LTM3/vb008_sauditv1.stream?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892</link>
+		</item>
+	</streaminginfo>
 	
     <streaminginfo>
 		<cname>Rotana Aflam</cname>
