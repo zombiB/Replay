@@ -1,5 +1,53 @@
 <streamingInfos>
 
+	<streaminginfo>
+		<cname>Hanibal</cname>
+		<item>
+			<title>Hanibal</title>
+			<link>rtmp://41.231.53.11:8888/thd/ playpath=hannibal swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://www.direct4live.com/2013/07/hannibal-tv-en-live-direct.html</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Dijlah</cname>
+		<item>
+			<title>Dijlah</title>
+			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Dijlah</cname>
+		<item>
+			<title>Dijlah</title>
+			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Dijlah</cname>
+		<item>
+			<title>Dijlah</title>
+			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Dijlah</cname>
+		<item>
+			<title>Dijlah</title>
+			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Dijlah</cname>
+		<item>
+			<title>Dijlah</title>
+			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
+		</item>
+	</streaminginfo>
+
 	
 	<streaminginfo>
 		<cname>Dijlah</cname>
@@ -383,6 +431,14 @@
 		<item>
 			<title>@zombixbmc </title>
 			<link>http://free:free@matchfree1to10.no-ip.net/36.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Al Hiwar Ettounsi</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://41.231.53.11:8888/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=2088406218 live=1 pageUrl=http://www.direct4live.com/2014/03/el-hiwar-ettounsi-tv-direct-live.html</link>
 		</item>
 	</streaminginfo>
 	
@@ -2220,6 +2276,14 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Nessma</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>rtmp://41.231.53.11:8888/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=108740157 live=1 pageUrl=http://www.direct4live.com/2013/07/nessma-en-direct-live.html</link>
+		</item>
+	</streaminginfo>
+	
 	
 <streaminginfo>
 		<cname>Nile Cinema</cname>
@@ -2817,6 +2881,16 @@
 		<item>
 			<title>@zombixbmc iptvosn SYRIA DRAMA</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/78.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	
+	<streaminginfo>
+		<cname>Al Janoubiya</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>rtmp://41.231.53.11:8888/thd/ playpath=janoubia swfUrl=http://www.streaminghd.tn/video/player.swf?random=182728996 live=1 pageUrl=http://www.direct4live.com/2013/08/al-janoubia-tv-en-direct-live.html</link>
 		</item>
 	</streaminginfo>
 	
