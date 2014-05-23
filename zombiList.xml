@@ -15,6 +15,38 @@
 			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>alkass</cname>
+		<item>
+			<title>alkass</title>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/kas//kas</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Baraem</cname>
+		<item>
+			<title>Baraem</title>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/brm//brm</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Qatar</cname>
+		<item>
+			<title>Qatar</title>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/qtv//qtv</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>alrayan</cname>
+		<item>
+			<title>alrayan</title>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/ryn//ryn</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
 		<cname>Sky Sports 1</cname>
