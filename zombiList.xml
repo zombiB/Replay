@@ -13,6 +13,14 @@
 	<streaminginfo>
 		<cname>Tele Sports</cname>
 		<item>
+			<title>ustream2</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18038490/streams/live/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
 			<title>ustream</title>
 			<link>http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8</link>
 		</item>
