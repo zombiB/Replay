@@ -936,6 +936,30 @@
 		    <link>rtmp://31.220.0.134:1935/live playpath=b2r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc HD 3 </title>
+			<link>rtsp://31.220.0.138:1935/live/b3r</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc HD 3 </title>
+			<link>rtmp://tvrain-video.ngenix.net/mobile//rtmp://198.204.255.66/live/jscsp3</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc HD 3 </title>
+			<link>rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.541833257.r.w6cdn.com/541833257/mp4:koraonline3yoXZhl1FgmpA swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.kora-online.tv/kora1.html</link>
+		</item>
+	</streaminginfo>
 
     <streaminginfo>
 
@@ -954,13 +978,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>@zombixbmc HD 3 </title>
-			<link>rtsp://31.220.0.138:1935/live/b3r</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
