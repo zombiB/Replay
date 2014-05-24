@@ -1,5 +1,14 @@
 <streamingInfos>
 
+
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>ustream</title>
+			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18085991/streams/live/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
 	<streaminginfo>
 		<cname>Hanibal</cname>
 		<item>
