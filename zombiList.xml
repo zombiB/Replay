@@ -958,7 +958,7 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc HD 3 </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT3HD</link>
+			<link>rtsp://31.220.0.138:1935/live/b3r</link>
 		</item>
 	</streaminginfo>
 	
