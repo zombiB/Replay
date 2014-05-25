@@ -890,8 +890,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
@@ -899,8 +897,6 @@
 			<link>http://cms.prosatiptv.com/getChannel?channelId=12&amp;sn=12576902&amp;byPass=987</link>
 		</item>
 	</streaminginfo>
-	
-	
 	
 	<streaminginfo>
 		<cname>Bein Sport 5</cname>
@@ -1037,7 +1033,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-			<title>@zombixbmc HD 3 </title>
+			<title>@zombixbmc live </title>
 			<link>rtsp://31.220.0.138:1935/live/b3r</link>
 		</item>
 	</streaminginfo>
@@ -1045,7 +1041,7 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-			<title>@zombixbmc HD 3 </title>
+			<title>@zombixbmc mobile </title>
 			<link>rtmp://tvrain-video.ngenix.net/mobile//rtmp://198.204.255.66/live/jscsp3</link>
 		</item>
 	</streaminginfo>
@@ -1053,36 +1049,18 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-			<title>@zombixbmc HD 3 </title>
+			<title>@zombixbmc kora </title>
 			<link>rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.541833257.r.w6cdn.com/541833257/mp4:koraonline3yoXZhl1FgmpA swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.kora-online.tv/kora1.html</link>
 		</item>
 	</streaminginfo>
 
     
 	
-	
-	
-	
-	
-	
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
 			<title>@zombixbmc HD 4 </title>
 			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT4HD</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>@zombixbmc updated</title>
-			<link>rtmp://31.220.0.195:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b1r&amp;vw=620&amp;vh=490 live=1</link>
 		</item>
 	</streaminginfo>
 	
@@ -1102,33 +1080,12 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>@zombixbmc HD 7</title>
-			<link>http://test:test@37.220.1.218:16000/6.ch </link>
-		</item>
-	</streaminginfo>
-	
-	
 	
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
 		<item>
 			<title>@zombixbmc HD 8</title>
 			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT8HD</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>@zombixbmc Bein 9 </title>
-			<link>rtmp://173.192.81.172/flash/18420 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/</link>
 		</item>
 	</streaminginfo>
 	
@@ -1139,14 +1096,65 @@
 			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT9HD</link>
 		</item>
 	</streaminginfo>
-	
-	
-	
 	<streaminginfo>
 		<cname>Bein Sport 10</cname>
 		<item>
 			<title>@zombixbmc HD </title>
 			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT10HD</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT11HD</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT12HD</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT13HD</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT14HD</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>@zombixbmc HD </title>
+			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT15HD</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>@zombixbmc HD 7</title>
+			<link>http://test:test@37.220.1.218:16000/6.ch </link>
+		</item>
+	</streaminginfo>
+	
+	
+	
+
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>@zombixbmc Bein 9 </title>
+			<link>rtmp://173.192.81.172/flash/18420 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/</link>
 		</item>
 	</streaminginfo>
 	
@@ -1158,63 +1166,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT11HD</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT12HD</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	
-
-    <streaminginfo>
-
-		<cname>bein sport 13</cname>
-		<item>
-			<title>@zombixbmc beIN Sports 13 SD iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT13HD</link>
-		</item>
-	</streaminginfo>
-
-    <streaminginfo>
-
-		<cname>bein sport 14</cname>
-		<item>
-			<title>@zombixbmc beIN Sports 14 SD iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT14HD</link>
-		</item>
-	</streaminginfo>
-	
 	<streaminginfo>
 		<cname>Bein Sport 15</cname>
 		<item>
@@ -1223,13 +1174,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT15HD</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
@@ -1277,6 +1222,14 @@
 		<item>
 			<title>@zombixbmc eucast</title>
 			<link>rtmp://31.220.0.82:1935/live playpath=b5r swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>@zombixbmc eucast</title>
+			<link>rtmp://31.220.0.195:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b1r&amp;vw=620&amp;vh=490 live=1</link>
 		</item>
 	</streaminginfo>
 	
@@ -1412,6 +1365,24 @@
 		<item>
 			<title>@zombixbmc beIN SPORT 12 SD iptvosn</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>bein sport 13</cname>
+		<item>
+			<title>@zombixbmc beIN Sports 13 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/21.ch</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+
+		<cname>bein sport 14</cname>
+		<item>
+			<title>@zombixbmc beIN Sports 14 SD iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/22.ch</link>
 		</item>
 	</streaminginfo>
 	
