@@ -15,15 +15,16 @@
 	<streaminginfo>
 		<cname>Dijlah</cname>
 		<item>
-			<title>Dijlah</title>
+			<title> m3u8</title>
 			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
 		</item>
 	</streaminginfo>
 	
+	
 	<streaminginfo>
 		<cname>alkass</cname>
 		<item>
-			<title>alkass</title>
+			<title> qna.org</title>
 			<link>rtmp://AgendaStreamerx1.qna.org.qa/kas//kas</link>
 		</item>
 	</streaminginfo>
@@ -31,7 +32,7 @@
 	<streaminginfo>
 		<cname>Baraem</cname>
 		<item>
-			<title>Baraem</title>
+			<title> qna.org</title>
 			<link>rtmp://AgendaStreamerx1.qna.org.qa/brm//brm</link>
 		</item>
 	</streaminginfo>
@@ -39,7 +40,7 @@
 	<streaminginfo>
 		<cname>Qatar</cname>
 		<item>
-			<title>Qatar</title>
+			<title> qna.org</title>
 			<link>rtmp://AgendaStreamerx1.qna.org.qa/qtv//qtv</link>
 		</item>
 	</streaminginfo>
@@ -47,7 +48,7 @@
 	<streaminginfo>
 		<cname>alrayan</cname>
 		<item>
-			<title>alrayan</title>
+			<title>qna.org</title>
 			<link>rtmp://AgendaStreamerx1.qna.org.qa/ryn//ryn</link>
 		</item>
 	</streaminginfo>
@@ -83,17 +84,6 @@
 			<link>rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
 		</item>
 	</streaminginfo>
-	
-
-	
-	<streaminginfo>
-		<cname>Dijlah</cname>
-		<item>
-			<title>Dijlah</title>
-			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
-		</item>
-	</streaminginfo>
-	
 	
 
 	<streaminginfo>
@@ -883,6 +873,14 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>@zombixbmc HD  </title>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=10&amp;sn=12576902&amp;byPass=987</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc HD</title>
@@ -1038,13 +1036,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>@zombixbmc mobile </title>
-			<link>rtmp://tvrain-video.ngenix.net/mobile//rtmp://198.204.255.66/live/jscsp3</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
@@ -1055,101 +1046,6 @@
 	</streaminginfo>
 
     
-	
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>@zombixbmc HD 4 </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT4HD</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>@zombixbmc HD 6 </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT6HD</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>@zombixbmc HD 7 </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT7HD</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>@zombixbmc HD 8</title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT8HD</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT9HD</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT10HD</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT11HD</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT12HD</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT13HD</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT14HD</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>@zombixbmc HD </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT15HD</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>@zombixbmc HD 7</title>
-			<link>http://test:test@37.220.1.218:16000/6.ch </link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
@@ -1157,23 +1053,6 @@
 			<link>rtmp://173.192.81.172/flash/18420 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/</link>
 		</item>
 	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>@zombixbmc HD 10</title>
-			<link>http://test:test@37.220.1.218:16000/9.ch </link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>@zombixbmc HD 15</title>
-			<link>http://test:test@37.220.1.218:16000/15.ch </link>
-		</item>
-	</streaminginfo>
-	
 	
 	
 	<streaminginfo>
@@ -1209,13 +1088,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>@zombixbmc HD 5 </title>
-			<link>http://LIVE:LIVE@37.187.146.225:5555/beINSPORT5HD</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 5 </cname>
