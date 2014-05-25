@@ -1,13 +1,9 @@
 <streamingInfos>
 
-
-
-	
-
 	<streaminginfo>
 		<cname>Hanibal</cname>
 		<item>
-			<title>Hanibal</title>
+			<title>streaminghd</title>
 			<link>rtmp://41.231.53.11:8888/thd/ playpath=hannibal swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://www.direct4live.com/2013/07/hannibal-tv-en-live-direct.html</link>
 		</item>
 	</streaminginfo>
@@ -56,7 +52,7 @@
 	<streaminginfo>
 		<cname>Sky Sports 1</cname>
 		<item>
-			<title>Sky Sports 1</title>
+			<title>Sky Sports </title>
 			<link>rtmp://37.220.32.52:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
 		</item>
 	</streaminginfo>
@@ -379,13 +375,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Abu Dhabi</cname>
-		<item>
-			<title>@zombixbmc  AD AL AULA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/108.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>sunnah TV</cname>
@@ -403,18 +393,12 @@
 		</item>
 	</streaminginfo>
 	
-    <streaminginfo>
-		<cname>AL AHLY</cname>
-		<item>
-			<title>@zombixbmc iptvosn AL AHLY CLUB</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/103.ch</link>
-		</item>
-	</streaminginfo>
+	
+    
 	
 	
 	
 	<streaminginfo>
-	
 		<cname>AL EQTESADIA TVCvv</cname>
 		<item>
 			<title>AL EQTESADIA TV</title>
@@ -447,13 +431,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Al Jazeera America</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/118.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Al Maghribia</cname>
@@ -463,13 +441,7 @@
 		</item>
 	</streaminginfo>
 	
-    <streaminginfo>
-		<cname>Al Maghribia</cname>
-		<item>
-			<title>@zombixbmc iptvosn ElMAGRBIA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/36.ch</link>
-		</item>
-	</streaminginfo>
+    
 	<streaminginfo>
 		<cname>Al Maghribia</cname>
 		<item>
@@ -511,13 +483,7 @@
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Al Nahar</cname>
-		<item>
-			<title>@zombixbmc iptvosn AL NHAR</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/113.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>AL RASHEED</cname>
@@ -535,13 +501,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Al Sharqiya</cname>
-		<item>
-			<title>@zombixbmc iptvosn Al Sharqiya</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/115.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Al Sharqiya News</cname>
@@ -586,13 +546,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Al-Nahar Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn ANNAHAR DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/85.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
 	<streaminginfo>
@@ -620,30 +574,10 @@
 		</item>
 	</streaminginfo>
 	
-<streaminginfo>
-		<cname>Aljazeera</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/116.ch</link>
-		</item>
-	</streaminginfo>
 
 
-<streaminginfo>
-		<cname>Aljazeera</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/45.ch</link>
-		</item>
-	</streaminginfo>
 
-    <streaminginfo>
-		<cname>Aljazeera Doc</cname>
-		<item>
-			<title>@zombixbmc iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/47.ch</link>
-		</item>
-	</streaminginfo>
+
 	
 	
 	<streaminginfo>
@@ -654,13 +588,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>alnabaa</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/120.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
 	
@@ -672,24 +600,11 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-
-		<cname>AlQahera W Elnas</cname>
-		<item>
-			<title>@zombixbmc Al Kahera Wal Nas 2 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/133.ch</link>
-		</item>
-	</streaminginfo>
+	
 
 	
 	
-<streaminginfo>
-		<cname>AlQahera W Elnas</cname>
-		<item>
-			<title>@zombixbmc iptvosn AlQahera W Elnas</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/107.ch</link>
-		</item>
-	</streaminginfo>
+
 	
 	<streaminginfo>
 		<cname>Alrai</cname>
@@ -741,24 +656,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-
-		<cname>Art Aflam 1</cname>
-		<item>
-			<title>@zombixbmc ART Aflem 1 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/134.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-		<cname>Art Aflam 2</cname>
-		<item>
-			<title>@zombixbmc ART Aflem 2 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/135.ch</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Art Aflam 2</cname>
 		<item>
@@ -767,32 +665,7 @@
 		</item>
 	</streaminginfo>
 	
-	
-<streaminginfo>
-		<cname>ART Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn ART Cinema</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/18.ch</link>
-		</item>
-	</streaminginfo>
-	
-	
-    <streaminginfo>
-		<cname>ART hykayet1</cname>
-		<item>
-			<title>@zombixbmc iptvosn ART Hekayat</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/19.ch</link>
-		</item>
-	</streaminginfo>
 
-
-    <streaminginfo>
-		<cname>ART hykayet2</cname>
-		<item>
-			<title>@zombixbmc iptvosn ART Hekayat 2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/20.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>arte</cname>
@@ -802,13 +675,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>arte</cname>
-		<item>
-			<title>@zombixbmc  </title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/147.ch</link>
-		</item>
-	</streaminginfo>
+	
 
 	<streaminginfo>
 		<cname>arte</cname>
@@ -1391,13 +1258,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Cairo Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn CAIRO CINEMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Cairo Drama</cname>
@@ -1407,14 +1268,6 @@
 		</item>
 	</streaminginfo>
 	
-		
-    <streaminginfo>
-		<cname>Cairo Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn CAIRO DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/82.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>CBC</cname>
@@ -1440,47 +1293,13 @@
 	
 	
 <streaminginfo>
-		<cname>CBC</cname>
-		<item>
-			<title>@zombixbmc iptvosn CBC</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/86.ch</link>
-		</item>
-	</streaminginfo>
-	
-<streaminginfo>
 		<cname>CBC Drama</cname>
 		<item>
 			<title>@zombixbmc magictv CBC DRAMA</title>
 			<link>http://cdn-streamer1.magictvbox.com/live/10149.stream/chunklist.m3u8</link>
 		</item>
 	</streaminginfo>
-		
-<streaminginfo>
-		<cname>CBC Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn CBC DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/59.ch</link>
-		</item>
-	</streaminginfo>
 
-
-<streaminginfo>
-		<cname>CBC Extra</cname>
-		<item>
-			<title>@zombixbmc iptvosn CBC EXTRA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-
-		<cname>CBC Sofra</cname>
-		<item>
-			<title>@zombixbmc CBC SOFRA iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/131.ch</link>
-		</item>
-	</streaminginfo>
-	
 	<streaminginfo>
 		<cname>Cinema EN</cname>
 		<item>
@@ -1569,16 +1388,7 @@
 		</item>
 	</streaminginfo>
 
-	
-<streaminginfo>
-		<cname>E 1 KIDS</cname>
-		<item>
-			<title>@zombixbmc iptvosn E 1 KIDS</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/104.ch</link>
-		</item>
-	</streaminginfo>
-	
-	
+
 	<streaminginfo>
 		<cname>EnnaharTV algerie</cname>
 		<item>
@@ -1587,24 +1397,7 @@
 		</item>
 	</streaminginfo>
 	
-	
-<streaminginfo>
-		<cname>Fox</cname>
-		<item>
-			<title>@zombixbmc iptvosn Fox</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/75.ch</link>
-		</item>
-	</streaminginfo>
 
-
-<streaminginfo>
-		<cname>Fox</cname>
-		<item>
-			<title>@zombixbmc iptvosn Fox Life</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/49.ch</link>
-		</item>
-	</streaminginfo>
-	
 	
 	<streaminginfo>
 		<cname>FRANCE 0</cname>
@@ -1856,13 +1649,6 @@
 		
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Maghreb tv</cname>
-		<item>
-			<title>@zombixbmc  Maghreb tv</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/149.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>IRAQIA</cname>
@@ -1880,21 +1666,7 @@
 		</item>
 	</streaminginfo>
 	
-<streaminginfo>
-		<cname>Jordan</cname>
-		<item>
-			<title>@zombixbmc iptvosn JORDEN</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/109.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Karameesh</cname>
-		<item>
-			<title>@zombixbmc iptvosn Karameesh</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
-		</item>
-	</streaminginfo>
+
 	
 	<streaminginfo>
 		<cname>KTV 2</cname>
@@ -1962,13 +1734,7 @@
 	</streaminginfo>
 	
 	
-<streaminginfo>
-		<cname>KTV SPORT</cname>
-		<item>
-			<title>@zombixbmc iptvosn KUWAIT SPORT</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/106.ch</link>
-		</item>
-	</streaminginfo>
+
 	
 	
 	<streaminginfo>
@@ -1988,13 +1754,7 @@
 	</streaminginfo>
 	
 	
-<streaminginfo>
-		<cname>LCD AFLAM</cname>
-		<item>
-			<title>@zombixbmc iptvosn LCD AFLAM</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/99.ch</link>
-		</item>
-	</streaminginfo>
+
 	
 	<streaminginfo>
 		<cname>Libya</cname>
@@ -2029,13 +1789,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>M6vv</cname>
-		<item>
-			<title>@zombixbmc </title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/81.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>MBC 1</cname>
@@ -2045,13 +1799,7 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>MBC 1</cname>
-		<item>
-	<title>@zombixbmc MBC 1 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/37.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>MBC 2</cname>
@@ -2061,13 +1809,7 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>MBC 2</cname>
-		<item>
-	        <title>@zombixbmc MBC 2 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>MBC 3</cname>
@@ -2077,13 +1819,7 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>MBC 3</cname>
-		<item>
-	        <title>@zombixbmc MBC3 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>MBC 3</cname>
@@ -2101,13 +1837,7 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>MBC 4</cname>
-		<item>
-	<title>@zombixbmcMBC 4 iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>MBC 4</cname>
@@ -2125,13 +1855,7 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>MBC Action</cname>
-		<item>
-	<title>@zombixbmcMBC Action iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>MBC Bollywood</cname>
@@ -2166,30 +1890,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-
-		<cname>MBC Drama</cname>
-		<item>
-			<title>@zombixbmc MBC Drama Plus hd iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/31.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>MBC Drama</cname>
-		<item>
-	<title>@zombixbmcMBC Drama iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>MBC Masr</cname>
-		<item>
-		<title>@zombixbmcMBC Masr iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>MBC Max</cname>
@@ -2199,51 +1899,6 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>MBC Max</cname>
-		<item>
-	        <title>@zombixbmcMBC MAX iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/44.ch</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-
-		<cname>Melody Aflem</cname>
-		<item>
-			<title>@zombixbmc Melody Aflam iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/128.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-
-		<cname>Melody Classic</cname>
-		<item>
-			<title>@zombixbmc Melody Classic iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/132.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-
-		<cname>Melody Hits</cname>
-		<item>
-			<title>@zombixbmc Melody Hits iptvosn</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/129.ch</link>
-		</item>
-	</streaminginfo>
-
-
-    <streaminginfo>
-		<cname>Moga Comedy</cname>
-		<item>
-			<title>@zombixbmc iptvosn Moga Comedy</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
-		</item>
-	</streaminginfo>
 	
 	
 	<streaminginfo>
@@ -2363,13 +2018,7 @@
 		</item>
 	</streaminginfo>
 
-    <streaminginfo>
-		<cname>On TV</cname>
-		<item>
-			<title>@zombixbmc iptvosn On Tv</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
-		</item>
-	</streaminginfo>
+    
 	
 	
     <streaminginfo>
@@ -2543,7 +2192,7 @@
         </item>	
 	</streaminginfo>
 	
-	    <streaminginfo>
+	<streaminginfo>
 		<cname>OSN EN</cname>
 		<item>
 			<title>@zombixbmc usr needed from fb/Iptvosn</title>
@@ -2633,13 +2282,6 @@
 
 
 	
-	<streaminginfo>
-		<cname>Panorama Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn PANORAMA DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/89.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Panorama film</cname>
@@ -2657,13 +2299,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Panorama film</cname>
-		<item>
-			<title>@zombixbmc iptvosn PANORAMA CINEMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/96.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Panorama film</cname>
@@ -2729,21 +2365,7 @@
 		</item>
 	</streaminginfo>
 	
-    <streaminginfo>
-		<cname>Rotana Aflam</cname>
-		<item>
-			<title>@zombixbmc iptvosn Rotana Aflam</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
-		</item>
-	</streaminginfo>
-
-    <streaminginfo>
-		<cname>Rotana cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn Rotana Cinema</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
-		</item>
-	</streaminginfo>
+    
 	
 	
     <streaminginfo>
@@ -2754,14 +2376,7 @@
 		</item>
 	</streaminginfo>
 
-    <streaminginfo>
-		<cname>Roya</cname>
-		<item>
-			<title>@zombixbmc iptvosn Roya</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/71.ch</link>
-		</item>
-	</streaminginfo>
-	
+    
 	
 
     <streaminginfo>
@@ -2772,13 +2387,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Sada Al Balad</cname>
-		<item>
-			<title>@zombixbmc iptvosn SDA AL BLAD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/112.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>SadacAlBalad Drama</cname>
@@ -2789,21 +2398,7 @@
 	</streaminginfo>
 	
 	
-    <streaminginfo>
-		<cname>SadacAlBalad Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn SADA ALBALAD DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/92.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Sama Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn SAMA CINEMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/88.ch</link>
-		</item>
-	</streaminginfo>
+    
 	
 	<streaminginfo>
 		<cname>SHAABIYAT</cname>
@@ -2814,13 +2409,7 @@
 	</streaminginfo>
 	
 	
-    <streaminginfo>
-		<cname>SHAABIYAT</cname>
-		<item>
-			<title>@zombixbmc iptvosn SHAABIYAT</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/95.ch</link>
-		</item>
-	</streaminginfo>
+    
 	
 	<streaminginfo>
 		<cname>SkyNewsArabia</cname>
@@ -2840,13 +2429,7 @@
 	</streaminginfo>
 	
 	
-    <streaminginfo>
-		<cname>SM SM KIDS</cname>
-		<item>
-			<title>@zombixbmc iptvosn SM SM KIDS</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/102.ch</link>
-		</item>
-	</streaminginfo>
+    
 	
 	<streaminginfo>
 		<cname>Spacetoon</cname>
@@ -2889,23 +2472,9 @@
 	</streaminginfo>
 	
 	
-    <streaminginfo>
-		<cname>Star Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn STAR CINEMA 1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/81.ch</link>
-		</item>
-	</streaminginfo>
+    
 
-
-    <streaminginfo>
-		<cname>Star Cinema</cname>
-		<item>
-			<title>@zombixbmc iptvosn STAR CINEMA 2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/80.ch</link>
-		</item>
-	</streaminginfo>
-	
+    
     
 
 
@@ -2917,13 +2486,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Syria Drama</cname>
-		<item>
-			<title>@zombixbmc iptvosn SYRIA DRAMA</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/78.ch</link>
-		</item>
-	</streaminginfo>
 	
 	
 	
@@ -2959,13 +2521,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>TF1</cname>
-		<item>
-			<title>@zombixbmc</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
     <streaminginfo>
@@ -3008,13 +2564,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>TIME CORAN</cname>
-		<item>
-			<title>@zombixbmc iptvosn TIME CORAN</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/98.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Tounesna</cname>
@@ -3072,6 +2622,1498 @@
 			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm</link>
 		</item>
 	</streaminginfo>
-
 	
+	
+	
+	
+	<streaminginfo>
+		<cname>Al Jazeera America</cname>
+		<item>
+			<title>@zombixbmc iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/118.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Maghribia</cname>
+		<item>
+			<title>@zombixbmc iptvosn ElMAGRBIA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/36.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Nahar</cname>
+		<item>
+			<title>@zombixbmc iptvosn AL NHAR</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/113.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Sharqiya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al Sharqiya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/115.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al-Nahar Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn ANNAHAR DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/85.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Aljazeera</cname>
+		<item>
+			<title>@zombixbmc iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/116.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Aljazeera</cname>
+		<item>
+			<title>@zombixbmc iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/45.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+		<cname>Aljazeera Doc</cname>
+		<item>
+			<title>@zombixbmc iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/47.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlQahera W Elnas</cname>
+		<item>
+			<title>@zombixbmc iptvosn AlQahera W Elnas</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/107.ch</link>
+		</item>
+	</streaminginfo>	
+	<streaminginfo>
+		<cname>ART Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn ART Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/18.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+    <streaminginfo>
+		<cname>ART hykayet1</cname>
+		<item>
+			<title>@zombixbmc iptvosn ART Hekayat</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/19.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>ART hykayet2</cname>
+		<item>
+			<title>@zombixbmc iptvosn ART Hekayat 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/20.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cairo Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn CAIRO CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>TIME CORAN</cname>
+		<item>
+			<title>@zombixbmc iptvosn TIME CORAN</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/98.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Syria Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn SYRIA DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/78.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn STAR CINEMA 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/80.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn STAR CINEMA 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/81.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>SM SM KIDS</cname>
+		<item>
+			<title>@zombixbmc iptvosn SM SM KIDS</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/102.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>SHAABIYAT</cname>
+		<item>
+			<title>@zombixbmc iptvosn SHAABIYAT</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/95.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>SadacAlBalad Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn SADA ALBALAD DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/92.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Sama Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn SAMA CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/88.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sada Al Balad</cname>
+		<item>
+			<title>@zombixbmc iptvosn SDA AL BLAD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/112.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Roya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Roya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/71.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana Aflam</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Aflam</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
+		</item>
+	</streaminginfo>
+
+    <streaminginfo>
+		<cname>Rotana cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc iptvosn PANORAMA CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/96.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Panorama Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn PANORAMA DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/89.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>AL AHLY</cname>
+		<item>
+			<title>@zombixbmc iptvosn AL AHLY CLUB</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/103.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>alnabaa</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/120.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+
+		<cname>AlQahera W Elnas</cname>
+		<item>
+			<title>@zombixbmc Al Kahera Wal Nas 2 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/133.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>@zombixbmc</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/79.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>On TV</cname>
+		<item>
+			<title>@zombixbmc iptvosn On Tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+
+		<cname>MBC Drama</cname>
+		<item>
+			<title>@zombixbmc MBC Drama Plus hd iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/31.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>MBC Drama</cname>
+		<item>
+	<title>@zombixbmcMBC Drama iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>MBC Masr</cname>
+		<item>
+		<title>@zombixbmcMBC Masr iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/43.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC Max</cname>
+		<item>
+	        <title>@zombixbmcMBC MAX iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/44.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	
+	<streaminginfo>
+
+		<cname>Melody Aflem</cname>
+		<item>
+			<title>@zombixbmc Melody Aflam iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/128.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>Melody Classic</cname>
+		<item>
+			<title>@zombixbmc Melody Classic iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/132.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>Melody Hits</cname>
+		<item>
+			<title>@zombixbmc Melody Hits iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/129.ch</link>
+		</item>
+	</streaminginfo>
+
+
+    <streaminginfo>
+		<cname>Moga Comedy</cname>
+		<item>
+			<title>@zombixbmc iptvosn Moga Comedy</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC Action</cname>
+		<item>
+	<title>@zombixbmcMBC Action iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/41.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC 4</cname>
+		<item>
+	<title>@zombixbmcMBC 4 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/40.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC 3</cname>
+		<item>
+	        <title>@zombixbmc MBC3 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/39.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC 2</cname>
+		<item>
+	        <title>@zombixbmc MBC 2 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/38.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC 1</cname>
+		<item>
+	<title>@zombixbmc MBC 1 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/37.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>M6vv</cname>
+		<item>
+			<title>@zombixbmc </title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/81.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>LCD AFLAM</cname>
+		<item>
+			<title>@zombixbmc iptvosn LCD AFLAM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/99.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>KTV SPORT</cname>
+		<item>
+			<title>@zombixbmc iptvosn KUWAIT SPORT</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/106.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Jordan</cname>
+		<item>
+			<title>@zombixbmc iptvosn JORDEN</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/109.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Karameesh</cname>
+		<item>
+			<title>@zombixbmc iptvosn Karameesh</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Maghreb tv</cname>
+		<item>
+			<title>@zombixbmc  Maghreb tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/149.ch</link>
+		</item>
+	</streaminginfo>
+		
+	<streaminginfo>
+		<cname>Fox</cname>
+		<item>
+			<title>@zombixbmc iptvosn Fox</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/75.ch</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>
+		<cname>Fox</cname>
+		<item>
+			<title>@zombixbmc iptvosn Fox Life</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/49.ch</link>
+		</item>
+	</streaminginfo>
+		
+	<streaminginfo>
+		<cname>E 1 KIDS</cname>
+		<item>
+			<title>@zombixbmc iptvosn E 1 KIDS</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/104.ch</link>
+		</item>
+	</streaminginfo>
+	
+			
+	<streaminginfo>
+		<cname>CBC Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/59.ch</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>
+		<cname>CBC Extra</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC EXTRA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>CBC Sofra</cname>
+		<item>
+			<title>@zombixbmc CBC SOFRA iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/131.ch</link>
+		</item>
+	</streaminginfo>
+		
+	<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/86.ch</link>
+		</item>
+	</streaminginfo>
+	
+    <streaminginfo>
+		<cname>Cairo Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn CAIRO DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/82.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Abu Dhabi</cname>
+		<item>
+			<title>@zombixbmc  AD AL AULA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/108.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+
+		<cname>Art Aflam 1</cname>
+		<item>
+			<title>@zombixbmc ART Aflem 1 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/134.ch</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>
+
+		<cname>Art Aflam 2</cname>
+		<item>
+			<title>@zombixbmc ART Aflem 2 iptvosn</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/135.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>arte</cname>
+		<item>
+			<title>@zombixbmc  </title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/147.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>Alhayat 1</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al Hayet 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/299.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Alhayat Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al Hayet Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/301.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Alhayat-Series</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al Hayet Series</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/302.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Al Haneen Music</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al Haneen Music</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/298.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Art Aflam 1</cname>
+		<item>
+			<title>@zombixbmc iptvosn ART Aflem 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/282.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Art Aflam 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn ART Aflem 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/283.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Zee Aflam</cname>
+		<item>
+			<title>@zombixbmc iptvosn Zee Aflam</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/295.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Zee Alwan</cname>
+		<item>
+			<title>@zombixbmc iptvosn Zee Alwan</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/296.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/217.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CBC 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/291.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CBC Extra</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC Extra</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/293.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CBC Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/292.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CBC Sofra</cname>
+		<item>
+			<title>@zombixbmc iptvosn CBC Sofra</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/294.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN First HD</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN First HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/273.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Movies Action HD</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Movies Action HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/268.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Movies Premiere HD</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Movies Premiere HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/266.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Movies HD +2</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Movies HD +2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/270.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Yahala Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Yahala Drama HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/271.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Ya Hala Shabab HD</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Shabab HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/267.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Yahala HD</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN YaHala HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/269.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Movies Comedy</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Movies HD Comedy</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/274.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Ya Hala +2</cname>
+		<item>
+			<title>@zombixbmc iptvosn OSN Yahala HD +2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/272.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC 1</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/275.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/276.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC 3</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC 3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/277.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC 4</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC 4</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/278.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/42.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC Bollywood</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC Bollywood</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/289.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC Action</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC Action</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/279.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC Masr</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC Masr</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/280.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC Max</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC MAX</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/281.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC Persia</cname>
+		<item>
+			<title>@zombixbmc iptvosn MBC Persia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/288.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/1.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/2.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/3.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT4</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/4.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT5</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/5.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT6</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/6.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT7</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/7.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>@zombixbmc iptvosn beINSPORT8</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/36.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports 9</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/284.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports 10</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/285.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports 11</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/286.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports 12</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/287.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/8.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/9.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/10.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD4</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/11.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD5</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/12.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD9</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/16.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD10</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/17.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>@zombixbmc iptvosn beIN Sports HD12</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/19.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Cinema 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit  Alyawm</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Fann</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Mmousalsalat</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit MusicNow</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/64.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN ALPHA orbit</cname>
+		<item>
+			<title>@zombixbmc iptvosn Orbit Alsafwa</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>EnnaharTV</cname>
+		<item>
+			<title>@zombixbmc iptvosn EnnaharTV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/232.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>GULLI</cname>
+		<item>
+			<title>@zombixbmc iptvosn Gulli</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/227.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>@zombixbmc iptvosn Alfajer Palestine TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/195.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Dubai Sport 1</cname>
+		<item>
+			<title>@zombixbmc iptvosn Dubai Sports3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/189.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Nahar Sport</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nahar Sport</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/182.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Iraqiya Sport</cname>
+		<item>
+			<title>@zombixbmc iptvosn Iraqiya Sport</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/136.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana Music</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Music</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/153.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana Clip</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Clip</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/152.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana Aflam</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Aflam</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/71.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana Classic</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Classic</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/154.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana Masriya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Masriya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/155.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana Khaligi</cname>
+		<item>
+			<title>@zombixbmc iptvosn Rotana Khalijiya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/141.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nile Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nile Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/114.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nile Comedy</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nile Comedy</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/164.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nile Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nile Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/303.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nile Drama 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nile Drama 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/304.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nile Family</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nile Family</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/306.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nile Life</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nile Life</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/305.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nile Sport</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nile Sport</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/247.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nile News</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nile News</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/165.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cairo Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn Cairo Film</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/168.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cairo Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn Cairo Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/99.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cairo Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn Cairo Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/161.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Star Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn STAR CINEMA 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/90.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Star Cinema2</cname>
+		<item>
+			<title>@zombixbmc iptvosn STAR CINEMA 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/91.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Panorama film</cname>
+		<item>
+			<title>@zombixbmc iptvosn PANORAMA CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/93.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Panorama Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn Panorama Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/94.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Panorama Drama2</cname>
+		<item>
+			<title>@zombixbmc iptvosn Panorama Drama 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/163.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc iptvosn TokTok Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/160.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Time Comedy</cname>
+		<item>
+			<title>@zombixbmc iptvosn TIME COMEDY</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/123.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sama Cinema</cname>
+		<item>
+			<title>@zombixbmc iptvosn SAMA CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/92.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>LCD AFLAM</cname>
+		<item>
+			<title>@zombixbmc iptvosn LCD AFLAM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/115.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>OSN Ar</cname>
+		<item>
+			<title>@zombixbmc iptvosn Taxi Elsahra</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/169.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Moga Comedy</cname>
+		<item>
+			<title>@zombixbmc iptvosn Moga Comedy</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/66.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Abu Dhabi Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn AD DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/133.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Syria Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn SYRIA DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/96.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al-Nahar Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn NAHAR DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/95.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>SadacAlBalad Drama</cname>
+		<item>
+			<title>@zombixbmc iptvosn SADA ALBALAD DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/125.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Spacetoon</cname>
+		<item>
+			<title>@zombixbmc iptvosn SPACE TOON</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/134.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Karameesh</cname>
+		<item>
+			<title>@zombixbmc iptvosn Karameesh</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/98.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Baraem</cname>
+		<item>
+			<title>@zombixbmc iptvosn Baraem</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/197.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Baraem</cname>
+		<item>
+			<title>@zombixbmc iptvosn Koky Kids</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/170.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Baraem</cname>
+		<item>
+			<title>@zombixbmc iptvosn SEMSEM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/124.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Mazzika</cname>
+		<item>
+			<title>@zombixbmc iptvosn Mazzika</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/167.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Mazeka zoom</cname>
+		<item>
+			<title>@zombixbmc iptvosn MAZZIKA ZOOM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/132.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Alarabiya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Aliya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/177.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Alam</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al Alam</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/179.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Aljazeera</cname>
+		<item>
+			<title>@zombixbmc iptvosn AL JAZEERA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/45.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Aljazeera Mubasher Masr</cname>
+		<item>
+			<title>@zombixbmc iptvosn AL JAZEERA MISR</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/175.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Aljazeera Mubasher</cname>
+		<item>
+			<title>@zombixbmc iptvosn AL JAZEERA Mubasher</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/176.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Russia Alyaum</cname>
+		<item>
+			<title>@zombixbmc iptvosn Russia Today</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/188.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>France24 Arabic</cname>
+		<item>
+			<title>@zombixbmc iptvosn France 24</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/150.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>On TV</cname>
+		<item>
+			<title>@zombixbmc iptvosn On Tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/69.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sada Al Balad</cname>
+		<item>
+			<title>@zombixbmc iptvosn Sada Albalad</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/126.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlQahera W Elnas</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al W Elnas</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/117.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Hiwar</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al Tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/191.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Nahar</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nahar</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/183.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Nahar 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nahar +2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/159.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Sharqiya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Elshargia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/171.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Sharqiya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Alsharqiya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/192.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Sumaria</cname>
+		<item>
+			<title>@zombixbmc iptvosn Alsumaria</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/138.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Baghdadia</cname>
+		<item>
+			<title>@zombixbmc iptvosn Elbaghdadia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/158.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Baghdadia</cname>
+		<item>
+			<title>@zombixbmc iptvosn Baghdad TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/137.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Algeria 3</cname>
+		<item>
+			<title>@zombixbmc iptvosn Algerie 3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/143.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Maghreb tv</cname>
+		<item>
+			<title>@zombixbmc iptvosn Elmaghreb tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/149.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Maghribia</cname>
+		<item>
+			<title>@zombixbmc iptvosn Elribya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/122.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Magharibia</cname>
+		<item>
+			<title>@zombixbmc iptvosn Elmaghribya 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/142.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nessma</cname>
+		<item>
+			<title>@zombixbmc iptvosn Nissma Elhamra</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/140.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Libya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Libya Alhrar</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/146.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Libya 2</cname>
+		<item>
+			<title>@zombixbmc iptvosn Libya Alamontada</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/147.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>LBC</cname>
+		<item>
+			<title>@zombixbmc iptvosn Lbc America</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/139.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Iqra</cname>
+		<item>
+			<title>@zombixbmc iptvosn Iqra America</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/145.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Jazeera America</cname>
+		<item>
+			<title>@zombixbmc iptvosn AL JAZEERA DOCUMENTARY</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/47.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al-Resalah</cname>
+		<item>
+			<title>@zombixbmc iptvosn Alrisalah</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/144.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al-Resalah</cname>
+		<item>
+			<title>@zombixbmc iptvosn Alnas</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/151.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Ghinwa</cname>
+		<item>
+			<title>@zombixbmc iptvosn Alqithara</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/162.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Dubai TV</cname>
+		<item>
+			<title>@zombixbmc iptvosn Dubai</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/190.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Dubai One</cname>
+		<item>
+			<title>@zombixbmc iptvosn Dubai One</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/172.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sama Dubai</cname>
+		<item>
+			<title>@zombixbmc iptvosn Dubai Sama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/173.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Dijlah</cname>
+		<item>
+			<title>@zombixbmc iptvosn Alforat TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/181.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Qatar</cname>
+		<item>
+			<title>@zombixbmc iptvosn qatar1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/156.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Roya</cname>
+		<item>
+			<title>@zombixbmc iptvosn Roya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/97.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Alan</cname>
+		<item>
+			<title>@zombixbmc iptvosn Al Aan</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/180.ch</link>
+		</item>
+	</streaminginfo>
+
+
 </streamingInfos>
