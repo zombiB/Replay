@@ -883,6 +883,51 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>@zombixbmc HD</title>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=11&amp;sn=12576902&amp;byPass=987</link>
+		</item>
+	</streaminginfo>
+	
+	
+
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>@zombixbmc HD</title>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=12&amp;sn=12576902&amp;byPass=987</link>
+		</item>
+	</streaminginfo>
+	
+	
+	
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>@zombixbmc HD</title>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=13&amp;sn=12576902&amp;byPass=987</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>@zombixbmc HD</title>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=15&amp;sn=12576902&amp;byPass=987</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>@zombixbmc HD</title>
+			<link>http://cms.prosatiptv.com/getChannel?channelId=16&amp;sn=12576902&amp;byPass=987</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>@zombixbmc HQ 1 HD</title>
@@ -988,24 +1033,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>@zombixbmc HQ </title>
-			<link>rtmp://80.82.70.225:443/c0be82e1442e7169a9a358db47fcafcb playpath=b1575 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>@zombixbmc HD 2 </title>
-			<link>rtmp://80.82.70.225:443/c0be82e1442e7169a9a358db47fcafcb playpath=b2458 pageUrl=http://xuscacamusca.se/</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
 	
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
@@ -1035,13 +1062,7 @@
 	
 	
 	
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>http://cms.prosatiptv.com/getChannel?channelId=11&amp;sn=12576902&amp;byPass=987</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
 	<streaminginfo>
@@ -1053,24 +1074,6 @@
 	</streaminginfo>
 	
 	
-
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>http://cms.prosatiptv.com/getChannel?channelId=12&amp;sn=12576902&amp;byPass=987</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>http://cms.prosatiptv.com/getChannel?channelId=13&amp;sn=12576902&amp;byPass=987</link>
-		</item>
-	</streaminginfo>
 	
 	
 	
@@ -1107,13 +1110,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>http://cms.prosatiptv.com/getChannel?channelId=15&amp;sn=12576902&amp;byPass=987</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
@@ -1123,15 +1120,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>@zombixbmc wiziwig</title>
-			<link>http://cms.prosatiptv.com/getChannel?channelId=16&amp;sn=12576902&amp;byPass=987</link>
-		</item>
-	</streaminginfo>
 	
 	
 	
