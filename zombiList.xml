@@ -2,58 +2,7 @@
 
 
 
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18085991/streams/live/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18139707/streams/live/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>ustream2</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18098239/streams/live/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>ustream2</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18098597/streams/live/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>ustream2</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18136378/streams/live/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/18139502/streams/live/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>ustream</title>
-			<link>http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8</link>
-		</item>
-	</streaminginfo>
 
 	<streaminginfo>
 		<cname>Hanibal</cname>
