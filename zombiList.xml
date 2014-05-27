@@ -1,6 +1,120 @@
 <streamingInfos>
 
 	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 1HQ</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 1HD</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 2HQ</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 2HD</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 3HQ</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 3HD</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 4HQ</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 4HD</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 5HQ</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 5HD</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 6HQ</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 6HD</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 7HQ</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>SPORT TIME</cname>
+		<item>
+			<title> GERMANY SPORT TIME TV 7HD</title>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800</link>
+		</item>
+	</streaminginfo>
+
+
+
+	<streaminginfo>
 		<cname>Hanibal</cname>
 		<item>
 			<title>streaminghd</title>
