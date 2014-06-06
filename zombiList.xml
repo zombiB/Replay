@@ -3325,14 +3325,14 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Star Cinema</cname>
+		<cname>Star 1 Cinema +7</cname>
 		<item>
 			<title>@zombixbmc iptvosn STAR CINEMA 1</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/90.ch</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Star Cinema</cname>
+		<cname>Star 2 Cinema +7</cname>
 		<item>
 			<title>@zombixbmc iptvosn STAR CINEMA 2</title>
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/91.ch</link>
