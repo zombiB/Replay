@@ -3142,7 +3142,1089 @@
 			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/372.ch</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>Dubai Racing</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/399.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>France 3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/742.ch</link>
+		</item>
+	</streaminginfo>
 
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>France 4</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/740.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>France 5</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/743.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>France O</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/741.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>BFM TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/744.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>D8</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/739.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>D17</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/745.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Arte</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/725.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Mens up</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/727.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>KTO</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/746.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Air</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/732.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>LCP</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/728.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Weo</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/729.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Mirabelle TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/730.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Yvelines Premi&#232;re</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/731.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>TVR Renne 35 Bretagne</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/734.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Grande Lille TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/735.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Alsace20</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/736.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN FRANCE</cname>
+		<item>
+			<title>Gulli</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/227.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Algerie 3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/143.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Elmaghreb tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/149.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Elmaghribya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/122.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Elmaghribya 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/142.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Nissma Elhamra</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/140.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Libya Alhrar</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/146.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Libya Alamontada</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/147.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Nessma Elhamraa</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/326.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Medi1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/349.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>2M Maroc</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/400.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Tunis 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/397.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Al Tunisia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/389.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Tounesna</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/391.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Hannibal TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/390.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>TNN</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/392.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MAGREB</cname>
+		<item>
+			<title>Al Moutawasit</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/393.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>IPTVOSN IRAQ</cname>
+		<item>
+			<title>Elshargia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/171.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN IRAQ</cname>
+		<item>
+			<title>Alforat TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/181.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN IRAQ</cname>
+		<item>
+			<title>Alsharqiya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/192.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN IRAQ</cname>
+		<item>
+			<title>Iraq</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/343.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN IRAQ</cname>
+		<item>
+			<title>Iraqiya Doc</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/337.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN IRAQ</cname>
+		<item>
+			<title>Alsumaria</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/138.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN IRAQ</cname>
+		<item>
+			<title>Elbaghdadia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/158.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN IRAQ</cname>
+		<item>
+			<title>Baghdad TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/137.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>Alarabiya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/177.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>Nile News</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/165.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>Al Alam</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/179.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>Aljazeera</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/355.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>AL JAZEERA MISR</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/175.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>AL JAZEERA Mubasher</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/176.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>AL JAZEERA BALKAN</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/46.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>AL JAZEERA DOCUMENTARY</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/47.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN NEWS</cname>
+		<item>
+			<title>Al Aan</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/180.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>CBC</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/217.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>Rotana Masriya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/155.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>CBC Extra</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/293.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>CBC TWO</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/526.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>EnnaharTV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/232.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>On Tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/69.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>Sada Albalad</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/126.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>AlQahera W Elnas</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/117.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>Alhiwar Tv</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/191.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>NAHAR</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/183.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>NAHAR +2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/159.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN EGYPT</cname>
+		<item>
+			<title>NAHAR ALYAOUM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/525.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN ISLAM</cname>
+		<item>
+			<title>Iqraa Arabic</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/341.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN ISLAM</cname>
+		<item>
+			<title>Iqraa Asia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/340.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN ISLAM</cname>
+		<item>
+			<title>Iqraa Europe</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/339.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN ISLAM</cname>
+		<item>
+			<title>Iqra America</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/145.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN ISLAM</cname>
+		<item>
+			<title>Wesal TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/407.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>IPTVOSN ISLAM</cname>
+		<item>
+			<title>Alrisalah</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/144.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN ISLAM</cname>
+		<item>
+			<title>Alnas</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/151.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>Alwatan Plus</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/405.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>Rotana Khalijiya</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/141.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>Alwatan</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/406.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>Iraq Elgarbia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/345.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>Dubai Sama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/173.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>Dubai Noor</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/398.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>qatar1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/156.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>SADUDI 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/528.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN GULF</cname>
+		<item>
+			<title>Dubai</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/190.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN SHAM</cname>
+		<item>
+			<title>NBN Lebanon</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/408.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN SHAM</cname>
+		<item>
+			<title>Shada TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/401.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN SHAM</cname>
+		<item>
+			<title>Alfalastinia</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/404.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN SHAM</cname>
+		<item>
+			<title>Alfajer Palestine TV</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/195.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>IPTVOSN SHAM</cname>
+		<item>
+			<title>Lbc America</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/139.ch</link>
+		</item>
+	</streaminginfo>
+
+	
+	
+	<streaminginfo>
+		<cname>IPTVOSN SHAM</cname>
+		<item>
+			<title>Fatafet</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/722.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN KIDS</cname>
+		<item>
+			<title>MBC 3</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/721.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN KIDS</cname>
+		<item>
+			<title>SPACE TOON</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/134.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN KIDS</cname>
+		<item>
+			<title>Karameesh</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/98.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN KIDS</cname>
+		<item>
+			<title>Baraem</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/197.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN KIDS</cname>
+		<item>
+			<title>E 1 KIDS</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/128.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN KIDS</cname>
+		<item>
+			<title>Koky Kids</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/170.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN KIDS</cname>
+		<item>
+			<title>SEMSEM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/124.ch</link>
+		</item>
+	</streaminginfo>
+	
+		<streaminginfo>
+		<cname>IPTVOSN COOK</cname>
+		<item>
+			<title>CBC Sofra</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/294.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN MUSIC</cname>
+		<item>
+			<title>MaZika</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/354.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MUSIC</cname>
+		<item>
+			<title>MAZZIKA ZOOM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/132.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN MUSIC</cname>
+		<item>
+			<title>Alqithara</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/162.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>IPTVOSN MUSIC</cname>
+		<item>
+			<title>Rotana Music</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/153.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN MUSIC</cname>
+		<item>
+			<title>Rotana Clip</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/152.ch</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>BOX OFFICE MOVES VOD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/756.ch</link>
+		</item>
+	</streaminginfo>
+
+	
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>SMART MOVIES HD</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/754.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>ABU DHABI DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/755.ch</link>
+		</item>
+	</streaminginfo>
+
+	
+	
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>MBC 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/720.ch</link>
+		</item>
+	</streaminginfo>
+
+	
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>ART HEKAYAT</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/328.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>ART HEKAYAT2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/329.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Fox Movies</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/346.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>CBC Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/292.ch</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Rotana Aflam</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/71.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Rotana Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Rotana Classic</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/154.ch</link>
+		</item>
+	</streaminginfo>
+
+	
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Nile Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/114.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Nile Comedy</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/164.ch</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Cairo Film</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/168.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Cairo Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/99.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Cairo Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/161.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>STAR CINEMA 1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/90.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>STAR CINEMA 2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/91.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>PANORAMA CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/93.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Panorama Drama</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/94.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>TokTok Cinema</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/160.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>TIME COMEDY</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/123.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>SAMA CINEMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/92.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>LCD AFLAM</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/115.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Taxi Elsahra</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/169.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Moga Comedy</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/66.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>AD DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/133.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>SYRIA DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/96.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>NAHAR DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/95.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>SADA ALBALAD DRAMA</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/125.ch</link>
+		</item>
+	</streaminginfo>
+
+	
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Stop1</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/167.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>stop2</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/45.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN DRAMA</cname>
+		<item>
+			<title>Dubai One</title>
+			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/172.ch</link>
+		</item>
+	</streaminginfo>
 
 
 </streamingInfos>
