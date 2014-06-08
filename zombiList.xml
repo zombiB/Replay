@@ -1,10 +1,10 @@
 <streamingInfos>
 
-	<streaminginfo>
+		<streaminginfo>
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 1HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800  timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -12,7 +12,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 1HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -20,7 +20,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 2HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -28,7 +28,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 2HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -36,7 +36,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 3HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -44,7 +44,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 3HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -52,7 +52,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 4HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -60,7 +60,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 4HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -68,7 +68,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 5HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -76,7 +76,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 5HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -84,7 +84,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 6HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -92,7 +92,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 6HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -100,7 +100,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 7HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -108,7 +108,7 @@
 		<cname>SPORT TIME</cname>
 		<item>
 			<title> GERMANY SPORT TIME TV 7HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800</link>
+			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800 timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -118,24 +118,24 @@
 		<cname>Hanibal</cname>
 		<item>
 			<title>streaminghd</title>
-			<link>rtmp://41.231.53.11:8888/thd/ playpath=hannibal swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://www.direct4live.com/2013/07/hannibal-tv-en-live-direct.html</link>
+			<link>rtmp://41.231.53.11:8888/thd/ playpath=hannibal swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://www.direct4live.com/2013/07/hannibal-tv-en-live-direct.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Dijlah</cname>
 		<item>
-			<title> m3u8</title>
+			<title>original m3u8</title>
 			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
 		</item>
 	</streaminginfo>
 	
 	
-	<streaminginfo>
+		<streaminginfo>
 		<cname>alkass</cname>
 		<item>
 			<title> qna.org</title>
-			<link>rtmp://AgendaStreamerx1.qna.org.qa/kas//kas</link>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/kas//kas timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -143,7 +143,7 @@
 		<cname>Baraem</cname>
 		<item>
 			<title> qna.org</title>
-			<link>rtmp://AgendaStreamerx1.qna.org.qa/brm//brm</link>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/brm//brm timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -151,7 +151,7 @@
 		<cname>Qatar</cname>
 		<item>
 			<title> qna.org</title>
-			<link>rtmp://AgendaStreamerx1.qna.org.qa/qtv//qtv</link>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/qtv//qtv timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -159,39 +159,39 @@
 		<cname>alrayan</cname>
 		<item>
 			<title>qna.org</title>
-			<link>rtmp://AgendaStreamerx1.qna.org.qa/ryn//ryn</link>
+			<link>rtmp://AgendaStreamerx1.qna.org.qa/ryn//ryn timeout=20</link>
 		</item>
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Sky Sports 1vv</cname>
+		<cname>Sky Sports 1</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>rtmp://37.220.32.52:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
+			<link>rtmp://37.220.32.52:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Sky Sports 2vv</cname>
+		<cname>Sky Sports 2</cname>
 		<item>
 			<title>Sky Sports</title>
-			<link>rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
+			<link>rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Sky Sports 3vv</cname>
+		<cname>Sky Sports 3</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
+			<link>rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Sky Sports 4vv</cname>
+		<cname>Sky Sports 4</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
+			<link>rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -199,7 +199,7 @@
 	<streaminginfo>
 		<cname>Al Majd Hadeeth</cname>
 		<item>
-			<title>Almajd Hadeeth Channel </title>
+			<title>Almajd Hadeeth Channel original high</title>
 			<link>http://188.40.138.23/hls/majdh/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
@@ -207,7 +207,7 @@
 	<streaminginfo>
 		<cname>Al Majd Hadeeth</cname>
 		<item>
-			<title>Almajd Hadeeth Channel lq</title>
+			<title>Almajd Hadeeth Channel original low</title>
 			<link>http://188.40.138.23/hls/majdh_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
@@ -215,7 +215,7 @@
 	<streaminginfo>
 		<cname>Al Majd</cname>
 		<item>
-			<title>Almajd Space Channel </title>
+			<title>Almajd Space Channel original high</title>
 			<link>http://188.40.138.23/hls/majdg/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
@@ -223,7 +223,7 @@
 	<streaminginfo>
 		<cname>Al Majd</cname>
 		<item>
-			<title>Almajd Space Channel lq</title>
+			<title>Almajd Space Channel original low</title>
 			<link>http://188.40.138.23/hls/majdg_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
@@ -495,7 +495,7 @@
 		<cname>sunnah TV</cname>
 		<item>
 			<title>@zombixbmc  AD AL AULA</title>
-			<link>rtmp://5.9.81.202/live//sunna_720p</link>
+			<link>rtmp://5.9.81.202/live//sunna_720p timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -524,7 +524,7 @@
 		<cname>Al Hiwar</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true timeout=15 pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&amp;rurl=translate.google.com&amp;sl=ar&amp;u=http://www.alhiwar.tv/&amp;usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg</link>
+			<link>rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true  pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&amp;rurl=translate.google.com&amp;sl=ar&amp;u=http://www.alhiwar.tv/&amp;usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg timeout=20</link>
 		</item>
 	</streaminginfo>
     
@@ -541,7 +541,7 @@
 		<cname>Al Hiwar Ettounsi</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://41.231.53.11:8888/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=2088406218 live=1 pageUrl=http://www.direct4live.com/2014/03/el-hiwar-ettounsi-tv-direct-live.html</link>
+			<link>rtmp://41.231.53.11:8888/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=2088406218 live=1 pageUrl=http://www.direct4live.com/2014/03/el-hiwar-ettounsi-tv-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -568,7 +568,7 @@
 		<cname>AL MASAR</cname>
 		<item>
 			<title>AL MASAR</title>
-			<link>rtmp://msr1tv.flashmediacast.com:2071/live/livestream</link>
+			<link>rtmp://msr1tv.flashmediacast.com:2071/live/livestream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -611,7 +611,7 @@
 		<cname>Al Sharqiya</cname>
 		<item>
 			<title>Al Sharqiya</title>
-			<link>rtmp://ns8.indexforce.com/home/mystream </link>
+			<link>rtmp://ns8.indexforce.com/home/mystream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -621,7 +621,7 @@
 		<cname>Al Sharqiya News</cname>
 		<item>
 			<title>Al Sharqiya News</title>
-			<link>rtmp://ns8.indexforce.com/alsharqiyalive/mystream</link>
+			<link>rtmp://ns8.indexforce.com/alsharqiyalive/mystream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -629,7 +629,7 @@
 		<cname>Al Tunisia</cname>
 		<item>
 			<title>@zombixbmc web-medias</title>
-			<link>rtmp://iptv.web-medias.net/live playpath=al_tunisia swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/ettounsiya-tv-en-direct-live</link>
+			<link>rtmp://iptv.web-medias.net/live playpath=al_tunisia swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/ettounsiya-tv-en-direct-live timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -667,7 +667,7 @@
 		<cname>AlFajer Gaza</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://82.102.232.165:1935/alfajertv_gaza/alfajertv_1</link>
+			<link>rtmp://82.102.232.165:1935/alfajertv_gaza/alfajertv_1 timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -676,7 +676,7 @@
 		<cname>Alfajr Int</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/unlimited_1</link>
+			<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/unlimited_1 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -684,7 +684,7 @@
 		<cname>ALFALASTINIAH</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://46.43.64.166:1935/flv/flv</link>
+			<link>rtmp://46.43.64.166:1935/flv/flv timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -698,7 +698,7 @@
 		<cname>alnabaa</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://alnabaa.lsops.net/live playpath=alnabaa_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/al_nabaa live=1</link>
+			<link>rtmp://alnabaa.lsops.net/live playpath=alnabaa_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/al_nabaa live=1 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -766,7 +766,7 @@
 		<cname>ANN</cname>
 		<item>
 			<title>ANN</title>
-			<link>rtmp://ns8.indexforce.com/ann/ann</link>
+			<link>rtmp://ns8.indexforce.com/ann/ann timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -839,7 +839,7 @@
 		<cname>BAHRAIN SPORTS</cname>
 		<item>
 			<title>BAHRAIN SPORTS</title>
-			<link>rtmp://alayam.netromedia.net/btv3/btv3</link>
+			<link>rtmp://alayam.netromedia.net/btv3/btv3 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -855,7 +855,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>@zombixbmc  1HD</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=1b1264 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=1b1264 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -865,7 +865,7 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>@zombixbmc  2HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=1b2117 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=1b2117 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -875,7 +875,7 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc  3HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=3812 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=3812 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -885,7 +885,7 @@
 		<cname>Bein Sport 4</cname>
 		<item>
 			<title>@zombixbmc  4HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=4679 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=4679 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -895,7 +895,7 @@
 		<cname>Bein Sport 5</cname>
 		<item>
 			<title>@zombixbmc  5HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b5578 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b5578 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -905,7 +905,7 @@
 		<cname>Bein Sport 6</cname>
 		<item>
 			<title>@zombixbmc  6HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b6449 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b6449 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -915,7 +915,7 @@
 		<cname>Bein Sport 7</cname>
 		<item>
 			<title>@zombixbmc  7HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b7171 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b7171 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -925,7 +925,7 @@
 		<cname>Bein Sport 8</cname>
 		<item>
 			<title>@zombixbmc  8HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b8461 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b8461 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -935,7 +935,7 @@
 		<cname>Bein Sport 9</cname>
 		<item>
 			<title>@zombixbmc  9HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b9525 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b9525 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -945,7 +945,7 @@
 		<cname>Bein Sport 10</cname>
 		<item>
 			<title>@zombixbmc  10HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b10659 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b10659 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -955,7 +955,7 @@
 		<cname>Bein Sport 11</cname>
 		<item>
 			<title>@zombixbmc  11HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b11405 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b11405 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -965,7 +965,7 @@
 		<cname>Bein Sport 12</cname>
 		<item>
 			<title>@zombixbmc  12HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b12405 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b12405 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -975,7 +975,7 @@
 		<cname>Bein Sport 13</cname>
 		<item>
 			<title>@zombixbmc  13HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b13925 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b13925 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -985,7 +985,7 @@
 		<cname>Bein Sport 14</cname>
 		<item>
 			<title>@zombixbmc  14HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b14598 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b14598 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
  
@@ -995,7 +995,7 @@
 		<cname>Bein Sport 15</cname>
 		<item>
 			<title>@zombixbmc  15HD </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b15293 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/</link>
+			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b15293 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1318,13 +1318,13 @@
 		</item>
 	</streaminginfo>
 	
-	
+		
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>@zombixbmc Bein Sport 1</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein1 swfUrl=http://cdn.watchjsc.us/jwplayer1.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein1 swfUrl=http://cdn.watchjsc.us/jwplayer1.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1334,7 +1334,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 2</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein2 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein2 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1344,7 +1344,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 3</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein3 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein3 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1354,7 +1354,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 4</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein4 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein4 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1364,7 +1364,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 5</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein5 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein5 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1374,7 +1374,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 6</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein6 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein6 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1384,7 +1384,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 7</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein7 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein7 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1394,7 +1394,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 8</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein8 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein8 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1404,7 +1404,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 9</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein9 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein9 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1414,7 +1414,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 10</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein10 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein10 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1424,7 +1424,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 11</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein11 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein11 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1434,7 +1434,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 12</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein12 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein12 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1444,7 +1444,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 13</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein13 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein13 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1454,7 +1454,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 14</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein14 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein14 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1464,7 +1464,7 @@
 		<item>
 			<title>@zombixbmc Bein Sport 15</title>
 
-			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein15 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect playpath=bein15 swfUrl=http://cdn.watchjsc.us/jwplayer.swf live=1 pageUrl=http://cdn.watchjsc.us/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1486,7 +1486,7 @@
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>@zombixbmc kora </title>
-			<link>rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.541833257.r.w6cdn.com/541833257/mp4:koraonline3yoXZhl1FgmpA swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.kora-online.tv/kora1.html</link>
+			<link>rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.541833257.r.w6cdn.com/541833257/mp4:koraonline3yoXZhl1FgmpA swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.kora-online.tv/kora1.html timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1495,7 +1495,7 @@
 		<cname>Bein Sport 9</cname>
 		<item>
 			<title>@zombixbmc Bein 9 </title>
-			<link>rtmp://173.192.81.172/flash/18420 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/</link>
+			<link>rtmp://173.192.81.172/flash/18420 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/ timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -1507,7 +1507,7 @@
 		<cname>Bein Sport News</cname>
 		<item>
 			<title>@zombixbmc Bein Sport News </title>
-			<link>rtmp://85.91.143.23/23688/ playpath=23688.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://www.mytvonline.org/arabic-orient/Beinsports1-ar.html</link>
+			<link>rtmp://85.91.143.23/23688/ playpath=23688.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://www.mytvonline.org/arabic-orient/Beinsports1-ar.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -1620,7 +1620,7 @@
 		<cname>Dream 1</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://85.91.143.23/87521//87521.stream</link>
+			<link>rtmp://85.91.143.23/87521//87521.stream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -1628,7 +1628,7 @@
 		<cname>Dubai</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1</link>
+			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -1636,7 +1636,7 @@
 		<cname>DW Arabic</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://dw.lsops.net/live/ playpath=dw_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/dw-arabia live=1</link>
+			<link>rtmp://dw.lsops.net/live/ playpath=dw_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/dw-arabia live=1 timeout=20</link>
 		</item>
 	</streaminginfo>
 		
@@ -1662,7 +1662,7 @@
 		<cname>EnnaharTV algerie</cname>
 		<item>
 			<title>nahar algerie</title>
-			<link>rtmp://87.98.155.194/live playpath=EnnaharTV swfUrl=http://www.ennahartv.net/live/player.swf live=1 pageUrl=http://www.ennahartv.net/ar/live/</link>
+			<link>rtmp://87.98.155.194/live playpath=EnnaharTV swfUrl=http://www.ennahartv.net/live/player.swf live=1 pageUrl=http://www.ennahartv.net/ar/live/ timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -1815,7 +1815,7 @@
 		<cname>FRANCE 4vv</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>hhttp://iptv10d:iptv10d@testserv2.no-ip.net/23.ch</link>
+			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/23.ch</link>
 		</item>
 	</streaminginfo>
 
@@ -1949,7 +1949,7 @@
 		<cname>KTV 2vv</cname>
 		<item>
 			<title>KTV 2</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp</link>
+			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -1961,37 +1961,7 @@
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>KTV ARABEvv</cname>
-		<item>
-			<title>KTV ARABE</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch5.sdp</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>KTV ETRAAvv</cname>
-		<item>
-			<title>KTV ETRAA</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch4.sdp</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>KTV PLUSvv</cname>
-		<item>
-			<title>KTV PLUS</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch6.sdp</link>
-		</item>
-	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>KTV SPORTvv</cname>
-		<item>
-			<title>KTV SPORT</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp</link>
-		</item>
-	</streaminginfo>
 	
 	
 <streaminginfo>
@@ -2029,7 +1999,7 @@
 		<cname>Libya</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://hd2.lsops.net/live playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/libyatv live=1</link>
+			<link>rtmp://hd2.lsops.net/live playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/libyatv live=1  timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2045,7 +2015,7 @@
 		<cname>M3Ali Tv</cname>
 		<item>
 			<title>M3Ali Tv</title>
-			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php</link>
+			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2094,7 +2064,7 @@
 		<cname>MBC 3</cname>
 		<item>
 	        <title>@zombixbmc MBC3</title>
-			<link>rtmp://85.91.143.20/15678//15678.stream</link>
+			<link>rtmp://85.91.143.20/15678//15678.stream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2112,7 +2082,7 @@
 		<cname>MBC 4</cname>
 		<item>
 	<title>@zombixbmcMBC 4 </title>
-			<link>rtmp://85.91.143.20/56278//56278.stream</link>
+			<link>rtmp://85.91.143.20/56278//56278.stream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2138,7 +2108,7 @@
 		<cname>MBC Bollywood</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://85.91.143.23/35657//35657.stream</link>
+			<link>rtmp://85.91.143.23/35657//35657.stream timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -2155,7 +2125,7 @@
 		<cname>MBC Drama</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://85.91.143.20/96514/96514.stream</link>
+			<link>rtmp://85.91.143.20/96514/96514.stream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2199,7 +2169,7 @@
 		<cname>Nessma</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://41.231.53.11:8888/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=108740157 live=1 pageUrl=http://www.direct4live.com/2013/07/nessma-en-direct-live.html</link>
+			<link>rtmp://41.231.53.11:8888/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=108740157 live=1 pageUrl=http://www.direct4live.com/2013/07/nessma-en-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2208,7 +2178,7 @@
 		<cname>Nile Cinema</cname>
 		<item>
 			<title>Nile Cinema</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2217,15 +2187,15 @@
 		<cname>Nile Comedy</cname>
 		<item>
 			<title>Nile Comedy</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=60</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=20</link>
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
+		<streaminginfo>
 		<cname>Nile Culture</cname>
 		<item>
 			<title>Nile Culture</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2233,7 +2203,7 @@
 		<cname>Nile Drama</cname>
 		<item>
 			<title>Nile Drama</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1 timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -2241,7 +2211,7 @@
 		<cname>Nile Family</cname>
 		<item>
 			<title>Nile Family</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2249,7 +2219,7 @@
 		<cname>Nile Learning</cname>
 		<item>
 			<title>Nile Learning</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -2258,7 +2228,7 @@
 		<cname>Nile Life</cname>
 		<item>
 			<title>Nile Life</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2275,7 +2245,7 @@
 		<cname>Nile Sport</cname>
 		<item>
 			<title>Nile Sport</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport</link>
+			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2622,7 +2592,7 @@
 		<cname>Quran TV ksa</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://5.9.81.202/live//quraan_720p</link>
+			<link>rtmp://5.9.81.202/live//quraan_720p timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2630,7 +2600,7 @@
 		<cname>KSA 1</cname>
 		<item>
 			<title>@zombixbmc</title>
-			<link>rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTE5Ny0xNS0yMzUtNzkyMDE0LTA1LTIzLTE3LTA0LTM3/vb008_sauditv1.stream?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892</link>
+			<link>rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTE5Ny0xNS0yMzUtNzkyMDE0LTA1LTIzLTE3LTA0LTM3/vb008_sauditv1.stream?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2684,7 +2654,7 @@
 		<cname>SkyNewsArabia</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/channels/sky-news-arabia live=1</link>
+			<link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/channels/sky-news-arabia live=1 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2704,7 +2674,7 @@
 		<cname>Spacetoon</cname>
 		<item>
 			<title>@zombixbmc Spacetoon</title>
-			<link>rtmp://85.91.143.21/35985/35985.stream</link>
+			<link>rtmp://85.91.143.21/35985/35985.stream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2762,7 +2732,7 @@
 		<cname>Al Janoubiya</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://41.231.53.11:8888/thd/ playpath=janoubia swfUrl=http://www.streaminghd.tn/video/player.swf?random=182728996 live=1 pageUrl=http://www.direct4live.com/2013/08/al-janoubia-tv-en-direct-live.html</link>
+			<link>rtmp://41.231.53.11:8888/thd/ playpath=janoubia swfUrl=http://www.streaminghd.tn/video/player.swf?random=182728996 live=1 pageUrl=http://www.direct4live.com/2013/08/al-janoubia-tv-en-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2770,7 +2740,7 @@
 		<cname>Telvza TV</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://41.231.53.11:8888/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=1664158234 live=1 pageUrl=http://www.direct4live.com/2013/10/telvza-tv-en-direct-live.html</link>
+			<link>rtmp://41.231.53.11:8888/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=1664158234 live=1 pageUrl=http://www.direct4live.com/2013/10/telvza-tv-en-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2839,7 +2809,7 @@
 		<cname>Tounesna</cname>
 		<item>
 			<title>@zombixbmc </title>
-			<link>rtmp://41.231.53.11:8888/thd playpath=tunisna swfUrl=http://streaminghd.tn/video/player.swf?random=1578550586 live=1 pageUrl=http://www.direct4live.com/2014/02/tounesna-tv-direct-live.html</link>
+			<link>rtmp://41.231.53.11:8888/thd playpath=tunisna swfUrl=http://streaminghd.tn/video/player.swf?random=1578550586 live=1 pageUrl=http://www.direct4live.com/2014/02/tounesna-tv-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2863,7 +2833,7 @@
 		<cname>TV 5 MONDE</cname>
 		<item>
 			<title>TV 5 MONDE</title>
-			<link>rtmp://85.91.143.22/90457/90457.stream</link>
+			<link>rtmp://85.91.143.22/90457/90457.stream timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2888,7 +2858,7 @@
 		<cname>Wesal Tv</cname>
 		<item>
 			<title>Wesal Tv</title>
-			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm</link>
+			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm timeout=20</link>
 		</item>
 	</streaminginfo>
 	
