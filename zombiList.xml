@@ -164,7 +164,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>Sky Sports 1</cname>
+		<cname>Sky Sports 1vv</cname>
 		<item>
 			<title>Sky Sports </title>
 			<link>rtmp://37.220.32.52:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
@@ -172,7 +172,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Sky Sports 2</cname>
+		<cname>Sky Sports 2vv</cname>
 		<item>
 			<title>Sky Sports</title>
 			<link>rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
@@ -180,7 +180,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Sky Sports 3</cname>
+		<cname>Sky Sports 3vv</cname>
 		<item>
 			<title>Sky Sports </title>
 			<link>rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
@@ -188,7 +188,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Sky Sports 4</cname>
+		<cname>Sky Sports 4vv</cname>
 		<item>
 			<title>Sky Sports </title>
 			<link>rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
@@ -2894,1592 +2894,252 @@
 	
 	
 	<streaminginfo>
-
-
-		<cname>OSN EN</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn BOX OFFICE MOVES VOD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/756.ch</link>
+			<title>SMART SPORT HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/753.ch</link>
+		</item>
+	</streaminginfo><streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>ABU DHABI SPORT 1</title>
+			<link>http://88.150.198.74/Asim253/Asim253/523.ch</link>
 		</item>
 	</streaminginfo>
-
-
 	<streaminginfo>
-		<cname>OSN EN</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn SMART SPORT HD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/753.ch</link>
+			<title>ABU DHABI SPORT 2</title>
+			<link>http://88.150.198.74/Asim253/Asim253/524.ch</link>
+		</item>
+	</streaminginfo><streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>ALAHLY SPORT</title>
+			<link>http://88.150.198.74/Asim253/Asim253/522.ch</link>
 		</item>
 	</streaminginfo>
-
-
 	<streaminginfo>
-
-
-		<cname>OSN EN</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn SMART MOVIES HD</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/754.ch</link>
+			<title>NILE SPORT</title>
+			<link>http://88.150.198.74/Asim253/Asim253/247.ch</link>
 		</item>
 	</streaminginfo>
-
-
 	<streaminginfo>
-
-
-		<cname>Abu Dhabi Drama</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn ABU DHABI DRAMA</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/755.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Abu Dhabi Sports 1</cname>
-		<item>
-			<title>iptvosn 
-ABU DHABI SPORT 1</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/523.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Abu Dhabi Sports 1</cname>
-		<item>
-			<title>iptvosn 
-ABU DHABI SPORT 2</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/524.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>AL AHLY</cname>
-		<item>
-			<title>iptvosn 
-ALAHLY SPORT</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/522.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Nile Sport</cname>
-		<item>
-			<title>iptvosn 
-NILE SPORT</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/247.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Al Nahar Sport</cname>
-		<item>
-			<title>iptvosn 
-NAHAR SPORT</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/182.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Dubai Sport 2</cname>
-		<item>
-			<title>iptvosn 
-Dubai Sports3</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/189.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT1HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/702.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT2HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/703.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT3HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/704.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT4HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/705.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT5HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/706.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT6HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/707.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT7HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/708.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT8HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/751.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT9HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/747.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT10HD</title>
-
-
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/717.ch</link>
+			<title>NAHAR SPORT</title>
+			<link>http://88.150.198.74/Asim253/Asim253/182.ch</link>
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-
-
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>iptvosn 
-beIN Sports11HD</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/748.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT12HD</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/752.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT13HD</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/714.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>iptvosn 
-beIN Sports14HD</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/749.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>iptvosn 
-beINSPORT15HD</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/750.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Tele Sports</cname>
-		<item>
-			<title>iptvosn 
-OSN SPORT 1</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/363.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Tele Sports</cname>
-		<item>
-			<title>iptvosn 
-OSN SPORT 2</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/364.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Tele Sports</cname>
-		<item>
-			<title>iptvosn 
-OSN SPORT 3</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/365.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Tele Sports</cname>
-		<item>
-			<title>iptvosn 
-OSN SPORT 4</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/366.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>iptvosn 
-SKY SPORT 1</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/367.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Sky Sports 2</cname>
-		<item>
-			<title>iptvosn 
-SKY SPORT 2</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/368.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Sky Sports 3</cname>
-		<item>
-			<title>iptvosn 
-SKY SPORT 3</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/369.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Sky Sports 4</cname>
-		<item>
-			<title>iptvosn 
-SKY SPORT 4</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/370.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>iptvosn 
-SKY SPORT F1</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/371.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>iptvosn 
-SKY SPORT NEWS</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/372.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>MBC 2</cname>
-		<item>
-			<title>iptvosn 
-MBC 2</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/720.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>MBC 3</cname>
-		<item>
-			<title>iptvosn 
-MBC 3</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/721.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>ART Hekayat</cname>
-		<item>
-			<title>iptvosn 
-ART HEKAYAT</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/328.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>ART Hekayat 2</cname>
-		<item>
-			<title>iptvosn 
-ART HEKAYAT2</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/329.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>iptvosn 
-Orbit Cinema 1</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/58.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>iptvosn 
-Orbit  Alyawm</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/60.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>iptvosn 
-Orbit Mmousalsalat</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/62.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>iptvosn 
-Orbit Fann</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/61.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>iptvosn 
-Orbit MusicNow</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/64.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>OSN ALPHA orbit</cname>
-		<item>
-			<title>iptvosn 
-Orbit Alsafwa</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/63.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>NBN</cname>
-		<item>
-			<title>iptvosn 
-NBN Lebanon</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/408.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Fatafeat</cname>
-		<item>
-			<title>iptvosn 
-Fatafet</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/722.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>2M</cname>
-		<item>
-			<title>iptvosn 
-2M Maroc</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/400.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Tunisia national 1</cname>
-		<item>
-			<title>iptvosn 
-Tunis 1</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/397.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Al Tunisia</cname>
-		<item>
-			<title>iptvosn 
-Al Tunisia</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/389.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Tounesna</cname>
-		<item>
-			<title>iptvosn 
-Tounesna</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/391.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Hanibal</cname>
-		<item>
-			<title>iptvosn 
-Hannibal TV</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/390.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>TNN</cname>
-		<item>
-			<title>iptvosn 
-TNN</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/392.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Al Mutawasit</cname>
-		<item>
-			<title>iptvosn 
-Al Moutawasit</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/393.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Shada TV</cname>
-		<item>
-			<title>iptvosn 
-Shada TV</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/401.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>iptvosn 
-Wesal TV</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/407.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>ALFALASTINIAH</cname>
-		<item>
-			<title>iptvosn 
-Alfalastinia</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/404.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Alwatan Plus</cname>
-		<item>
-			<title>iptvosn 
-Alwatan Plus</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/405.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>alwatan</cname>
-		<item>
-			<title>iptvosn 
-Alwatan</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/406.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Fox Movies</cname>
-		<item>
-			<title>iptvosn 
-Fox Movies</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/346.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Iraq Elgarbia</cname>
-		<item>
-			<title>iptvosn 
-Iraq Elgarbia</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/345.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Iqra</cname>
-		<item>
-			<title>iptvosn 
-Iqraa Arabic</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/341.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Iqra</cname>
-		<item>
-			<title>iptvosn 
-Iqraa Asia</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/340.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Iqra</cname>
-		<item>
-			<title>iptvosn 
-Iqraa Europe</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/339.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Iqra</cname>
-		<item>
-			<title>iptvosn 
-Iqra America</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/145.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Nessma</cname>
-		<item>
-			<title>iptvosn 
-Nessma Elhamraa</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/326.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Medi 1 Sat</cname>
-		<item>
-			<title>iptvosn 
-Medi1</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/349.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>CBC</cname>
-		<item>
-			<title>iptvosn 
-CBC</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/217.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>CBC Extra</cname>
-		<item>
-			<title>iptvosn 
-CBC Extra</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/293.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>CBC Drama</cname>
-		<item>
-			<title>iptvosn 
-CBC Drama</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/292.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>CBC Sofra</cname>
-		<item>
-			<title>iptvosn 
-CBC Sofra</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/294.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>CBC 2</cname>
-		<item>
-			<title>iptvosn 
-CBC TWO</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/526.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Al Nahar</cname>
-		<item>
-			<title>iptvosn 
-EnnaharTV</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/232.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>GULLI</cname>
-		<item>
-			<title>iptvosn 
-Gulli</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/227.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>AlFajer Gaza</cname>
-		<item>
-			<title>iptvosn 
-Alfajer Palestine TV</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/195.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Rotana Music</cname>
-		<item>
-			<title>iptvosn 
-Rotana Music</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/153.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Rotana Clip</cname>
-		<item>
-			<title>iptvosn 
-Rotana Clip</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/152.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Rotana Aflam</cname>
-		<item>
-			<title>iptvosn 
-Rotana Aflam</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/71.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Rotana cinema</cname>
-		<item>
-			<title>iptvosn 
-Rotana Cinema</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/70.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Rotana Classic</cname>
-		<item>
-			<title>iptvosn 
-Rotana Classic</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/154.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Rotana Masriya</cname>
-		<item>
-			<title>iptvosn 
-Rotana Masriya</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/155.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Rotana Khaligi</cname>
-		<item>
-			<title>iptvosn 
-Rotana Khalijiya</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/141.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Nile Cinema</cname>
-		<item>
-			<title>iptvosn 
-Nile Cinema</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/114.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Nile Comedy</cname>
-		<item>
-			<title>iptvosn 
-Nile Comedy</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/164.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Nile News</cname>
-		<item>
-			<title>iptvosn 
-Nile News</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/165.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Cairo Cinema</cname>
-		<item>
-			<title>iptvosn 
-Cairo Film</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/168.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Cairo Cinema</cname>
-		<item>
-			<title>iptvosn 
-Cairo Cinema</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/99.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Cairo Drama</cname>
-		<item>
-			<title>iptvosn 
-Cairo Drama</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/161.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Star Cinema</cname>
-		<item>
-			<title>iptvosn 
-STAR CINEMA 1</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/90.ch</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-
-		<cname>Star Cinema2</cname>
-		<item>
-			<title>iptvosn 
-STAR CINEMA 2</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/91.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
-
-
-		<cname>D8</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn 
-D8</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/739.ch</link>
+			<title>Dubai Sports3</title>
+			<link>http://88.150.198.74/Asim253/Asim253/189.ch</link>
 		</item>
 	</streaminginfo>
 
-
 	<streaminginfo>
-
-
-		<cname>D17</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn 
-D17</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/745.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-
-
-		<cname>FRANCE 3</cname>
-		<item>
-			<title>iptvosn 
-France 3</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/742.ch</link>
+			<title>beINSPORT1HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/702.ch</link>
 		</item>
 	</streaminginfo>
 
-
 	<streaminginfo>
-
-
-		<cname>FRANCE 4</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn 
-France 4</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/740.ch</link>
+			<title>beINSPORT2HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/703.ch</link>
 		</item>
 	</streaminginfo>
 
-
 	<streaminginfo>
-
-
-		<cname>FRANCE 5</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn 
-France 5</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/743.ch</link>
+			<title>beINSPORT3HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/704.ch</link>
 		</item>
 	</streaminginfo>
 
-
 	<streaminginfo>
-
-
-		<cname>FRANCE 0</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn 
-France O</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/741.ch</link>
+			<title>beINSPORT4HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/705.ch</link>
 		</item>
 	</streaminginfo>
 
-
 	<streaminginfo>
-
-
-		<cname>BFMTV</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn 
-BFM TV</title>
-
-
-			
-
-
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/744.ch</link>
+			<title>beINSPORT5HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/706.ch</link>
 		</item>
 	</streaminginfo>
 
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beINSPORT6HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/707.ch</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
-
-
-		<cname>arte</cname>
+		<cname>IPTVOSN SPORT</cname>
 		<item>
-			<title>iptvosn 
-Arte</title>
+			<title>beINSPORT7HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/708.ch</link>
+		</item>
+	</streaminginfo>
 
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beINSPORT8HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/751.ch</link>
+		</item>
+	</streaminginfo>
 
-			
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beINSPORT9HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/747.ch</link>
+		</item>
+	</streaminginfo>
 
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beINSPORT10HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/717.ch</link>
+		</item>
+	</streaminginfo>
 
-<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/725.ch</link>
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beIN Sports11HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/748.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beINSPORT12HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/752.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beINSPORT13HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/714.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beIN Sports14HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/749.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>beINSPORT15HD</title>
+			<link>http://88.150.198.74/Asim253/Asim253/750.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>OSN SPORT 1</title>
+			<link>http://88.150.198.74/Asim253/Asim253/363.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>OSN SPORT 2</title>
+			<link>http://88.150.198.74/Asim253/Asim253/364.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>OSN SPORT 3</title>
+			<link>http://88.150.198.74/Asim253/Asim253/365.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>OSN SPORT 4</title>
+			<link>http://88.150.198.74/Asim253/Asim253/366.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>SKY SPORT 1</title>
+			<link>http://88.150.198.74/Asim253/Asim253/367.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>SKY SPORT 2</title>
+			<link>http://88.150.198.74/Asim253/Asim253/368.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>SKY SPORT 3</title>
+			<link>http://88.150.198.74/Asim253/Asim253/369.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>SKY SPORT 4</title>
+			<link>http://88.150.198.74/Asim253/Asim253/370.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>SKY SPORT F1</title>
+			<link>http://88.150.198.74/Asim253/Asim253/371.ch</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>IPTVOSN SPORT</cname>
+		<item>
+			<title>SKY SPORT NEWS</title>
+			<link>http://88.150.198.74/Asim253/Asim253/372.ch</link>
 		</item>
 	</streaminginfo>
 
