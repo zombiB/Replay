@@ -1819,14 +1819,14 @@
 	</streaminginfo>
 	
     <streaminginfo>
-		<cname>Star Cinema</cname>
+		<cname>Star 1 Cinema +7</cname>
 		<item>
 			<title> magictv </title>
 			<link>http://cdn-streamer1.magictvbox.com/live/10146.stream/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Star Cinema</cname>
+		<cname>Star 2 Cinema</cname>
 		<item>
 			<title> magictv</title>
 			<link>http://cdn-streamer1.magictvbox.com/live/10147.stream/chunklist.m3u8</link>
@@ -1834,7 +1834,7 @@
 	</streaminginfo>
 	
     <streaminginfo>
-		<cname>Star Cinema</cname>
+		<cname>Star 2 Cinema +7</cname>
 		<item>
 			<title> magictv </title>
 			<link>http://cdn-delay1.magictvbox.com/2.m3u8</link>
