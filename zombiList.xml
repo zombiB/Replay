@@ -141,28 +141,28 @@
 
 	
 	<streaminginfo>
-		<cname>Sky Sports 1</cname>
+		<cname>Sky Sports 1vv</cname>
 		<item>
 			<title>Sky Sports </title>
 			<link>rtmp://37.220.32.52:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 2</cname>
+		<cname>Sky Sports 2vv</cname>
 		<item>
 			<title>Sky Sports</title>
 			<link>rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 3</cname>
+		<cname>Sky Sports 3vv</cname>
 		<item>
 			<title>Sky Sports </title>
 			<link>rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 4</cname>
+		<cname>Sky Sports 4vv</cname>
 		<item>
 			<title>Sky Sports </title>
 			<link>rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
@@ -368,20 +368,7 @@
 			<link>http://188.40.138.23/hls/majdt_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>	
-	<streaminginfo>
-		<cname>Alburhan</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/burhan/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Alburhan</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/burhan_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Wesal Kurdi</cname>
 		<item>
@@ -396,20 +383,7 @@
 			<link>http://188.40.138.23/hls/wesk_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>	
-	<streaminginfo>
-		<cname>Wesal Indo</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/wesid/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Wesal Indo</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/wesid_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Wesal Haq</cname>
 		<item>
@@ -441,7 +415,7 @@
 
 	
 	<streaminginfo>
-		<cname>sunnah TV</cname>
+		<cname>sunnah TVvv</cname>
 		<item>
 			<title>rtmp 720p</title>
 			<link>rtmp://5.9.81.202/live//sunna_720p timeout=20</link>
@@ -481,13 +455,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Al Tunisia</cname>
-		<item>
-			<title> web-medias</title>
-			<link>rtmp://iptv.web-medias.net/live playpath=al_tunisia swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/ettounsiya-tv-en-direct-live timeout=20</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>AlFajer Gaza</cname>
@@ -501,7 +469,7 @@
 	<streaminginfo>
 		<cname>Alfajr Int</cname>
 		<item>
-			<title>hadara</title>
+			<title>vstream2</title>
 			<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/unlimited_1 timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -568,7 +536,7 @@
 
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>srv1 </title>
+			<title>srv_1 </title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=1b1264 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -578,7 +546,7 @@
 
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=1b2117 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -588,7 +556,7 @@
 
 		<cname>Bein Sport 3</cname>
 		<item>
-			<title>srv1 </title>
+			<title>srv_1 </title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=3812 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -598,7 +566,7 @@
 
 		<cname>Bein Sport 4</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=4679 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -608,7 +576,7 @@
 
 		<cname>Bein Sport 5</cname>
 		<item>
-			<title>srv1 </title>
+			<title>srv_1 </title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b5578 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -618,7 +586,7 @@
 
 		<cname>Bein Sport 6</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b6449 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -628,7 +596,7 @@
 
 		<cname>Bein Sport 7</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b7171 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -638,7 +606,7 @@
 
 		<cname>Bein Sport 8</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b8461 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -648,7 +616,7 @@
 
 		<cname>Bein Sport 9</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b9525 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -658,7 +626,7 @@
 
 		<cname>Bein Sport 10</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b10659 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -668,7 +636,7 @@
 
 		<cname>Bein Sport 11</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b11405 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -678,7 +646,7 @@
 
 		<cname>Bein Sport 12</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b12405 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -688,7 +656,7 @@
 
 		<cname>Bein Sport 13</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b13925 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -698,7 +666,7 @@
 
 		<cname>Bein Sport 14</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b14598 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -708,7 +676,7 @@
 
 		<cname>Bein Sport 15</cname>
 		<item>
-			<title>srv1</title>
+			<title>srv_1</title>
 			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b15293 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -1164,25 +1132,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>rtsp</title>
-			<link>rtsp://31.220.0.138:1935/live/b3r</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title> kora-online </title>
-			<link>rtmp://hsn.mpl.miisolutions.net/hsn-live01/ playpath=rtmp://225211851.e.541833257.r.w6cdn.com/541833257/mp4:koraonline3yoXZhl1FgmpA swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://www.kora-online.tv/kora1.html timeout=20</link>
-		</item>
-	</streaminginfo>
-
-    
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
@@ -1231,14 +1180,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>DISCOVERY CHANNEL</cname>
-		<item>
-			<title>megafun.vn</title>
-
-			<link>http://m24.megafun.vn/live.vs?c=vstv044&amp;q=high</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Dream 1</cname>
@@ -1288,56 +1229,6 @@
 		</item>
 	</streaminginfo>
 
-	
-	
-	<streaminginfo>
-		<cname>I-TELE</cname>
-		<item>
-			<title>original</title>
-			<link>http://chkg.tdf-cdn.com/6317/02.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-	
-	
-	
-	
-
-	<streaminginfo>
-		<cname>KTV 2</cname>
-		<item>
-			<title>rtpe</title>
-			<link>rtmp://62.215.183.1/rtmplive/rtpencoder/ch2.sdp timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-
-	
-	
-	
-	
-	
-
-	
-	
-	
-    
-	
-	
-	
-	
-	
-
-	
-	
-	
-
-	
-	
 	<streaminginfo>
 		<cname>MBC 3</cname>
 		<item>
@@ -1347,43 +1238,6 @@
 	</streaminginfo>
 	
 	
-
-	
-	
-	<streaminginfo>
-		<cname>MBC 4</cname>
-		<item>
-	<title>rtmp</title>
-			<link>rtmp://85.91.143.20/56278//56278.stream timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>MBC Bollywood</cname>
-		<item>
-			<title>rtmp</title>
-			<link>rtmp://85.91.143.23/35657//35657.stream timeout=20</link>
-		</item>
-	</streaminginfo>
-
-
-	
-	
-	<streaminginfo>
-		<cname>MBC Drama</cname>
-		<item>
-			<title>rtmp</title>
-			<link>rtmp://85.91.143.20/96514/96514.stream timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-
-	
-	
 	<streaminginfo>
 		<cname>MTV</cname>
 		<item>
@@ -1391,16 +1245,6 @@
 			<link>rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p</link>
 		</item>
 	</streaminginfo>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	<streaminginfo>
 		<cname>Nile Cinema</cname>
@@ -1498,11 +1342,8 @@
 	</streaminginfo>
 	
 	
-	
-	
-	
 	<streaminginfo>
-		<cname>Quran TV ksa</cname>
+		<cname>Quran TV ksavv</cname>
 		<item>
 			<title>720p</title>
 			<link>rtmp://5.9.81.202/live//quraan_720p timeout=20</link>
@@ -1511,7 +1352,7 @@
 	
 	
 	<streaminginfo>
-		<cname>KSA 1</cname>
+		<cname>KSA 1vv</cname>
 		<item>
 			<title>islambox</title>
 			<link>rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTE5Ny0xNS0yMzUtNzkyMDE0LTA1LTIzLTE3LTA0LTM3/vb008_sauditv1.stream?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892 timeout=20</link>
@@ -1520,14 +1361,13 @@
 	
     
     <streaminginfo>
-		<cname>Roya</cname>
+		<cname>Royavv</cname>
 		<item>
 			<title>joinvisions </title>
 			<link>http://stream..net:1935/royalive/roya_2/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 
-	
 	<streaminginfo>
 		<cname>Spacetoon</cname>
 		<item>
@@ -1535,9 +1375,6 @@
 			<link>rtmp://85.91.143.21/35985/35985.stream timeout=20</link>
 		</item>
 	</streaminginfo>
-	
-	
-	
 	
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
@@ -1603,7 +1440,7 @@
 		<cname>Libya</cname>
 		<item>
 			<title>livestation </title>
-			<link>rtmp://hd2.lsops.net/live playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/libyatv live=1  timeout=20</link>
+			<link>rtmp://hd2.lsops.net/live playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1402264029 pageUrl=http://www.livestation.com/en/libyatv live=1  timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1745,7 +1582,7 @@
 		
 	</streaminginfo>
 	<streaminginfo>
-		<cname>I-TELE</cname>
+		<cname>I-TELEvv</cname>
 		<item>
 			<title> filmon</title>
 			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1726.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
@@ -1765,7 +1602,7 @@
 	
 	
 	<streaminginfo>
-		<cname>Time cinema</cname>
+		<cname>Time Comedy</cname>
 		<item>
 			<title> magictv </title>
 			<link>http://cdn-streamer1.magictvbox.com/live/10145.stream/playlist.m3u8</link>
@@ -1773,33 +1610,24 @@
 	</streaminginfo>
 	
     <streaminginfo>
-		<cname>Time cinema</cname>
+		<cname>Sama Cinema</cname>
 		<item>
 			<title> magictv </title>
 			<link>http://cdn-streamer1.magictvbox.com/live/10144.stream/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 
-    <streaminginfo>
+	<streaminginfo>
 		<cname>Time cinema</cname>
 		<item>
 			<title> magictv </title>
 			<link>http://cdn-streamer1.magictvbox.com/live/10174.stream/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
-
     <streaminginfo>
 		<cname>Time Comedy</cname>
 		<item>
-			<title> magictv </title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10145.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-    <streaminginfo>
-		<cname>Time Comedy</cname>
-		<item>
-			<title> magictv </title>
+			<title> magictv srv2</title>
 			<link>http://cdn-delay1.magictvbox.com/15.m3u8</link>
 		</item>
 	</streaminginfo>
@@ -1834,7 +1662,7 @@
 	</streaminginfo>
 	
     <streaminginfo>
-		<cname>Star Cinema </cname>
+		<cname>Star Cinema</cname>
 		<item>
 			<title> magictv </title>
 			<link>http://cdn-delay1.magictvbox.com/2.m3u8</link>
@@ -1871,18 +1699,10 @@
 			<link>http://cdn-streamer1.magictvbox.com/live/10169.stream/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Panorama film</cname>
-		<item>
-			<title> magictv </title>
-			<link>http://cdn-streamer1.magictvbox.com/live/10144.stream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	
 	
 	
 	<streaminginfo>
-		<cname>Panorama film</cname>
+		<cname>Panorama Drama</cname>
 		<item>
 			<title> magictv </title>
 			<link>http://cdn-streamer1.magictvbox.com/live/10163.stream/playlist.m3u8</link>
@@ -2151,13 +1971,7 @@
 	</streaminginfo>
 	
 	
-	<streaminginfo>
-		<cname>AL EQTESADIA TVC</cname>
-		<item>
-			<title>mms</title>
-			<link>mms://38.96.148.75/Eqtisadia</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>AL RASHEED</cname>
 		<item>
@@ -2200,20 +2014,7 @@
 			<link>mms://91.197.165.4/bouygues/all/channel5.wmv</link>
 		</item>
 	</streaminginfo>	
-	<streaminginfo>
-		<cname>FRANCE 0</cname>
-		<item>
-			<title>mms</title>
-			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel5.wmv?MSWMExt=.asf</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
-			<title>mmsh</title>
-			<link>mmsh://wm.live.tv-radio.com/bouygues/all/channel1.wmv?MSWMExt=.asf</link>
-		</item>
-	</streaminginfo>	
+		
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
 		<item>
@@ -2243,7 +2044,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Haneen Channel</cname>
+		<cname>Haneen Channelvv</cname>
 		<item>
 			<title>watchislam</title>
 			<link>mmsh://stream.watchislam.com/ramadan</link>
@@ -2256,160 +2057,6 @@
 			<link>mms://93.190.24.114/ifilmtv</link>
 		</item>
 	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>W9</cname>
-		<item>
-			<title>no-ip </title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/37.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tounesna</cname>
-		<item>
-			<title>no-ip </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/38.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Telvza TV</cname>
-		<item>
-			<title>no-ip </title>
-			<link>http://free:free@matchfree1to10.no-ip.net/36.ch</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>TF1</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/16.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Nessma</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/11.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC Max</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/10.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC Drama</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/5.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC Action</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/6.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-	<streaminginfo>
-		<cname>MBC Bollywood</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/9.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC 4</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/4.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC 2</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/2.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	
-	<streaminginfo>
-		<cname>MBC 3</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/3.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>M6</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/21.ch</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>MBC 1</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/1.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 5</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/24.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 4</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/23.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 3</cname>
-		<item>
-			<title> noip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/22.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Art Aflam 2</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/13.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Al Tunisia</cname>
-		<item>
-			<title> no-ip</title>
-			<link>http://iptv10d:iptv10d@testserv2.no-ip.net/8.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Al Hiwar Ettounsi</cname>
-		<item>
-			<title>no-ip</title>
-			<link>http://free:free@matchfree1to10.no-ip.net/36.ch</link>
-		</item>
-	</streaminginfo>
-	
 	
 	<streaminginfo>
 		<cname>2M</cname>
