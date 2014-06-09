@@ -141,63 +141,35 @@
 
 	
 	<streaminginfo>
-		<cname>Sky Sports 1vv</cname>
+		<cname>Sky Sports 1</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>rtmp://37.220.32.52:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
+			<link>http://iptv045tau.dyyndns.net:6645/fuck9728</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 2vv</cname>
+		<cname>Sky Sports 2</cname>
 		<item>
 			<title>Sky Sports</title>
-			<link>rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
+			<link>http://iptv046cgl.dyyndns.net:6646/fuck9728</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 3vv</cname>
+		<cname>Sky Sports 3</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
+			<link>http://iptv047qze.dyyndns.net:6647/fuck9728</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 4vv</cname>
+		<cname>Sky Sports 4</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>rtmp://37.220.34.18:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=20</link>
+			<link>http://iptv048grz.dyyndns.net:6648/fuck9728</link>
 		</item>
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>SKY SPORT 1</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/367.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 2</cname>
-		<item>
-			<title>SKY SPORT 2</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/368.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 3</cname>
-		<item>
-			<title>SKY SPORT 3</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/369.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 4</cname>
-		<item>
-			<title>SKY SPORT 4</title>
-			<link>http://88.150.198.74/$setting_iptvosnUser$/$setting_iptvosnPwd$/370.ch</link>
-		</item>
-	</streaminginfo>
 	
 
 	<streaminginfo>
