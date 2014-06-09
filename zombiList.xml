@@ -1432,22 +1432,144 @@
 	
 	
 	<streaminginfo>
-		<cname>arte</cname>
+		<cname>BBC One</cname>
+		<item>
+			<title> (filmon high)</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=14.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+           <regex>
+            <name>url</name>
+            <expres>rtmp:....([^\\]*)</expres>
+            <page>http://www.filmon.com/tv/channel/export?channel_id=14</page>
+           </regex>
+           <regex>
+            <name>key</name>
+            <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+            <page>http://www.filmon.com/tv/channel/export?channel_id=14</page>
+           </regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BBC One</cname>
 		<item>
 			<title> (filmon low)</title>
-			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1729.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=14.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
    <regex>
      <name>url</name>
      <expres>rtmp:....([^\\]*)</expres>
-     <page>http://www.filmon.com/tv/channel/export?channel_id=1729</page>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=14</page>
    </regex>
    <regex>
      <name>key</name>
      <expres>rtmp[^?]*(\?id=[^"]*)</expres>
-     <page>http://www.filmon.com/tv/channel/export?channel_id=1729</page>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=14</page>
    </regex>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>BBC Two</cname>
+		<item>
+			<title> (filmon high)</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=25.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+           <regex>
+            <name>url</name>
+            <expres>rtmp:....([^\\]*)</expres>
+            <page>http://www.filmon.com/tv/channel/export?channel_id=25</page>
+           </regex>
+           <regex>
+            <name>key</name>
+            <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+            <page>http://www.filmon.com/tv/channel/export?channel_id=25</page>
+           </regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BBC Two</cname>
+		<item>
+			<title> (filmon low)</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=25.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+   <regex>
+     <name>url</name>
+     <expres>rtmp:....([^\\]*)</expres>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=25</page>
+   </regex>
+   <regex>
+     <name>key</name>
+     <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=25</page>
+   </regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ITV 1</cname>
+		<item>
+			<title> (filmon high)</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=11.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+           <regex>
+            <name>url</name>
+            <expres>rtmp:....([^\\]*)</expres>
+            <page>http://www.filmon.com/tv/channel/export?channel_id=11</page>
+           </regex>
+           <regex>
+            <name>key</name>
+            <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+            <page>http://www.filmon.com/tv/channel/export?channel_id=11</page>
+           </regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ITV 1</cname>
+		<item>
+			<title> (filmon low)</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=11.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+   <regex>
+     <name>url</name>
+     <expres>rtmp:....([^\\]*)</expres>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=11</page>
+   </regex>
+   <regex>
+     <name>key</name>
+     <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=11</page>
+   </regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ZDF</cname>
+		<item>
+			<title> (filmon high)</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2759.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+           <regex>
+            <name>url</name>
+            <expres>rtmp:....([^\\]*)</expres>
+            <page>http://www.filmon.com/tv/channel/export?channel_id=2759</page>
+           </regex>
+           <regex>
+            <name>key</name>
+            <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+            <page>http://www.filmon.com/tv/channel/export?channel_id=2759</page>
+           </regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ZDF</cname>
+		<item>
+			<title> (filmon low)</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=2759.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+   <regex>
+     <name>url</name>
+     <expres>rtmp:....([^\\]*)</expres>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=2759</page>
+   </regex>
+   <regex>
+     <name>key</name>
+     <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=2759</page>
+   </regex>
+		</item>
+	</streaminginfo>
+	
+	
+	
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
@@ -1463,6 +1585,23 @@
             <expres>rtmp[^?]*(\?id=[^"]*)</expres>
             <page>http://www.filmon.com/tv/channel/export?channel_id=1729</page>
            </regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>arte</cname>
+		<item>
+			<title> (filmon low)</title>
+			<link>rtmp://$doregex[url] app=live/$doregex[key] playpath=1729.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf pageUrl=http://www.filmon.com live=true timeout=15</link>
+   <regex>
+     <name>url</name>
+     <expres>rtmp:....([^\\]*)</expres>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=1729</page>
+   </regex>
+   <regex>
+     <name>key</name>
+     <expres>rtmp[^?]*(\?id=[^"]*)</expres>
+     <page>http://www.filmon.com/tv/channel/export?channel_id=1729</page>
+   </regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
