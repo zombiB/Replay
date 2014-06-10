@@ -1,6 +1,59 @@
 <streamingInfos>
 
+	<streaminginfo>
+		<cname>TNN</cname>
+		<item>
+			<title>livestream.com</title>
+			<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
+			<regex>
+			<name>get-m3u8</name>
+			<expres>27.*[^h]+(.*)</expres>
+			<page>$doregex[get-page]</page>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>"m3u8_url":"([^"]*)</expres>
+			<page>http://new.livestream.com/accounts/2816313/events/2615039</page>
+			</regex>
+			<regex>
+			<name>get-hdnea</name>
+			<expres>hdnea=st=([^"]*)</expres>
+			<page>http://new.livestream.com/accounts/2816313/events/2615039</page>
+			</regex>
+		</item>
 
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Alghad Alarabi</cname>
+		<item>
+			<title>livestream.com</title>
+			<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
+			<regex>
+			<name>get-m3u8</name>
+			<expres>486.*[^h]+(.*)</expres>
+			<page>$doregex[get-page]</page>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>"m3u8_url":"([^"]*)</expres>
+			<page>http://new.livestream.com/alghadtv/events/2330953</page>
+			</regex>
+			<regex>
+			<name>get-hdnea</name>
+			<expres>hdnea=st=([^"]*)</expres>
+			<page>http://new.livestream.com/alghadtv/events/2330953</page>
+			</regex>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>GTV Ghana</cname>
+		<item>
+			<title>original</title>
+			<link>rtmp://skylite.pointcdn.net//skylite/ams/ghanatv timeout=15</link>
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>SPORT TIME</cname>
 		<item>
