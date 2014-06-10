@@ -522,45 +522,45 @@
 	</streaminginfo>	
 	
 	<streaminginfo>
-		<cname>Wesal Kurdi</cname>
+		<cname>Wesal Tv</cname>
 		<item>
-			<title>original high</title>
+			<title>Kurdi original high</title>
 			<link>http://188.40.138.23/hls/wesk/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Wesal Kurdi</cname>
+		<cname>Wesal Tv</cname>
 		<item>
-			<title>original low</title>
+			<title>Kurdi original low</title>
 			<link>http://188.40.138.23/hls/wesk_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>	
 	
 	<streaminginfo>
-		<cname>Wesal Haq</cname>
+		<cname>Wesal Tv</cname>
 		<item>
-			<title>original high</title>
+			<title>Haq original high</title>
 			<link>http://188.40.138.23/hls/wesh/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Wesal Haq</cname>
+		<cname>Wesal Tv</cname>
 		<item>
-			<title>original low</title>
+			<title>Haq original low</title>
 			<link>http://188.40.138.23/hls/wesh_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Wesal English</cname>
+		<cname>Wesal Tv</cname>
 		<item>
-			<title>original high</title>
+			<title>English original high</title>
 			<link>http://188.40.138.23/hls/wesen/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Wesal English</cname>
+		<cname>Wesal Tv</cname>
 		<item>
-			<title>original low</title>
+			<title>English original low</title>
 			<link>http://188.40.138.23/hls/wesen_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
 		</item>
 	</streaminginfo>
