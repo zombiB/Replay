@@ -1556,7 +1556,42 @@
 			<link>rtmpe://5.153.25.44:1935/redirect playpath=bein15 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein15t&amp;vw=640&amp;vh=460&amp;domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+
+		<cname>Bein Sport 1</cname>
+	<item>
+		<title>Bein Sports RegEx **http://lag10.net/extra15**</title>
+		<link>$doregex[get-rtmp] playpath=$doregex[get-path] swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/$doregex[get-pageid1]/$doregex[get-pageid2] live=1 timeout=10</link>
+
+		<regex>
+		<name>get-rtmp</name>
+		<expres>'streamer', '([^']*)</expres>
+		<page>http://sawlive.tv/embed/watch/$doregex[get-pageid1]/$doregex[get-pageid2]</page>
+		<referer>http://lag10.net/extra15</referer>
+		</regex>
+
+		<regex>
+		<name>get-path</name>
+		<expres>file', '([^']*)</expres>
+		<page>http://sawlive.tv/embed/watch/$doregex[get-pageid1]/$doregex[get-pageid2]</page>
+		<referer>http://lag10.net/extra15</referer>
+		</regex>
+
+		<regex>
+		<name>get-pageid1</name>
+		<expres>watch\|([^\|]*)</expres>
+		<page>http://sawlive.tv/embed/lagzbawse</page>
+		<referer>http://lag10.net/extra15</referer>
+		</regex>
+
+		<regex>
+		<name>get-pageid2</name>
+		<expres>400\|([^\|]*)</expres>
+		<page>http://sawlive.tv/embed/lagzbawse</page>
+		<referer>http://lag10.net/extra15</referer>
+		</regex>
+	</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
