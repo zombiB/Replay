@@ -1560,7 +1560,7 @@
 
 		<cname>Bein Sport 1</cname>
 	<item>
-		<title>Bein Sports RegEx **http://lag10.net/extra15**</title>
+		<title>Bein Sports extra</title>
 		<link>$doregex[get-rtmp] playpath=$doregex[get-path] swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/$doregex[get-pageid1]/$doregex[get-pageid2] live=1 timeout=10</link>
 
 		<regex>
