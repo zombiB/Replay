@@ -2184,6 +2184,37 @@
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8</link>
 		</item>
 	</streaminginfo>	
+	<streaminginfo>
+		<cname>astro super sport</cname>
+		<item>
+			<title>astro super sport 1</title>
+			<link>http://122.155.203.9:8081/get/assp1/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>astro super sport</cname>
+		<item>
+			<title>astro super sport 2</title>
+			<link>http://122.155.203.9:8081/get/assp2/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>astro super sport</cname>
+		<item>
+			<title>astro super sport 3</title>
+			<link>http://122.155.203.9:8081/get/assp3/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+		<cname>astro super sport</cname>
+		<item>
+			<title>astro super sport 4</title>
+			<link>http://122.155.203.9:8081/get/assp4/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
 	
 
 </streamingInfos>
