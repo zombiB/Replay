@@ -689,9 +689,10 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>srv_1 </title>
-			<link> http://mama8000:mama8000@xroot.selfip.com:9000/3.ch</link>
+			<link> http://kaka444:kaka444@xroot.selfip.com:9000/3.ch</link>
 		</item>
 	</streaminginfo>
+
 	<streaminginfo>
 
 		<cname>Bein Sport 1</cname>
@@ -700,6 +701,24 @@
 			<link>rtmp://vstream2.hadara.ps/mawwal/mawwal_1</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>srv_3</title>
+			<link>http://iptv-iptv.dyndns.tv/vache69swww/hhdh7ggdg8/1.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>srv_4</title>
+			<link>http://iptv-iptv.dyndns.tv/vache69swww/hhdh7ggdg8/2.ch</link>
+		</item>
+	</streaminginfo>
+ 
  
 
 	<streaminginfo>
@@ -707,7 +726,7 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=1b2117 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
+			<link>http://kaka444:kaka444@xroot.selfip.com:9000/2.ch</link>
 		</item>
 	</streaminginfo>
  
@@ -817,7 +836,15 @@
 		<cname>Bein Sport 13</cname>
 		<item>
 			<title>srv_1</title>
-			<link>http://iptv-iptv.dyndns.tv/vachelerfyf/nsxscjbjh/13.ch</link>
+			<link>http://kaka444:kaka444@xroot.selfip.com:9000/13.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>srv_2</title>
+			<link>http://iptv-iptv.dyndns.LB/vache69swww/hhdh7ggdg8/13.ch</link>
 		</item>
 	</streaminginfo>
  
