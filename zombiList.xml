@@ -692,6 +692,14 @@
 			<link> http://mama8000:mama8000@xroot.selfip.com:9000/3.ch</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>srv_2 </title>
+			<link>rtmp://vstream2.hadara.ps/mawwal/mawwal_1</link>
+		</item>
+	</streaminginfo>
  
 
 	<streaminginfo>
