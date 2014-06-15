@@ -1,19 +1,6 @@
 <streamingInfos>
 	
-	<streaminginfo>
-		<cname></cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname></cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Alsaha2</cname>
 		<item>
@@ -22,7 +9,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Alsaha</cname>
+		<cname>Alsaha3</cname>
 		<item>
 			<title>youtube</title>
 			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=s4Xe_IGY5_A</link>
@@ -43,7 +30,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Ibn Uthaimin</cname>
+		<cname>Ibnothaimeentv</cname>
 		<item>
 			<title>youtube</title>
 			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l5OiCOK6YbU</link>
