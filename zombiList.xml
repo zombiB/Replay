@@ -894,7 +894,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>srv_7</title>
-			<link>rtmp://94.102.56.186:1935/histreamEd playpath=lag10 swfUrl=http://www.histream.tv/player.swf live=1 pageUrl=http://www.histream.tv/embed.php?file=lag10&amp;width=640&amp;height=460
+			<link>rtmp://94.102.56.186:1935/histreamEd playpath=lag10 swfUrl=http://www.histream.tv/player.swf live=1 pageUrl=http://www.histream.tv/embed.php?file=lag10&amp;width=640&amp;height=460 timeout=15
 	</link>
 		</item>
 	</streaminginfo>
@@ -903,7 +903,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>srv_6</title>
-			<link>rtmpe://83.170.111.144:1935/redirect/bein2 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect/bein2 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -911,7 +911,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>srv_5</title>
-			<link>rtmpe://83.170.111.144:1935/redirect/bein1 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://83.170.111.144:1935/redirect/bein1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -928,7 +928,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>srv_3</title>
-			<link>rtmp://vstream2.hadara.ps/mawwal/mawwal_1</link>
+			<link>rtmp://vstream2.hadara.ps/mawwal/mawwal_1 timeout=15</link>
 		</item>
 	</streaminginfo>
 	
@@ -937,7 +937,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>srv_2</title>
-			<link>rtmpe://5.153.29.68:1935/redirect playpath=bein1 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein2t&amp;vw=640&amp;vh=460&amp;domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://5.153.29.68:1935/redirect playpath=bein1 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein2t&amp;vw=640&amp;vh=460&amp;domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
