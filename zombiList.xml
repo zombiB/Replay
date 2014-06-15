@@ -1,18 +1,105 @@
 <streamingInfos>
+
+  
 	<streaminginfo>
-		<cname>Toyor Al Janah</cname>
+		<cname></cname>
 		<item>
-			<title>youtube1</title>
-			<link>plugin://plugin.video.youtube/?play=m7cGuD41ERs</link>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname></cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sada Al Balad2</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L0Xm2aEVg5Q</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sada Al Balad</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_a71bk5XRtE</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sada AlBalad Drama</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M-1PeiMAVYY</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana cinema</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I3zFXLBdzWs</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al mayaden</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BYIc3imQYP4</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>sunnah TV</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XA9hTQpgS-M</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlQahera W Elnas</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ahDnepO4RYE</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Toyor Al Janah</cname>
 		<item>
-			<title>youtube2</title>
-			<link>https://www.youtube.com/watch?v=m7cGuD41ERs</link>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m7cGuD41ERs</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Quran TV ksa</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n1SlD2G8Fws</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Elsharq</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qRjQuroQdo8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CBC Extra</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-vnvUxy2jUo</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CBC 2</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=O-ye0xcKawA</link>
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
