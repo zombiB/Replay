@@ -652,7 +652,7 @@
 	
 	
 	<streaminginfo>
-		<cname>Orbit  Alyawm</cname>
+		<cname>AlYawm</cname>
 		<item>
 			<title>fb</title>
 			<link>rtmp://839156450.e.541833257.r.w6cdn.com/541833257//mp4:freeegeYSbQLHNsFZa timeout=15</link>
@@ -1381,7 +1381,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Orbit  Alyawm</cname>
+		<cname>AlYawm</cname>
 		<item>
 			<title>ustream</title>
 			<link>http://iphone-streaming.ustream.tv/ustreamVideo/12786066/streams/live/playlist.m3u8 timeout=15</link>
