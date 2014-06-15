@@ -945,7 +945,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>srv_1</title>
-			<link>rtmpe://5.153.29.68:1935/redirect playpath=bein2 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein2t&amp;vw=640&amp;vh=460&amp;domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+			<link>rtmpe://5.153.29.68:1935/redirect playpath=bein2 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein2t&amp;vw=670&amp;vh=480&amp;domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 		</item>
 	</streaminginfo>
  
