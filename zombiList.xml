@@ -1,5 +1,18 @@
 <streamingInfos>
-
+	<streaminginfo>
+		<cname>Toyor Al Janah</cname>
+		<item>
+			<title>youtube1</title>
+			<link>plugin://plugin.video.youtube/?play=m7cGuD41ERs</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Toyor Al Janah</cname>
+		<item>
+			<title>youtube2</title>
+			<link>https://www.youtube.com/watch?v=m7cGuD41ERs</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
