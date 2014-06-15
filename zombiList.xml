@@ -1,6 +1,6 @@
 <streamingInfos>
-
-  
+	
+	
 	<streaminginfo>
 		<cname></cname>
 		<item>
@@ -13,6 +13,97 @@
 		<item>
 			<title>youtube</title>
 			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname></cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname></cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname></cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G5u5dEeIX4c</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Al Rafidain</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8WVCpMuVhoM</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>RFI</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IMoROPhO55I</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Melody Drama</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_cN8Op5KgIs</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Rotana Masriya</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W1mgo1DKqbI</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Russia Alyaum</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SrNpdcDyXXA</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Saudia Sport</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0MzUblPSsSU</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Alekhbaria Syria</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nuz4euccnxE</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CBC Drama</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=talUzDl2fSg</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>KSA 1</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oKVEkDYQrXs</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Syria</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FFErJAAIX_8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
