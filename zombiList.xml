@@ -1,6 +1,5 @@
 <streamingInfos>
 	
-	
 	<streaminginfo>
 		<cname></cname>
 		<item>
@@ -16,21 +15,49 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname></cname>
+		<cname>Alsaha2</cname>
 		<item>
 			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=57Ro7cfyLkw</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname></cname>
+		<cname>Alsaha</cname>
 		<item>
 			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=s4Xe_IGY5_A</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname></cname>
+		<cname>Europe 1</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=53oNvQKP4PA</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>KSA 2</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Umc7W53azqI</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Ibn Uthaimin</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l5OiCOK6YbU</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>KSA Doc</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F_MgfXVY7lM</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>KSA News</cname>
 		<item>
 			<title>youtube</title>
 			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G5u5dEeIX4c</link>
