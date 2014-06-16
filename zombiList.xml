@@ -827,7 +827,7 @@
 		<cname>Alfajr Int</cname>
 		<item>
 			<title>vstream2</title>
-			<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/unlimited_1 timeout=20</link>
+			<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv_1 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
