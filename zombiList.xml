@@ -332,51 +332,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>TNN</cname>
-		<item>
-			<title>livestream.com</title>
-			<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
-			<regex>
-			<name>get-m3u8</name>
-			<expres>27.*[^h]+(.*)</expres>
-			<page>$doregex[get-page]</page>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>"m3u8_url":"([^"]*)</expres>
-			<page>http://new.livestream.com/accounts/2816313/events/2615039</page>
-			</regex>
-			<regex>
-			<name>get-hdnea</name>
-			<expres>hdnea=st=([^"]*)</expres>
-			<page>http://new.livestream.com/accounts/2816313/events/2615039</page>
-			</regex>
-		</item>
-
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Alghad Alarabi</cname>
-		<item>
-			<title>livestream.com</title>
-			<link>$doregex[get-m3u8]&amp;hdnea=st=$doregex[get-hdnea]</link>
-			<regex>
-			<name>get-m3u8</name>
-			<expres>486.*[^h]+(.*)</expres>
-			<page>$doregex[get-page]</page>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>"m3u8_url":"([^"]*)</expres>
-			<page>http://new.livestream.com/alghadtv/events/2330953</page>
-			</regex>
-			<regex>
-			<name>get-hdnea</name>
-			<expres>hdnea=st=([^"]*)</expres>
-			<page>http://new.livestream.com/alghadtv/events/2330953</page>
-			</regex>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>GTV Ghana</cname>
@@ -486,43 +442,7 @@
 	</streaminginfo>
 
 	
-	<streaminginfo>
-		<cname>Dijlah</cname>
-		<item>
-			<title>original m3u8</title>
-			<link>http://216.245.204.38:1935/dijlah/smil:a/chunklist.m3u8</link>
-		</item>
-	</streaminginfo>
 	
-	
-	<streaminginfo>
-		<cname>alkass</cname>
-		<item>
-			<title> qna.org</title>
-			<link>rtmp://AgendaStreamerx1.qna.org.qa/kas//kas timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Baraem</cname>
-		<item>
-			<title> qna.org</title>
-			<link>rtmp://AgendaStreamerx1.qna.org.qa/brm//brm timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Qatar</cname>
-		<item>
-			<title> qna.org</title>
-			<link>rtmp://AgendaStreamerx1.qna.org.qa/qtv//qtv timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>alrayan</cname>
-		<item>
-			<title>qna.org</title>
-			<link>rtmp://AgendaStreamerx1.qna.org.qa/ryn//ryn timeout=20</link>
-		</item>
-	</streaminginfo>
 
 	
 	<streaminginfo>
@@ -557,218 +477,7 @@
 	
 	
 
-	<streaminginfo>
-		<cname>Al Majd Hadeeth</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/majdh/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Al Majd Hadeeth</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdh_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Al Majd</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/majdg/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Al Majd</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdg_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Science</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/majdsc/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Science</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdsc_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Kids</cname>
-		<item>
-			<title>original high </title>
-			<link>http://188.40.138.23/hls/majdk/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Kids</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdk_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Almajd Quran</cname>
-		<item>
-			<title>original high </title>
-			<link>http://188.40.138.23/hls/majdq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Quran</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdq_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>ALMAJD Natural</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/majdnat/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>ALMAJD Natural</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdnat_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>ALMAJD Documentary</cname>
-		<item>
-			<title>original high </title>
-			<link>http://188.40.138.23/hls/majddoc/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>ALMAJD Documentary</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majddoc_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Masah</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/majdd/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Masah</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdd_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Basmah</cname>
-		<item>
-			<title>original high </title>
-			<link>http://188.40.138.23/hls/majdb/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Basmah</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdb_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd News</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/majdnews/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd News</cname>
-		<item>
-			<title>original  low</title>
-			<link>http://188.40.138.23/hls/majdnews_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Rawdhah</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/majdr/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Rawdhah</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdr_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Tagareed</cname>
-		<item>
-			<title>original high</title>
-			<link>http://188.40.138.23/hls/majdt/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Almajd Tagareed</cname>
-		<item>
-			<title>original low</title>
-			<link>http://188.40.138.23/hls/majdt_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
 	
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>Kurdi original high</title>
-			<link>http://188.40.138.23/hls/wesk/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>Kurdi original low</title>
-			<link>http://188.40.138.23/hls/wesk_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>	
-	
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>Haq original high</title>
-			<link>http://188.40.138.23/hls/wesh/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>Haq original low</title>
-			<link>http://188.40.138.23/hls/wesh_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>English original high</title>
-			<link>http://188.40.138.23/hls/wesen/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Wesal Tv</cname>
-		<item>
-			<title>English original low</title>
-			<link>http://188.40.138.23/hls/wesen_lq/index.m3u8|User-Agent: Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</link>
-		</item>
-	</streaminginfo>
 
 	
 	<streaminginfo>
@@ -831,13 +540,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>ALFALASTINIAH</cname>
-		<item>
-			<title>original</title>
-			<link>rtmp://46.43.64.166:1935/flv/flv timeout=20</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>ALTAGHEER TV</cname>
@@ -847,13 +550,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>alwatan</cname>
-		<item>
-			<title>original </title>
-			<link>http://alwatan_hls-lh.akamaihd.net/i/alwatan_ar@91111/master.m3u8</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
 	<streaminginfo>
@@ -1160,13 +857,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>BFMTV</cname>
-		<item>
-			<title>original</title>
-			<link>http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
 	<streaminginfo>
@@ -1192,45 +883,7 @@
 	</streaminginfo>
 	
 	
-	<streaminginfo>
-		<cname>Dream 1</cname>
-		<item>
-			<title>original</title>
-			<link>rtmp://85.91.143.23/87521//87521.stream timeout=20</link>
-		</item>
-	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Dubai</cname>
-		<item>
-			<title>endavomedia</title>
-			<link>rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1 timeout=20</link>
-		</item>
-	</streaminginfo>
-		
-    <streaminginfo>
-		<cname>Alarabiya Ahdas</cname>
-		<item>
-			<title>alarabiya.tv</title>
-			<link>http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>EnnaharTV algerie</cname>
-		<item>
-			<title>ennahartv.net</title>
-			<link>rtmp://87.98.155.194/live playpath=EnnaharTV swfUrl=http://www.ennahartv.net/live/player.swf live=1 pageUrl=http://www.ennahartv.net/ar/live/ timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>France 24 FR</cname>
-		<item>
-			<title>france24.com</title>
-			<link>http://tv.flux.france24.com/4684/02.m3u8</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>GULLI</cname>
@@ -1323,34 +976,7 @@
 	</streaminginfo>
 	
 	
-	<streaminginfo>
-		<cname>Iqra</cname>
-		<item>
-			<title>original</title>
-			<link>http://fl1.viastreaming.net/iqraatv/livestream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Iqra</cname>
-		<item>
-			<title>original iqra asia</title>
-			<link>http://fl1.viastreaming.net/iqraatv2/livestream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Iqra</cname>
-		<item>
-			<title>original iqra america</title>
-			<link>http://fl1.viastreaming.net/iqraatv1/livestream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Iqra</cname>
-		<item>
-			<title>original iqra europe</title>
-			<link>http://fl1.viastreaming.net/iqraatv3/livestream/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
 	<streaminginfo>
@@ -1440,34 +1066,7 @@
 	</streaminginfo>
 	
 	
-	<streaminginfo>
-		<cname>SkyNewsArabia</cname>
-		<item>
-			<title>livestation </title>
-			<link>rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/channels/sky-news-arabia live=1 timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Libya</cname>
-		<item>
-			<title>livestation </title>
-			<link>rtmp://hd2.lsops.net/live playpath=libyatv_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1402264029 pageUrl=http://www.livestation.com/en/libyatv live=1  timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>DW Arabic</cname>
-		<item>
-			<title>livestation </title>
-			<link>rtmp://dw.lsops.net/live/ playpath=dw_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/dw-arabia live=1 timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>alnabaa</cname>
-		<item>
-			<title> livestation</title>
-			<link>rtmp://alnabaa.lsops.net/live playpath=alnabaa_ar_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/ar/al_nabaa live=1 timeout=20</link>
-		</item>
-	</streaminginfo>
+	
 
 	<streaminginfo>
 		<cname>Wesal Tv</cname>
