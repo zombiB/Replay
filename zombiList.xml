@@ -599,7 +599,159 @@
 		</item>
 	</streaminginfo>
 	
-		<streaminginfo>
+	 
+
+
+	<streaminginfo>		
+		<cname>Bein Sport News</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		
+		<cname>Bein Sport News</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=bn swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-news</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b1 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-1</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 2</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b2 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-2
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 3</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b3 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-3
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 4</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b4 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-4
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 5</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b5 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-5
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 6</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b6 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-6
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 7</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b7 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-7
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 8</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b8 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-8
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 9</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b9 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-9
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 10</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b10 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-10
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 11</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b11 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-11
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 12</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b12 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-12
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 13</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b13 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-13
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 14</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b14 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-14
+
+</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		<cname>Bein Sport 15</cname>
+		<item>
+			<title>srv_6</title>
+			<link>rtmp://mootem.com/live/ playpath=b15 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-15</link>
+		</item>
+	</streaminginfo>
+
+
+	
+	<streaminginfo>
 
 		<cname>bein sport 1</cname>
 		<item>
@@ -744,251 +896,329 @@
 	</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>srv_6</title>
-			<link>rtmpe://83.170.111.144:1935/redirect/bein2 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>srv_5</title>
-			<link>rtmpe://83.170.111.144:1935/redirect/bein1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>srv_4</title>
-			<link>http://solo7000:solo7000@xroot.selfip.com:9000/3.ch</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>srv_3</title>
-			<link>rtmp://vstream2.hadara.ps/mawwal/mawwal_1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>srv_2</title>
-			<link>rtmpe://5.153.29.68:1935/redirect playpath=bein1 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein2t&amp;vw=640&amp;vh=460&amp;domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch </link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://5.153.29.68:1935/redirect playpath=bein2 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein2t&amp;vw=670&amp;vh=480&amp;domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
-		</item>
-	</streaminginfo>
- 
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>srv_1</title>
-			<link>http://kaka444:kaka444@xroot.selfip.com:9000/2.ch</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>srv_1 </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=3812 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=4679 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>srv_1 </title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b5578 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b6449 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b7171 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b8461 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b9525 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b10659 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b11405 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b12405 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
-
-
-	<streaminginfo>
-
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>srv_1</title>
-			<link>http://kaka444:kaka444@xroot.selfip.com:9000/13.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>srv_3</title>
-			<link> rtmp://82.201.53.52:80/livestream//rtmp://195.168.10.68/live/3 </link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>srv_2</title>
-			<link>http://iptv-iptv.dyndns.LB/vache69swww/hhdh7ggdg8/13.ch</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b14598 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
- 
-
-	<streaminginfo>
-
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmpe://185.56.28.204:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=b15293 swfUrl=http://xuscacamusca.se/MjVmNGRmODg4OTU4ZTFhZjZmZTM5ZGNk/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ timeout=20</link>
-		</item>
-	</streaminginfo>
 	
 	
+  
+<streaminginfo>
+
+		<cname>bein sport 1</cname>
+		<item>
+			<title>_Sports_HD1</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/1.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 2</cname>
+		<item>
+			<title>_Sports_HD2</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/2.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 3</cname>
+		<item>
+			<title>_Sports_HD3</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/3.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 4</cname>
+		<item>
+			<title>_Sports_HD4</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/4.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 5</cname>
+		<item>
+			<title>_Sports_HD5</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/5.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 6</cname>
+		<item>
+			<title>_Sports_HD6</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/6.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 7</cname>
+		<item>
+			<title>_Sports_HD7</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/7.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 8</cname>
+		<item>
+			<title>_Sports_HD8</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/8.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 9</cname>
+		<item>
+			<title>_Sports_HD9</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/9.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 10</cname>
+		<item>
+			<title>_Sports_HD10</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/10.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 11</cname>
+		<item>
+			<title>_Sports_HD11</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/11.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 12</cname>
+		<item>
+			<title>_Sports_HD12</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/12.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 13</cname>
+		<item>
+			<title>_Sports_HD13</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/13.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 14</cname>
+		<item>
+			<title>_Sports_HD14</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/14.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 15</cname>
+		<item>
+			<title>_Sports_HD15</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/15.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 1</cname>
+		<item>
+			<title>SPORT1HD</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/178.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 2</cname>
+		<item>
+			<title>SPORT1HD</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/175.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 3</cname>
+		<item>
+			<title>SPORT2</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/176.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 4</cname>
+		<item>
+			<title>SPORT3</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/177.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 5</cname>
+		<item>
+			<title>SPORT5</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/179.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 6</cname>
+		<item>
+			<title>SPORT6</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/180.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 7</cname>
+		<item>
+			<title>SPORT7</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/181.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 8</cname>
+		<item>
+			<title>SPORT8</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/182.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 9</cname>
+		<item>
+			<title>SPORT9</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/183.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 10</cname>
+		<item>
+			<title>SPORT10</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/184.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 11</cname>
+		<item>
+			<title>SPORT11</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/185.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 12</cname>
+		<item>
+			<title>SPORT12HD</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/186.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 13</cname>
+		<item>
+			<title>SPORT13HD</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/187.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 14</cname>
+		<item>
+			<title>SPORT14HD</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/206.ch</link>
+		</item>
+	</streaminginfo>
+
+<streaminginfo>
+
+		<cname>bein sport 15</cname>
+		<item>
+			<title>SPORT15HD</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/189.ch</link>
+		</item>
+	</streaminginfo>
+
 	<streaminginfo>
 
-		<cname>Bein Sport 1</cname>
-	<item>
-		<title>Bein Sports extra</title>
-		<link>$doregex[get-rtmp] playpath=$doregex[get-path] swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/$doregex[get-pageid1]/$doregex[get-pageid2] live=1 timeout=10</link>
+		<cname>bein sport 13</cname>
+		<item>
+			<title> Sport 1 FR</title>
 
-		<regex>
-		<name>get-rtmp</name>
-		<expres>'streamer', '([^']*)</expres>
-		<page>http://sawlive.tv/embed/watch/$doregex[get-pageid1]/$doregex[get-pageid2]</page>
-		<referer>http://lag10.net/extra15</referer>
-		</regex>
-
-		<regex>
-		<name>get-path</name>
-		<expres>file', '([^']*)</expres>
-		<page>http://sawlive.tv/embed/watch/$doregex[get-pageid1]/$doregex[get-pageid2]</page>
-		<referer>http://lag10.net/extra15</referer>
-		</regex>
-
-		<regex>
-		<name>get-pageid1</name>
-		<expres>watch\|([^\|]*)</expres>
-		<page>http://sawlive.tv/embed/lagzbawse</page>
-		<referer>http://lag10.net/extra15</referer>
-		</regex>
-
-		<regex>
-		<name>get-pageid2</name>
-		<expres>400\|([^\|]*)</expres>
-		<page>http://sawlive.tv/embed/lagzbawse</page>
-		<referer>http://lag10.net/extra15</referer>
-		</regex>
-	</item>
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/190.ch</link>
+		</item>
 	</streaminginfo>
+
+	<streaminginfo>
+
+		<cname>bein sport 14</cname>
+		<item>
+			<title> Sport 2 FR</title>
+
+			<link>http://iptv-iptv.dyndns.tv/vache321r/4556334/191.ch</link>
+		</item>
+	</streaminginfo>
+
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
