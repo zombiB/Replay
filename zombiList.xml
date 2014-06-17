@@ -1225,7 +1225,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>nbn lebanon</cname>
+		<cname>NBN</cname>
 		<item>
 			<title>elahmad</title>
 			<link>rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&amp;autostart=true&amp;%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15</link>
