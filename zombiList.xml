@@ -1,6 +1,19 @@
 <streamingInfos>
 	
-	
+	<streaminginfo>
+		<cname>amgad</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h1MdsWJa_vs</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ALNADATV</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZhvGKpGPmGw</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Alsaha2</cname>
 		<item>
@@ -591,7 +604,7 @@
 		<cname>bein sport 1</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=41&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=41&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -600,7 +613,7 @@
 		<cname>bein sport 2</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -609,7 +622,7 @@
 		<cname>bein sport 3</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=43&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=43&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -618,7 +631,7 @@
 		<cname>bein sport 4</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=44&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=44&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -627,7 +640,7 @@
 		<cname>bein sport 5</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=45&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=45&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -636,7 +649,7 @@
 		<cname>bein sport 6</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=46 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=46&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=46 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=46&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -645,7 +658,7 @@
 		<cname>bein sport 7</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=47 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=47&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=47 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=47&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -654,7 +667,7 @@
 		<cname>bein sport 8</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=48 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=48&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=48 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=48&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -663,7 +676,7 @@
 		<cname>bein sport 9</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=49 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=49&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=49 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=49&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -672,7 +685,7 @@
 		<cname>bein sport 10</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=50 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=50&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=50 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=50&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -681,7 +694,7 @@
 		<cname>bein sport 11</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=51 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=51&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=51 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=51&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -690,7 +703,7 @@
 		<cname>bein sport 12</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=52 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=52&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=52 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=52&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -699,7 +712,7 @@
 		<cname>bein sport 13</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=53 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=53&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=53 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=53&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -708,7 +721,7 @@
 		<cname>bein sport 14</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=54 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=54&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=54 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=54&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 
@@ -717,7 +730,7 @@
 		<cname>bein sport 15</cname>
 		<item>
 			<title>srv_8</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=55 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=55&width=640&height=460 token=#atd%#$ZH timeout=15</link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=55 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=55&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo> 
 
