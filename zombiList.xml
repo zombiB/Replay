@@ -462,28 +462,28 @@
 		<cname>Sky Sports 1</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>http://iptv045tau.dyyndns.net:6645/fuck9728</link>
+			<link>rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=sky1italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timout=15</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 2</cname>
 		<item>
 			<title>Sky Sports</title>
-			<link>http://iptv046cgl.dyyndns.net:6646/fuck9728</link>
+			<link>rtmp://31.220.0.86:1935/live playpath=sky2italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 3</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>http://iptv047qze.dyyndns.net:6647/fuck9728</link>
+			<link>rtmp://31.220.0.86:1935/live playpath=sky3italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=sky3italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 4</cname>
 		<item>
 			<title>Sky Sports </title>
-			<link>http://iptv048grz.dyyndns.net:6648/fuck9728</link>
+			<link>rtmp://31.220.0.86:1935/live playpath=skycalcioit swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=skycalcioit&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
 		</item>
 	</streaminginfo>
 
@@ -599,13 +599,21 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>		
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>srv_1</title>
+			<link>rtmp://195.168.10.68/live//3</link>
+		</item>
+	</streaminginfo>
+	
 	 
 
 
 	<streaminginfo>		
 		<cname>Bein Sport News</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports</link>
 		</item>
 	</streaminginfo>
@@ -613,7 +621,7 @@
 	<streaminginfo>		
 		<cname>Bein Sport News</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=bn swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-news</link>
 		</item>
 	</streaminginfo>
@@ -621,14 +629,14 @@
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b1 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-1</link>
 		</item>
 	</streaminginfo>
 
 	<streaminginfo>		<cname>Bein Sport 2</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b2 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-2
 
 </link>
@@ -637,7 +645,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 3</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b3 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-3
 
 </link>
@@ -646,7 +654,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 4</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b4 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-4
 
 </link>
@@ -655,7 +663,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 5</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b5 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-5
 </link>
 		</item>
@@ -663,7 +671,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 6</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b6 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-6
 
 </link>
@@ -672,7 +680,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 7</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b7 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-7
 
 </link>
@@ -681,7 +689,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 8</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b8 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-8
 
 </link>
@@ -690,7 +698,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 9</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b9 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-9
 
 </link>
@@ -699,7 +707,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 10</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b10 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-10
 
 </link>
@@ -708,7 +716,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 11</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b11 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-11
 
 </link>
@@ -717,7 +725,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 12</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b12 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-12
 
 </link>
@@ -726,7 +734,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 13</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b13 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-13
 
 </link>
@@ -735,7 +743,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 14</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b14 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-14
 
 </link>
@@ -744,7 +752,7 @@
 
 	<streaminginfo>		<cname>Bein Sport 15</cname>
 		<item>
-			<title>srv_6</title>
+			<title>srv_1</title>
 			<link>rtmp://mootem.com/live/ playpath=b15 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-15</link>
 		</item>
 	</streaminginfo>
