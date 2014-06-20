@@ -461,29 +461,58 @@
 	<streaminginfo>
 		<cname>Sky Sports 1</cname>
 		<item>
-			<title>Sky Sports </title>
+			<title>srv_1</title>
 			<link>rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=sky1italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timout=15</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 2</cname>
 		<item>
-			<title>Sky Sports</title>
+			<title>srv_1</title>
 			<link>rtmp://31.220.0.86:1935/live playpath=sky2italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 3</cname>
 		<item>
-			<title>Sky Sports </title>
+			<title>srv_1</title>
 			<link>rtmp://31.220.0.86:1935/live playpath=sky3italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=sky3italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 4</cname>
 		<item>
-			<title>Sky Sports </title>
+			<title>srv_1</title>
 			<link>rtmp://31.220.0.86:1935/live playpath=skycalcioit swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=skycalcioit&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>srv_2</title>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH </link>
+		</item>
+	</streaminginfo>	
+	<streaminginfo>
+		<cname>Sky Sports 2</cname>
+		<item>
+			<title>srv_2</title>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH </link>
+		</item>
+	</streaminginfo>	
+	<streaminginfo>
+		<cname>Sky Sports 3</cname>
+		<item>
+			<title>srv_2</title>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH </link>
+		</item>
+	</streaminginfo>	
+	<streaminginfo>
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>srv_2</title>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH </link>
 		</item>
 	</streaminginfo>
 
