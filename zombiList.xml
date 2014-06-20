@@ -654,6 +654,14 @@
 			<link>rtmp://mootem.com/live/ playpath=bn swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-news</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>koolcora</title>
+			<link>rtmp://95.211.210.133/pull/ playpath=coolkora_3?oJ7kEggKNIDd-Xts0XPmBQ&amp;keyt=1403297732  swfUrl=http://files.leton.tv/jwplayer.flash.swf live=true timeout=15 pageUrl=http://leton.tv/player.php?streampage=coolkora_3&amp;width=640&amp;height=360</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
