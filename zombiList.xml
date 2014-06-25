@@ -668,14 +668,14 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>srv_1</title>
-			<link>rtmp://mootem.com/live/ playpath=b1 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-1 timeout=15</link>
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein1 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein1 timeout=15</link>
 		</item>
 	</streaminginfo>
 
 	<streaminginfo>		<cname>Bein Sport 2</cname>
 		<item>
 			<title>srv_1</title>
-			<link>rtmp://mootem.com/live/ playpath=b2 swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-2 timeout=15
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein2 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein2 timeout=15
 
 </link>
 		</item>
