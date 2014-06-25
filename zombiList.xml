@@ -275,6 +275,13 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>robindesdroits</title>
+			<link>rtmpe://185.56.28.202:443/liveedge2 playpath=rdd-TggCLFa swfUrl=http://putlive.in/player/playerlol.swf live=1 pageUrl=http://www.putlive.in/e/rdd-TggCLFa</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
 		<item>
 			<title>maiyo</title>
@@ -661,6 +668,13 @@
 		<item>
 			<title>ballinhd</title>
 			<link>rtmp://cp101680.live.edgefcs.net/live/1301119711110a@9742 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>ballinhd</title>
+			<link>rtmp://cp101680.live.edgefcs.net/live/1301119212220b@9742 timeout=15</link>
 		</item>
 	</streaminginfo>
 
