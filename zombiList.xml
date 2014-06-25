@@ -1152,21 +1152,36 @@
 		<cname>2M</cname>
 		<item>
 			<title>ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/8312072/streams/live/playlist.m3u8</link>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/8312072/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>AlYawm</cname>
 		<item>
 			<title>ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/12786066/streams/live/playlist.m3u8 timeout=15</link>
+			<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/12786066/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Quran TV ksa</cname>
 		<item>
 			<title>ustream</title>
-			<link>http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8</link>
+			<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/17904315/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
