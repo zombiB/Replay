@@ -2,6 +2,14 @@
 
 	
 	<streaminginfo>
+		<cname>Jawhara FM</cname>
+		<item>
+			<title>RTMP</title>
+			<link>rtmp://streaming.toutech.net/live//jawharafm.sdp timeout=15</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
 		<cname>amgad</cname>
 		<item>
 			<title>youtube</title>
@@ -275,13 +283,7 @@
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=tf1</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>TF1</cname>
-		<item>
-			<title>robindesdroits</title>
-			<link>rtmpe://185.56.28.202:443/liveedge2 playpath=rdd-TggCLFa swfUrl=http://putlive.in/player/playerlol.swf live=1 pageUrl=http://www.putlive.in/e/rdd-TggCLFa</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
 		<item>
@@ -463,64 +465,32 @@
 	</streaminginfo>
 
 	
-	
-
-	
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=sky1italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timout=15</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Sky Sports 2</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmp://31.220.0.86:1935/live playpath=sky2italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Sky Sports 3</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmp://31.220.0.86:1935/live playpath=sky3italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=sky3italia&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Sky Sports 4</cname>
-		<item>
-			<title>srv_1</title>
-			<link>rtmp://31.220.0.86:1935/live playpath=skycalcioit swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?canl?=skycalcioit&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z</link>
-		</item>
-	</streaminginfo>
-	
 	<streaminginfo>
 		<cname>Sky Sports 1</cname>
 		<item>
 			<title>srv_2</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH </link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 2</cname>
 		<item>
 			<title>srv_2</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH </link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 3</cname>
 		<item>
 			<title>srv_2</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH </link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 4</cname>
 		<item>
 			<title>srv_2</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH </link>
+			<link>rtmp://37.220.36.64:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -640,7 +610,7 @@
 		<cname>Bein 1 FR</cname>
 		<item>
 			<title>srv_2</title>
-			<link>rtmp://195.168.10.68/live//3</link>
+			<link>rtmp://195.168.10.68/live//3 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -651,7 +621,7 @@
 		<cname>Bein Sport News</cname>
 		<item>
 			<title>srv_1</title>
-			<link>rtmp://mootem.com/live/ playpath=b swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports</link>
+			<link>rtmp://mootem.com/live/ playpath=b swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -659,9 +629,352 @@
 		<cname>Bein Sport News</cname>
 		<item>
 			<title>srv_1</title>
-			<link>rtmp://mootem.com/live/ playpath=bn swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-news</link>
+			<link>rtmp://mootem.com/live/ playpath=bn swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-news timeout=20</link>
 		</item>
 	</streaminginfo>
+	
+	
+<streaminginfo>
+<cname>Bein Sport 13</cname>
+<item>
+<title>hdfoots</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=$doregex[get-playpath] pageUrl=http://www.ukcast.tv/hd.php?u=b131&amp;vw=640&amp;vh=460 flashver=WIN\2013,0,0,214 live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-playpath</name>
+<expres>"file".*?"(.*?)"</expres>
+<page>http://www.ukcast.tv/hd.php?u=b131&amp;vw=640&amp;vh=460</page>
+<referer>http://hdfoots.com/live/beinsports-13-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+<cname>Bein Sport 15</cname>
+<item>
+<title>hdfoots</title>
+<link>rtmpe://strm.ukcast.tv/redirect playpath=$doregex[get-playpath] pageUrl=http://www.ukcast.tv/hd.php?u=BEIN15HD&amp;vw=640&amp;vh=460 flashver=WIN\2013,0,0,214 live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-playpath</name>
+<expres>"file".*?"(.*?)"</expres>
+<page>http://www.ukcast.tv/hd.php?u=BEIN15HD&amp;vw=640&amp;vh=460</page>
+<referer>http://hdfoots.com/live/beinsports-15-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+
+
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23196&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-1-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23465&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-2-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 7</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23186&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-7-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+
+
+<streaminginfo>
+	<cname>Bein Sport 6</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23391&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-6-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23184&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-5-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23183&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-4-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23182&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-3-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Bein Sport 9</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23189&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-9-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 10</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23190&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-10-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 12</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23192&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-12-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Bein Sport 14</cname>
+<item>
+<title>hdfoots</title>
+<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+<regex>
+<name>get-rtmp</name>
+<expres>,file:'(.*?)'</expres>
+<page>$doregex[get-Unencrypted]</page>
+</regex>
+
+<regex>
+<name>get-Unencrypted</name>
+<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-encrypted</name>
+<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+<page>http://xuscacamusca.se/?id=23392&amp;width=640&amp;height=460</page>
+<referer>http://hdfoots.com/live/beinsports-14-live-stream.php</referer>
+</regex>
+</item>
+</streaminginfo>
+
 	
 	
 	<streaminginfo>		
@@ -698,7 +1011,7 @@
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>hdfoots</title>
+			<title>lag10 ex15</title>
 			<link>$doregex[get-rtmp] live=1  timeout=20</link>
 
 				<regex>
@@ -720,6 +1033,35 @@
 				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
 				<page>http://lag10.net/chextra15</page>
 				<referer>http://lag10.net/extra15</referer>
+				</regex>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>lag10 ch16</title>
+			<link>$doregex[get-rtmp] live=1  timeout=20</link>
+
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_saw_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://lag10.net/che16</referer>
+				</regex>
+
+
+				<regex>
+				<name>get-pageurl</name>
+				<expres>src="(.*?)"</expres>
+				<page>$doregex[get-unpackedurl]</page>
+				</regex>
+
+				<regex>
+				<name>get-unpackedurl</name>
+				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
+				<page>http://lag10.net/ch16</page>
+				<referer>http://lag10.net/channel16</referer>
 				</regex>
 		</item>
 	</streaminginfo>
