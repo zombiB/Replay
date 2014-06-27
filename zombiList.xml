@@ -830,7 +830,7 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>2400 HD</title>
-			<link>plugin://plugin.video.f4mTester/?url=hhttp%3A%2F%2F110751-f.akamaihd.net%2Fajswebch308_1_2400%40s12995%3FprimaryToken%3D2072942500_79b422ff21b124d461cb08609d7e2f70%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DEGZUA%26g%3DUIDXMWPBSZLS&amp;simpledownloader=true</link>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch308_1_2400%40s12995%3FprimaryToken%3D2072942500_79b422ff21b124d461cb08609d7e2f70%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DEGZUA%26g%3DUIDXMWPBSZLS&amp;simpledownloader=true</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
