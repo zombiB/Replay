@@ -664,14 +664,14 @@
 	
 	
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>ballinhd</title>
 			<link>rtmp://cp101680.live.edgefcs.net/live/1301119711110c@9742 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 2vv</cname>
 		<item>
 			<title>ballinhd</title>
 			<link>rtmp://cp101680.live.edgefcs.net/live/1301119212220b@9742 timeout=15</link>
@@ -873,6 +873,14 @@
 		<item>
 			<title>2400 HD</title>
 			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch304_1_2400%40s12970%3FprimaryToken%3D2072942389_ab7866a36783c697795851b4ae83529f%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DSRHCY%26g%3DJPVERSFUEBGE&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>iptvserver</title>
+			<link>http://iptvserver.is-by.us/iptv-panal/sdffgnhm/rtiplokm123/1.ch</link>
 		</item>
 	</streaminginfo>
 	
