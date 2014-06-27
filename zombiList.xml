@@ -1,5 +1,26 @@
 <streamingInfos>
-	
+
+	<streaminginfo>
+		<cname>Live Crescent Observation</cname>
+		<item>
+			<title>Abu Dhabi, UAE</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=S9tF_m3AYOc</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Live Crescent Observation</cname>
+		<item>
+			<title>Amman, Jordan</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PpapMixlkjM</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Live Crescent Observation</cname>
+		<item>
+			<title>Al-Madina, Saudi</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9WEGKE4yY_U</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>amgad</cname>
 		<item>
