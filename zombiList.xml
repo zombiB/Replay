@@ -819,6 +819,64 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch309_1_2400%40s12996%3FprimaryToken%3D2072942531_6cdf0cab90e85e5dc50fd29258709ea1%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DCISXO%26g%3DUOASUSAPNWEK&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=hhttp%3A%2F%2F110751-f.akamaihd.net%2Fajswebch308_1_2400%40s12995%3FprimaryToken%3D2072942500_79b422ff21b124d461cb08609d7e2f70%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DEGZUA%26g%3DUIDXMWPBSZLS&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch307_1_2400%40s12974%3FprimaryToken%3D2072942469_1f07d11700263a89fddadbc405d3f2ad%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DEWLHU%26g%3DJUIPXPQKKGHA&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch305_1_2400%40s12971%3FprimaryToken%3D2072942408_f4bde4a56e5e0b03aef7a73ac2caa11f%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DGYHVD%26g%3DOZDWNDEXYSGL&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch306_1_2400%40s12973%3FprimaryToken%3D2072942443_ff8a7fee37c15be8c413823eb908fc33%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DUSHAV%26g%3DRFPXJOPFPSCL&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch301_1_2400%40s12723%3FprimaryToken%3D2072935324_20d063ea291cdface6bd9256bc7bac96%26v%3D3.4.0%26fp%3DWIN%252010%2C1%2C53%2C64%26r%3DEILKH%26g%3DHDAWZNGIGTTS&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch302_1_2400%40s12838%3FprimaryToken%3D2072935294_cc353db70a4eb2df8c07bf28ea2c523b%26v%3D3.4.0%26fp%3DWIN%25252010%2C1%2C53%2C64%26r%3DCSTKU%26g%3DLJOBEXJXPAKP&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch304_1_2400%40s12970%3FprimaryToken%3D2072942389_ab7866a36783c697795851b4ae83529f%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DSRHCY%26g%3DJPVERSFUEBGE&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	
+	
 	
 	<streaminginfo>
 		<cname>Cinema EN</cname>
