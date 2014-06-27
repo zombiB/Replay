@@ -690,6 +690,69 @@
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
+			<title>iptvserver</title>
+			<link>http://iptvserver.is-by.us/iptv-panal/sdffgnhm/rtiplokm123/1.ch</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>hdfoots</title>
+			<link>$doregex[get-rtmp] live=1  timeout=20</link>
+
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_saw_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://lag10.net/chextra15</referer>
+				</regex>
+
+
+				<regex>
+				<name>get-pageurl</name>
+				<expres>src="(.*?)"</expres>
+				<page>$doregex[get-unpackedurl]</page>
+				</regex>
+
+				<regex>
+				<name>get-unpackedurl</name>
+				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
+				<page>http://lag10.net/chextra15</page>
+				<referer>http://lag10.net/extra15</referer>
+				</regex>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>hdfoots</title>
+			<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se/?id=23653&amp;width=640&amp;height=460 swfUrl=http://xuscacamusca.se/ODJmMTVhNDI5Nzg5MWU0NmMzMjZlYmE3/jwplayer.flash.swf flashver=WIN\2013,0,0,214  live=1 swfVfy=1 timeout=20</link>
+				<regex>
+				<name>get-rtmp</name>
+				<expres>,file:'(.*?)'</expres>
+				<page>$doregex[get-Unencrypted]</page>
+				</regex>
+
+				<regex>
+				<name>get-Unencrypted</name>
+				<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+				<page></page>
+				</regex>
+
+				<regex>
+				<name>get-encrypted</name>
+				<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+				<page>http://xuscacamusca.se/?id=23653&amp;width=640&amp;height=460</page>
+				<referer>http://hdfoots.com/live/beinsports-1-live-stream.php</referer>
+				</regex>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
 			<title>2400 HD</title>
 			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch309_1_2400%40s12996%3FprimaryToken%3D2072942531_6cdf0cab90e85e5dc50fd29258709ea1%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DCISXO%26g%3DUOASUSAPNWEK&amp;simpledownloader=true</link>
 		</item>
@@ -744,13 +807,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>iptvserver</title>
-			<link>http://iptvserver.is-by.us/iptv-panal/sdffgnhm/rtiplokm123/1.ch</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
 	
