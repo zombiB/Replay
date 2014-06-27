@@ -1,5 +1,46 @@
 <streamingInfos>
 
+	<streaminginfo>
+		<cname>ArenaSport</cname>
+		<item>
+			<title>ArenaSport 1</title>
+
+			<link>http://176.9.3.136:21220/2zwhanrew:ArenaSport 1</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ArenaSport</cname>
+		<item>
+			<title>ArenaSport 2</title>
+
+			<link>http://176.9.3.136:21220/r3zjk6m3h:ArenaSport 2</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ArenaSport</cname>
+		<item>
+			<title>ArenaSport 3</title>
+
+			<link>http://176.9.3.136:21220/vte5b22j5:ArenaSport 3</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ArenaSport</cname>
+		<item>
+			<title>ArenaSport 4</title>
+
+			<link>http://176.9.3.136:21220/gpj3u79vc:ArenaSport 4</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ArenaSport</cname>
+		<item>
+			<title>ArenaSport 1 HR</title>
+
+			<link>http://176.9.3.136:21220/87s3yats7:ArenaSport 1 HR</link>
+		</item>
+	</streaminginfo>
+
 	
 	<streaminginfo>
 		<cname>Jawhara FM</cname>
@@ -991,6 +1032,132 @@
 			<link>rtmp://cp101680.live.edgefcs.net/live/1301119212220b@9742 timeout=15</link>
 		</item>
 	</streaminginfo>
+	
+	
+
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>mootem 1</title>
+
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein1 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein1 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>mootem 2</title>
+
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein2 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein2 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>mootem 3</title>
+
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein3 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein3 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>mootem 4</title>
+
+			<link>rtmp://94.242.228.110/liveedge playpath=mootembein4 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein4 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>mootem 5</title>
+
+			<link>rtmp://94.242.228.110/liveedge playpath=mootembein5 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein5 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>mootem 6</title>
+
+			<link>rtmp://94.242.228.112/liveedge playpath=mootembein6 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein6 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>mootem 7</title>
+
+			<link>rtmp://94.242.228.112/liveedge playpath=mootembein7 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein7 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>mootem 8</title>
+
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein8 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein8 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>mootem 9</title>
+
+			<link>rtmp://94.242.228.110/liveedge playpath=mootembein9 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein9 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>mootem 10</title>
+
+			<link>rtmp://94.242.228.112/liveedge playpath=mootembein10 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein10 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>mootem 11</title>
+
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein11 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein11 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>mootem 12</title>
+
+			<link>rtmp://94.242.228.110/liveedge playpath=mootembein12 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein12 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>mootem 13</title>
+
+			<link>rtmp://94.242.228.110/liveedge playpath=mootembein13 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein13 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>mootem 14</title>
+
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein14 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein14 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>mootem 15</title>
+
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein15 swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein15 timeout=15</link>
+		</item>
+	</streaminginfo>
+	
+	
+
 
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
