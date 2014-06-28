@@ -1246,6 +1246,20 @@
 			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch304_1_2400%40s12970%3FprimaryToken%3D2072942389_ab7866a36783c697795851b4ae83529f%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DSRHCY%26g%3DJPVERSFUEBGE&amp;simpledownloader=true</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch310_1_2400%40s12997%3FprimaryToken%3D2072941904_68a38915b8f6a587672f6779557ebdac%26v%3D3.4.0%26fp%3DWIN%252014%250%250%25125%26r%3DINKPJ%26g%3DBPFVLDTRBYXE%0A&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>2400 HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110751-f.akamaihd.net%2Fajswebch303_1_2400%40s12966%3FprimaryToken%3D2072942339_e3ab58b75a8141023a766c4098dc18dd%26v%3D3.4.0%26fp%3DWIN%25252010%251%2553%2C64%26r%3DWSAPH%26g%3DFSZRUKGWNIXW%0A&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
 	
 	
 	
