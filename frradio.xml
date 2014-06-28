@@ -1,0 +1,19 @@
+<streaminginfos>
+
+	<streaminginfo>
+		<cname>Europe 1</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=53oNvQKP4PA</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>RFI</cname>
+		<item>
+			<title>youtube</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IMoROPhO55I</link>
+		</item>
+	</streaminginfo>
+	
+
+</streaminginfos>

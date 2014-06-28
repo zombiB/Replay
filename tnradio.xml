@@ -1,0 +1,18 @@
+<streaminginfos>
+
+	<streaminginfo>
+		<cname>Jawhara FM</cname>
+		<item>
+			<title>RTMP</title>
+			<link>rtmp://streaming.toutech.net/live//jawharafm.sdp timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Shems FM</cname>
+		<item>
+			<title>original</title>
+			<link>http://stream6.tanitweb.com/shems</link>
+		</item>
+	</streaminginfo>
+	
+</streaminginfos>

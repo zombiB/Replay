@@ -1,54 +1,5 @@
 <streamingInfos>
 
-	<streaminginfo>
-		<cname>ArenaSport</cname>
-		<item>
-			<title>ArenaSport 1</title>
-
-			<link>http://176.9.3.136:21220/2zwhanrew:ArenaSport 1</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>ArenaSport</cname>
-		<item>
-			<title>ArenaSport 2</title>
-
-			<link>http://176.9.3.136:21220/r3zjk6m3h:ArenaSport 2</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>ArenaSport</cname>
-		<item>
-			<title>ArenaSport 3</title>
-
-			<link>http://176.9.3.136:21220/vte5b22j5:ArenaSport 3</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>ArenaSport</cname>
-		<item>
-			<title>ArenaSport 4</title>
-
-			<link>http://176.9.3.136:21220/gpj3u79vc:ArenaSport 4</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>ArenaSport</cname>
-		<item>
-			<title>ArenaSport 1 HR</title>
-
-			<link>http://176.9.3.136:21220/87s3yats7:ArenaSport 1 HR</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-		<cname>Jawhara FM</cname>
-		<item>
-			<title>RTMP</title>
-			<link>rtmp://streaming.toutech.net/live//jawharafm.sdp timeout=15</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>amgad</cname>
@@ -1154,13 +1105,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>iptvserver</title>
-			<link>http://iptvserver.is-by.us/iptv-panal/sdffgnhm/rtiplokm123/1.ch</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
