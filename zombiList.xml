@@ -647,374 +647,347 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>		
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>srv_2</title>
-			<link>rtmp://195.168.10.68/live//3 timeout=20</link>
-		</item>
-	</streaminginfo>
 	
-	 
-
-
-	<streaminginfo>		
-		<cname>Bein Sport News</cname>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
 		<item>
-			<title>srv_1</title>
-			<link>rtmp://mootem.com/live/ playpath=b swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports timeout=20</link>
+		<title>hdfoots</title>
+		<link>rtmpe://strm.ukcast.tv/redirect playpath=$doregex[get-playpath] pageUrl=http://www.ukcast.tv/hd.php?u=b131&amp;vw=640&amp;vh=460 flashver=WIN\2013,0,0,214 live=1 swfVfy=1 timeout=20</link>
+
+		<regex>
+		<name>get-playpath</name>
+		<expres>"file".*?"(.*?)"</expres>
+		<page>http://www.ukcast.tv/hd.php?u=b131&amp;vw=640&amp;vh=460</page>
+		<referer>http://hdfoots.com/live/beinsports-13-live-stream.php</referer>
+		</regex>
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>		
-		<cname>Bein Sport News</cname>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
 		<item>
-			<title>srv_1</title>
-			<link>rtmp://mootem.com/live/ playpath=bn swfUrl=http://www.mootem.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.mootem.com/front/embed/bein-sports-news timeout=20</link>
+		<title>hdfoots</title>
+		<link>rtmpe://strm.ukcast.tv/redirect playpath=$doregex[get-playpath] pageUrl=http://www.ukcast.tv/hd.php?u=BEIN15HD&amp;vw=640&amp;vh=460 flashver=WIN\2013,0,0,214 live=1 swfVfy=1 timeout=20</link>
+
+		<regex>
+		<name>get-playpath</name>
+		<expres>"file".*?"(.*?)"</expres>
+		<page>http://www.ukcast.tv/hd.php?u=BEIN15HD&amp;vw=640&amp;vh=460</page>
+		<referer>http://hdfoots.com/live/beinsports-15-live-stream.php</referer>
+		</regex>
 		</item>
 	</streaminginfo>
-	
-	
-<streaminginfo>
-<cname>Bein Sport 13</cname>
-<item>
-<title>hdfoots</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=$doregex[get-playpath] pageUrl=http://www.ukcast.tv/hd.php?u=b131&amp;vw=640&amp;vh=460 flashver=WIN\2013,0,0,214 live=1 swfVfy=1 timeout=20</link>
-
-<regex>
-<name>get-playpath</name>
-<expres>"file".*?"(.*?)"</expres>
-<page>http://www.ukcast.tv/hd.php?u=b131&amp;vw=640&amp;vh=460</page>
-<referer>http://hdfoots.com/live/beinsports-13-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>Bein Sport 15</cname>
-<item>
-<title>hdfoots</title>
-<link>rtmpe://strm.ukcast.tv/redirect playpath=$doregex[get-playpath] pageUrl=http://www.ukcast.tv/hd.php?u=BEIN15HD&amp;vw=640&amp;vh=460 flashver=WIN\2013,0,0,214 live=1 swfVfy=1 timeout=20</link>
-
-<regex>
-<name>get-playpath</name>
-<expres>"file".*?"(.*?)"</expres>
-<page>http://www.ukcast.tv/hd.php?u=BEIN15HD&amp;vw=640&amp;vh=460</page>
-<referer>http://hdfoots.com/live/beinsports-15-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
 
 
 
 
 
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+	<streaminginfo>
+			<cname>Bein Sport 1</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
 
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
 
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23196&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-1-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23196&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-1-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+	<streaminginfo>
+			<cname>Bein Sport 2</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
 
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
 
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23465&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-2-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23465&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-2-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 7</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+	<streaminginfo>
+			<cname>Bein Sport 7</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
 
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
 
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23186&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-7-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
-
-
-
-
-
-<streaminginfo>
-	<cname>Bein Sport 6</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
-
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
-
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23391&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-6-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23186&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-7-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
 
 
 
 
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
+	<streaminginfo>
+			<cname>Bein Sport 6</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
 
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23184&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-5-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
 
-
-
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
-
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
-
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23183&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-4-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
-
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
-
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23182&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-3-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23391&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-6-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
 
 
-<streaminginfo>
-	<cname>Bein Sport 9</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
 
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
+	<streaminginfo>
+			<cname>Bein Sport 5</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23189&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-9-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
 
-<streaminginfo>
-	<cname>Bein Sport 10</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
 
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23184&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-5-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
 
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
 
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23190&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-10-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 12</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+	<streaminginfo>
+			<cname>Bein Sport 4</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
 
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
 
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23192&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-12-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23183&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-4-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
 
-<streaminginfo>
-	<cname>Bein Sport 14</cname>
-<item>
-<title>hdfoots</title>
-<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+	<streaminginfo>
+			<cname>Bein Sport 3</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
 
-<regex>
-<name>get-rtmp</name>
-<expres>,file:'(.*?)'</expres>
-<page>$doregex[get-Unencrypted]</page>
-</regex>
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
 
-<regex>
-<name>get-Unencrypted</name>
-<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-<page></page>
-</regex>
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
 
-<regex>
-<name>get-encrypted</name>
-<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-<page>http://xuscacamusca.se/?id=23392&amp;width=640&amp;height=460</page>
-<referer>http://hdfoots.com/live/beinsports-14-live-stream.php</referer>
-</regex>
-</item>
-</streaminginfo>
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23182&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-3-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>
+			<cname>Bein Sport 9</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
+
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
+
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23189&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-9-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+			<cname>Bein Sport 10</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
+
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
+
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23190&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-10-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+			<cname>Bein Sport 12</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
+
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
+
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23192&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-12-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+			<cname>Bein Sport 14</cname>
+		<item>
+		<title>hdfoots</title>
+		<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se swfUrl=http://xuscacamusca.se/jw5/player1.swf live=1 swfVfy=1 timeout=20</link>
+
+		<regex>
+		<name>get-rtmp</name>
+		<expres>,file:'(.*?)'</expres>
+		<page>$doregex[get-Unencrypted]</page>
+		</regex>
+
+		<regex>
+		<name>get-Unencrypted</name>
+		<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
+		<page></page>
+		</regex>
+
+		<regex>
+		<name>get-encrypted</name>
+		<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+		<page>http://xuscacamusca.se/?id=23392&amp;width=640&amp;height=460</page>
+		<referer>http://hdfoots.com/live/beinsports-14-live-stream.php</referer>
+		</regex>
+		</item>
+	</streaminginfo>
 
 	
 	
@@ -1033,7 +1006,21 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>		
+		<cname>Bein Sport News</cname>
+		<item>
+			<title>mootem</title>
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembein swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembein timeout=15</link>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>		
+		<cname>Bein Sport News</cname>
+		<item>
+			<title>mootem</title>
+			<link>rtmp://94.242.228.111/liveedge playpath=mootembeinnews swfUrl=http://www.livevideostreams.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.livevideostreams.tv/front/embed/mootembeinnews timeout=15</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
