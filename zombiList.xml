@@ -1109,7 +1109,7 @@
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>lag10 ex15</title>
+			<title>saw HD</title>
 			<link>$doregex[get-rtmp] live=1  timeout=20</link>
 
 				<regex>
@@ -1138,7 +1138,7 @@
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>lag10 ch16</title>
+			<title>saw HQ</title>
 			<link>$doregex[get-rtmp] live=1  timeout=20</link>
 
 				<regex>
