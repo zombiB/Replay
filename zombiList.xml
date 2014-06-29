@@ -941,12 +941,19 @@
 	</streaminginfo>
 
 	
-	
+	 
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>ballinhd</title>
 			<link>rtmpe://cp101680.live.edgefcs.net/live/1301110333b@9742 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>ballinhd2</title>
+			<link>rtmpe://cp101680.live.edgefcs.net/live/130190111a@9742 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
