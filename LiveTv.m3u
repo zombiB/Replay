@@ -4,14 +4,11 @@
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8
 
 #EXTINF:-1 group-title="SPORTS",BEIN SPORT 1 
-rtmpe://46.246.124.38:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-
+rtmpe://46.246.29.160:1935/redirect/bch1 token=Fo5_n0w?U.rA6l3-70w47ch? swfurl=http://www.hdcast.org/players.swf pageurl=http://www.hdcast.org/sybla.com timeout=20
 #EXTINF:-1 group-title="SPORTS",BEIN SPORT 2 
-rtmpe://46.246.124.38:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-
+rtmpe://46.246.29.160:1935/redirect/bch2 token=Fo5_n0w?U.rA6l3-70w47ch? swfurl=http://www.hdcast.org/players.swf pageurl=http://www.hdcast.org/sybla.com timeout=20
 #EXTINF:-1 group-title="SPORTS",BEIN SPORT 3 
-rtmpe://46.246.124.38:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-
+rtmpe://46.246.29.160:1935/redirect/bch3 token=Fo5_n0w?U.rA6l3-70w47ch? swfurl=http://www.hdcast.org/players.swf pageurl=http://www.hdcast.org/sybla.com timeout=20
 #EXTINF:-1 group-title="SPORTS",BEIN SPORT 4 
 rtmpe://46.246.124.38:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
 
@@ -57,10 +54,8 @@ rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 #EXTINF:-1 group-title="SPORTS",KTV SPORT
 rtmp://62.215.183.1/rtmplive/rtpencoder/ch3.sdp
 #EXTINF:-1 group-title="SPORTS",Sky Sports 2 HD
-rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 
 #EXTINF:-1 group-title="SPORTS",Sky Sports 3 HD
-rtmp://37.220.36.70:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 
 #EXTINF:-1 group-title="SPORTS",nba
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
@@ -86,7 +81,7 @@ rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/51
 #EXTINF:-1 group-title="News",Al Mayadeen 
 rtmp://hd2.lsops.net/live/ playpath=almayade_ar_485 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1377945036 live=1 timeout=15 pageUrl=http://www.livestation.com/en/almayadeen/popout
 #EXTINF:-1 group-title="News",France 24 ARABIC
-mms://stream1.france24.yacast.net/f24_livefrda
+
 #EXTINF:-1 group-title="News",BBC Arabic 
 mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
 #EXTINF:-1 group-title="News",Al Manar TV  
