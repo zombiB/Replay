@@ -1,5 +1,19 @@
 <streamingInfos>
-
+	
+	<streaminginfo>
+		<cname>Ajyal Network</cname>
+		<item>
+			<title>HD</title>
+			<link>rtmp://46.43.64.178/ajyal//livestream2 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Ajyal Network</cname>
+		<item>
+			<title>sd</title>
+			<link>rtmp://46.43.64.178/ajyal//livestreamm timeout=15</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>amgad</cname>
