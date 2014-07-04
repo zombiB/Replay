@@ -1,4 +1,34 @@
 <streamingInfos>
+
+	<streaminginfo>
+<cname>FRANCE 2</cname>
+<item>
+        <title>Low Playtv GEOBLOCKED</title>
+        <link>http://188.165.101.226:80/mobile/_definst_/canal-atlas_300/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
+        <regex>
+        <name>key</name>
+        <expres>sessionid=([^'"]*)</expres>
+        <page>http://m.playtv.fr/api/channels/france-2/?preset=with_programme%2Cwith_streams</page>
+        <referer></referer>
+        </regex>
+</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>FRANCE 2</cname>
+<item><title>High Playtv GEOBLOCKED</title>
+<link>$doregex[geturl]</link>
+     <regex>
+        <name>geturl</name>
+        <expres>$pyFunction:playtvfr.get_url('$doregex[getplayerid]')</expres>
+        <page></page>
+    </regex>    
+    <regex>
+        <name>getplayerid</name>
+        <expres>data-alias="france-2" data-playerid="(.*?)"</expres>
+        <page>http://playtv.fr/television/</page>
+    </regex>    
+</item>
+</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Ajyal Network</cname>
