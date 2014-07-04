@@ -781,7 +781,55 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>fifaembed</title>
+			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein1-hq timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>fifaembed</title>
+			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein2-hq timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>fifaembed</title>
+			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein10-hq timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>fifaembed</title>
+			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein11-hq timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>fifaembed</title>
+			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein12-hq timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>fifaembed</title>
+			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein13-hq timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>fifaembed</title>
+			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein14-hq timeout=20</link>
+		</item>
+	</streaminginfo>
 	
 	
 	<streaminginfo>		
