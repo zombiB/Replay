@@ -34,7 +34,7 @@
 		<cname>Ajyal Network</cname>
 		<item>
 			<title>HD</title>
-			<link>rtmp://46.43.64.178/ajyal//livestream2 timeout=15</link>
+			<link>rtmp://46.43.64.162/arnmada//livestream2 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -658,7 +658,7 @@
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>ballinhd</title>
-			<link>rtmpe://cp101680.live.edgefcs.net/live/130190111a@9742 timeout=15</link>
+			<link>rtmp://cp101680.live.edgefcs.net/live/130001111a@9742 timeout=15</link>
 		</item>
 	</streaminginfo>
 	
