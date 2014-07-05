@@ -651,7 +651,7 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>ballinhd</title>
-			<link>rtmpe://cp101680.live.edgefcs.net/live/1301110333b@9742 timeout=15</link>
+			<link>rtmp://cp101680.live.edgefcs.net/live/130001111a@9742 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
@@ -811,57 +811,34 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
+	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>fifaembed</title>
-			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein1-hq timeout=20</link>
+			<title>saw HQ</title>
+			<link>$doregex[get-rtmp] live=1  timeout=20</link>
+
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_saw_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://lag10.net/che16</referer>
+				</regex>
+
+
+				<regex>
+				<name>get-pageurl</name>
+				<expres>src="(.*?)"</expres>
+				<page>$doregex[get-unpackedurl]</page>
+				</regex>
+
+				<regex>
+				<name>get-unpackedurl</name>
+				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
+				<page>http://lag10.net/ch16</page>
+				<referer>http://lag10.net/channel16</referer>
+				</regex>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>fifaembed</title>
-			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein2-hq timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>fifaembed</title>
-			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein10-hq timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>fifaembed</title>
-			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein11-hq timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>fifaembed</title>
-			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein12-hq timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>fifaembed</title>
-			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein13-hq timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>fifaembed</title>
-			<link>rtmp://live1.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMTQgMTE6MDE6NTEgQU0maGFzaF92YWx1ZT1qUDJuZ2NLTmxJcFBoM0VHSHdGN2xnPT0mdmFsaWRtaW51dGVzPTIw/bein14-hq timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
@@ -891,60 +868,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>saw HQ</title>
-			<link>$doregex[get-rtmp] live=1  timeout=20</link>
-
-				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_saw_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://lag10.net/che16</referer>
-				</regex>
-
-
-				<regex>
-				<name>get-pageurl</name>
-				<expres>src="(.*?)"</expres>
-				<page>$doregex[get-unpackedurl]</page>
-				</regex>
-
-				<regex>
-				<name>get-unpackedurl</name>
-				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
-				<page>http://lag10.net/ch16</page>
-				<referer>http://lag10.net/channel16</referer>
-				</regex>
-		</item>
-	</streaminginfo>
 	
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>hdfoots</title>
-			<link>$doregex[get-rtmp] pageUrl=http://xuscacamusca.se/?id=23653&amp;width=640&amp;height=460 swfUrl=http://xuscacamusca.se/ODJmMTVhNDI5Nzg5MWU0NmMzMjZlYmE3/jwplayer.flash.swf flashver=WIN\2013,0,0,214  live=1 swfVfy=1 timeout=20</link>
-				<regex>
-				<name>get-rtmp</name>
-				<expres>,file:'(.*?)'</expres>
-				<page>$doregex[get-Unencrypted]</page>
-				</regex>
-
-				<regex>
-				<name>get-Unencrypted</name>
-				<expres>$pyFunction:get_unwise("$doregex[get-encrypted]")</expres>
-				<page></page>
-				</regex>
-
-				<regex>
-				<name>get-encrypted</name>
-				<expres>.\/div..script type="text\/javascript".;eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-				<page>http://xuscacamusca.se/?id=23653&amp;width=640&amp;height=460</page>
-				<referer>http://hdfoots.com/live/beinsports-1-live-stream.php</referer>
-				</regex>
-		</item>
-	</streaminginfo>
 	
 	
 	
