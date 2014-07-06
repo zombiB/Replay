@@ -264,56 +264,56 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>artevv</cname>
+		<cname>arte</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=arte</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>FRANCE 2vv</cname>
+		<cname>FRANCE 2</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=france2</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>FRANCE 0vv</cname>
+		<cname>FRANCE 0</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=franceo</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>FRANCE 3vv</cname>
+		<cname>FRANCE 3</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=france3</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>FRANCE 4vv</cname>
+		<cname>FRANCE 4</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=france4</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>FRANCE 5vv</cname>
+		<cname>FRANCE 5</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=france5</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>M6vv</cname>
+		<cname>M6</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=m6</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>TF1vv</cname>
+		<cname>TF1</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=tf1</link>
@@ -321,70 +321,70 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>TV 5 MONDEvv</cname>
+		<cname>TV 5 MONDE</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=tv5monde</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>GULLIvv</cname>
+		<cname>GULLI</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=gulli</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>W9vv</cname>
+		<cname>W9</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=w9</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>D8vv</cname>
+		<cname>D8</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=d8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Euronews frvv</cname>
+		<cname>Euronews fr</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=euronews</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>rts unvv</cname>
+		<cname>rts un</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=rtsun</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>rts deuxvv</cname>
+		<cname>rts deux</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=rtsdeux</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>ITV 1vv</cname>
+		<cname>ITV 1</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv1.maiyo-tv.com/live/playlist.m3u8?c=itv1</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>BBC Onevv</cname>
+		<cname>BBC One</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv1.maiyo-tv.com/live/playlist.m3u8?c=bbcone</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>BBC Twovv</cname>
+		<cname>BBC Two</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://srv1.maiyo-tv.com/live/playlist.m3u8?c=bbctwo</link>
