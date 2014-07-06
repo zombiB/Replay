@@ -359,14 +359,14 @@
 		<cname>rts un</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=rtsun</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_rtsun</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>rts deux</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=rtsdeux</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_rtsdeux</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
