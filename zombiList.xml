@@ -665,16 +665,14 @@
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>coolkora</title>
-			<link>rtmp://159.253.143.61/pull/ playpath=cool2_12?keys=8jda1KrZ_WXsb3CYmsc4Pw&amp;keyt=1404794897 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool2_12&amp;amp;amp;width=604&amp;amp;height=460 
- timeout=15</link>
+			<link>rtmp://159.253.143.61/pull/ playpath=cool2_12?keys=8jda1KrZ_WXsb3CYmsc4Pw&amp;keyt=1404794897 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool2_12&amp;width=604&amp;height=460 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>coolkora</title>
-			<link>rtmp://46.165.220.212/pull/ playpath=cool1_18?keys=UxWQ8lYtIIqa1mY9Ky2BdA&amp;keyt=1404771413 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool1_18&amp;width=604&amp;height=460 
- timeout=15</link>
+			<link>rtmp://46.165.220.212/pull/ playpath=cool1_18?keys=UxWQ8lYtIIqa1mY9Ky2BdA&amp;keyt=1404771413 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool1_18&amp;width=604&amp;height=460 timeout=15</link>
 		</item>
 	</streaminginfo>
 	
