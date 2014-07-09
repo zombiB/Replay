@@ -706,6 +706,13 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>edge</title>
+			<link>rtmpe://cp101680.live.edgefcs.net/live/130001333cc@9742 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>zenex</title>
