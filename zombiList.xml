@@ -676,6 +676,27 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>hdfoots</title>
+			<link>rtmp://50.7.28.162/flash playpath=18951?MTQwNDkyODE1OTs1YjRiMTAzOWUzOTMzZjNkZDM4ZDk4ZmRkNjczYjIzYg== swfUrl=http://static3.sawlive.tv/splayer2.swf live=1 pageUrl=http://sawlive.tv/embed timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>hdfoots</title>
+			<link>rtmp://50.7.28.162/flash playpath=18950?MTQwNDkyODI3NjtmZjMxMjA2OGVjMjk4MzFiMjEwZDgwNjYzZTZhM2NkMg== swfUrl=http://static3.sawlive.tv/splayer2.swf live=1 pageUrl=http://sawlive.tv/embed timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>hdfoots</title>
+			<link>rtmp://204.45.157.234/flash playpath=19115?MTQwNDkyOTU0OTszZDM2MDFhNDA3NTAwZGEwMThjZjQzMGE2YmFiZTdhZA== swfUrl=http://static3.sawlive.tv/splayer2.swf live=1 pageUrl=http://sawlive.tv/embed timeout=15</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
