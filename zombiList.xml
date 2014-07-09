@@ -699,6 +699,20 @@
 	</streaminginfo>
 	
 	<streaminginfo>		
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>histream</title>
+			<link>rtmp://94.102.56.186/histreamEd playpath=gabss swfUrl=http://www.histream.tv/player.swf live=1 pageUrl=http://www.histream.tv/embed.php?file=gabss&amp;width=640&amp;height=460 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>zenex</title>
+			<link>rtmp://206.190.152.220/zenex playpath=vxa21?id=5511 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/vxa21/1/640/460 conn=S:OK --live timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
 			<title>saw HQ</title>
