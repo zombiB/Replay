@@ -648,14 +648,14 @@
 	
 	 
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 2vv</cname>
 		<item>
 			<title>ballinhd</title>
 			<link>rtmp://cp101680.live.edgefcs.net/live/130001111a@9742 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>ballinhd</title>
 			<link>rtmp://flashcloud.mediacdn.com/live//rtmp://cp101680.live.edgefcs.net/live/eebeb400@9742
@@ -663,28 +663,28 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>ballinhd</title>
 			<link>http://manifest.googlevideo.com/api/manifest/hls_playlist/id/UPtzc_FiYhA.1/itag/95/source/yt_live_broadcast/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/UPtzc_FiYhA.1_95/hls_chunk_host/r2---sn-5up-u0oe.googlevideo.com/pmbypass/yes/gcr/tn/playlist_type/LIVE/maudio/1/sver/3/upn/x9nmvXfv754/fexp/902408,902544,903802,924213,924217,924222,930008,934024,934030,936927,948201/cpn/NkQA9PZ_WDC_nwIz/ms/lv/mt/1404935944/mv/m/mws/yes/ip/197.15.35.181/ipbits/0/expire/1404957600/sparams/ip,ipbits,expire,id,itag,source,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,pmbypass,gcr,playlist_type,maudio/signature/2F6C89F22EFBED14C68D59AC91235AB4B732EA8E.44B093B90ADB33BC8F29D4B89F495573D207F093/key/dg_yt0/file/index.m3u8?start_seq=52</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>ballinhd</title>
 			<link>http://manifest.googlevideo.com/api/manifest/hls_playlist/id/UPtzc_FiYhA.1/itag/94/source/yt_live_broadcast/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/UPtzc_FiYhA.1_94/hls_chunk_host/r2---sn-5up-u0os.googlevideo.com/maudio/1/gcr/tn/playlist_type/LIVE/pmbypass/yes/upn/RrrG7_VRojk/sver/3/fexp/902408,902544,903802,924213,924217,924222,930008,934024,934030,936927,948201/cpn/CLuIJfC0GqpgMeHd/ms/lv/mt/1404936064/mv/m/mws/yes/ip/197.15.35.181/ipbits/0/expire/1404961200/sparams/ip,ipbits,expire,id,itag,source,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,maudio,gcr,playlist_type,pmbypass/signature/8C9EC34A18239F1E59908A3E130C0B146DFD2E38.51243B27D5D4923F5ECE9BA3FAC41095E56B9F19/key/dg_yt0/file/index.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 2vv</cname>
 		<item>
 			<title>coolkora</title>
 			<link>rtmp://159.253.143.61/pull/ playpath=cool2_12?keys=8jda1KrZ_WXsb3CYmsc4Pw&amp;keyt=1404794897 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool2_12&amp;width=604&amp;height=460 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>coolkora</title>
 			<link>rtmp://46.165.220.212/pull/ playpath=cool1_18?keys=UxWQ8lYtIIqa1mY9Ky2BdA&amp;keyt=1404771413 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool1_18&amp;width=604&amp;height=460 timeout=15</link>
@@ -692,35 +692,35 @@
 	</streaminginfo>
 	
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>hdfoots</title>
 			<link>rtmp://50.7.28.162/flash playpath=18951?MTQwNDkyODE1OTs1YjRiMTAzOWUzOTMzZjNkZDM4ZDk4ZmRkNjczYjIzYg== swfUrl=http://static3.sawlive.tv/splayer2.swf live=1 pageUrl=http://sawlive.tv/embed timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 2vv</cname>
 		<item>
 			<title>hdfoots</title>
 			<link>rtmp://50.7.28.162/flash playpath=18950?MTQwNDkyODI3NjtmZjMxMjA2OGVjMjk4MzFiMjEwZDgwNjYzZTZhM2NkMg== swfUrl=http://static3.sawlive.tv/splayer2.swf live=1 pageUrl=http://sawlive.tv/embed timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 13</cname>
+		<cname>Bein Sport 13vv</cname>
 		<item>
 			<title>hdfoots</title>
 			<link>rtmp://204.45.157.234/flash playpath=19115?MTQwNDkyOTU0OTszZDM2MDFhNDA3NTAwZGEwMThjZjQzMGE2YmFiZTdhZA== swfUrl=http://static3.sawlive.tv/splayer2.swf live=1 pageUrl=http://sawlive.tv/embed timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>leton</title>
 			<link>rtmp://46.165.220.212/pull/ playpath=cool1_18?keys=UxWQ8lYtIIqa1mY9Ky2BdA&amp;keyt=1404771413 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool1_18&amp;width=604&amp;height=460 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>leton</title>
 			<link>rtmp://159.253.143.61/pull/ playpath=cool2_12?keys=8jda1KrZ_WXsb3CYmsc4Pw&amp;amp;keyt=1404794897 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool2_12&amp;width=604&amp;height=460
@@ -728,28 +728,28 @@ timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 2vv</cname>
 		<item>
 			<title>histream</title>
 			<link>rtmp://94.102.56.186/histreamEd playpath=gabss swfUrl=http://www.histream.tv/player.swf live=1 pageUrl=http://www.histream.tv/embed.php?file=gabss&amp;width=640&amp;height=460 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 2vv</cname>
 		<item>
 			<title>edge</title>
 			<link>rtmpe://cp101680.live.edgefcs.net/live/130001333cc@9742 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>zenex</title>
 			<link>rtmp://206.190.152.220/zenex playpath=vxa21?id=5511 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/vxa21/1/640/460 conn=S:OK --live timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>saw HQ</title>
 			<link>$doregex[get-rtmp] live=1  timeout=20</link>
@@ -777,7 +777,7 @@ timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 1vv</cname>
 		<item>
 			<title>saw HD</title>
 			<link>$doregex[get-rtmp] live=1  timeout=20</link>
