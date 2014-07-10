@@ -391,6 +391,20 @@
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>M6</cname>
+		<item>
+			<title>assimilator</title>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_m6</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>assimilatorassimilator</title>
+			<link>rtmp://cp45290.live.edgefcs.net:80/live playpath=flash_player_unique@5448 swfUrl=http://assimilator.tv/live/player.swf live=1 pageUrl=http://assimilator.tv/ timeout=15</link>
+		</item>
+	</streaminginfo>
 	
 	
 	<streaminginfo>
