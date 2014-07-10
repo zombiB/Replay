@@ -1,5 +1,126 @@
 <streamingInfos>
 
+		<streaminginfo>
+		<cname>BEIN SPORT 1</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 2</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bch2&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 3</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch3 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 4</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch4 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 5</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch5 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 6</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch6 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 7</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch7 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 8</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch8 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 9</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch9 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 10</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch10 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 11</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch11 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 12</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch12 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 13</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 14</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo> 
+
+	<streaminginfo>
+		<cname>BEIN SPORT 15</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
+		</item>
+	</streaminginfo>
+
+
 	<streaminginfo>
 <cname>FRANCE 2</cname>
 <item>
@@ -42,6 +163,14 @@
 		<item>
 			<title>sd</title>
 			<link>rtmp://46.43.64.178/ajyal//livestreamm timeout=15</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Canal plus</cname>
+		<item>
+			<title>en clair</title>
+			<link>rtmp://live-fms.canalplus.fr/live/canalplusclair_1500@42246 swfvfy=true live=true timeout=30</link>
 		</item>
 	</streaminginfo>
 	
