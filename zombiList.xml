@@ -274,49 +274,49 @@
 		<cname>FRANCE 2</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=france2</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_france2</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>FRANCE 0</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=franceo</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_franceo</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>FRANCE 3</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=france3</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_france3</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>FRANCE 4</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=france4</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_france4</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>FRANCE 5</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=france5</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_france5</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>M6</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=m6</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_m6</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=tf1</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_tf1</link>
 		</item>
 	</streaminginfo>
 	
@@ -324,35 +324,35 @@
 		<cname>TV 5 MONDE</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=tv5monde</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_tv5monde</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>GULLI</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=gulli</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_gulli</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>W9</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=w9</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_w9</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>D8</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=d8</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_d8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Euronews fr</cname>
 		<item>
 			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=euronews</link>
+			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_euronews</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
