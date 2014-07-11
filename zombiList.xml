@@ -1,4 +1,21 @@
 <streamingInfos>
+	<streaminginfo><cname>Bein Sport news</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre17 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre16 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 1</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre1 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 2</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre2 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 3</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre3 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 4</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre4 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 5</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre5 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 6</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre6 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 7</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre7 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 8</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre8 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 9</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre9 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 10</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre10 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 11</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre11 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 12</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre12 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 13</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre13 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 14</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre14 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+<streaminginfo><cname>Bein Sport 15</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre15 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
 
 		<streaminginfo>
 		<cname>BEIN SPORT 1</cname>
@@ -637,33 +654,53 @@
 		</item>
 	</streaminginfo>
 
-	
 	<streaminginfo>
-		<cname>Sky Sports 1vv</cname>
+		<cname>BBC One</cname>
 		<item>
-			<title>srv_2</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
+			<title>flashtv</title>
+			<link>rtmp://31.220.0.133:1935/live playpath=bbc1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>flashtv</title>
+			<link>rtmp://31.220.0.133:1935/live playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>flashtv</title>
+			<link>rtmp://31.220.0.133:1935/live playpath=ssnx swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 2vv</cname>
+		<cname>Sky Sports 2</cname>
 		<item>
-			<title>srv_2</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
+			<title>flashtv</title>
+			<link>rtmp://31.220.0.133:1935/live playpath=sky2x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 3vv</cname>
+		<cname>Sky Sports 3</cname>
 		<item>
-			<title>srv_2</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
+			<title>flashtv</title>
+			<link>rtmp://31.220.0.133:1935/live playpath=sky3x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 4vv</cname>
+		<cname>Sky Sports 4</cname>
 		<item>
-			<title>srv_2</title>
-			<link>rtmp://37.220.36.64:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
+			<title>flashtv</title>
+			<link>rtmp://31.220.0.133:1935/live playpath=sky4x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports F1</cname>
+		<item>
+			<title>flashtv</title>
+			<link>rtmp://31.220.0.133:1935/live playpath=skyf1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
 		</item>
 	</streaminginfo>
 
