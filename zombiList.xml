@@ -158,13 +158,7 @@
 			<link>rtmp://46.43.64.162/arnmada//livestream2 timeout=15</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Ajyal Network</cname>
-		<item>
-			<title>sd</title>
-			<link>rtmp://46.43.64.178/ajyal//livestreamm timeout=15</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Canal plus</cname>
