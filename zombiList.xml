@@ -639,28 +639,28 @@
 
 	
 	<streaminginfo>
-		<cname>Sky Sports 1</cname>
+		<cname>Sky Sports 1vv</cname>
 		<item>
 			<title>srv_2</title>
 			<link>rtmp://37.220.36.64:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 2</cname>
+		<cname>Sky Sports 2vv</cname>
 		<item>
 			<title>srv_2</title>
 			<link>rtmp://37.220.36.64:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 3</cname>
+		<cname>Sky Sports 3vv</cname>
 		<item>
 			<title>srv_2</title>
 			<link>rtmp://37.220.36.64:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 4</cname>
+		<cname>Sky Sports 4vv</cname>
 		<item>
 			<title>srv_2</title>
 			<link>rtmp://37.220.36.64:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=42&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
