@@ -847,7 +847,20 @@
 	
 
 	
-	 
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>livehd</title>
+			<link>rtmp://109.236.87.25/pull/ playpath=livehd720?keys=LvhT3q27Ehj8brMoUl86mQ&amp;keyt=1405277900 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=livehd720&amp;width=604&amp;height=460 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>livehd HD</title>
+			<link>rtmp://5.79.72.3/vl/_definst_ playpath=www.livehd721.com swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=www.livehd721.com&amp;vw=400&amp;vh=290&amp;domain=www.livehd721.com timeout=15</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>		
 		<cname>Bein Sport 2</cname>
 		<item>
