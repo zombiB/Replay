@@ -1035,7 +1035,12 @@ timeout=15</link>
 				</regex>
 		</item>
 	</streaminginfo>
-	<streaminginfo><cname>Bein Sport 1</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre1 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+	<title>flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item></streaminginfo>
 <streaminginfo><cname>Bein Sport 2</cname><item><title>HDCAST</title><link>rtmpe://46.246.124.24:1935/redirect/ogre2 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link></item></streaminginfo>
 <streaminginfo>
 		<cname>BEIN SPORT 1</cname>
