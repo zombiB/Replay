@@ -906,8 +906,14 @@
 	</item></streaminginfo>
 <streaminginfo>
 <cname>Bein Sport 1</cname>
-<item><title>HDCAST</title>
+<item><title>HDCAST mootem</title>
 <link>rtmpe://46.246.124.24:1935/redirect/ogre2 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
+</item>
+</streaminginfo>
+<streaminginfo>
+<cname>Bein Sport 1</cname>
+<item><title>HDCAST mootem</title>
+<link>rtmpe://46.246.124.24:1935/redirect/ogre1 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 </item>
 </streaminginfo>
 
@@ -925,14 +931,14 @@
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>medium leton</title>
+			<title>medium leton1</title>
 			<link>rtmp://109.236.87.25/pull/ playpath=livehd720?keys=LvhT3q27Ehj8brMoUl86mQ&amp;keyt=1405277900 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=livehd720&amp;width=604&amp;height=460 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 	<item>
-<title>medium leton</title>
+<title>medium leton2</title>
 <link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
 <regex>
 <name>get-rtmp</name>
