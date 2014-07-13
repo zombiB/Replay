@@ -946,7 +946,7 @@ timeout=15</link>
 				<name>get-rtmp</name>
 				<expres>$pyFunction:get_saw_rtmp(page_data)</expres>
 				<page>$doregex[get-pageurl]</page>
-				<referer>http://live9.net/che16</referer>
+				<referer>http://lag10.net/che16</referer>
 				</regex>
 
 
@@ -959,8 +959,8 @@ timeout=15</link>
 				<regex>
 				<name>get-unpackedurl</name>
 				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
-				<page>http://live9.net/ch16</page>
-				<referer>http://live9.net/channel16</referer>
+				<page>http://lag10.net/ch16</page>
+				<referer>http://lag10.net/channel16</referer>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -974,7 +974,7 @@ timeout=15</link>
 				<name>get-rtmp</name>
 				<expres>$pyFunction:get_saw_rtmp(page_data)</expres>
 				<page>$doregex[get-pageurl]</page>
-				<referer>http://live9.net/chextra15</referer>
+				<referer>http://lag10.net/chextra15</referer>
 				</regex>
 
 
@@ -987,8 +987,8 @@ timeout=15</link>
 				<regex>
 				<name>get-unpackedurl</name>
 				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
-				<page>http://live9.net/chextra15</page>
-				<referer>http://live9.net/extra15</referer>
+				<page>http://lag10.net/chextra15</page>
+				<referer>http://lag10.net/extra15</referer>
 				</regex>
 		</item>
 	</streaminginfo>
