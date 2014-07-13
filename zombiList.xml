@@ -830,7 +830,20 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>		
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110757-f.akamaihd.net%2Fbiswebch327_1_1500%40s73718%3FprimaryToken%3D2072866669_ce3db5e088bc47ebea4aa1e39daa2d80%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C145%26r%3DEONHO%26g%3DMIUYKBGUFOOY%7CReferer%3Dhttp%3A%2F%2Fmediapm.edgesuite.net%2Fedgeflash%2Fpublic%2Fdebug%2FHDPlayer.html&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>HD</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110757-f.akamaihd.net%2Fbiswebch328_1_1500%40s73719%3FprimaryToken%3D2072867071_953e239e32488aeaf569c3eb2cc2ae20%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DJHPCF%26g%3DDFEDYQMFLSJW%7CReferer%3Dhttp%3A%2F%2Fmediapm.edgesuite.net%2Fedgeflash%2Fpublic%2Fdebug%2FHDPlayer.html%0A&amp;simpledownloader=true</link>
+		</item>
+	</streaminginfo>
 	
 
 	
