@@ -829,57 +829,8 @@
 		</item>
 	</streaminginfo>
 	
-
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
-		<item>
-			<title>medium ezcast</title>
-			<link>rtmp://46.23.67.114/live playpath=lag101?id=16530 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lag101/1/640/450 Conn=S:OK --live timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>medium leton</title>
-			<link>rtmp://109.236.87.25/pull/ playpath=livehd720?keys=LvhT3q27Ehj8brMoUl86mQ&amp;keyt=1405277900 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=livehd720&amp;width=604&amp;height=460 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-	<item>
-<title>medium leton</title>
-<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-<regex>
-<name>get-rtmp</name>
-<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-<page>$doregex[get-pageurl]</page>
-<referer>http://lag10.net/chextra3</referer>
-</regex>
-
-<regex>
-<name>get-pageurl</name>
-<expres>(http.*460).*</expres>
-<page>$doregex[get-unpacked]</page>
-</regex>
-
-<regex>
-<name>get-unpacked</name>
-<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval.*)' ))</expres>
-<page>http://lag10.net/chextra3</page>
-<referer>http://lag10.net/extra3</referer>
-</regex>
-
-</item>
-</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>High veemi</title>
-			<link>rtmp://5.79.72.3/vl/_definst_ playpath=www.livehd721.com swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=www.livehd721.com&amp;vw=400&amp;vh=290&amp;domain=www.livehd721.com timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
 		<item>
 			<title>ballinhd</title>
 			<link>rtmp://cp101680.live.edgefcs.net/live/130001111a@9742 timeout=15</link>
@@ -908,7 +859,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 1</cname>
 		<item>
 			<title>coolkora</title>
 			<link>rtmp://159.253.143.61/pull/ playpath=cool2_12?keys=8jda1KrZ_WXsb3CYmsc4Pw&amp;keyt=1404794897 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=cool2_12&amp;width=604&amp;height=460 timeout=15</link>
@@ -930,7 +881,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 1</cname>
 		<item>
 			<title>hdfoots</title>
 			<link>rtmp://50.7.28.162/flash playpath=18950?MTQwNDkyODI3NjtmZjMxMjA2OGVjMjk4MzFiMjEwZDgwNjYzZTZhM2NkMg== swfUrl=http://static3.sawlive.tv/splayer2.swf live=1 pageUrl=http://sawlive.tv/embed timeout=15</link>
@@ -959,14 +910,14 @@ timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 1</cname>
 		<item>
 			<title>histream</title>
 			<link>rtmp://94.102.56.186/histreamEd playpath=gabss swfUrl=http://www.histream.tv/player.swf live=1 pageUrl=http://www.histream.tv/embed.php?file=gabss&amp;width=640&amp;height=460 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 1</cname>
 		<item>
 			<title>edge</title>
 			<link>rtmpe://cp101680.live.edgefcs.net/live/130001333cc@9742 timeout=15</link>
@@ -1058,6 +1009,57 @@ timeout=15</link>
 		</item>
 	</streaminginfo> 
 	
+	
+	
+
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>medium ezcast</title>
+			<link>rtmp://46.23.67.114/live playpath=lag101?id=16530 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lag101/1/640/450 Conn=S:OK --live timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>medium leton</title>
+			<link>rtmp://109.236.87.25/pull/ playpath=livehd720?keys=LvhT3q27Ehj8brMoUl86mQ&amp;keyt=1405277900 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=livehd720&amp;width=604&amp;height=460 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+	<item>
+<title>medium leton</title>
+<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+<regex>
+<name>get-rtmp</name>
+<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+<page>$doregex[get-pageurl]</page>
+<referer>http://lag10.net/chextra3</referer>
+</regex>
+
+<regex>
+<name>get-pageurl</name>
+<expres>(http.*460).*</expres>
+<page>$doregex[get-unpacked]</page>
+</regex>
+
+<regex>
+<name>get-unpacked</name>
+<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval.*)' ))</expres>
+<page>http://lag10.net/chextra3</page>
+<referer>http://lag10.net/extra3</referer>
+</regex>
+
+</item>
+</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>High veemi</title>
+			<link>rtmp://5.79.72.3/vl/_definst_ playpath=www.livehd721.com swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=www.livehd721.com&amp;vw=400&amp;vh=290&amp;domain=www.livehd721.com timeout=15</link>
+		</item>
+	</streaminginfo>
 	
 	
 	
