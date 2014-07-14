@@ -169,6 +169,8 @@
 		</item>
 	</streaminginfo>
 	
+	
+	
 	<streaminginfo>
 		<cname>amgad</cname>
 		<item>
@@ -382,8 +384,102 @@
 	<streaminginfo>
 		<cname>CBC 2</cname>
 		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=O-ye0xcKawA</link>
+			<title>youtube addon</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NyoD4UNNGBU</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>CBC</cname>
+		<item>
+			<title>youtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s<expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')<expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"<expres>
+				<page>https://www.youtube.com/watch?v=NyoD4UNNGBU</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Russia Alyaum</cname>
+		<item>
+			<title>youtube 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s<expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')<expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"<expres>
+				<page>https://www.youtube.com/watch?v=SrNpdcDyXXA</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Russia Alyaum</cname>
+		<item>
+			<title>youtube 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s<expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')<expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"<expres>
+				<page>https://www.youtube.com/watch?v=SrNpdcDyXXA</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Russia Alyaum</cname>
+		<item>
+			<title>youtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s<expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')<expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"<expres>
+				<page>https://www.youtube.com/watch?v=SrNpdcDyXXA</page>
+				</regex>
 		</item>
 	</streaminginfo>
 	
