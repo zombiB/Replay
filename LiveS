@@ -51,10 +51,12 @@
 <item>
 <title>firedrive test</title>
 <link>plugin://plugin.video.firedrive/?mode=streamURL&amp;url=http://www.firedrive.com/file/E0EAF2826993C7AF</link>
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel01.png</thumbnail>
 </item>
 <item>
 <title>cloudstream tst</title>
 <link>plugin://plugin.video.cloudstream/?mode=streamURL&amp;url=http://uptobox.com/uycncjb5oyqx</link>
+<thumbnail>http://www.ar.beinsports.net/i/beINSport/site/COM/perf-console/channel_logos_2014/chanel01.png</thumbnail>
 </item>
 
 <item>
