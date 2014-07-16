@@ -772,6 +772,14 @@
 			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800 timeout=20</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>BBC One</cname>
+		<item>
+			<title>high</title>
+			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fzaphod-live.bbc.co.uk.edgesuite.net%2Fhds-live%2Flivepkgr%2F_definst_%2Fbbc1%2Fbbc1_1500.f4m%7CX-Forwarded-For%3D212.58.241.131</link>
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
 		<cname>BBC One</cname>
@@ -964,185 +972,205 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-	
-	
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Tele Sports</cname>
 		<item>
-			<title>LOW-histream</title>
-			<link>rtmp://94.102.56.186/histreamEd playpath=gabss swfUrl=http://www.histream.tv/player.swf live=1 pageUrl=http://www.histream.tv/embed.php?file=gabss&amp;width=640&amp;height=460 timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>saw HQ</title>
-			<link>$doregex[get-rtmp] live=1  timeout=20</link>
+			<title>C_SPORT_HD</title>
+			<link>$doregex[get-reverseAndDecode] playpath=$doregex[get-playpath] swfUrl=http://5.79.68.134:81/j/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://goldvod.tv/</link>
 
 				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_saw_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://lag10.net/che16</referer>
+				<name>get-playpath</name>
+				<expres>stream\/(.*)</expres>
+				<page>$doregex[get-reverseAndDecode]</page>
 				</regex>
 
 
 				<regex>
-				<name>get-pageurl</name>
-				<expres>src="(.*?)"</expres>
-				<page>$doregex[get-unpackedurl]</page>
+				<name>get-reverseAndDecode</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-rtmp-reverse]'[::-1])</expres>
+				<page></page>
 				</regex>
 
 				<regex>
-				<name>get-unpackedurl</name>
-				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
-				<page>http://lag10.net/ch16</page>
-				<referer>http://lag10.net/channel16</referer>
+				<name>get-rtmp-reverse</name>
+				<expres>src":"(.*?)"</expres>
+				<page>http://goldvod.tv/tv-connector.html</page>
+				<referer>http://goldvod.tv/tv-online/c_sport_hd.html</referer>
+				<post>c:C_SPORT_HD</post>
+				<x-req>XMLHttpRequest</x-req>
+				<cookieJar>$doregex[session]</cookieJar>
+				</regex>
+
+				<regex>
+				<name>session</name>
+				<expres></expres>
+				<page>http://goldvod.tv/logowanie-ajax.html</page>
+				<referer>http://goldvod.tv/tv-online/c_sport_hd.html</referer>
+				<cookieJar></cookieJar>
 				</regex>
 		</item>
 	</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
 		<item>
-			<title>saw HD</title>
-			<link>$doregex[get-rtmp] live=1  timeout=20</link>
+			<title>TVP_SPORT_HD</title>
+			<link>$doregex[get-reverseAndDecode] playpath=$doregex[get-playpath] swfUrl=http://5.79.68.134:81/j/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://goldvod.tv/</link>
 
 				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_saw_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://lag10.net/chextra15</referer>
+				<name>get-playpath</name>
+				<expres>stream\/(.*)</expres>
+				<page>$doregex[get-reverseAndDecode]</page>
 				</regex>
 
 
 				<regex>
-				<name>get-pageurl</name>
-				<expres>src="(.*?)"</expres>
-				<page>$doregex[get-unpackedurl]</page>
+				<name>get-reverseAndDecode</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-rtmp-reverse]'[::-1])</expres>
+				<page></page>
 				</regex>
 
 				<regex>
-				<name>get-unpackedurl</name>
-				<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' ))</expres>
-				<page>http://lag10.net/chextra15</page>
-				<referer>http://lag10.net/extra15</referer>
+				<name>get-rtmp-reverse</name>
+				<expres>src":"(.*?)"</expres>
+				<page>http://goldvod.tv/tv-connector.html</page>
+				<referer>http://goldvod.tv/tv-online/tvp_sport_hd.html</referer>
+				<post>c:TVP_SPORT_HD</post>
+				<x-req>XMLHttpRequest</x-req>
+				<cookieJar>$doregex[session]</cookieJar>
+				</regex>
+
+				<regex>
+				<name>session</name>
+				<expres></expres>
+				<page>http://goldvod.tv/logowanie-ajax.html</page>
+				<referer>http://goldvod.tv/tv-online/tvp_sport_hd.html</referer>
+				<cookieJar></cookieJar>
 				</regex>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
 	<title>medium flashtv</title>
 	<link>rtmp://31.220.0.194:1935/live playpath=beins1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
-	</item></streaminginfo>
-<streaminginfo>
-<cname>Bein Sport 1</cname>
-<item><title>HDCAST mootem</title>
-<link>rtmpe://46.246.124.24:1935/redirect/ogre2 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Bein Sport 1</cname>
-<item><title>HDCAST mootem</title>
-<link>rtmpe://46.246.124.24:1935/redirect/ogre1 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
-</item>
-</streaminginfo>
-
-	
-	
-	
-
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>medium ezcast</title>
-			<link>rtmp://46.23.67.114/live playpath=lag101?id=16530 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/lag101/1/640/450 Conn=S:OK --live timeout=15</link>
-		</item>
+	</item>
 	</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>medium leton1</title>
-			<link>rtmp://109.236.87.25/pull/ playpath=livehd720?keys=LvhT3q27Ehj8brMoUl86mQ&amp;keyt=1405277900 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=livehd720&amp;width=604&amp;height=460 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+	<streaminginfo>
+	<cname>Bein Sport 2</cname>
 	<item>
-<title>medium leton2</title>
-<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-<regex>
-<name>get-rtmp</name>
-<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-<page>$doregex[get-pageurl]</page>
-<referer>http://lag10.net/chextra3</referer>
-</regex>
-
-<regex>
-<name>get-pageurl</name>
-<expres>(http.*460).*</expres>
-<page>$doregex[get-unpacked]</page>
-</regex>
-
-<regex>
-<name>get-unpacked</name>
-<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval.*)' ))</expres>
-<page>http://lag10.net/chextra3</page>
-<referer>http://lag10.net/extra3</referer>
-</regex>
-
-</item>
-</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>High veemi</title>
-			<link>rtmp://5.79.72.3/vl/_definst_ playpath=www.livehd721.com swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=www.livehd721.com&amp;vw=400&amp;vh=290&amp;domain=www.livehd721.com timeout=15</link>
-		</item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>high hdcast1</title>
-			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
-		</item>
-	</streaminginfo> 
-
-	<streaminginfo>
-		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>high hdcast2</title>
-			<link>rtmpe://46.246.124.27:1935/redirect playpath=bch2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bch2&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=30</link>
-		</item>
-	</streaminginfo> 
-	<streaminginfo>
-		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>high mootem</title>
-			<link>rtmpe://46.246.124.27:1935/redirect playpath=ogre1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=30</link>
-		</item>
+	<cname>Bein Sport 3</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>high mootem2</title>
-			<link>rtmpe://46.246.124.27:1935/redirect playpath=ogre2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=30</link>
-		</item>
+	<cname>Bein Sport 4</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 6</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins6 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 7</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins7 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 8</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins8 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 9</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins9 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 10</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins10 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 11</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins11 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 12</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins12 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 13</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins13 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 14</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins14 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 15</cname>
+	<item>
+	<title>medium flashtv</title>
+	<link>rtmp://31.220.0.194:1935/live playpath=beins15 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+	</item>
 	</streaminginfo>
 	
+
 	
 	<streaminginfo>
 		<cname>BEIN SPORT 13</cname>
 		<item>
-			<title>high mootem</title>
-			<link>rtmpe://46.246.124.27:1935/redirect playpath=ogre13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=30</link>
+			<title>sybla</title>
+			<link>rtmp://80.82.64.252:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=13128 swfUrl=http://xuscacamusca.se/ZjhhNzcwNzM3YzYyNmM0ODQ5M2JhOTRi/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/sybla.com</link>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>BEIN SPORT 14</cname>
+		<item>
+			<title>sybla</title>
+			<link>rtmp://80.82.64.252:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=14620 swfUrl=http://xuscacamusca.se/ZjhhNzcwNzM3YzYyNmM0ODQ5M2JhOTRi/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/sybla.com</link>
+		</item>
+	</streaminginfo>
 	
 	
 	
