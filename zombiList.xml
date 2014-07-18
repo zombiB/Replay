@@ -1,117 +1,499 @@
 <streamingInfos>
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr2&amp;auth=ed23e920c1e9dbc9b574cd6e366e96d3dfe46868c382b5d2c1c1c64de12b7ad5&amp;gts=false</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>M6</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=m6&amp;auth=86a1898acaa84648c9cdd87418548005186b9b1e4cf61ccacc8e0417aa788c57&amp;gts=false</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>TF1</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=tf1&amp;auth=6a8b7c5b75f35595dc666c845ee67e162a98627819d3f5134616a8799439d743&amp;gts=false</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>rts deux</cname>
 		<item>
 			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=rts2&amp;auth=f0615c5ccacad232d75466774605793131c7dc2e56feb39e13d9a9ea762e2cf9&amp;gts=false</link>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=rts2&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/2</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>rts un</cname>
 		<item>
 			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=rts1&amp;auth=3e23e37b61f365194822e6924ebf1bea3f5c6b36eb11324a3d6d28456c4462d3&amp;gts=false</link>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=rts1&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/1</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 3</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr3&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/10</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>FRANCE 4</cname>
 		<item>
 			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/t/index.m3u8?c=fr4&amp;auth=e8aa67b6abf269fd5500f18020236e4c3f712e73c71e4d1dbbf4dd8ec4da1289&amp;gts=false</link>
-		</item>
-	</streaminginfo>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr4&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/11</page>
+			</regex>
 
-	<streaminginfo>
-		<cname>FRANCE 3</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr3&amp;auth=f16a4d702cb3ffe88536cab277b1154fc597ac128c3bf4b14449b23abcd73c76&amp;gts=false</link>
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>D8</cname>
 		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=d8&amp;auth=3a22686dfd88fe57c66f939f3c7157f2d3491c732c548dc128efba2f003f4a2d&amp;gts=false</link>
+			<title>d8 iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=d8&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/6</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 5</cname>
+		<item>
+			<title>fr5 iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr5&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/12</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>W9</cname>
 		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/t/index.m3u8?c=w9&amp;auth=1c6d4e113c0bcc7c9f27fb4e3b43838f696facdf6e2ac68b2d2592ca57778d2c&amp;gts=false</link>
-		</item>
-	</streaminginfo>
+			<title>w9 iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=w9&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/21</page>
+			</regex>
 
-	<streaminginfo>
-		<cname>FRANCE 5</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr5&amp;auth=c10f75e0f521b0ecf3852217a78fa7a884b58a723f3b1b5e98378d04e9efe471&amp;gts=false</link>
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=artefr&amp;auth=880ddadea3a71985e0ec419cae10e3ea251bb4ed425c48d2457620d5252dfdda&amp;gts=false</link>
+			<title>artefr iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=artefr&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/3</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>GULLI</cname>
 		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/t/index.m3u8?c=gulli&amp;auth=816050c77521505c9b7d61a9fefb2b5b22d07cf7a2540c9d6a231b590302faf1&amp;gts=false</link>
+			<title>gulli iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=gulli&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/14</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
-
 	<streaminginfo>
-		<cname>TV 5 MONDE</cname>
+		<cname>FRANCE 2</cname>
 		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=tv5monde&amp;auth=9425aebf94d276550962aec83aecc31fda79ab60d01244805717ef1d8492e76a&amp;gts=false</link>
+			<title>tv5monde iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=tv5monde&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/20</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>FRANCE 0</cname>
 		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/t/index.m3u8?c=fro&amp;auth=d666b80080e74bce527efbe7b586aefde959a1ce7955d324cf64dcdf20f3fbd9&amp;gts=false</link>
+			<title>fro iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fro&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/13</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>France 24 FR</cname>
 		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/t/index.m3u8?c=fr24&amp;auth=6920c0713e9f3752bc7b2bfe3b4b76dcd0027a727074b2a3becfa6e3cca17fba&amp;gts=false</link>
+			<title>fr24 iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr24&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/9</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>CN FR</cname>
 		<item>
-			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=cn&amp;auth=175b83a7de5c355dc6a2e687b5e1bd68ff55c3876b28386a6591585891d43333&amp;gts=false</link>
+			<title>cn iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=cn&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/22</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>http\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>M6</cname>
+		<item>
+			<title>m6 iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=m6&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/17</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>tf1 iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=tf1&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/19</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>FR2 REGEX **http://en.iphone-tv.eu/stream/fr/8**iphone-tv</title>
+			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr2&amp;auth=$doregex[get-auth]&amp;gts=true</link>
+			<regex>
+			<name>get-encrypted-auth</name>
+			<expres>atob..(.*?)"</expres>
+			<page>http://en.iphone-tv.eu/stream/fr/8</page>
+			</regex>
+
+			<regex>
+			<name>get-decrypted-auth</name>
+			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
+			<page></page>
+			</regex>
+
+			<regex>
+			<name>get-unescaped</name>
+			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
+			<page></page>
+			</regex> 
+
+			<regex>
+			<name>get-auth</name>
+			<expres>m3u8\|(.*)\|</expres>
+			<page>$doregex[get-unescaped]</page>
+			</regex>
+
 		</item>
 	</streaminginfo>
 	
@@ -648,6 +1030,19 @@
 			<title>maiyo</title>
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=en_bbctwo</link>
 		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>BBC Two</cname>
+		<item>
+			<title>giniko</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>file: "([^"]*)</expres>
+				<page>http://giniko.com/watch.php?id=190</page>
+				</regex>
+				</item>
 	</streaminginfo>
 	
 	<streaminginfo>
