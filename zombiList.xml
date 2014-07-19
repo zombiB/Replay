@@ -845,6 +845,13 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
+		<cname>Alaqsa</cname>
+		<item>
+			<title>youtube addon</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ox3v1AAvZSg</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>CBC 2</cname>
 		<item>
 			<title>youtube 360p</title>
@@ -980,6 +987,29 @@
 				<name>getlink</name>
 				<expres>hlsvp": "(.*?)"</expres>
 				<page>https://www.youtube.com/watch?v=SrNpdcDyXXA</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Alaqsa</cname>
+		<item>
+			<title>youtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=ox3v1AAvZSg</page>
 				</regex>
 		</item>
 	</streaminginfo>
