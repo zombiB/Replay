@@ -813,7 +813,7 @@
 		<cname>Toyor Al Janah</cname>
 		<item>
 			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m7cGuD41ERs</link>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=toslMbh8ar8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -849,6 +849,29 @@
 		<item>
 			<title>youtube addon</title>
 			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ox3v1AAvZSg</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Toyor Al Janah</cname>
+		<item>
+			<title>youtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=toslMbh8ar8</page>
+				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
