@@ -4,30 +4,32 @@
 		<cname>rts deux</cname>
 		<item>
 			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=rts2&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/2</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/2</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
@@ -35,30 +37,32 @@
 		<cname>rts un</cname>
 		<item>
 			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=rts1&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/1</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/1</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
@@ -66,30 +70,32 @@
 		<cname>FRANCE 3</cname>
 		<item>
 			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr3&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/10</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/10</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
@@ -162,38 +168,41 @@
 	<streaminginfo>
 		<cname>FRANCE 5</cname>
 		<item>
-			<title>fr5 iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr5&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/12</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/12</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>W9</cname>
 		<item>
-			<title>w9 iphone-tv</title>
+			<title>iphone-tv</title>
 			<link>$doregex[url]</link>
 				<regex>
 				<name>url</name>
@@ -226,34 +235,37 @@
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>artefr iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=artefr&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/3</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/3</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>GULLI</cname>
 		<item>
@@ -290,34 +302,37 @@
 	<streaminginfo>
 		<cname>tv5monde</cname>
 		<item>
-			<title> iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=tv5monde&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/20</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/20</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>FRANCE 0</cname>
 		<item>
@@ -420,62 +435,66 @@
 	<streaminginfo>
 		<cname>M6</cname>
 		<item>
-			<title>m6 iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=m6&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/17</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/17</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
-			<title>tf1 iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=tf1&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/19</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/19</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
@@ -483,33 +502,38 @@
 		<cname>FRANCE 2</cname>
 		<item>
 			<title>iphone-tv</title>
-			<link>http://ipm.iphone-tv.eu:1345/index.m3u8?c=fr2&amp;auth=$doregex[get-auth]&amp;gts=true</link>
-			<regex>
-			<name>get-encrypted-auth</name>
-			<expres>atob..(.*?)"</expres>
-			<page>http://en.iphone-tv.eu/stream/fr/8</page>
-			</regex>
-
-			<regex>
-			<name>get-decrypted-auth</name>
-			<expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-auth]")</expres>
-			<page></page>
-			</regex>
-
-			<regex>
-			<name>get-unescaped</name>
-			<expres>$pyFunction:urllib.unquote('$doregex[get-decrypted-auth]')</expres>
-			<page></page>
-			</regex> 
-
-			<regex>
-			<name>get-auth</name>
-			<expres>m3u8\|(.*)\|</expres>
-			<page>$doregex[get-unescaped]</page>
-			</regex>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-unquoted]</page>
+				</regex>
+				<regex>
+				<name>get-unquoted</name>
+				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-decoded</name>
+				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-encoded</name>
+				<expres>atob\("(.*?)"</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/8</page>
+				</regex>
 
 		</item>
 	</streaminginfo>
+	
+	
+	
 	<streaminginfo>
 		<cname>BBC One</cname>
 		<item>
