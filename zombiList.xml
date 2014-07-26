@@ -1522,7 +1522,13 @@
 			<link>rtmp://alayam.netromedia.net/btv3/btv3 timeout=20</link>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>		
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>direct-stream</title>
+			<link>rtmp://cdn.direct-stream.org/liverepeat/ playpath=channnel00005a swfUrl=http://direct-stream.org/embeds/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.org/embeds/15s.php?c=franshsd&amp;vw=650&amp;=400</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>		
 		<cname>Bein 1 FR</cname>
 		<item>
@@ -1616,32 +1622,32 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-	<title>medium flashtv</title>
-	<link>rtmp://31.220.0.194:1935/live playpath=beins1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
-	</item>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>medium flashtv</title>
+			<link>rtmp://31.220.0.194:1935/live playpath=beins1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+		</item>
 	</streaminginfo>
 	<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-	<title>medium flashtv</title>
-	<link>rtmp://31.220.0.194:1935/live playpath=beins2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
-	</item>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>medium flashtv</title>
+			<link>rtmp://31.220.0.194:1935/live playpath=beins2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+		</item>
 	</streaminginfo>
 	<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-	<title>medium flashtv</title>
-	<link>rtmp://31.220.0.194:1935/live playpath=beins3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
-	</item>
+		<cname>Bein Sport 3</cname>
+		<item>
+		<title>medium flashtv</title>
+		<link>rtmp://31.220.0.194:1935/live playpath=beins3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+		</item>
 	</streaminginfo>
 	<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-	<title>medium flashtv</title>
-	<link>rtmp://31.220.0.194:1935/live playpath=beins4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
-	</item>
+		<cname>Bein Sport 4</cname>
+		<item>
+		<title>medium flashtv</title>
+		<link>rtmp://31.220.0.194:1935/live playpath=beins4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+		</item>
 	</streaminginfo>
 	<streaminginfo>
 	<cname>Bein Sport 5</cname>
@@ -1720,7 +1726,7 @@
 	<link>rtmp://31.220.0.194:1935/live playpath=beins15 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
 	</item>
 	</streaminginfo>
-		<streaminginfo>	
+	<streaminginfo>	
 
 		<cname>Bein Sport 1</cname>
 		<item>
@@ -1881,6 +1887,169 @@
 			<title> 15</title>
 
 			<link>rtmpe://46.246.124.22:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>	
+
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title> 1</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title> 2</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bch2&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title> 3</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch3 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title> 4</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch4 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title> 5</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch5 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title> 6</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch6 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title> 7</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch7 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title> 8</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch8 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title> 9</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch9 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title> 10</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch10 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title> 11</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch11 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title> 12</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch12 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title> 13</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title> 14</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
+		</item>
+	</streaminginfo>
+
+
+	<streaminginfo>	
+
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title> 15</title>
+
+			<link>rtmpe://46.246.29.154:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>
 
