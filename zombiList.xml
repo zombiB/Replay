@@ -1775,7 +1775,56 @@
 			<link>rtmp://195.154.220.115:1935/private/jsc15 timeout=20</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+	
 
+		<cname>BEIN SPORT 2</cname>
+		<item>
+			<title>youtube 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=AHApPUwSb0k</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 2</cname>
+		<item>
+			<title>youtube 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=AHApPUwSb0k</page>
+				</regex>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 	<cname>Abu Dhabi Sports 1</cname>
