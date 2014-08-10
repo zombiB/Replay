@@ -2010,7 +2010,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 4</cname>
+		<cname>Bein Sport 1</cname>
 		<item>
 			<title>ustream</title>
 				<link>$doregex[get-link]</link>
