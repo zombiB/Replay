@@ -1172,7 +1172,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livekoooora.net/channel4.php</page>
+				<page>http://www.falatna.com/neews1.htm</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -1202,7 +1202,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livekoooora.net/channel4.php</page>
+				<page>http://www.falatna.com/neews1.htm</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -1232,7 +1232,66 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livekoooora.net/channel4.php</page>
+				<page>http://www.falatna.com/neews1.htm</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 1</cname>
+		<item>
+			<title>youtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://najmsatofficiel.blogspot.com/2014/01/feeds-nantes-lorient-on-eutelsat-7a-70e.html</page>
+				</regex>
+		</item>
+	</streaminginfo><streaminginfo>
+	
+
+		<cname>BEIN SPORT 1</cname>
+		<item>
+			<title>youtube 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://najmsatofficiel.blogspot.com/2014/01/feeds-nantes-lorient-on-eutelsat-7a-70e.html</page>
 				</regex>
 		</item>
 	</streaminginfo>
