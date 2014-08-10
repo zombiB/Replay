@@ -15,573 +15,6 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>rts deux</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/2</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>rts un</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/1</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 3</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/10</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 4</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/11</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>D8</cname>
-		<item>
-			<title>d8 iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/6</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 5</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/12</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>arte</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/3</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>GULLI</cname>
-		<item>
-			<title>gulli iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/14</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>tv5monde</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/20</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>FRANCE 0</cname>
-		<item>
-			<title>fro iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/13</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>France 24 FR</cname>
-		<item>
-			<title>fr24 iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/24</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CN FR</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/22</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>M6</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/17</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>TF1</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/19</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/8</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>BBC One</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/uk/5</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>BBC Two</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-unquoted]</page>
-				</regex>
-				<regex>
-				<name>get-unquoted</name>
-				<expres>$pyFunction:urllib.unquote('$doregex[get-decoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-decoded</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-encoded]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-encoded</name>
-				<expres>atob\("(.*?)"</expres>
-				<page>http://en.iphone-tv.eu/stream/uk/6</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
 	
 
 	<streaminginfo>
@@ -628,6 +61,19 @@
 		<item>
 			<title>en clair</title>
 			<link>rtmp://live-fms.canalplus.fr/live/canalplusclair_1500@42246 swfvfy=true live=true timeout=30</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal plus</cname>
+		<item>
+			<title>myfrtv</title>
+			<link>http://max.myfrtv.com/8201/m3u8/8201.m3u8$doregex[get-token]</link>
+				<regex>
+				<name>get-token</name>
+				<expres>(.*)</expres>
+				<page>http://myfrtv.com/channels/new-file/</page>
+				<x-forward>205.236.221.231</x-forward>
+				</regex>
 		</item>
 	</streaminginfo>
 	
@@ -1043,13 +489,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>arte</cname>
-		<item>
-			<title>maiyo</title>
-			<link>http://srv2.maiyo-tv.com/live/playlist.m3u8?c=arte</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
 		<item>
@@ -1057,6 +497,15 @@
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_france2</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>akamaihd</title>
+			<link>http://pebbles101-lh.akamaihd.net/i/france2_1@97347/index_900_av-b.m3u8|X-Forwarded-For=195.186.145.47</link> 
+		</item>
+	</streaminginfo>
+
+
 	<streaminginfo>
 		<cname>FRANCE 0</cname>
 		<item>
@@ -1092,13 +541,6 @@
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_m6</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>TF1</cname>
-		<item>
-			<title>maiyo</title>
-			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_tf1</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>TV 5 MONDEvv</cname>
@@ -1126,6 +568,13 @@
 		<item>
 			<title>maiyo</title>
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_d8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>D8</cname>
+		<item>
+			<title>akamaihd</title>
+			<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d8_aka-lh.akamaihd.net/z/d8_hds@182613/manifest.f4m?hdcore=2.11.3&amp;g=RKZVIOALHRKW&amp; als=0,0.1,0,3,0,NaN,0,0,0,97,f,11173574,11173584.2 9,t,u,RKZVIOALHRKW,2.11.3,97&amp;hdcore=2.11.3</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1205,18 +654,85 @@
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_m6</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
-		<cname>TF1</cname>
+		<cname>BFMTV</cname>
 		<item>
-			<title>assimilatorassimilator</title>
-			<link>rtmp://cp45290.live.edgefcs.net:80/live playpath=flash_player_unique@5448 swfUrl=http://assimilator.tv/live/player.swf live=1 pageUrl=http://assimilator.tv/ timeout=15</link>
+			<title>myfrtv</title>
+			<link>http://max.myfrtv.com/12170/m3u8/12170.m3u8$doregex[get-token]</link> 
+				<regex>
+				<name>get-token</name>
+				<expres>(.*)</expres>
+				<page>http://myfrtv.com/channels/new-file/</page>
+				<x-forward>205.236.221.231</x-forward>
+				</regex>
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>I-Tele</cname>
+	<item>
+		<title>en clair</title>
+		<link>rtmp://live-fms.canalplus.fr:443/live/itele_800@42248 timeout=15</link> 
+	</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>D17</cname>
+		<item>
+			<title>akamaihd</title>
+			<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d17_aka-lh.akamaihd.net/z/d17_hds@182614/manifest.f4m?hdcore=2.11.3&amp;g=RKZVIOALHRKW&amp; als=0,0.1,0,3,0,NaN,0,0,0,97,f,11173574,11173584.2 9,t,u,RKZVIOALHRKW,2.11.3,97&amp;hdcore=2.11.3</link> 
 		</item>
 	</streaminginfo>
+
+
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
 			<title>master</title>
 			<link>http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/master.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&amp;X-Forwarded-For=146.159.95.38</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NRJ 12</cname>
+		<item>
+			<title>master</title>
+			<link>http://max.myfrtv.com/8206/m3u8/8206.m3u8$doregex[get-token]</link>
+			<regex>
+			<name>get-token</name>
+			<expres>(.*)</expres>
+			<page>http://myfrtv.com/channels/new-file/</page>
+			<x-forward>205.236.221.231</x-forward>
+			</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NT1</cname>
+		<item>
+			<title>master</title>
+			<link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;auth=pvtoken%3Dexp%253D9999999999%257Eacl%253D%25252f%25252a%257Edata%253DZXhwPTE0MDc3MjY1NDN%2BYWNsPSUyZip%2BZGF0YT1wdmMsc35obWFjPTM0MjA3YTQ3MzY3Yzg3MDg1NzE4ODllYWFiNTY0ZGZiZWFkNmE1YzdlMGNhMGU4MmI0OWYwODdhY2I4YWJkZmY%253D%252196e4sdLWrezE46RaCBzzP43%2FLEM5en2KujAosbeDimQ%253D%257Ehmac%253D2AA3E9BD61EC957996CFAC754462A786C5ED62A96052B222DAC2C0035AEC7B66%26hdntl%3Dexp%3D1407726543~acl%3D%252f*~data%3Dhdntl~hmac%3D8f4bbcfcf6fcfd5afd5cf47b275887c421990f8bde35e9f4da79540fa203fe45%26als%3D0%2C2%2C0%2C0%2C0%2CNaN%2C0%2C0%2C0%2C30%2Cf%2C53716579.66%2C53716589.97%2Ct%2Cs%2CUGLENDKFJKPW%2C2.11.3%2C30%26hdcore%3D2.11.3</link>
+			<regex>
+				<name>get-urlencoded</name>
+				<expres>$pyFunction:urllib.quote_plus('$doregex[get-url]'+'&amp;hdcore=2.11.3|X-Forwarded-For=77.132.237.189&amp;User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A30.0)%20Gecko%2F20100101%20Firefox%2F30.0')</expres>
+				<page></page>
+			</regex>
+
+			<regex>
+				<name>get-url</name>
+				<expres>(.*)</expres>
+				<page>http://www.wat.tv/get/nt1live/591997?getURL=1</page>
+			</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TMC</cname>
+		<item>
+			<title>master</title>
+			<link>http://max.myfrtv.com/8211/m3u8/8211.m3u8$doregex[get-token]</link>
+				<regex>
+				<name>get-token</name>
+				<expres>(.*)</expres>
+				<page>http://myfrtv.com/channels/new-file/</page>
+				<x-forward>205.236.221.231</x-forward>
+				</regex>
 		</item>
 	</streaminginfo>
 	
@@ -1484,22 +1000,29 @@
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>frlive </title>
+			<title>frlive 925p</title>
 			<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>frlive </title>
+			<title>frlive 540p</title>
 			<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_540.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>frlive </title>
+			<title>frlive 315</title>
 			<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_315.m3u8 </link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>arte</cname>
+		<item>
+			<title>frlive 315</title>
+			<link>http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/master.m3u8|X-Forwarded-For=195.186.145.47</link>
 		</item>
 	</streaminginfo>
 	
@@ -1524,6 +1047,20 @@
 			<title>HD</title>
 			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110757-f.akamaihd.net%2Fbiswebch327_1_1500%40s73718%3FprimaryToken%3D2072866669_ce3db5e088bc47ebea4aa1e39daa2d80%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C145%26r%3DEONHO%26g%3DMIUYKBGUFOOY%7CReferer%3Dhttp%3A%2F%2Fmediapm.edgesuite.net%2Fedgeflash%2Fpublic%2Fdebug%2FHDPlayer.html&amp;simpledownloader=true</link>
 		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>halima-live</title>
+			<link>rtmp://halima-live.com:1936/live2 playpath=bein1fr swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=true flashver=WIN\2013,0,0,214 pageUrl=http://www.scorpion-server.com.tn/chaine.php?cat=23&amp;id=33</link> 
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+<title>poneytelecom</title>
+<link>rtmp://195-154-220-115.rev.poneytelecom.eu/private/bes22014</link> 
+</item>
 	</streaminginfo>
 	<streaminginfo>		
 		<cname>Bein 2 FR</cname>
@@ -1862,7 +1399,53 @@
 			<link>http://212.68.33.139:8002</link>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>rts un</cname>
+		<item>
+			<title>akamaihd</title>
+			<link>http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47</link>  
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>rts deux</cname>
+		<item>
+		<title>RTS Deux</title>
+		<link>http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>LCI</cname>
+		<item>
+<title>LCI</title>
+<link>rtmp://cp84002.live.edgefcs.net:80/live playpath=eTF1-LCI-Flash-Int@15274 swfUrl=http://www.wat.tv/images/v40/PlayerWat.swf?revision=4.1.207 live=true timeout=30 swfVfy=1 pageUrl=http://www.wat.tv/images/v40/LoaderExportV3.swf</link>  
+<x-forward>91.121.98.216</x-forward> 
+</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Equipe 21</cname>
+			<item>
+					<title>L'Equipe 21</title>
+					<link>http://95.81.146.15/5687/index.m3u8</link>
+					<x-forward>91.121.98.216</x-forward>
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>HD1</cname>
+		<item>
+		<title>wat</title>
+		<link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;auth=pvtoken%3Dst%253D0000000000%257Eexp%253D9999999999%257Eacl%253D%25252f%25252a%257Edata%253DZXhwPTE0MDc3MjYzMzN%2BYWNsPSUyZip%2BZGF0YT1wdmMsc35obWFjPTFhMGE4NTk1NjBjOGRjNGVmNTIxZWQ4ZGExODc1MjRiMWYwYmJmMDUxMDFkMWU4ZDJlM2E5YmU1NjkwNjNjNWQ%253D%2521DICnlYvc%2FdmyS2FqMPqgEOeNAJFILRiYPxqjY4EHEys%253D%257Ehmac%253D6D960F9624EDF71727A75B6C360CD79C661CB96C62AF2B45286B5523B71D04D4%26hdntl%3Dexp%3D1407726333~acl%3D%252f*~data%3Dhdntl~hmac%3D90ab911ebe7c4fc6976777c6cd2874eedaec5da4128c8ed92817442dcae65afb%26hdcore%3D2.5.14%26als%3D0%2C2%2C0%2C0%2C0%2CNaN%2C0%2C0%2C0%2C19%2Cf%2C54125192%2C54064223.59%2Ct%2Cs%2CQHQOKBVWPVWK%2C2.7.6%2C19</link>
+		<regex>
+		<name>get-urlencoded</name>
+		<expres>$pyFunction:urllib.quote_plus('$doregex[get-url]'+'&amp;hdcore=2.5.14|X-Forwarded-For=77.132.237.189&amp;User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A30.0)%20Gecko%2F20100101%20Firefox%2F30.0')</expres>
+		<page></page>
+		</regex>
+		<regex>
+		<name>get-url</name>
+		<expres>(.*)</expres>
+		<page>http://www.wat.tv/get/hd1live/591997?getURL=1</page>
+		</regex>
+		</item>
+</streaminginfo>
 	
 	
 	
@@ -1870,7 +1453,7 @@
 		<cname>GULLI</cname>
 		<item>
 			<title>yacast.net</title>
-			<link>http://vipwowza.yacast.net/gulli_live/_definst_/gulli_850.stream/hasbahca.m3u8</link>
+			<link>http://vipwowza.yacast.net/gulli_live/_definst_/mp4:gulli_850/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 
@@ -2111,63 +1694,9 @@
 			<link>mms://62.215.216.130/wmtencoder/alrai350.wmv</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>LCP</cname>
-		<item>
-			<title>mms</title>
-			<link>mms://91.197.165.4/bouygues/all/channel6.wmv</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>D17</cname>
-		<item>
-			<title>mms</title>
-			<link>mms://91.197.165.4/bouygues/all/channel9.wmv</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>D8</cname>
-		<item>
-			<title>mms</title>
-			<link>mms://91.197.165.4/bouygues/all/channel16.wmv</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 0</cname>
-		<item>
-			<title> mms</title>
-			<link>mms://91.197.165.4/bouygues/all/channel5.wmv</link>
-		</item>
-	</streaminginfo>	
 		
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
-			<title>mms</title>
-			<link>mms://91.197.165.4/bouygues/all/channel1.wmv</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 3</cname>
-		<item>
-			<title>mms</title>
-			<link>mms://91.197.165.4/bouygues/all/channel2.wmv</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 4</cname>
-		<item>
-			<title>mms</title>
-			<link>mms://91.197.165.4/bouygues/all/channel3.wmv</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 5</cname>
-		<item>
-			<title>mms</title>
-			<link>mms://91.197.165.4/bouygues/all/channel4.wmv</link>
-		</item>
-	</streaminginfo>
+		
+	
 	<streaminginfo>
 		<cname>Haneen Channelvv</cname>
 		<item>
