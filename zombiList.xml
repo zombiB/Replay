@@ -1381,6 +1381,33 @@
 				</regex>
 		    </item>
 	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>low extra9 leton3</title>
+			<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+			<regex>
+			<name>get-rtmp</name>
+			<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+			<page>$doregex[get-pageurl]</page>
+			<referer>http://lag10.net/chextra9</referer>
+			</regex>
+
+			<regex>
+			<name>get-pageurl</name>
+			<expres>(http.*460).*</expres>
+			<page>$doregex[get-unpacked]</page>
+			</regex>
+
+			<regex>
+			<name>get-unpacked</name>
+			<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval.*)' ))</expres>
+			<page>http://lag10.net/chextra9</page>
+			<referer>http://lag10.net/extra9</referer>
+			</regex>
+
+		</item>
+	</streaminginfo>
 
 	<streaminginfo>
 	
