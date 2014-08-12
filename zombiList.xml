@@ -1038,7 +1038,7 @@
 		<cname>Bein 1 FR</cname>
 		<item>
 			<title>direct-stream</title>
-			<link>rtmp://cdn.direct-stream.org/liverepeat/ playpath=channnel00005a swfUrl=http://direct-stream.org/embeds/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.org/embeds/15s.php?c=franshsd&amp;vw=650&amp;=400</link>
+			<link>rtmp://cdn.direct-stream.org/liverepeat/ playpath=channnel00005a swfUrl=http://direct-stream.org/embeds/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.org/embeds/15s.php?c=franshsd&amp;vw=650&amp;=400 timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
@@ -1052,7 +1052,7 @@
 		<cname>Bein 1 FR</cname>
 		<item>
 			<title>halima-live</title>
-			<link>rtmp://halima-live.com:1936/live2 playpath=bein1fr swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=true flashver=WIN\2013,0,0,214 pageUrl=http://www.scorpion-server.com.tn/chaine.php?cat=23&amp;id=33</link> 
+			<link>rtmp://halima-live.com:1936/live2 playpath=bein1fr swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=true flashver=WIN\2013,0,0,214 pageUrl=http://www.scorpion-server.com.tn/chaine.php?cat=23&amp;id=33 timeout=20</link> 
 			</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1265,7 +1265,8 @@
 				<page>http://najmsatofficiel.blogspot.com/2014/01/feeds-nantes-lorient-on-eutelsat-7a-70e.html</page>
 				</regex>
 		</item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	<streaminginfo>
 	
 
 		<cname>BEIN SPORT 1</cname>
@@ -1298,7 +1299,7 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 2</cname>
+		<cname>BEIN SPORT 1</cname>
 	<item>
 			<title>youtube 360p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1328,7 +1329,7 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 2</cname>
+		<cname>BEIN SPORT 1</cname>
 		<item>
 			<title>youtube 720p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1358,7 +1359,98 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 2</cname>
+		<cname>BEIN SPORT 1</cname>
+		<item>
+			<title>youtube 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/You1/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 1</cname>
+	<item>
+			<title>youtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/You1/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 1</cname>
+		<item>
+			<title>youtube 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/You1/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 1</cname>
 		<item>
 			<title>youtube 480p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1394,7 +1486,7 @@
 		<item>
 			<title>private</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc1 timeout=20</link>
+			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/1.ch</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
