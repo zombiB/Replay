@@ -1150,158 +1150,8 @@
 	
 
 		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.falatna.com/neews1.htm</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>youtube 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.falatna.com/neews1.htm</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>youtube 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.falatna.com/neews1.htm</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://najmsatofficiel.blogspot.com/2014/01/feeds-nantes-lorient-on-eutelsat-7a-70e.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 1</cname>
-		<item>
-			<title>youtube 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://najmsatofficiel.blogspot.com/2014/01/feeds-nantes-lorient-on-eutelsat-7a-70e.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 1</cname>
 	<item>
-			<title>youtube 360p</title>
+			<title>livekoooora4 360p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -1331,7 +1181,7 @@
 
 		<cname>BEIN SPORT 1</cname>
 		<item>
-			<title>youtube 720p</title>
+			<title>livekoooora4 720p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -1361,7 +1211,7 @@
 
 		<cname>BEIN SPORT 1</cname>
 		<item>
-			<title>youtube 480p</title>
+			<title>wl-1 480p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -1391,7 +1241,7 @@
 
 		<cname>BEIN SPORT 1</cname>
 	<item>
-			<title>youtube 360p</title>
+			<title>wl-1 360p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -1421,7 +1271,7 @@
 
 		<cname>BEIN SPORT 1</cname>
 		<item>
-			<title>youtube 720p</title>
+			<title>wl-1 720p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -1452,7 +1302,7 @@
 
 		<cname>BEIN SPORT 1</cname>
 		<item>
-			<title>youtube 480p</title>
+			<title>livekoooora4 480p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -1480,7 +1330,7 @@
 	<streaminginfo>		
 		<cname>Bein Sport 1</cname>
 			<item>
-				<title>medium leton2</title>
+				<title>us/Live1 leton</title>
 				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
 				<regex>
 				<name>get-rtmp</name>
@@ -1495,7 +1345,43 @@
 				</regex>
 		    </item>
 	</streaminginfo>
-	
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+			<item>
+				<title>us/Live2 leton</title>
+				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://www.wl3.us/Live2/</referer>
+				</regex>
+				<regex>
+				<name>get-pageurl</name>
+				<expres>(http.*450).*</expres>
+				<page>http://www.wl3.us/Live2/</page>
+				</regex>
+		    </item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Bein Sport 1</cname>
+			<item>
+				<title>us/Live3 leton</title>
+				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://www.wl3.us/Live3/</referer>
+				</regex>
+				<regex>
+				<name>get-pageurl</name>
+				<expres>(http.*450).*</expres>
+				<page>http://www.wl3.us/Live3/</page>
+				</regex>
+		    </item>
+	</streaminginfo>
+
 	<streaminginfo>
 	
 
@@ -1661,56 +1547,7 @@
 			<link>rtmp://195.154.220.115:1935/private/jsc15 timeout=20</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
 	
-
-		<cname>BEIN SPORT 2</cname>
-		<item>
-			<title>youtube 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=AHApPUwSb0k</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 2</cname>
-		<item>
-			<title>youtube 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=AHApPUwSb0k</page>
-				</regex>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 	<cname>Abu Dhabi Sports 1</cname>
