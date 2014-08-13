@@ -1037,17 +1037,11 @@
 	<streaminginfo>		
 		<cname>Bein 1 FR</cname>
 		<item>
-			<title>direct-stream</title>
+			<title>live events</title>
 			<link>rtmp://cdn.direct-stream.org/liverepeat/ playpath=channnel00005a swfUrl=http://direct-stream.org/embeds/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.org/embeds/15s.php?c=franshsd&amp;vw=650&amp;=400 timeout=20</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>HD</title>
-			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110757-f.akamaihd.net%2Fbiswebch327_1_1500%40s73718%3FprimaryToken%3D2072866669_ce3db5e088bc47ebea4aa1e39daa2d80%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C145%26r%3DEONHO%26g%3DMIUYKBGUFOOY%7CReferer%3Dhttp%3A%2F%2Fmediapm.edgesuite.net%2Fedgeflash%2Fpublic%2Fdebug%2FHDPlayer.html&amp;simpledownloader=true</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein 1 FR</cname>
 		<item>
@@ -1062,13 +1056,7 @@
 <link>rtmp://195-154-220-115.rev.poneytelecom.eu/private/bes22014</link> 
 </item>
 	</streaminginfo>
-	<streaminginfo>		
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>HD</title>
-			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2F110757-f.akamaihd.net%2Fbiswebch328_1_1500%40s73719%3FprimaryToken%3D2072867071_953e239e32488aeaf569c3eb2cc2ae20%26v%3D3.4.0%26fp%3DWIN%252014%2C0%2C0%2C125%26r%3DJHPCF%26g%3DDFEDYQMFLSJW%7CReferer%3Dhttp%3A%2F%2Fmediapm.edgesuite.net%2Fedgeflash%2Fpublic%2Fdebug%2FHDPlayer.html%0A&amp;simpledownloader=true</link>
-		</item>
-	</streaminginfo>
+	
 	
 	<streaminginfo>		
 		<cname>Tele Sports</cname>
@@ -1149,7 +1137,7 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 1</cname>
+		<cname>Live Event</cname>
 	<item>
 			<title>livekoooora4 360p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1179,7 +1167,7 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 1</cname>
+		<cname>Live Event</cname>
 		<item>
 			<title>livekoooora4 720p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1209,7 +1197,7 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 1</cname>
+		<cname>Live Event</cname>
 		<item>
 			<title>wl-1 480p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1239,7 +1227,7 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 1</cname>
+		<cname>Live Event</cname>
 	<item>
 			<title>wl-1 360p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1269,7 +1257,7 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 1</cname>
+		<cname>Live Event</cname>
 		<item>
 			<title>wl-1 720p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1300,7 +1288,7 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 1</cname>
+		<cname>Live Event</cname>
 		<item>
 			<title>livekoooora4 480p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1328,7 +1316,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Live Event</cname>
 			<item>
 				<title>us/Live1 leton</title>
 				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
@@ -1346,7 +1334,7 @@
 		    </item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Live Event</cname>
 			<item>
 				<title>us/Live2 leton</title>
 				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
@@ -1364,7 +1352,7 @@
 		    </item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
+		<cname>Live Event</cname>
 			<item>
 				<title>us/Live3 leton</title>
 				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
@@ -1415,9 +1403,9 @@
 		<cname>BEIN SPORT 1</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/1.ch</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=20 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1426,9 +1414,9 @@
 		<cname>BEIN SPORT 2</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc2 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=21 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1437,9 +1425,9 @@
 		<cname>BEIN SPORT 3</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc3 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=23 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1448,9 +1436,9 @@
 		<cname>BEIN SPORT 4</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc4 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=24 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1459,9 +1447,9 @@
 		<cname>BEIN SPORT 5</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc5 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=25 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1470,9 +1458,9 @@
 		<cname>BEIN SPORT 6</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc6 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=26 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1481,9 +1469,9 @@
 		<cname>BEIN SPORT 7</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc7 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=27 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1492,9 +1480,9 @@
 		<cname>BEIN SPORT 8</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc8 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=28 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1503,9 +1491,9 @@
 		<cname>BEIN SPORT 9</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc9 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=29 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1514,9 +1502,9 @@
 		<cname>BEIN SPORT 10</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc10 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZHtimeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1525,9 +1513,9 @@
 		<cname>BEIN SPORT 11</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc11 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1536,9 +1524,9 @@
 		<cname>BEIN SPORT 12</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc12 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1547,9 +1535,9 @@
 		<cname>BEIN SPORT 13</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc13 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=33 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1558,9 +1546,9 @@
 		<cname>BEIN SPORT 14</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc14 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=34 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH  timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1569,9 +1557,9 @@
 		<cname>BEIN SPORT 15</cname>
 
 		<item>
-			<title>private</title>
+			<title>filotv</title>
 
-			<link>rtmp://195.154.220.115:1935/private/jsc15 timeout=20</link>
+			<link>rtmp://93.174.95.71:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -1927,9 +1915,9 @@
 	<streaminginfo>
 	
 
-		<cname>MBC PRO SPORTS</cname>
+		<cname>Live Event</cname>
 		<item>
-			<title>pro2 360p</title>
+			<title>us/Live5/ 360p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -1957,9 +1945,9 @@
 	<streaminginfo>
 	
 
-		<cname>MBC PRO SPORTS</cname>
+		<cname>Live Event</cname>
 		<item>
-			<title>pro2 720p</title>
+			<title>us/Live5/ 720p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -1987,9 +1975,9 @@
 	<streaminginfo>
 	
 
-		<cname>MBC PRO SPORTS</cname>
+		<cname>Live Event</cname>
 		<item>
-			<title>pro2 480p</title>
+			<title>us/Live5/ 480p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -2015,9 +2003,9 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>MBC PRO SPORTS</cname>
+		<cname>Live Event</cname>
 		<item>
-			<title>ustream</title>
+			<title>ustream2</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -2029,9 +2017,9 @@
 	<streaminginfo>
 	
 
-		<cname>MBC PRO SPORTS</cname>
+		<cname>Live Event</cname>
 		<item>
-			<title>youtube 360p</title>
+			<title>us/Live6 360p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -2059,9 +2047,9 @@
 	<streaminginfo>
 	
 
-		<cname>MBC PRO SPORTS</cname>
+		<cname>Live Event</cname>
 		<item>
-			<title>youtube 720p</title>
+			<title>us/Live6 720p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -2089,9 +2077,9 @@
 	<streaminginfo>
 	
 
-		<cname>MBC PRO SPORTS</cname>
+		<cname>Live Event</cname>
 		<item>
-			<title>youtube 480p</title>
+			<title>us/Live6 480p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -2117,9 +2105,9 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Live Event</cname>
 		<item>
-			<title>ustream</title>
+			<title>live720</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
