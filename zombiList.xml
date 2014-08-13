@@ -1137,7 +1137,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 	<item>
 			<title>livekoooora4 360p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1167,7 +1167,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>livekoooora4 720p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1197,7 +1197,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>wl-1 480p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1227,7 +1227,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 	<item>
 			<title>wl-1 360p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1257,7 +1257,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>wl-1 720p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1288,7 +1288,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>livekoooora4 480p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1316,7 +1316,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 			<item>
 				<title>us/Live1 leton</title>
 				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
@@ -1334,7 +1334,7 @@
 		    </item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 			<item>
 				<title>us/Live2 leton</title>
 				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
@@ -1352,7 +1352,7 @@
 		    </item>
 	</streaminginfo>
 	<streaminginfo>		
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 			<item>
 				<title>us/Live3 leton</title>
 				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
@@ -1915,7 +1915,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>us/Live5/ 360p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1945,7 +1945,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>us/Live5/ 720p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -1975,7 +1975,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>us/Live5/ 480p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -2003,7 +2003,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>ustream2</title>
 				<link>$doregex[get-link]</link>
@@ -2017,7 +2017,187 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
+		<item>
+			<title>us/Live8 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/Live8/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Event</cname>
+		<item>
+			<title>us/Live8 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/Live8/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Event</cname>
+		<item>
+			<title>us/Live8 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/Live8/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Event</cname>
+		<item>
+			<title>us/Live7 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/Live7/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Event</cname>
+		<item>
+			<title>us/Live7 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/Live7/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Event</cname>
+		<item>
+			<title>us/Live7 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink].replace('?feature=player_embedded','')</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.wl3.us/Live7/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Event</cname>
 		<item>
 			<title>us/Live6 360p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -2047,7 +2227,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>us/Live6 720p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -2077,7 +2257,7 @@
 	<streaminginfo>
 	
 
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>us/Live6 480p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -2105,7 +2285,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Live Event</cname>
+		<cname>.Live Event</cname>
 		<item>
 			<title>live720</title>
 				<link>$doregex[get-link]</link>
