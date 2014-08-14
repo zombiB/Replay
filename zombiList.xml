@@ -55,7 +55,13 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>
+		<cname>Canal Cinema</cname>
+		<item>
+			<title>halima-live</title>
+			<link>rtmp://halima-live.com:1936/live2 playpath=canal+fr2 swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=true flashver=WIN/2013,0,0,214 pageUrl=http://www.scorpion-server.com.tn/chaine.php?cat=23&amp;id=33 timeout=15</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Canal plus</cname>
 		<item>
@@ -66,15 +72,15 @@
 	<streaminginfo>
 		<cname>Canal plus</cname>
 		<item>
-			<title>myfrtv</title>
+			<title>CANAL+</title>
 			<link>http://max.myfrtv.com/8201/m3u8/8201.m3u8$doregex[get-token]</link>
-				<regex>
-				<name>get-token</name>
-				<expres>(.*)</expres>
-				<page>http://myfrtv.com/channels/new-file/</page>
-				<x-forward>205.236.221.231</x-forward>
-				</regex>
-		</item>
+			<regex>
+			<name>get-token</name>
+			<expres>(.*)</expres>
+			<page>http://myfrtv.com/channels/new-file/</page>
+			<x-forward>205.236.221.231</x-forward>
+			</regex>
+        </item>
 	</streaminginfo>
 	
 	
@@ -952,43 +958,36 @@
 	<streaminginfo>
 		<cname>Sky Sports 1</cname>
 		<item>
-			<title>flashtv</title>
-			<link>rtmp://31.220.0.133:1935/live playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>flashtv</title>
-			<link>rtmp://31.220.0.133:1935/live playpath=ssnx swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 2</cname>
 		<item>
 			<title>flashtv</title>
-			<link>rtmp://31.220.0.133:1935/live playpath=sky2x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 3</cname>
 		<item>
 			<title>flashtv</title>
-			<link>rtmp://31.220.0.133:1935/live playpath=sky3x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
 		<cname>Sky Sports 4</cname>
 		<item>
 			<title>flashtv</title>
-			<link>rtmp://31.220.0.133:1935/live playpath=sky4x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Sky Sports F1</cname>
 		<item>
 			<title>flashtv</title>
-			<link>rtmp://31.220.0.133:1935/live playpath=skyf1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
+			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s6 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -1137,6 +1136,20 @@
 		<item>
 			<title>halima-live</title>
 			<link>rtmp://halima-live.com:1936/live2 playpath=bein1fr swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=true flashver=WIN\2013,0,0,214 pageUrl=http://www.scorpion-server.com.tn/chaine.php?cat=23&amp;id=33 timeout=20</link> 
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-b1fr pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link> 
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-b2fr pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link> 
 			</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1721,6 +1734,13 @@
 			</item>
 	</streaminginfo>
 	<streaminginfo>
+		<cname>Equipe 21</cname>
+			<item>
+					<title>L'Equipe 21</title>
+					<link>rtmp://vipwowza.yacast.net:1935/equipetv_live21/live21/ playpath=manifest.f4m live=1</link>
+			</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>HD1</cname>
 		<item>
 		<title>wat</title>
@@ -1739,7 +1759,13 @@
 </streaminginfo>
 	
 	
-	
+	<streaminginfo>
+		<cname>CN FR</cname>
+		<item>
+			<title>index</title>
+			<link>http://pebbles121-lh.akamaihd.net/i/cn_1@137751/index_1300_av-p.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&amp;X-Forwarded-For=146.159.95.38</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>GULLI</cname>
 		<item>
