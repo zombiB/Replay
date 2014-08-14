@@ -488,7 +488,97 @@
 				</regex>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>NATIONAL GEO FR</cname>
+		<item>
+			<title>stream4free m3u8</title>
+			<link>http://195.154.188.161/hls/nationalgeo.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NATIONAL GEO FR</cname>
+		<item>
+			<title>stream4free</title>
+			<link>rtmp://195.154.188.161/live playpath=nationalgeo swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/national-geographic</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>UNIVERS</cname>
+		<item>
+			<title>stream4free m3u8</title>
+			<link>http://195.154.188.161/hls/univers.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>UNIVERS</cname>
+		<item>
+			<title>stream4free</title>
+			<link>rtmp://195.154.188.161/live playpath=univers swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/l-univers-et-ses-mysteres</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Finance</cname>
+		<item>
+			<title>stream4free</title>
+			<link>rtmp://195.154.188.161/live playpath=finance swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/finance-et-mondialisme</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Histoire</cname>
+		<item>
+			<title>stream4free</title>
+			<link>rtmp://195.154.188.161/live playpath=histoire swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/histoire</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Histoire</cname>
+		<item>
+			<title>stream4free m3u8</title>
+			<link>http://195.154.188.161/hls/histoire.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Science</cname>
+		<item>
+			<title>stream4free m3u8</title>
+			<link>http://195.154.188.161/hls/science.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Science</cname>
+		<item>
+			<title>stream4free</title>
+			<link>rtmp://195.154.188.161/live playpath=science swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/tv-sciences</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MAN VS WILD</cname>
+		<item>
+			<title>stream4free</title>
+			<link>rtmp://195.154.188.161/live playpath=manwild swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/man-vs-wild</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nature</cname>
+		<item>
+			<title>stream4free m3u8</title>
+			<link>http://195.154.188.161/hls/nature.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Nature</cname>
+		<item>
+			<title>stream4free</title>
+			<link>rtmp://195.154.188.161/live playpath=nature swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/nature-hd</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TVReplay</cname>
+		<item>
+			<title>stream4free</title>
+			<link>rtmp://195.154.188.161/live playpath=tvreplay swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/tv-replay</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
