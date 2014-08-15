@@ -2599,6 +2599,262 @@
 				<link>rtmpe://46.246.124.27:1935/live playpath=xsbein15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>smil</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france2.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 3</cname>
+		<item>
+			<title>smil</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france3.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 4</cname>
+		<item>
+			<title>smil</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france4.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 5</cname>
+		<item>
+			<title>smil</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france5.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 0</cname>
+		<item>
+			<title>smil</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/franceo.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP1</cname>
+		<item>
+			<title>m3u8</title>
+
+				<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP2</cname>
+		<item>
+			<title>m3u8</title>
+
+				<link>http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP3</cname>
+		<item>
+			<title>m3u8</title>
+
+				<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP4</cname>
+		<item>
+			<title>m3u8</title>
+
+				<link>http://mbcprosports04-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>Cine polar</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/cinepolar.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>cinefx</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/cinefx.smil/playlist.m3u8 </link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>escales</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/escales.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>action</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/action.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>encyclo</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/encyclo.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>luckyjack</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/luckyjack.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>abmoteurs</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/abmoteurs.smil/playlist.m3u8 </link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>Animaux</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/animaux.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>chasseetpeche</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/chasseetpeche.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>AB1</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/ab1.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>RTL 9</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/rtl9.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bis</cname>
+		<item>
+			<title>Mangas</title>
+
+				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/mangas.smil/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 1</cname>
+
+		<item>
+			<title>best</title>
+
+			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/18.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 2</cname>
+
+		<item>
+			<title>best</title>
+
+			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/46.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 4</cname>
+
+		<item>
+			<title>best</title>
+
+			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/47.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>Sky Sports 1</cname>
+
+		<item>
+			<title>best</title>
+
+			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/33.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>Sky Sports 2</cname>
+
+		<item>
+			<title>best</title>
+
+			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/34.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>Sky Sports 3</cname>
+
+		<item>
+			<title>best</title>
+
+			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/35.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>Sky Sports 4</cname>
+
+		<item>
+			<title>best</title>
+
+			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/36.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>Bein Sport News</cname>
+
+		<item>
+			<title>sd</title>
+
+			<link>http://149.255.39.122/aasd/8817/index.m3u8</link>
+		</item>
+	</streaminginfo>
 
 	
 
