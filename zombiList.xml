@@ -2829,6 +2829,42 @@
 			<link>http://149.255.39.122/aasd/8817/index.m3u8</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+			<item>
+				<title>yariga leton</title>
+				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://www.wl3.us/Live2/</referer>
+				</regex>
+				<regex>
+				<name>get-pageurl</name>
+				<expres>(http.*450).*</expres>
+				<page>http://yariga.net/tv/ch1</page>
+				</regex>
+		    </item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+			<item>
+				<title>live720 leton</title>
+				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://www.wl3.us/Live2/</referer>
+				</regex>
+				<regex>
+				<name>get-pageurl</name>
+				<expres>(http.*450).*</expres>
+				<page>http://www.livehd720.com/</page>
+				</regex>
+		    </item>
+	</streaminginfo>
 
 	
 
