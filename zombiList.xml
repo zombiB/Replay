@@ -1542,7 +1542,6 @@
 				</regex>
 		</item>
 	</streaminginfo>
-
 	<streaminginfo>
 	
 
@@ -1552,6 +1551,51 @@
 			<title>filotv</title>
 
 			<link>rtmp://93.174.95.71:443/liverepeater playpath=20 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 1</cname>
+
+		<item>
+			<title>fannansat</title>
+
+			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/1.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 2</cname>
+
+		<item>
+			<title>fannansat</title>
+
+			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/2.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 3</cname>
+
+		<item>
+			<title>fannansat</title>
+
+			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/3.ch<link>
+			</item>
+	</streaminginfo>
+
+	<streaminginfo>
+	
+
+		<cname>BEIN SPORT 4</cname>
+
+		<item>
+			<title>fannansat</title>
+
+			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/4.ch</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2551,6 +2595,65 @@
 				<page>http://www.livehd720.com/</page>
 				</regex>
 		    </item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+		<item>
+			<title>live720 yt 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.livehd720.com/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Event</cname>
+		<item>
+			<title>live720 yt 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.livehd720.com/</page>
+				</regex>
+				
+		</item>
 	</streaminginfo>
 
 	
