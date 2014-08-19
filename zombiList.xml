@@ -1578,18 +1578,6 @@
 	<streaminginfo>
 	
 
-		<cname>BEIN SPORT 3</cname>
-
-		<item>
-			<title>fannansat</title>
-
-			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/3.ch<link>
-			</item>
-	</streaminginfo>
-
-	<streaminginfo>
-	
-
 		<cname>BEIN SPORT 4</cname>
 
 		<item>
@@ -1598,6 +1586,8 @@
 			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/4.ch</link>
 		</item>
 	</streaminginfo>
+
+	
 	<streaminginfo>
 	
 
@@ -2625,9 +2615,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
+			<cname>.Live Event</cname>
 		<item>
 			<title>live720 yt 720p</title>
 			<link>$doregex[getQualityLink]</link>
