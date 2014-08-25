@@ -2356,7 +2356,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://iraqtube.tv/barca.html</page>
+				<page>http://mafatek.com/tv3/</page>
 				</regex>
 		</item>
 	</streaminginfo>
