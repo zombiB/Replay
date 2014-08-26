@@ -991,12 +991,6 @@
 		</item>
 	</streaminginfo>
 
-	
-	
-
-	
-
-	
 	<streaminginfo>
 		<cname>sunnah TVvv</cname>
 		<item>
@@ -2000,7 +1994,7 @@
 		</item>
 	</streaminginfo>
 	
-	
+	<streaminginfo>
 
 		<cname>Sky Sports 1</cname>
 
@@ -2871,6 +2865,7 @@
 				</regex>
 		</item>
 	</streaminginfo>
+	
 
 	
 
