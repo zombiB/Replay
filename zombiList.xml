@@ -1336,33 +1336,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>		
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>low extra9 leton3</title>
-			<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-			<regex>
-			<name>get-rtmp</name>
-			<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-			<page>$doregex[get-pageurl]</page>
-			<referer>http://lag10.net/chextra9</referer>
-			</regex>
-
-			<regex>
-			<name>get-pageurl</name>
-			<expres>(http.*460).*</expres>
-			<page>$doregex[get-unpacked]</page>
-			</regex>
-
-			<regex>
-			<name>get-unpacked</name>
-			<expres>$pyFunction:javascriptUnEscape(get_unpacked(page_data,'(eval.*)' ))</expres>
-			<page>http://lag10.net/chextra9</page>
-			<referer>http://lag10.net/extra9</referer>
-			</regex>
-
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 	
 
@@ -1423,206 +1397,7 @@
 				</regex>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
 	
-
-		<cname>BEIN SPORT 1</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=20 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 1</cname>
-
-		<item>
-			<title>fannansat</title>
-
-			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/1.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 2</cname>
-
-		<item>
-			<title>fannansat</title>
-
-			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/2.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 4</cname>
-
-		<item>
-			<title>fannansat</title>
-
-			<link>http://iptvfannansat.dyndns.tv/fannansat10/7885555/4.ch</link>
-		</item>
-	</streaminginfo>
-
-	
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 2</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=21 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 3</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=23 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 4</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=24 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 5</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=25 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 6</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=26 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 7</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=27 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 8</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=28 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 9</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=29 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 10</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZHtimeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 11</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 12</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 13</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=33 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 14</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=34 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH  timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 15</cname>
-
-		<item>
-			<title>filotv</title>
-
-			<link>rtmp://93.174.95.71:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=20&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
 	
 	
 	<streaminginfo>
@@ -2224,40 +1999,7 @@
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/mangas.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
 	
-
-		<cname>BEIN SPORT 1</cname>
-
-		<item>
-			<title>best</title>
-
-			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/72.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 2</cname>
-
-		<item>
-			<title>best</title>
-
-			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/46.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>BEIN SPORT 4</cname>
-
-		<item>
-			<title>best</title>
-
-			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/47.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
 	
 
 		<cname>Sky Sports 1</cname>
@@ -2869,7 +2611,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2877,7 +2619,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2885,7 +2627,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc3 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc3 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2893,7 +2635,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc4 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc4 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2901,7 +2643,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc5 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc5 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2909,7 +2651,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc6 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc6 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2917,7 +2659,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc7 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc7 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2925,7 +2667,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc8 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc8 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2933,7 +2675,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc9 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc9 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2941,7 +2683,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc10 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc10 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2949,7 +2691,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc11 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc11 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2957,7 +2699,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc12 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc12 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2965,7 +2707,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2973,7 +2715,7 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2981,7 +2723,127 @@
 		<item>
 			<title>hdcast</title>
 
-				<link>rtmpe://46.246.124.29:1935/live playpath=jsc15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&amp;vw=800&amp;vh=500&amp;domain token=#yw%tt#w@kku timeout=15</link>
+				<link>rtmpe://46.246.124.29:1935/live playpath=jsc15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=20 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=23 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=24 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=25 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=26 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=27 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=28 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=29 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=33 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=34 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>xxcast</title>
+
+				<link>rtmp://89.248.171.97:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
