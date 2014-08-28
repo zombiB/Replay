@@ -1,5 +1,17 @@
 <streamingInfos>
-	
+	<streaminginfo>
+		<cname>Sport365</cname>
+		<item>
+			<title>creacast</title>
+			<link>http://max.myfrtv.com/1411/m3u8/1411.m3u8$doregex[get-token]</link>
+			<regex>
+			<name>get-token</name>
+			<expres>(.*)</expres>
+			<page>http://myfrtv.com/channels/new-file/</page>
+			<x-forward>205.236.221.231</x-forward>
+			</regex>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Weo</cname>
 		<item>
@@ -14,44 +26,52 @@
 			<link>http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/index_400_av-p.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>TV 5 MONDE</cname>
+		<item>
+			<title>m3u8</title>
+			<link>http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8</link> 
+		</item>
+	</streaminginfo>
 	
 	
 
 	<streaminginfo>
-<cname>FRANCE 2</cname>
-<item>
-        <title>Low Playtv GEOBLOCKED</title>
-        <link>http://188.165.101.226:80/mobile/_definst_/canal-atlas_300/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
-        <regex>
-        <name>key</name>
-        <expres>sessionid=([^'"]*)</expres>
-        <page>http://m.playtv.fr/api/channels/france-2/?preset=with_programme%2Cwith_streams</page>
-        <referer></referer>
-        </regex>
-</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>FRANCE 2</cname>
-<item><title>High Playtv GEOBLOCKED</title>
-<link>$doregex[geturl]</link>
-     <regex>
-        <name>geturl</name>
-        <expres>$pyFunction:playtvfr.get_url('$doregex[getplayerid]')</expres>
-        <page></page>
-    </regex>    
-    <regex>
-        <name>getplayerid</name>
-        <expres>data-alias="france-2" data-playerid="(.*?)"</expres>
-        <page>http://playtv.fr/television/</page>
-    </regex>    
-</item>
-</streaminginfo>
+	<cname>FRANCE 2</cname>
+		<item>
+			<title>Low Playtv GEOBLOCKED</title>
+			<link>http://188.165.101.226:80/mobile/_definst_/canal-atlas_300/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
+			<regex>
+			<name>key</name>
+			<expres>sessionid=([^'"]*)</expres>
+			<page>http://m.playtv.fr/api/channels/france-2/?preset=with_programme%2Cwith_streams</page>
+			<referer></referer>
+			</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+			<item>
+			<title>High Playtv GEOBLOCKED</title>
+		<link>$doregex[geturl]</link>
+		<regex>
+			<name>geturl</name>
+			<expres>$pyFunction:playtvfr.get_url('$doregex[getplayerid]')</expres>
+			<page></page>
+		</regex>    
+		<regex>
+			<name>getplayerid</name>
+			<expres>data-alias="france-2" data-playerid="(.*?)"</expres>
+			<page>http://playtv.fr/television/</page>
+		</regex>    
+	</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Ajyal Network</cname>
 		<item>
-			<title>HD</title>
-			<link>rtmp://46.43.64.162/arnmada//livestream2 timeout=15</link>
+			<title>radio</title>
+			<link>http://streamer.mada.ps:8008/AJYAL</link>
 		</item>
 	</streaminginfo>
 	
@@ -89,7 +109,7 @@
 		<cname>amgad</cname>
 		<item>
 			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dkG_vwIlPPI</link>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tT9P86JT4qA</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -639,7 +659,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>TV 5 MONDEvv</cname>
+		<cname>TV 5 MONDE</cname>
 		<item>
 			<title>maiyo</title>
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_tv5monde</link>
@@ -678,6 +698,13 @@
 		<item>
 			<title>maiyo</title>
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_euronews</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Euronews fr</cname>
+		<item>
+			<title>m3u8</title>
+			<link>http://hd1.lsops.net/live/euronews_fr_340/hasbahca.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -778,8 +805,13 @@
 			<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d17_aka-lh.akamaihd.net/z/d17_hds@182614/manifest.f4m?hdcore=2.11.3&amp;g=RKZVIOALHRKW&amp; als=0,0.1,0,3,0,NaN,0,0,0,97,f,11173574,11173584.2 9,t,u,RKZVIOALHRKW,2.11.3,97&amp;hdcore=2.11.3</link> 
 		</item>
 	</streaminginfo>
-
-
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>wat</title>
+			<link>http://smooth.wat.tv/DVR_ETF1/source/dvr.m3u8</link> 
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
@@ -1140,6 +1172,13 @@
 			</item>
 	</streaminginfo>
 	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.3:1935/live swfUrl=http://hdcast.org/j2/jwplayer.flash.swf pageUrl=http://hdcast.org playpath=w-sp.tv-b1fr token=#yw%tt#w@kku swfVfy=true live=true timeout=20</link> 
+			</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>Bein 2 FR</cname>
 		<item>
 			<title>hdcast</title>
@@ -1149,9 +1188,16 @@
 	<streaminginfo>
 		<cname>Bein 2 FR</cname>
 		<item>
-<title>poneytelecom</title>
-<link>rtmp://195-154-220-115.rev.poneytelecom.eu/private/bes22014</link> 
-</item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.3:1935/live swfUrl=http://hdcast.org/j2/jwplayer.flash.swf pageUrl=http://hdcast.org playpath=w-sp.tv-b2fr token=#yw%tt#w@kku swfVfy=true live=true timeout=20</link> 
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>poneytelecom</title>
+			<link>rtmp://195-154-220-115.rev.poneytelecom.eu/private/bes22014</link> 
+		</item>
 	</streaminginfo>
 	
 	
@@ -1233,164 +1279,8 @@
 	</streaminginfo>
 	
 	
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>live720 ustream</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18620839/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>live720 ustream2</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18710300/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>lag10 ustream2</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/118275186/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>tb3live ustream2</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18275186/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>tb3live ustream</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777866/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>tb3live ustream</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777879/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>tb3live ustream</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777866/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>tb3live ustream</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777879/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
 	
 	
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-	<item>
-			<title>livekoooora4 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livekoooora.net/channel4.php</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>livekoooora4 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livekoooora.net/channel4.php</page>
-				</regex>
-		</item>
-	</streaminginfo>
 	
 	
 	
@@ -1447,10 +1337,10 @@
 	<streaminginfo>
 		<cname>LCI</cname>
 		<item>
-<title>LCI</title>
-<link>rtmp://cp84002.live.edgefcs.net:80/live playpath=eTF1-LCI-Flash-Int@15274 swfUrl=http://www.wat.tv/images/v40/PlayerWat.swf?revision=4.1.207 live=true timeout=30 swfVfy=1 pageUrl=http://www.wat.tv/images/v40/LoaderExportV3.swf</link>  
-<x-forward>91.121.98.216</x-forward> 
-</item>
+			<title>LCI</title>
+			<link>rtmp://cp84002.live.edgefcs.net:80/live playpath=eTF1-LCI-Flash-Int@15274 swfUrl=http://www.wat.tv/images/v40/PlayerWat.swf?revision=4.1.207 live=true timeout=30 swfVfy=1 pageUrl=http://www.wat.tv/images/v40/LoaderExportV3.swf</link>  
+			<x-forward>91.121.98.216</x-forward> 
+		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Equipe 21</cname>
@@ -1483,7 +1373,7 @@
 		<page>http://www.wat.tv/get/hd1live/591997?getURL=1</page>
 		</regex>
 		</item>
-</streaminginfo>
+	</streaminginfo>
 	
 	
 	<streaminginfo>
@@ -1535,7 +1425,7 @@
 		</item>
 	</streaminginfo>
 	
-		<streaminginfo>
+	<streaminginfo>
 		<cname>Nile Culture</cname>
 		<item>
 			<title>livestreaming</title>
@@ -1673,9 +1563,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-
 	<streaminginfo>
 		<cname>Wesal Tv</cname>
 		<item>
@@ -1836,7 +1723,7 @@
 	<streaminginfo>
 		<cname>FRANCE 3</cname>
 		<item>
-			<title>smil</title>
+				<title>smil</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france3.smil/playlist.m3u8</link>
 		</item>
@@ -1897,98 +1784,99 @@
 				<link>http://mbcprosports04-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>CinePolar</cname>
 		<item>
-			<title>Cine polar</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/cinepolar.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>CineFx</cname>
 		<item>
-			<title>cinefx</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/cinefx.smil/playlist.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>Escales</cname>
 		<item>
-			<title>escales</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/escales.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>Action</cname>
 		<item>
-			<title>action</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/action.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>Encyclo</cname>
 		<item>
-			<title>encyclo</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/encyclo.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>luckyjack</cname>
 		<item>
-			<title>luckyjack</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/luckyjack.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>ABMoteurs</cname>
 		<item>
-			<title>abmoteurs</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/abmoteurs.smil/playlist.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>Animaux</cname>
 		<item>
-			<title>Animaux</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/animaux.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>Chasse_et_peche</cname>
 		<item>
-			<title>chasseetpeche</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/chasseetpeche.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>AB1</cname>
 		<item>
-			<title>AB1</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/ab1.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>RTL 9</cname>
 		<item>
-			<title>RTL 9</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/rtl9.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bis</cname>
+		<cname>Mangas</cname>
 		<item>
-			<title>Mangas</title>
+			<title>Bis</title>
 
 				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/mangas.smil/playlist.m3u8</link>
 		</item>
@@ -2048,558 +1936,7 @@
 			<link>http://149.255.39.122/aasd/8817/index.m3u8</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>		
-		<cname>.Live Event</cname>
-			<item>
-				<title>yariga leton</title>
-				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://www.wl3.us/Live2/</referer>
-				</regex>
-				<regex>
-				<name>get-pageurl</name>
-				<expres>(http.*450).*</expres>
-				<page>http://yariga.net/tv/ch1</page>
-				</regex>
-		    </item>
-	</streaminginfo>
-	<streaminginfo>
 	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>iraqtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/tv3/</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>iraqtube 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.brod-send.com/sport/</page>
-				</regex>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>@Tab3live 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/fa1/</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>@Tab3live  720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/fa1/</page>
-				</regex>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>@Tab3live 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/fa2/</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>@Tab3live  720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/fa2/</page>
-				</regex>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>mailomedia 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mailomedia.com/live/youtube/</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>mailomedia 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mailomedia.com/live/youtube/</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>mailomedia 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mailomedia.com/live/youtube/</page>
-				</regex>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>mdjs 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.mdjs.tk/2014/08/720p.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>mdjs 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.mdjs.tk/2014/08/720p.html</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>mdjs 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.mdjs.tk/2014/08/720p.html</page>
-				</regex>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>Chahidlive 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://capifar.blogspot.com/2014/08/720p.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>Chahidlive 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://capifar.blogspot.com/2014/08/720p.html</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-<streaminginfo>
-	
-
-		<cname>.Live Event</cname>
-		<item>
-			<title>Chahidlive 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://capifar.blogspot.com/2014/08/720p.html</page>
-				</regex>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>.Live Event</cname>
-			<item>
-				<title>live720 leton</title>
-				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://www.wl3.us/Live2/</referer>
-				</regex>
-				<regex>
-				<name>get-pageurl</name>
-				<expres>(http.*450).*</expres>
-				<page>http://www.livehd720.com/</page>
-				</regex>
-		    </item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>.Live Event</cname>
-		<item>
-			<title>live720 yt 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livehd720.com/</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-			<cname>.Live Event</cname>
-		<item>
-			<title>live720 yt 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livehd720.com/</page>
-				</regex>
-				
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
@@ -2960,10 +2297,145 @@
 				<link>rtmp://89.248.171.97:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
+	
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+			<item>
+				<title>yariga leton</title>
+				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://www.wl3.us/Live2/</referer>
+				</regex>
+				<regex>
+				<name>get-pageurl</name>
+				<expres>(http.*450).*</expres>
+				<page>http://yariga.net/tv/ch1</page>
+				</regex>
+		    </item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+			<item>
+				<title>live720 leton</title>
+				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://www.wl3.us/Live2/</referer>
+				</regex>
+				<regex>
+				<name>get-pageurl</name>
+				<expres>(http.*450).*</expres>
+				<page>http://www.livehd720.com/</page>
+				</regex>
+		    </item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>live720_2</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18710300/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>live720_1</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18620839/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>lag10_2</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/118275186/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>tb3live_2</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18275186/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>tb3live_1</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777866/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>tb3live_3</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777879/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>tb3live_4</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777866/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>tb3live_5</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777879/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
 	<streaminginfo>
 	
 
-		<cname>.Live Event</cname>
+		<cname>.Live Youtube</cname>
 		<item>
 			<title>ENGLISH 360p</title>
 			<link>$doregex[getQualityLink]</link>
@@ -2983,6 +2455,576 @@
 				<expres>hlsvp": "(.*?)"</expres>
 				<page>https://www.youtube.com/watch?v=gZbAL896dy8</page>
 				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>livekoooora 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.livekoooora.net/channel4.php</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>livekoooora 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+			<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+			</regex>
+			<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+			</regex>
+			<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+			</regex>
+			<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.livekoooora.net/channel4.php</page>
+			</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>iraqtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://mafatek.com/tv3/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>iraqtube 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.brod-send.com/sport/</page>
+				</regex>
+				
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>@Tab3live 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://mafatek.com/fa1/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>@Tab3live  720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://mafatek.com/fa1/</page>
+				</regex>
+				
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>@Tab3live 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://mafatek.com/fa2/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>@Tab3live  720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://mafatek.com/fa2/</page>
+				</regex>
+				
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>mailomedia 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://mailomedia.com/live/youtube/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>mailomedia 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://mailomedia.com/live/youtube/</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>mailomedia 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://mailomedia.com/live/youtube/</page>
+				</regex>
+				
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>mdjs 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.mdjs.tk/2014/08/720p.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>mdjs 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.mdjs.tk/2014/08/720p.html</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>mdjs 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.mdjs.tk/2014/08/720p.html</page>
+				</regex>
+				
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>Chahidlive 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://capifar.blogspot.com/2014/08/720p.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>Chahidlive 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://capifar.blogspot.com/2014/08/720p.html</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>Chahidlive 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://capifar.blogspot.com/2014/08/720p.html</page>
+				</regex>
+				
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>live720  360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.livehd720.com/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+			<cname>.Live Youtube</cname>
+		<item>
+			<title>live720 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://www.livehd720.com/</page>
+				</regex>
+				
 		</item>
 	</streaminginfo>
 	
