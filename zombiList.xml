@@ -3076,6 +3076,24 @@
 				</regex>
 		    </item>
 	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+			<item>
+				<title>livekoooora leton</title>
+				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
+				<regex>
+				<name>get-rtmp</name>
+				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
+				<page>$doregex[get-pageurl]</page>
+				<referer>http://www.wl3.us/Live2/</referer>
+				</regex>
+				<regex>
+				<name>get-pageurl</name>
+				<expres>(http.*450).*</expres>
+				<page>http://livekoooora.net/live.php</page>
+				</regex>
+		    </item>
+	</streaminginfo>
 	
 	<streaminginfo>		
 		<cname>.Live Event</cname>
@@ -3297,6 +3315,7 @@
 			</regex>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 	
 
