@@ -704,7 +704,7 @@
 		<cname>Canal plus</cname>
 		<item>
 			<title>en clair</title>
-			<link>rtmp://live-fms.canalplus.fr/live/canalplusclair_1500@42246 swfvfy=true live=true timeout=30</link>
+			<link>rtmp://live-fms.canalplus.fr/live/ playpath=canalplusclair_1500@42246 app=live pageURL=http://www.france24.com/en/aef_player_popup/france24_player swfUrl=http://player.canalplus.fr/site/flash/player.swf live=true timeout=30</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1275,7 +1275,20 @@
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_m6</link>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>TV 5 MONDE</cname>
+		<item>
+			<title>master</title>
+			<link>http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=146.159.95.38</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TV 5 MONDE</cname>
+		<item>
+			<title>master</title>
+			<link>rtmp://85.91.143.22/90457/90457.stream timeout=15</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
 		<item>
@@ -1302,6 +1315,13 @@
 		<item>
 			<title>maiyo</title>
 			<link>http://hls1.maiyo-tv.com/index.m3u8?c=fr_d8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>D8</cname>
+		<item>
+			<title>en_clair</title>
+			<link>http://hls-live-m1-l3.canal-plus.com/live/hls/d8-clair-v3-sd-andr7/and-sd-clair/index.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1433,6 +1453,13 @@
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
+			<title>wat</title>
+			<link>rtmp://halima-live.com:1936/live2 playpath=tf1 swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=1 flashver=WIN\2013,0,0,214 pageUrl=http://www.scorpion-server.com.tn/chaine.php?cat=16&amp;id=81 timeout=15</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
 			<title>master</title>
 			<link>http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/master.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&amp;X-Forwarded-For=146.159.95.38</link>
 		</item>
@@ -1448,6 +1475,13 @@
 			<page>http://myfrtv.com/channels/new-file/</page>
 			<x-forward>205.236.221.231</x-forward>
 			</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NRJ 12</cname>
+		<item>
+			<title>master</title>
+			<link>rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2335,7 +2369,7 @@
 		<item>
 			<title>smil</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france2.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/france2.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2343,7 +2377,7 @@
 		<item>
 				<title>smil</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france3.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/france3.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2351,7 +2385,7 @@
 		<item>
 			<title>smil</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france4.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/france4.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2359,7 +2393,7 @@
 		<item>
 			<title>smil</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/france5.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/france5.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2367,7 +2401,7 @@
 		<item>
 			<title>smil</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/franceo.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/franceo.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2408,7 +2442,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/cinepolar.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/cinepolar.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2416,7 +2450,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/cinefx.smil/playlist.m3u8 </link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/cinefx.smil/playlist.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2424,7 +2458,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/escales.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/escales.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2432,7 +2466,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/action.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/action.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2440,7 +2474,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/encyclo.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/encyclo.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2448,7 +2482,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/luckyjack.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/luckyjack.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2456,7 +2490,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/abmoteurs.smil/playlist.m3u8 </link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/abmoteurs.smil/playlist.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2464,7 +2498,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/animaux.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/animaux.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2472,7 +2506,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/chasseetpeche.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/chasseetpeche.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2480,7 +2514,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/ab1.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/ab1.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2488,7 +2522,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/rtl9.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/rtl9.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2496,7 +2530,7 @@
 		<item>
 			<title>Bis</title>
 
-				<link>http://dbw9rg1ntmxk6.cloudfront.net/live2/mangas.smil/playlist.m3u8</link>
+				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/mangas.smil/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
 	
@@ -3040,11 +3074,11 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>tb3live_5</title>
+			<title>@Ina9er</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777879/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18809505/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
