@@ -3061,7 +3061,7 @@
 	<streaminginfo>		
 		<cname>.Live Event</cname>
 			<item>
-				<title>yariga leton</title>
+				<title>tab3sport leton</title>
 				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
 				<regex>
 				<name>get-rtmp</name>
@@ -3072,7 +3072,7 @@
 				<regex>
 				<name>get-pageurl</name>
 				<expres>(http.*450).*</expres>
-				<page>http://yariga.net/tv/ch1</page>
+				<page>http://tab3sport.net/tv3/</page>
 				</regex>
 		    </item>
 	</streaminginfo>
@@ -3093,6 +3093,20 @@
 				<expres>(http.*450).*</expres>
 				<page>http://www.livehd720.com/</page>
 				</regex>
+		    </item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+			<item>
+				<title>tvgoalsnet</title>
+				<link>http://212.29.216.1:1935/live/live2/chunklist_w1740068450.m3u8</link>
+		    </item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+			<item>
+				<title>tvgoalsnet</title>
+				<link>http://212.29.216.1:1935/live/live2/tvgoalsnet.m3u8</link>
 		    </item>
 	</streaminginfo>
 	<streaminginfo>		
