@@ -3342,7 +3342,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/tv3/</page>
+				<page>http://tab3sport.com/tv1/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3372,7 +3372,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.brod-send.com/sport/</page>
+				<page>http://tab3sport.com/tv1/</page>
 				</regex>
 				
 		</item>
@@ -3403,7 +3403,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/fa1/</page>
+				<page>http://tab3sport.com/tv3/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3433,7 +3433,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/fa1/</page>
+				<page>http://tab3sport.com/tv3/</page>
 				</regex>
 				
 		</item>
@@ -3464,7 +3464,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/fa2/</page>
+				<page>http://tab3sport.com/tv4/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3494,7 +3494,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://mafatek.com/fa2/</page>
+				<page>http://tab3sport.com/tv4/</page>
 				</regex>
 				
 		</item>
