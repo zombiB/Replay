@@ -3076,6 +3076,7 @@
 				</regex>
 		    </item>
 	</streaminginfo>
+	
 	<streaminginfo>		
 		<cname>.Live Event</cname>
 			<item>
@@ -3092,6 +3093,13 @@
 				<expres>(http.*450).*</expres>
 				<page>http://www.livehd720.com/</page>
 				</regex>
+		    </item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>.Live Event</cname>
+			<item>
+				<title>sonara HQ</title>
+				<link>http://live.sonara.net:1935/live/live2/playlist.m3u8</link>
 		    </item>
 	</streaminginfo>
 	
