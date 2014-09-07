@@ -2949,114 +2949,7 @@
 				<link>rtmp://89.248.171.97:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
- <cname>bein sport 1</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-1-hd</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
- <cname>bein sport 2</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-2-hd</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
- <cname>bein sport 3</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-3-hd</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
- <cname>bein sport 4</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-4-hd</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
- <cname>bein sport 5</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-5-hd</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
- <cname>bein sport 6</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-6-hd</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
- <cname>bein sport 7</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-7-hd</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
- <cname>bein sport 8</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-8-hd</page>
-</regex>
-</item>
-</streaminginfo>
-<streaminginfo>
- <cname>bein sport 9</cname>
-<item>
-<title>telvza-online</title>
-<link>$doregex[url] timeout=15</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://telvza-online.com/bein-sport-9-hd</page>
-</regex>
-</item>
-</streaminginfo>
+	
 	
 	<streaminginfo>		
 		<cname>.Live Event</cname>
@@ -3828,7 +3721,62 @@
 				
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 1</title>
+
+				<link>rtmp://85.159.237.249:1935/live1/_definst_ playpath=live1  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 2</title>
+
+				<link>rtmp://85.159.237.249:1935/live2/_definst_ playpath=live2  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 3</title>
+
+				<link>rtmp://85.159.237.249:1935/live3/_definst_ playpath=live3  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 4</title>
+
+				<link>rtmp://85.159.237.249:1935/live4/_definst_ playpath=live4  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 5</title>
+
+				<link>rtmp://85.159.237.249:1935/live5/_definst_ playpath=live5  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 6</title>
+
+				<link>rtmp://85.159.237.249:1935/live6/_definst_ playpath=live6  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 7</title>
+
+				<link>rtmp://85.159.237.249:1935/live7/_definst_ playpath=live7  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
 
 	
 
