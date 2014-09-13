@@ -3500,6 +3500,47 @@
 				<link>http://wzmatch.uforone.net:1935/live/_definst_/beinsports3/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>viasat</cname>
+		<item>
+			<title>SPORT 3 HD</title>
+
+				<link>http://viasatlive2-i.akamaihd.net/hls/live/202775/tv3plus/mastererki1.m3u8|X-Forwarded-For=81.224.210.98</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>viasat</cname>
+		<item>
+			<title>Sport 4</title>
+
+				<link>http://viasatlive3-i.akamaihd.net/hls/live/206923/canal9dkebs/4arp.m3u8|X-Forwarded-For=81.224.210.98</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>viasat</cname>
+		<item>
+			<title>TV3 SPORT 1</title>
+
+				<link>http://viasatlive1-i.akamaihd.net/hls/live/207015/tv3sport1HD/2TmY8fEdOfL.m3u8|X-Forwarded-For=81.224.210.98</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>viasat</cname>
+		<item>
+			<title>TV3 SPORT 2</title>
+
+				<link>http://viasatlive5-i.akamaihd.net/hls/live/207018/tv3sport2HD/2h5416erG1v.m3u8|X-Forwarded-For=81.224.210.98</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>viasat</cname>
+		<item>
+			<title>Canal 8</title>
+
+				<link>http://viasatlive1-i.akamaihd.net/hls/live/206922/canal8dkebs/4arp.m3u8|X-Forwarded-For=81.224.210.98</link>
+		</item>
+	</streaminginfo>
+	
 
 	
 
