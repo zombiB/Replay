@@ -2988,30 +2988,7 @@
 		    </item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>live720_2</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18710300/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>live720_1</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18620839/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
@@ -3075,11 +3052,47 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>@Ina9er</title>
+			<title>livehd720_3</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18809505/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18737275/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>live720_2</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18710300/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>live720_4</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18713197/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>live720_1</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18620839/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
@@ -3273,7 +3286,7 @@
 		<item>
 			<title> 1 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn1&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn1&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3282,7 +3295,7 @@
 		<item>
 			<title> 2 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn2&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn2&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3291,7 +3304,7 @@
 		<item>
 			<title> 3 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn3&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn3&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3300,7 +3313,7 @@
 		<item>
 			<title> 4 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn4&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn4&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3309,7 +3322,7 @@
 		<item>
 			<title> 5 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn5&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn5&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3318,7 +3331,7 @@
 		<item>
 			<title> 6 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn6&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn6&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3327,7 +3340,7 @@
 		<item>
 			<title> 7 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn7&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn7&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3336,7 +3349,7 @@
 		<item>
 			<title> 8 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn8 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn8&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn8 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn8&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3345,7 +3358,7 @@
 		<item>
 			<title> 9 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3354,7 +3367,7 @@
 		<item>
 			<title> 10 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn10&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn10&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3363,7 +3376,7 @@
 		<item>
 			<title> 11 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn11&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn11&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3372,7 +3385,7 @@
 		<item>
 			<title> 12 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn12&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn12&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3381,7 +3394,7 @@
 		<item>
 			<title> 13 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn13&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn13&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3390,7 +3403,7 @@
 		<item>
 			<title> 14 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn14 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn14&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn14 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn14&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3399,7 +3412,7 @@
 		<item>
 			<title> 15 HD</title>
 
-				<link>rtmp://31.220.0.194:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn15&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.194:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn15&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
