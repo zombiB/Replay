@@ -1930,27 +1930,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-	
-	
-	
-	
-	<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-		<item>
-			<title>AD Sports 3</title>
-			<link>http://87.121.34.253:9987/udp/239.100.202.101:1234</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-		<item>
-			<title>AD Sports 4</title>
-			<link>http://87.121.34.253:9987/udp/239.100.202.102:1234</link>
-		</item>
-	</streaminginfo>
-	
 	<streaminginfo>
 		<cname>Cinema EN</cname>
 		<item>
@@ -2296,18 +2275,7 @@
 	</streaminginfo>
 	
 	
-	<streaminginfo>
-		<cname>2M</cname>
-		<item>
-			<title>ustream</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/8312072/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>AlYawm</cname>
 		<item>
@@ -2436,104 +2404,7 @@
 				<link>http://mbcprosports04-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
 		</item>
 	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>CinePolar</cname>
-		<item>
-			<title>Bis</title>
 
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/cinepolar.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CineFx</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/cinefx.smil/playlist.m3u8 </link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Escales</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/escales.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Action</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/action.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Encyclo</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/encyclo.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>luckyjack</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/luckyjack.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>ABMoteurs</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/abmoteurs.smil/playlist.m3u8 </link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Animaux</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/animaux.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Chasse_et_peche</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/chasseetpeche.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>AB1</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/ab1.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>RTL 9</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/rtl9.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Mangas</cname>
-		<item>
-			<title>Bis</title>
-
-				<link>http://dt3zwsgl95oj4.cloudfront.net/live2/mangas.smil/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	
 	<streaminginfo>
 
 		<cname>Sky Sports 1</cname>
@@ -3316,6 +3187,46 @@
 				<link>rtmp://85.159.237.249:1935/live7/_definst_ playpath=live7  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 8</title>
+
+				<link>rtmp://85.159.237.249:1935/live8/_definst_ playpath=live8  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 9</title>
+
+				<link>rtmp://85.159.237.249:1935/live9/_definst_ playpath=live9  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 10</title>
+
+				<link>rtmp://85.159.237.249:1935/live10/_definst_ playpath=live10  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 11</title>
+
+				<link>rtmp://85.159.237.249:1935/live11/_definst_ playpath=live11  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Cafe Creme</cname>
+		<item>
+			<title>Channel 12</title>
+
+				<link>rtmp://85.159.237.249:1935/live12/_definst_ playpath=live12 swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
@@ -3540,7 +3451,67 @@
 				<link>http://viasatlive1-i.akamaihd.net/hls/live/206922/canal8dkebs/4arp.m3u8|X-Forwarded-For=81.224.210.98</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
 	
+
+		<cname>Al Alam</cname>
+		<item>
+			<title> 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>data-context-item-id="s*(.*?)\s</expres>
+				<page>http://www.youtube.com/user/AlalamTV2/featured</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>Al Alam</cname>
+		<item>
+			<title> 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>data-context-item-id="s*(.*?)\s</expres>
+				<page>http://www.youtube.com/user/AlalamTV2/featured</page>
+				</regex>
+				
+		</item>
+	</streaminginfo>
 
 	
 
