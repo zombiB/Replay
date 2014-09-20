@@ -3433,31 +3433,7 @@
 				<link>rtmp://31.220.0.194:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn15&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title> 5 HD</title>
-
-				<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?mfamwuUL6IpOXDJ8WwxJ</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title> 6 HD</title>
-
-				<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?mfamwuUL6IpOXDJ8WwxJ</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title> 7 HD</title>
-
-				<link>rtmp://31.220.0.194:1935/live playpath=bn7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&amp;vw=620&amp;vh=490 token=%ZZri(nKa@?#ýZ? timeout=10</link>
-		</item>
-	</streaminginfo>
+	
 
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
