@@ -3092,7 +3092,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3sport.net/ksa2/</page>
+				<page>http://tab3sport.net/sb1/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3122,7 +3122,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3sport.net/ksa2/</page>
+				<page>hhttp://fahad-video.blogspot.com/p/blog-page_12.html</page>
 				</regex>
 				
 		</item>
@@ -3132,7 +3132,7 @@
 	
 	
 	<streaminginfo>
-		<cname>Cafe Creme</cname>
+		<cname>CafeCreme 1_4</cname>
 		<item>
 			<title>Channel 1</title>
 
@@ -3216,7 +3216,7 @@
 		<item>
 			<title>Channel 11</title>
 
-				<link>rtmp://85.159.237.249:1935/live11/_definst_ playpath=live11  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+				<link>rtmp://46.21.145.234/live playpath=mipsite?id=212937 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/mipsite/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -3224,7 +3224,7 @@
 		<item>
 			<title>Channel 12</title>
 
-				<link>rtmp://85.159.237.249:1935/live12/_definst_ playpath=live12 swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+				<link>rtmp://46.165.230.40/live playpath=kasixidfifff?id=213474 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/kasixidfifff/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
