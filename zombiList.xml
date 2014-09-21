@@ -3208,7 +3208,7 @@
 		<item>
 			<title>Channel 10</title>
 
-				<link>rtmp://85.159.237.249:1935/live10/_definst_ playpath=live10  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
+				<link>rtmp://46.21.145.234/live playpath=simosat68?id=212823 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/simosat68/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
