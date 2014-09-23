@@ -3595,12 +3595,7 @@
 				<link>http://viasatlive1-i.akamaihd.net/hls/live/206922/canal8dkebs/4arp.m3u8|X-Forwarded-For=81.224.210.98</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-<item>
-<title>CBC Sofra</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9MHumHq9064</link> 
-</item>
-</streaminginfo>
+	
 	<streaminginfo>
 	
 
