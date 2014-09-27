@@ -3186,7 +3186,7 @@
 		<item>
 			<title>Channel 11</title>
 
-				<link>rtmp://46.21.145.234/live playpath=mipsite?id=212937 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/mipsite/1/850/500 timeout=15</link>
+				<link>rtmp://46.21.145.234/live playpath=kam11?id=213939 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/mipsite/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -3542,7 +3542,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>viasat</cname>
+		<cname>viasat SPORT 3</cname>
 		<item>
 			<title>SPORT 3 HD</title>
 
