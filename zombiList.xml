@@ -1670,8 +1670,8 @@
 	<streaminginfo>
 		<cname>Sky Sports F1</cname>
 		<item>
-			<title>flashtv</title>
-			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s6 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
+			<title>sky 5 best</title>
+			<link></link>
 		</item>
 	</streaminginfo>
 
@@ -2412,7 +2412,7 @@
 		<item>
 			<title>best</title>
 
-			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/33.ch</link>
+			<link>rtmpe://31.220.0.198/live playpath=sky1 pageUrl=http://www.pvtserverz.com/ timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2423,7 +2423,7 @@
 		<item>
 			<title>best</title>
 
-			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/34.ch</link>
+			<link>rtmpe://31.220.0.198/live playpath=sky2 pageUrl=http://www.pvtserverz.com/ timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2434,7 +2434,7 @@
 		<item>
 			<title>best</title>
 
-			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/35.ch</link>
+			<link>rtmpe://31.220.0.198/live playpath=sky3 pageUrl=http://www.pvtserverz.com/ timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2445,7 +2445,7 @@
 		<item>
 			<title>best</title>
 
-			<link>http://best-iptv.dyndns.tv/test01/alexiptv@mail.com/36.ch</link>
+			<link>rtmpe://31.220.0.198/live playpath=sky4 pageUrl=http://www.pvtserverz.com/ timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2926,67 +2926,6 @@
 		    </item>
 	</streaminginfo>
 
-	
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>tab3sport</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18899673/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>tb3live_2</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18275186/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>tb3live_1</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18777866/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>matchestoday</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18817188/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>coolkora</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18898756/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
@@ -3163,7 +3102,7 @@
 	
 	
 	<streaminginfo>
-		<cname>CafeCreme 1_4</cname>
+		<cname>CafeCreme 1</cname>
 		<item>
 			<title>Channel 1</title>
 
@@ -3171,7 +3110,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 1_4</cname>
+		<cname>CafeCreme 2</cname>
 		<item>
 			<title>Channel 2</title>
 
@@ -3179,7 +3118,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 1_4</cname>
+		<cname>CafeCreme 3</cname>
 		<item>
 			<title>Channel 3</title>
 
@@ -3187,7 +3126,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 1_4</cname>
+		<cname>CafeCreme 4</cname>
 		<item>
 			<title>Channel 4</title>
 
@@ -3195,7 +3134,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 5_8</cname>
+		<cname>CafeCreme 5</cname>
 		<item>
 			<title>Channel 5</title>
 
@@ -3203,7 +3142,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 5_8</cname>
+		<cname>CafeCreme 6</cname>
 		<item>
 			<title>Channel 6</title>
 
@@ -3211,7 +3150,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 5_8</cname>
+		<cname>CafeCreme 7</cname>
 		<item>
 			<title>Channel 7</title>
 
@@ -3219,7 +3158,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 5_8</cname>
+		<cname>CafeCreme 8</cname>
 		<item>
 			<title>Channel 8</title>
 
@@ -3227,7 +3166,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 9_12</cname>
+		<cname>CafeCreme 9</cname>
 		<item>
 			<title>Channel 9</title>
 
@@ -3235,7 +3174,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 9_12</cname>
+		<cname>CafeCreme 10</cname>
 		<item>
 			<title>Channel 10</title>
 
@@ -3243,7 +3182,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 9_12</cname>
+		<cname>CafeCreme 11</cname>
 		<item>
 			<title>Channel 11</title>
 
@@ -3251,7 +3190,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>CafeCreme 9_12</cname>
+		<cname>CafeCreme 12</cname>
 		<item>
 			<title>Channel 12</title>
 
@@ -3259,7 +3198,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 2</cname>
 		<item>
 			<title>good one</title>
 
@@ -3267,7 +3206,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 2</cname>
 		<item>
 			<title>good quality</title>
 
@@ -3611,15 +3550,15 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>viasat</cname>
+		<cname>viasat Canal9</cname>
 		<item>
-			<title>Sport 4</title>
+			<title>Canal9</title>
 
 				<link>http://viasatlive3-i.akamaihd.net/hls/live/206923/canal9dkebs/4arp.m3u8|X-Forwarded-For=81.224.210.98</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>viasat</cname>
+		<cname>viasat tv3sport1</cname>
 		<item>
 			<title>TV3 SPORT 1</title>
 
@@ -3627,7 +3566,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>viasat</cname>
+		<cname>viasat tv3sport2</cname>
 		<item>
 			<title>TV3 SPORT 2</title>
 
@@ -3635,9 +3574,9 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>viasat</cname>
+		<cname>viasat Canal8</cname>
 		<item>
-			<title>Canal 8</title>
+			<title>canal8.dk</title>
 
 				<link>http://viasatlive1-i.akamaihd.net/hls/live/206922/canal8dkebs/4arp.m3u8|X-Forwarded-For=81.224.210.98</link>
 		</item>
