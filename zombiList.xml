@@ -2999,7 +2999,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18620839/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18975913/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
@@ -3225,6 +3225,22 @@
 			<title>Channel 12</title>
 
 				<link>rtmp://46.165.230.40/live playpath=kasixidfifff?id=213474 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/kasixidfifff/1/850/500 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>good one</title>
+
+				<link>http://212.29.216.1:1935/live/live1/chunklist_w624735654.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>good quality</title>
+
+				<link>http://212.29.216.1:1935/live/live1/chunklist_w1049106856.m3u8</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
