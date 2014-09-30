@@ -1831,6 +1831,13 @@
 			</item>
 	</streaminginfo>
 	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmp://195.154.242.124:80/liverepeater playpath=166526 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/Abouda token=Fo5_n0w?U.rA6l3-70w47ch  timeout=20</link> 
+			</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>Bein 2 FR</cname>
 		<item>
 			<title>hdcast</title>
@@ -1849,6 +1856,13 @@
 		<item>
 			<title>poneytelecom</title>
 			<link>rtmp://195-154-220-115.rev.poneytelecom.eu/private/bes22014</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>poneytelecom</title>
+			<link>rtmp://195.154.242.124:80/liverepeater playpath=166527 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/Abouda token=Fo5_n0w?U.rA6l3-70w47ch timeout=20</link> 
 		</item>
 	</streaminginfo>
 	
@@ -3178,7 +3192,7 @@
 		<item>
 			<title>Channel 10</title>
 
-				<link>rtmp://46.21.145.234/live playpath=simosat68?id=212823 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/simosat68/1/850/500 timeout=15</link>
+				<link>rtmp://37.48.94.35/live playpath=manger1?id=214185 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/simosat68/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
