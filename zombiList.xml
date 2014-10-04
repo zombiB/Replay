@@ -3224,7 +3224,7 @@
 		<item>
 			<title> 1 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn1&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -3233,7 +3233,7 @@
 		<item>
 			<title> 2 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn2&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3242,7 +3242,7 @@
 		<item>
 			<title> 3 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn3&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3251,7 +3251,7 @@
 		<item>
 			<title> 4 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn4&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3260,7 +3260,7 @@
 		<item>
 			<title> 5 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn5&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3269,7 +3269,7 @@
 		<item>
 			<title> 6 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn6&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3278,7 +3278,7 @@
 		<item>
 			<title> 7 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn7&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3287,7 +3287,7 @@
 		<item>
 			<title> 8 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn8 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn8&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/Sportsiptv token=#atd%#$ZH timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3296,7 +3296,7 @@
 		<item>
 			<title> 9 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3305,7 +3305,7 @@
 		<item>
 			<title> 10 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn10&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3314,7 +3314,7 @@
 		<item>
 			<title> 11 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn11&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
@@ -3323,36 +3323,10 @@
 		<item>
 			<title> 12 HD flashtv</title>
 
-				<link>rtmp://31.220.0.103:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn12&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
+				<link>rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title> 13 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn13&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title> 14 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bn14 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn14&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title> 15 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn15&amp;vw=620&amp;vh=490 token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>viasat SPORT 3</cname>
 		<item>
