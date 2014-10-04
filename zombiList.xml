@@ -2447,7 +2447,7 @@
 		<item>
 			<title>best</title>
 
-			<link>rtmpe://31.220.0.198/live playpath=sky1 pageUrl=http://www.pvtserverz.com/ timeout=15</link>
+			<link>http://213.133.100.136/dzsat/weekend/507.ch</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2458,7 +2458,7 @@
 		<item>
 			<title>best</title>
 
-			<link>rtmpe://31.220.0.198/live playpath=sky2 pageUrl=http://www.pvtserverz.com/ timeout=15</link>
+			<link>http://213.133.100.136/dzsat/weekend/523.ch</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2469,7 +2469,7 @@
 		<item>
 			<title>best</title>
 
-			<link>rtmpe://31.220.0.198/live playpath=sky3 pageUrl=http://www.pvtserverz.com/ timeout=15</link>
+			<link>http://213.133.100.136/dzsat/weekend/508.ch</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2480,7 +2480,7 @@
 		<item>
 			<title>best</title>
 
-			<link>rtmpe://31.220.0.198/live playpath=sky4 pageUrl=http://www.pvtserverz.com/ timeout=15</link>
+			<link>http://213.133.100.136/dzsat/weekend/509.ch</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2885,6 +2885,126 @@
 			<title>yalla-shoot</title>
 
 				<link>rtmp://195.154.220.46:80/liverepeater playpath=164457 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/stream.php?id=164457&amp;width=600&amp;height=450&amp;stretching= token=Fo5_n0w?U.rA6l3-70w47ch timeout=10</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/79.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/80.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/81.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/82.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/479.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/480.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/481.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/482.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/87.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/88.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/89.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/90.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/91.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/92.ch</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>dzsat</title>
+
+				<link>http://213.133.100.136/dzsat/weekend/93.ch</link>
 		</item>
 	</streaminginfo>
 	
