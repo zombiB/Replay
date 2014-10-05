@@ -2892,7 +2892,7 @@
 		<item>
 			<title>sonara</title>
 
-				<link>http://212.29.216.8:1935/live/live1/chunklist_w581379483.m3u8</link>
+				<link>rtmp://live.sonara.net/live/ playpath=live2 swfUrl=http://www.sonara.net/mediaplayera/player.swf live=1 pageUrl=http://www.sonara.net/Abouda timeout=10</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -3124,7 +3124,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18975913/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19044501/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
@@ -3217,7 +3217,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3sport.net/sb1/</page>
+				<page>http://tb3.tv/yi1/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3247,7 +3247,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tb3.tv/ss3/</page>
+				<page>http://tb3.tv/yi1/</page>
 				</regex>
 				
 		</item>
