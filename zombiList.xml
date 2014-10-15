@@ -2190,42 +2190,42 @@
 		<cname>Hanibal</cname>
 		<item>
 			<title>streaminghd</title>
-			<link>rtmp://41.231.53.11:8888/thd/ playpath=hannibal swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://www.direct4live.com/2013/07/hannibal-tv-en-live-direct.html timeout=20</link>
+			<link>rtmp://41.231.53.11:1935/thd/ playpath=hannibal swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://www.direct4live.com/2013/07/hannibal-tv-en-live-direct.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Al Hiwar Ettounsi</cname>
 		<item>
 			<title>streaminghd</title>
-			<link>rtmp://41.231.53.11:8888/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=2088406218 live=1 pageUrl=http://www.direct4live.com/2014/03/el-hiwar-ettounsi-tv-direct-live.html timeout=20</link>
+			<link>rtmp://41.231.53.11:1935/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=2088406218 live=1 pageUrl=http://www.direct4live.com/2014/03/el-hiwar-ettounsi-tv-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Nessma</cname>
 		<item>
 			<title>streaminghd</title>
-			<link>rtmp://41.231.53.11:8888/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=108740157 live=1 pageUrl=http://www.direct4live.com/2013/07/nessma-en-direct-live.html timeout=20</link>
+			<link>rtmp://41.231.53.11:1935/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=108740157 live=1 pageUrl=http://www.direct4live.com/2013/07/nessma-en-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>		
 	<streaminginfo>
 		<cname>Al Janoubiya</cname>
 		<item>
 			<title>streaminghd </title>
-			<link>rtmp://41.231.53.11:8888/thd/ playpath=janoubia swfUrl=http://www.streaminghd.tn/video/player.swf?random=182728996 live=1 pageUrl=http://www.direct4live.com/2013/08/al-janoubia-tv-en-direct-live.html timeout=20</link>
+			<link>rtmp://41.231.53.11:1935/thd/ playpath=janoubia swfUrl=http://www.streaminghd.tn/video/player.swf?random=182728996 live=1 pageUrl=http://www.direct4live.com/2013/08/al-janoubia-tv-en-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Telvza TV</cname>
 		<item>
 			<title>streaminghd </title>
-			<link>rtmp://41.231.53.11:8888/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=1664158234 live=1 pageUrl=http://www.direct4live.com/2013/10/telvza-tv-en-direct-live.html timeout=20</link>
+			<link>rtmp://41.231.53.11:1935/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=1664158234 live=1 pageUrl=http://www.direct4live.com/2013/10/telvza-tv-en-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Tounesna</cname>
 		<item>
 			<title>streaminghd </title>
-			<link>rtmp://41.231.53.11:8888/thd playpath=tunisna swfUrl=http://streaminghd.tn/video/player.swf?random=1578550586 live=1 pageUrl=http://www.direct4live.com/2014/02/tounesna-tv-direct-live.html timeout=20</link>
+			<link>rtmp://41.231.53.11:1935/thd playpath=tunisna swfUrl=http://streaminghd.tn/video/player.swf?random=1578550586 live=1 pageUrl=http://www.direct4live.com/2014/02/tounesna-tv-direct-live.html timeout=20</link>
 		</item>
 	</streaminginfo>
 	
