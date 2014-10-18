@@ -3015,6 +3015,22 @@
 				<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>HLS</title>
+
+				<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>HQ</title>
+
+				<link>http://212.29.216.8:1935/live/live1/chunklist_w68046465.m3u8</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>		
 		<cname>.Live Event</cname>
@@ -3132,7 +3148,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19044501/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19119282/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
