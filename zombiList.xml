@@ -3136,7 +3136,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18713197/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18055171/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
@@ -3148,7 +3148,19 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19119282/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19120329/streams/live/playlist.m3u8')</expres>
+				<page></page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BEIN ESP</cname>
+		<item>
+			<title>ustream</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19120698/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
@@ -3209,7 +3221,7 @@
 			<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livekoooora.net/channel4.php</page>
+				<page>http://dimasport.tn/fr/?p=194</page>
 			</regex>
 		</item>
 	</streaminginfo>
@@ -3220,7 +3232,7 @@
 
 		<cname>.Live Youtube</cname>
 		<item>
-			<title>@Tab3live 360p</title>
+			<title> 360p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -3241,7 +3253,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tb3.tv/yi1/</page>
+				<page>http://dimasport.tn/fr/?p=194</page>
 				</regex>
 		</item>
 	</streaminginfo>
