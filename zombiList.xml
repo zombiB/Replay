@@ -2445,9 +2445,9 @@
 		<cname>Sky Sports 1</cname>
 
 		<item>
-			<title>best</title>
+			<title>kbps.tv</title>
 
-			<link>http://213.133.100.136/dzsat/weekend/507.ch</link>
+			<link>rtmp://77.81.98.130/pub playpath=mrk1 swfUrl=http://www.fbcast.tv/player/player-licensed.swf live=1 pageUrl=http://www.fbcast.tv/embed.php?v=sp10jh12&amp;vw=600&amp;vh=450&amp;video=0&amp;domain=hdembed.com</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2456,9 +2456,9 @@
 		<cname>Sky Sports 2</cname>
 
 		<item>
-			<title>best</title>
+			<title>kbps.tv</title>
 
-			<link>http://213.133.100.136/dzsat/weekend/523.ch</link>
+			<link>rtmp://akamai.kbps.tv:1935/live playpath=skysp2?Key=75caf48606ec01bcc9be55d46864c915 swfUrl=http://www.kbps.tv/jl/player.swf live=1 pageUrl=http://www.kbps.tv/embed.php?s=skysp2&amp;width=600&amp;height=450&amp;domain=hdembed.com timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -3344,6 +3344,43 @@
 				<link>rtmp://46.21.145.234/live playpath=kam11?id=213939 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/mipsite/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>CafeCreme 11</cname>
+		<item>
+			<title>Channel 11</title>
+	            <link>$doregex[get-rtmp] app=vod/?token=play@$doregex[get-token] playpath=kam19_8mpe5mb swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/old/jwplayer.flash.swf pageUrl=$doregex[get-iframe]</link> 
+               <regex>
+               <name>get-rtmp</name>
+               <expres>(.*)\/re</expres>
+               <page>$doregex[get-decrypted-ssx4]</page>
+               </regex>
+
+              <regex>
+              <name>get-token</name>
+              <expres>@(.*)</expres>
+              <page>$doregex[get-decrypted-ssx4]</page>
+              </regex>
+
+             <regex>
+             <name>get-decrypted-ssx4</name>
+             <expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx4]")</expres>
+             <page></page>
+             </regex>
+
+              <regex>
+              <name>get-encrypted-ssx4</name>
+              <expres>ssx4" value="(.*)"</expres>
+              <page>$doregex[get-iframe]</page>
+              </regex>
+
+              <regex>
+              <name>get-iframe</name>
+              <expres>src="(.*?)\"</expres>
+              <page>http://www.dinozap.info/redirect/channel.php?id=114&amp;width=680&amp;height=390&amp;autostart=true</page>
+              <referer>http://www.dinozap.info/?id=114</referer>
+              <x-forward>77.132.237.189</x-forward>
+              </regex>
+		</streaminginfo>
 	<streaminginfo>
 		<cname>CafeCreme 12</cname>
 		<item>
