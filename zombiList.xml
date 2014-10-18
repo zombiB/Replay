@@ -3007,6 +3007,14 @@
 				<link>http://213.133.100.136/dzsat/weekend/93.ch</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>HLS</title>
+
+				<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>		
 		<cname>.Live Event</cname>
@@ -3344,43 +3352,7 @@
 				<link>rtmp://46.21.145.234/live playpath=kam11?id=213939 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/mipsite/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 11</cname>
-		<item>
-			<title>Channel 11</title>
-	            <link>$doregex[get-rtmp] app=vod/?token=play@$doregex[get-token] playpath=kam19_8mpe5mb swfUrl=http://www.spasswitz.com/jwplayer5/addplayer/old/jwplayer.flash.swf pageUrl=$doregex[get-iframe]</link> 
-               <regex>
-               <name>get-rtmp</name>
-               <expres>(.*)\/re</expres>
-               <page>$doregex[get-decrypted-ssx4]</page>
-               </regex>
-
-              <regex>
-              <name>get-token</name>
-              <expres>@(.*)</expres>
-              <page>$doregex[get-decrypted-ssx4]</page>
-              </regex>
-
-             <regex>
-             <name>get-decrypted-ssx4</name>
-             <expres>$pyFunction:base64.b64decode("$doregex[get-encrypted-ssx4]")</expres>
-             <page></page>
-             </regex>
-
-              <regex>
-              <name>get-encrypted-ssx4</name>
-              <expres>ssx4" value="(.*)"</expres>
-              <page>$doregex[get-iframe]</page>
-              </regex>
-
-              <regex>
-              <name>get-iframe</name>
-              <expres>src="(.*?)\"</expres>
-              <page>http://www.dinozap.info/redirect/channel.php?id=114&amp;width=680&amp;height=390&amp;autostart=true</page>
-              <referer>http://www.dinozap.info/?id=114</referer>
-              <x-forward>77.132.237.189</x-forward>
-              </regex>
-		</streaminginfo>
+	
 	<streaminginfo>
 		<cname>CafeCreme 12</cname>
 		<item>
@@ -3389,7 +3361,7 @@
 				<link>rtmp://46.165.230.40/live playpath=kasixidfifff?id=213474 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/kasixidfifff/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
-
+	
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
