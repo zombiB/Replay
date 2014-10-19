@@ -1886,82 +1886,33 @@
 			<link>http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8</link> 
 			</item>
 	</streaminginfo>
-	
+	<streaminginfo>		
+		<cname>NBC Golf</cname>
+		<item>
+			<title>720p HD</title>
+			<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>		
 		<cname>Tele Sports</cname>
 		<item>
-			<title>C_SPORT_HD</title>
-			<link>$doregex[get-reverseAndDecode] playpath=$doregex[get-playpath] swfUrl=http://5.79.68.134:81/j/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://goldvod.tv/</link>
-
-				<regex>
-				<name>get-playpath</name>
-				<expres>stream\/(.*)</expres>
-				<page>$doregex[get-reverseAndDecode]</page>
-				</regex>
-
-
-				<regex>
-				<name>get-reverseAndDecode</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-rtmp-reverse]'[::-1])</expres>
-				<page></page>
-				</regex>
-
-				<regex>
-				<name>get-rtmp-reverse</name>
-				<expres>src":"(.*?)"</expres>
-				<page>http://goldvod.tv/tv-connector.html</page>
-				<referer>http://goldvod.tv/tv-online/c_sport_hd.html</referer>
-				<post>c:C_SPORT_HD</post>
-				<x-req>XMLHttpRequest</x-req>
-				<cookieJar>$doregex[session]</cookieJar>
-				</regex>
-
-				<regex>
-				<name>session</name>
-				<expres></expres>
-				<page>http://goldvod.tv/logowanie-ajax.html</page>
-				<referer>http://goldvod.tv/tv-online/c_sport_hd.html</referer>
-				<cookieJar></cookieJar>
-				</regex>
+			<title>trthd</title>
+			<link>rtmp://si.trtcdn.com/tv/trthd/mp4:trthd_3 timeout=10</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Tele Sports</cname>
+		<item>
+			<title>SportsTV3</title>
+			<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3 timeout=10</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Tele Sports</cname>
 		<item>
-			<title>TVP_SPORT_HD</title>
-			<link>$doregex[get-reverseAndDecode] playpath=$doregex[get-playpath] swfUrl=http://5.79.68.134:81/j/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://goldvod.tv/</link>
-
-				<regex>
-				<name>get-playpath</name>
-				<expres>stream\/(.*)</expres>
-				<page>$doregex[get-reverseAndDecode]</page>
-				</regex>
-
-
-				<regex>
-				<name>get-reverseAndDecode</name>
-				<expres>$pyFunction:base64.b64decode('$doregex[get-rtmp-reverse]'[::-1])</expres>
-				<page></page>
-				</regex>
-
-				<regex>
-				<name>get-rtmp-reverse</name>
-				<expres>src":"(.*?)"</expres>
-				<page>http://goldvod.tv/tv-connector.html</page>
-				<referer>http://goldvod.tv/tv-online/tvp_sport_hd.html</referer>
-				<post>c:TVP_SPORT_HD</post>
-				<x-req>XMLHttpRequest</x-req>
-				<cookieJar>$doregex[session]</cookieJar>
-				</regex>
-
-				<regex>
-				<name>session</name>
-				<expres></expres>
-				<page>http://goldvod.tv/logowanie-ajax.html</page>
-				<referer>http://goldvod.tv/tv-online/tvp_sport_hd.html</referer>
-				<cookieJar></cookieJar>
-				</regex>
+			<title>aspor</title>
+			<link>http://hls.turkuvazgroup.net/aspor-hls/smil:aspor.smil/chunklist_www_b396000.m3u8</link>
 		</item>
 	</streaminginfo>
 	
@@ -3104,6 +3055,7 @@
 				</regex>
 		    </item>
 	</streaminginfo>
+	
 
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
