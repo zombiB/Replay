@@ -3224,6 +3224,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
+		<cname>.Live Youtube</cname>
 		<item>
 			<title>youtube 480p</title>
 			<link>$doregex[getQualityLink]</link>
