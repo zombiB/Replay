@@ -3219,7 +3219,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tb3.tv/tr1/</page>
+				<page>http://www.livehd720.org/G/KSA/Yo/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3247,7 +3247,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tb3.tv/tr1/</page>
+				<page>http://www.livehd720.org/G/KSA/Yo/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3277,7 +3277,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tb3.tv/tr1/</page>
+				<page>http://www.livehd720.org/G/KSA/Yo/</page>
 				</regex>
 				
 		</item>
