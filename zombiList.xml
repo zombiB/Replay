@@ -3191,8 +3191,37 @@
 			</regex>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
 	
+
+		<cname>.Live Youtube</cname>
 	
+	<item>
+			<title>live tennis youtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://tb3.tv/t1/</page>
+				</regex>
+		</item>
+		</streaminginfo>
 	<streaminginfo>
 	
 
