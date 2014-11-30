@@ -1,5 +1,791 @@
 <streamingInfos>
 <streaminginfo>
+		<cname>tf1</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/11</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>rts deux</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/2</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>rts un</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/1</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>M6</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/10</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>FRANCE 3</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/6</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>France 24 FR</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/17</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>tv5monde</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/12</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>arte</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/3</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>W9</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/22</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 5</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/7</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/5</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>GULLI</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/20</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>RTL 9</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/26</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>D8</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/16</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Euronews fr</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/15</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NRJ 12</cname>
+		<item>
+			<title>iphone-tv NRJTV</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/29</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NRJ 12</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/25</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NT1</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/24</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 4</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/18</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BFMTV</cname>
+		<item>
+			<title>iphone-tv </title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/27</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BFMTV</cname>
+		<item>
+			<title>iphone-tv BFMTVBUSINESS</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/fr/28</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sport1</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/de/18</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>ZDF</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/de/2</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>EuroSport German</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/de/15</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BBC One</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/uk/8</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BBC Two</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/uk/10</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>DISCOVERY CHANNEL</cname>
+		<item>
+			<title>iphone-tv</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>(http.*?)"</expres>
+				<page>$doregex[get-unpacked]</page>
+				</regex>
+				<regex>
+				<name>get-unpacked</name>
+				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
+				<page>$doregex[get-decoded]</page>
+</regex>
+<regex>
+<name>get-decoded</name>
+<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
+<page>$doregex[get-first]</page>
+</regex>
+
+<regex>
+<name>get-first</name>
+<expres>eval\((decodeURIComponent.*\);)</expres>
+				<page>http://en.iphone-tv.eu/stream/us/40</page>
+				</regex>
+
+		</item>
+	</streaminginfo>
+	
+<streaminginfo>
 	
 
 		<cname>.Live Youtube</cname>
