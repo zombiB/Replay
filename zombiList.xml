@@ -965,209 +965,8 @@
 				</regex>
 				</item>
 		</streaminginfo>
-	<streaminginfo>
-		<cname>EuroSport German</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/de/22</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sport1</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/de/52</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>ZDF</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/de/19</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>W9</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/21</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>tf1</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/19</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>rts deux</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/2</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>rts un</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/1</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
+	
+	
 	
 	<streaminginfo>
 		<cname>Sport365</cname>
@@ -3151,14 +2950,7 @@
 				<link>rtmp://195.154.220.46:80/liverepeater playpath=164457 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/stream.php?id=164457&amp;width=600&amp;height=450&amp;stretching= token=Fo5_n0w?U.rA6l3-70w47ch timeout=10</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>sonara</title>
-
-				<link>rtmp://live.sonara.net/live/ playpath=live2 swfUrl=http://www.sonara.net/mediaplayera/player.swf live=1 pageUrl=http://www.sonara.net/Abouda timeout=10</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
@@ -3287,86 +3079,24 @@
 				<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP</link>
 		</item>
 	</streaminginfo>
+	
+	
+	
 	<streaminginfo>
-		<cname>Bein Sport 2</cname>
+		<cname>.Live Event</cname>
 		<item>
-			<title>HQ</title>
+			<title>sonara-2-</title>
 
 				<link>http://212.29.216.8:1935/live/live1/chunklist_w68046465.m3u8</link>
 		</item>
 	</streaminginfo>
-	
-	<streaminginfo>		
+	<streaminginfo>
 		<cname>.Live Event</cname>
-			<item>
-				<title>tab3sport leton</title>
-				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://www.wl3.us/Live2/</referer>
-				</regex>
-				<regex>
-				<name>get-pageurl</name>
-				<expres>(http.*450).*</expres>
-				<page>http://tab3sport.net/tv3/</page>
-				</regex>
-		    </item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>.Live Event</cname>
-			<item>
-				<title>livekoooora leton</title>
-				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://www.wl3.us/Live2/</referer>
-				</regex>
-				<regex>
-				<name>get-pageurl</name>
-				<expres>(http.*450).*</expres>
-				<page>http://livekoooora.net/live.php</page>
-				</regex>
-		    </item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>.Live Event</cname>
-			<item>
-				<title>tab3sport leton</title>
-				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://www.wl3.us/Live2/</referer>
-				</regex>
-				<regex>
-				<name>get-pageurl</name>
-				<expres>(http.*450).*</expres>
-				<page>http://www.tab3sport.net/n1/</page>
-				</regex>
-		    </item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>.Live Event</cname>
-			<item>
-				<title>tab3sport leton</title>
-				<link>$doregex[get-rtmp] swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1  timeout=20</link>
-				<regex>
-				<name>get-rtmp</name>
-				<expres>$pyFunction:get_leton_rtmp(page_data)</expres>
-				<page>$doregex[get-pageurl]</page>
-				<referer>http://www.wl3.us/Live2/</referer>
-				</regex>
-				<regex>
-				<name>get-pageurl</name>
-				<expres>(http.*450).*</expres>
-				<page>http://www.tab3sport.net/n2/</page>
-				</regex>
-		    </item>
+		<item>
+			<title>sonara-1-</title>
+
+				<link>rtmp://live.sonara.net/live/ playpath=live2 swfUrl=http://www.sonara.net/mediaplayera/player.swf live=1 pageUrl=http://www.sonara.net/Abouda timeout=10</link>
+		</item>
 	</streaminginfo>
 	
 
@@ -3698,107 +3428,6 @@
 				<page>http://www.livehd720.org/G/KSA/Yo/</page>
 				</regex>
 				
-		</item>
-	</streaminginfo>
-	
-	
-	
-	
-	<streaminginfo>
-		<cname>CafeCreme 1</cname>
-		<item>
-			<title>Channel 1</title>
-
-				<link>rtmp://85.159.237.249:1935/live1/_definst_ playpath=live1  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 2</cname>
-		<item>
-			<title>Channel 2</title>
-
-				<link>rtmp://85.159.237.249:1935/live2/_definst_ playpath=live2  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 3</cname>
-		<item>
-			<title>Channel 3</title>
-
-				<link>rtmp://85.159.237.249:1935/live3/_definst_ playpath=live3  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 4</cname>
-		<item>
-			<title>Channel 4</title>
-
-				<link>rtmp://85.159.237.249:1935/live4/_definst_ playpath=live4  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 5</cname>
-		<item>
-			<title>Channel 5</title>
-
-				<link>rtmp://85.159.237.249:1935/live5/_definst_ playpath=live5  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 6</cname>
-		<item>
-			<title>Channel 6</title>
-
-				<link>rtmp://85.159.237.249:1935/live6/_definst_ playpath=live6  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 7</cname>
-		<item>
-			<title>Channel 7</title>
-
-				<link>rtmp://85.159.237.249:1935/live7/_definst_ playpath=live7  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 8</cname>
-		<item>
-			<title>Channel 8</title>
-
-				<link>rtmp://85.159.237.249:1935/live8/_definst_ playpath=live8  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 9</cname>
-		<item>
-			<title>Channel 9</title>
-
-				<link>rtmp://85.159.237.249:1935/live9/_definst_ playpath=live9  swfUrl=http://cafe-creme.me/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://cafe-creme.me timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 10</cname>
-		<item>
-			<title>Channel 10</title>
-
-				<link>rtmp://37.48.94.35/live playpath=manger1?id=214185 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/simosat68/1/850/500 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CafeCreme 11</cname>
-		<item>
-			<title>Channel 11</title>
-
-				<link>rtmp://46.21.145.234/live playpath=kam11?id=213939 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/mipsite/1/850/500 timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>CafeCreme 12</cname>
-		<item>
-			<title>Channel 12</title>
-
-				<link>rtmp://46.165.230.40/live playpath=kasixidfifff?id=213474 conn=S:OK swfUrl=http://www.mips.tv/content/scripts/fplayer.swf pageUrl=http://www.mips.tv/embedplayer/kasixidfifff/1/850/500 timeout=15</link>
 		</item>
 	</streaminginfo>
 	
@@ -4139,6 +3768,22 @@
 			<link>rtmp://213.136.71.43/live/beinsports4 timeout=15</link>
 		</item>
 	</streaminginfo> 
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>720p hd</title>
+
+				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem42 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem42 timeout=10</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>720p hd</title>
+
+				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem43 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem43 timeout=10</link>
+		</item>
+	</streaminginfo>
 	
 
 </streamingInfos>
