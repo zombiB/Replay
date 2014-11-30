@@ -3784,6 +3784,14 @@
 				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem43 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem43 timeout=10</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>720p hd</title>
+
+				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem44 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem44 timeout=10</link>
+		</item>
+	</streaminginfo>
 	
 
 </streamingInfos>
