@@ -3129,11 +3129,11 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_2</title>
+			<title>maxlive</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18710300/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19254203/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
@@ -3145,7 +3145,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18055171/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19290257/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
