@@ -2032,6 +2032,20 @@
 			<link>http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8</link> 
 			</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.28:1935/live/Abouda playpath=wspf1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Abouda token=#yw%tt#w@kku timeout=10</link> 
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>hdcast</title>
+			<link>rtmpe://46.246.124.28:1935/live/Abouda playpath=wspf2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Abouda token=#yw%tt#w@kku timeout=10</link> 
+			</item>
+	</streaminginfo>
 	<streaminginfo>		
 		<cname>NBC Golf</cname>
 		<item>
@@ -3143,7 +3157,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19446392/streams/live/playlist.m3u8')</expres>
+				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19155521/streams/live/playlist.m3u8')</expres>
 				<page></page>
 				</regex> 
 		</item>
@@ -3165,7 +3179,7 @@
 	<streaminginfo>
 		<cname>.Live Youtube</cname>
 		<item>
-			<title>livekoooora 360p</title>
+			<title>@sportksa 360p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -3186,7 +3200,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.livekoooora.net/channel4.php</page>
+				<page>http://sportksa.org/m.htm</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3335,7 +3349,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://livesportstream5.blogspot.com/</page>
+				<page>http://l720.co/B/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
