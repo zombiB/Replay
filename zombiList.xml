@@ -3734,7 +3734,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_5</title>
+			<title>live720_5 real madrid vs almeria </title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3744,7 +3744,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/1/By/M/</page>
+				<page>http://xlivex.net/1/R/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
