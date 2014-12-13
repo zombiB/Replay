@@ -3401,7 +3401,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://live-ar.com/ch1.htm</page>
+				<page>http://www.tv.livesports-hd.com/iframe/chaine29.php</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3432,7 +3432,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://live-ar.com/ch1.htm</page>
+				<page>http://www.tv.livesports-hd.com/iframe/chaine29.php</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3462,7 +3462,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://live-ar.com/ch1.htm</page>
+				<page>http://www.tv.livesports-hd.com/iframe/chaine29.php</page>
 				</regex>
 				
 		</item>
@@ -3493,7 +3493,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://alhilalive.tv/tv1.htm</page>
+				<page>http://flive.us/e1/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3524,7 +3524,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://alhilalive.tv/tv1.htm</page>
+				<page>http://flive.us/e1/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3554,7 +3554,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://alhilalive.tv/tv1.htm</page>
+				<page>http://flive.us/e1/</page>
 				</regex>
 				
 		</item>
@@ -3585,7 +3585,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://alhilalive.tv/t1.htm</page>
+				<page>http://xlivex.net/3/N/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3616,7 +3616,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://alhilalive.tv/t1.htm</page>
+				<page>http://xlivex.net/3/N/Y/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3646,21 +3646,55 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://alhilalive.tv/t1.htm</page>
+				<page>http://xlivex.net/3/N/Y/</page>
 				</regex>
 				
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>.Live Ustream</cname>hlsvp": "(.*?)"
+		<cname>.Live Ustream</cname>
 		<item>
 			<title>live720</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/1/C/M/</page>
+				<expres>src="(.*?)"</expres>
+				<page>http://www.tv.livesports-hd.com/iframe/chaine12.php</page>
 				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>live720_8</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-delink</name>
+				<expres>src="(.*?)"</expres>
+				<page>http://www.tv.livesports-hd.com/iframe/chaine25.php</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>live720_7</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-delink</name>
+				<expres>src="(.*?)"</expres>
+				<page>http://www.tv.livesports-hd.com/iframe/chaine13.php</page>
+				</regex>
 		</item>
 	</streaminginfo>
 <streaminginfo>
@@ -3693,14 +3727,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/1/B/M/</page>
+				<page>http://flive.us/e1/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_3</title>
+			<title>live720_3 chelsea</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3710,14 +3744,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/2/C/M/</page>
+				<page>http://xlivex.net/3/C/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_4</title>
+			<title>live720_4 fcb</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3727,14 +3761,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/1/R/M/</page>
+				<page>http://xlivex.net/3/B/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_5 real madrid vs almeria </title>
+			<title>live720_5 arsenal</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3744,7 +3778,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/1/R/M/</page>
+				<page>http://xlivex.net/3/A/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
