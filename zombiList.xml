@@ -3301,78 +3301,7 @@
 			<link>rtmp://213.136.71.43/live/beinsports4 timeout=15</link>
 		</item>
 	</streaminginfo> 
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem42 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem42 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem43 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem43 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem44 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem44 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem46 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem46 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem47 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem47 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem48 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem48 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem50 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem50 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem51 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem51 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>720p hd</title>
-
-				<link>rtmp://192.99.101.238:2196/vip/ playpath=file:prem52 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://sportsmafia.tv/view.php?pg=prem52 timeout=10</link>
-		</item>
-	</streaminginfo>
+	
 	
 	
 	<streaminginfo>
