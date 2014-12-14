@@ -3401,7 +3401,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.tv.livesports-hd.com/iframe/chaine29.php</page>
+				<page>http://hd720.co/6/R/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3432,7 +3432,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://www.tv.livesports-hd.com/iframe/chaine29.php</page>
+				<page>http://hd720.co/6/R/Y/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3462,7 +3462,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://www.tv.livesports-hd.com/iframe/chaine29.php</page>
+				<page>http://hd720.co/6/R/Y/</page>
 				</regex>
 				
 		</item>
@@ -3493,7 +3493,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://flive.us/e1/</page>
+				<page>http://hd720.co/6/N/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3524,7 +3524,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://flive.us/e1/</page>
+				<page>http://hd720.co/6/N/Y/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3554,7 +3554,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://flive.us/e1/</page>
+				<page>http://hd720.co/6/N/Y/</page>
 				</regex>
 				
 		</item>
@@ -3585,7 +3585,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://xlivex.net/3/N/Y/</page>
+				<page>http://hd720.co/6/J/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3616,7 +3616,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://xlivex.net/3/N/Y/</page>
+				<page>http://hd720.co/6/J/Y/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3646,7 +3646,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://xlivex.net/3/N/Y/</page>
+				<page>http://hd720.co/6/J/Y/</page>
 				</regex>
 				
 		</item>
@@ -3717,7 +3717,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_2</title>
+			<title>live720_2 roma</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3727,14 +3727,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://flive.us/e1/</page>
+				<page>http://hd720.co/6/R/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_3 chelsea</title>
+			<title>live720_3 napoli vs milan</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3744,14 +3744,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/3/C/M/</page>
+				<page>http://hd720.co/6/N/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_4 fcb</title>
+			<title>live720_4 man utd vs liverpool</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3761,14 +3761,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/3/B/M/</page>
+				<page>http://hd720.co/6/M/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_5 arsenal</title>
+			<title>live720_5 juventus</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3778,7 +3778,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/3/A/M/</page>
+				<page>http://hd720.co/6/J/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
