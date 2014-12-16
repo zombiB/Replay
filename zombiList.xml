@@ -3514,7 +3514,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://hd720.co/6/J/Y/</page>
+				<page>http://lhd7.co/3/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3545,7 +3545,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://hd720.co/6/J/Y/</page>
+				<page>http://lhd7.co/3/Y/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3575,7 +3575,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://hd720.co/6/J/Y/</page>
+				<page>http://lhd7.co/3/Y/</page>
 				</regex>
 				
 		</item>
@@ -3629,7 +3629,7 @@
 <streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_1</title>
+			<title>live720_1 real</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3639,14 +3639,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/1/C/M/</page>
+				<page>http://lhd7.co/3/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_2 roma</title>
+			<title>live720_2 real</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3656,14 +3656,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/6/R/M/</page>
+				<page>http://lhd7.co/3/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_3 napoli vs milan</title>
+			<title>live720_3 bayern</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3673,14 +3673,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/6/N/M/</page>
+				<page>http://l720.co/B/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_4 man utd vs liverpool</title>
+			<title>live720_4 chelsea</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3690,14 +3690,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/6/M/M/</page>
+				<page>http://l720.co/C/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_5 juventus</title>
+			<title>live720_5 fcb</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3707,7 +3707,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/6/J/M/</page>
+				<page>http://lhd7.co/3/B/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
