@@ -785,202 +785,7 @@
 		</item>
 	</streaminginfo>
 	
-<streaminginfo>
 	
-
-		<cname>.Live Youtube</cname>
-<item>
-			<title>youtube1 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/27</page>
-				</regex>
-		</item>
-		</streaminginfo>
-		<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-<item>
-			<title>youtube1 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/27</page>
-				</regex>
-		</item>
-		</streaminginfo>
-		<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-<item>
-			<title>youtube1 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/27</page>
-				</regex>
-				</item>
-		</streaminginfo>
-<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-<item>
-			<title>youtube2 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/26</page>
-				</regex>
-		</item>
-		</streaminginfo>
-		<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-<item>
-			<title>youtube2 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/26</page>
-				</regex>
-		</item>
-		</streaminginfo>
-		<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-<item>
-			<title>youtube2 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/26</page>
-				</regex>
-				</item>
-		</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>Sport365</cname>
-		<item>
-			<title>creacast</title>
-			<link>http://max.myfrtv.com/1411/m3u8/1411.m3u8$doregex[get-token]</link>
-			<regex>
-			<name>get-token</name>
-			<expres>(.*)</expres>
-			<page>http://myfrtv.com/channels/new-file/</page>
-			<x-forward>205.236.221.231</x-forward>
-			</regex>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Weo</cname>
 		<item>
@@ -991,14 +796,14 @@
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
 		<item>
-			<title>m3u8</title>
+			<title>400 m3u8</title>
 			<link>http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/index_400_av-p.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
 		<item>
-			<title>m3u8</title>
+			<title>206 m3u8</title>
 			<link>http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8</link> 
 		</item>
 	</streaminginfo>
@@ -1041,6 +846,44 @@
 		<item>
 			<title>radio</title>
 			<link>http://streamer.mada.ps:8008/AJYAL</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Ajyal Network</cname>
+		<item>
+			<title>lIVE tv SD (rtmp)</title>
+			<link>rtmp://46.43.64.162/ajyal//livestreamm timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Ajyal Network</cname>
+		<item>
+			<title>lIVE tv HD (rtmp)</title>
+			<link>rtmp://46.43.64.162:1935/ajyal/livestream2 timeout=15</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Ajyal Network</cname>
+		<item>
+			<title>lIVE tv SD (m3u8)</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>file: "(.*?)"</expres>
+				<page>http://www.arn.ps/tv2/ajyal.js</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Ajyal Network</cname>
+		<item>
+			<title>lIVE tv HD (m3u8)</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>file: "(.*?)"</expres>
+				<page>http://www.arn.ps/tv/ajyal.js</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	
@@ -1458,7 +1301,7 @@
 		<cname>NATIONAL GEO FR</cname>
 		<item>
 			<title>stream4free m3u8</title>
-			<link>http://195.154.188.161/hls/nationalgeo.m3u8</link>
+			<link>rtmp://195.154.188.161/live tiemout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1554,60 +1397,14 @@
 			<link>http://pebbles101-lh.akamaihd.net/i/france2_1@97347/index_900_av-b.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
-			<title>numericable</title>
-			<link>http://france2-hls.live.numericable.tv/live/hls/france2/ipad.m3u8 </link> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 3</cname>
-		<item>
-			<title>numericable</title>
-			<link>http://france3-hls.live.numericable.tv/live/hls/france3/ipad.m3u8 </link> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 4</cname>
-		<item>
-			<title>numericable</title>
-			<link>http://france4-hls.live.numericable.tv/live/hls/france4/ipad.m3u8 </link> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 5</cname>
-		<item>
-			<title>numericable</title>
-			<link>http://france5-hls.live.numericable.tv/live/hls/france5/ipad.m3u8 </link> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 0</cname>
-		<item>
-			<title>numericable</title>
-			<link>http://france0-hls.live.numericable.tv/live/hls/france0/ipad.m3u8 </link> 
-		</item>
-	</streaminginfo>
-
-
 	
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
 		<item>
-			<title>master</title>
+			<title>akamaihd</title>
 			<link>http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=146.159.95.38</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>TV 5 MONDE</cname>
-		<item>
-			<title>master</title>
-			<link>rtmp://85.91.143.22/90457/90457.stream timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	
 	
 	<streaminginfo>
 		<cname>BBC Two</cname>
@@ -1628,14 +1425,7 @@
 			<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>M6</cname>
-		<item>
-			<title>umericable</title>
-			<link>http://m6-hls.live.numericable.tv/live/hls/m6/ipad.m3u8 
-</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>W9</cname>
 		<item>
@@ -1644,13 +1434,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>I-Tele</cname>
-	<item>
-		<title>en clair</title>
-		<link>rtmp://live-fms.canalplus.fr:443/live/itele_800@42248 timeout=15</link> 
-	</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>D17</cname>
 		<item>
@@ -1668,14 +1452,14 @@
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
-			<title>wat</title>
+			<title>halima</title>
 			<link>rtmp://halima-live.com:1936/live2 playpath=tf1 swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=1 flashver=WIN\2013,0,0,214 pageUrl=http://www.scorpion-server.com.tn/chaine.php?cat=16&amp;id=81 timeout=15</link> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
-			<title>master</title>
+			<title>akamaihd</title>
 			<link>http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/master.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&amp;X-Forwarded-For=146.159.95.38</link>
 		</item>
 	</streaminginfo>
@@ -2035,15 +1819,15 @@
 	<streaminginfo>
 		<cname>Bein 1 FR</cname>
 		<item>
-			<title>hdcast</title>
-			<link>rtmpe://46.246.124.28:1935/live/Abouda playpath=wspf1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Abouda token=#yw%tt#w@kku timeout=10</link> 
+			<title>hd</title>
+			<link>http://5.39.70.216/10$-month/sports@fontsbay.com/31.ch</link> 
 			</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein 2 FR</cname>
 		<item>
-			<title>hdcast</title>
-			<link>rtmpe://46.246.124.28:1935/live/Abouda playpath=wspf2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Abouda token=#yw%tt#w@kku timeout=10</link> 
+			<title>hd</title>
+			<link>http://5.39.70.216/10$-month/sports@fontsbay.com/36.ch</link> 
 			</item>
 	</streaminginfo>
 	<streaminginfo>		
@@ -3330,7 +3114,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://hd720.co/6/R/Y/</page>
+				<page>http://tab3live.tv/mobile/index/matchview/match_id/166</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3361,7 +3145,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://hd720.co/6/R/Y/</page>
+				<page>http://tab3live.tv/mobile/index/matchview/match_id/166</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3391,7 +3175,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://hd720.co/6/R/Y/</page>
+				<page>http://tab3live.tv/mobile/index/matchview/match_id/166</page>
 				</regex>
 				
 		</item>
@@ -3422,7 +3206,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://hd720.co/6/N/Y/</page>
+				<page>http://tab3live.tv/mobile/index/matchview/match_id/167</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3453,7 +3237,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://hd720.co/6/N/Y/</page>
+				<page>http://tab3live.tv/mobile/index/matchview/match_id/167</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3483,7 +3267,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://hd720.co/6/N/Y/</page>
+				<page>http://tab3live.tv/mobile/index/matchview/match_id/167</page>
 				</regex>
 				
 		</item>
@@ -3514,7 +3298,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://lhd7.co/3/Y/</page>
+				<page>http://lhd7.co/3/J1/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3545,7 +3329,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://lhd7.co/3/Y/</page>
+				<page>http://lhd7.co/3/J1/Y/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3575,7 +3359,38 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://lhd7.co/3/Y/</page>
+				<page>http://lhd7.co/3/J1/Y/</page>
+				</regex>
+				
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>@Tab3live  1080p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1920x1080\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
+				<page>http://lhd7.co/3/J1/Y/</page>
 				</regex>
 				
 		</item>
@@ -3697,7 +3512,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_5 fcb</title>
+			<title>live720_5 juventus</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3707,7 +3522,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://lhd7.co/3/B/M/</page>
+				<page>http://lhd7.co/3/J1/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
