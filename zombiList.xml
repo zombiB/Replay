@@ -2350,7 +2350,7 @@
 		<item>
 			<title>1uk</title>
 
-			<link>rtmpe://198.204.255.66:1935/live playpath=skysp1?=e04e48bc1eeb4ba21ecdda7dc60b1b9b swfUrl=http://www.kbps.tv/jl/player.swf live=1 pageUrl=http://www.kbps.tv/embed3.php?s=skysp1&amp;width=615&amp;height=415&amp;domain=ne gmtv.altervista.org --live timeout=15</link>
+			<link>rtmpe://198.204.255.66:1935/live playpath=skysp1?=e04e48bc1eeb4ba21ecdda7dc60b1b9b swfUrl=http://www.kbps.tv/jl/player.swf live=1 pageUrl=http://www.kbps.tv/embed3.php?s=skysp1&amp;width=615&amp;height=415&amp;domain=negmtv.altervista.org --live timeout=15</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2360,19 +2360,10 @@
 		<item>
 			<title>2uk</title>
 
-			<link>rtmpe://198.204.255.66:1935/live playpath=skysp2?=80ad7fab2386de75cb5c0b56bc81f800 swfUrl=http://www.kbps.tv/jl/player.swf live=1 pageUrl=http://www.kbps.tv/embed3.php?s=skysp2&amp;width=615&amp;height=415&amp;domain=ne gmtv.altervista.org --live timeout=15</link>
+			<link>rtmpe://198.204.255.66:1935/live playpath=skysp2?=80ad7fab2386de75cb5c0b56bc81f800 swfUrl=http://www.kbps.tv/jl/player.swf live=1 pageUrl=http://www.kbps.tv/embed3.php?s=skysp2&amp;width=615&amp;height=415&amp;domain=negmtv.altervista.org --live timeout=15</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-
-		<cname>Sky Sports 1</cname>
-
-		<item>
-			<title>hdcast</title>
-
-			<link>rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky1 pageUrl=http://www.hdcast.org/ token=?#ýyw?%tt#w@kku timeout=15</link>
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 	
 
@@ -2384,7 +2375,7 @@
 			<link>rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
-
+	
 	<streaminginfo>
 	
 
