@@ -3236,7 +3236,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/167</page>
+				<page>http://xlivex.net/3/RE/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3267,7 +3267,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/167</page>
+				<page>http://xlivex.net/3/RE/Y/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3297,7 +3297,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tab3live.tv/mobile/index/matchview/match_id/167</page>
+				<page>http://xlivex.net/3/RE/Y/</page>
 				</regex>
 				
 		</item>
@@ -3718,7 +3718,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://lhd7.co/3/J1/Y/</page>
+				<page>http://tlive.us/u1/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3749,7 +3749,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://lhd7.co/3/J1/Y/</page>
+				<page>http://tlive.us/u1/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3779,7 +3779,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://lhd7.co/3/J1/Y/</page>
+				<page>http://tlive.us/u1/</page>
 				</regex>
 				
 		</item>
@@ -3810,7 +3810,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://lhd7.co/3/J1/Y/</page>
+				<page>http://tlive.us/u1/</page>
 				</regex>
 				
 		</item>
@@ -3824,7 +3824,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>src="(.*?)"</expres>
-				<page>http://www.tv.livesports-hd.com/iframe/chaine12.php</page>
+				<page>http://tlive.us/u2/</page>
 				</regex> 
 		</item>
 	</streaminginfo>
