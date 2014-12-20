@@ -1632,42 +1632,35 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>BBC One</cname>
-		<item>
-			<title>flashtv</title>
-			<link>rtmp://31.220.0.133:1935/live playpath=bbc1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
+		<cname>Sky Sports 1vv</cname>
 		<item>
 			<title>hdcast</title>
 			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 2</cname>
+		<cname>Sky Sports 2vv</cname>
 		<item>
 			<title>flashtv</title>
 			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 3</cname>
+		<cname>Sky Sports 3vv</cname>
 		<item>
 			<title>flashtv</title>
 			<link>rtmp://109.123.70.34:1935/live playpath=ss3xx swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15</link>
 		</item>
 	</streaminginfo>	
 	<streaminginfo>
-		<cname>Sky Sports 4</cname>
+		<cname>Sky Sports 4vv</cname>
 		<item>
 			<title>flashtv</title>
 			<link>rtmpe://46.246.124.27:1935/live/w-sp.tv-s5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Sky Sports F1</cname>
+		<cname>Sky Sports F1vv</cname>
 		<item>
 			<title>sky 5 best</title>
 			<link>rtmp://95.168.199.241:1935/live playpath=ss5xx swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15</link>
@@ -1684,7 +1677,7 @@
 	
 	
 	<streaminginfo>
-		<cname>Al Hiwar</cname>
+		<cname>Al Hiwarvv</cname>
 		<item>
 			<title>alhiwar.tv</title>
 			<link>rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true  pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&amp;rurl=translate.google.com&amp;sl=ar&amp;u=http://www.alhiwar.tv/&amp;usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg timeout=20</link>
@@ -1692,7 +1685,7 @@
 	</streaminginfo>
     
 	<streaminginfo>
-		<cname>AL MASAR</cname>
+		<cname>AL MASARvv</cname>
 		<item>
 			<title>original</title>
 			<link>rtmp://msr1tv.flashmediacast.com:2071/live/livestream timeout=20</link>
@@ -1720,7 +1713,7 @@
 	<streaminginfo>
 		<cname>AlFajer Gaza</cname>
 		<item>
-			<title>original Geoblocked</title>
+			<title>original</title>
 			<link>rtmp://82.102.232.165:1935/alfajertv_gaza/alfajertv_1 timeout=20</link>
 		</item>
 	</streaminginfo>
@@ -1744,11 +1737,8 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-	
 	<streaminginfo>
-		<cname>AlYawm</cname>
+		<cname>AlYawmvv</cname>
 		<item>
 			<title>fb</title>
 			<link>rtmp://839156450.e.541833257.r.w6cdn.com/541833257//mp4:freeegeYSbQLHNsFZa timeout=15</link>
@@ -1787,7 +1777,7 @@
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>frlive 315</title>
+			<title>akamaihd </title>
 			<link>http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/master.m3u8|X-Forwarded-For=195.186.145.47</link>
 		</item>
 	</streaminginfo>
@@ -1802,20 +1792,6 @@
 	</streaminginfo>
 	
 	
-	<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>numericable</title>
-			<link>http://beinsport1-hls.live.numericable.tv/live/hls/beinsport1/ipad.m3u8</link> 
-			</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>numericable</title>
-			<link>http://beinsport2-hls.live.numericable.tv/live/hls/beinsport2/ipad.m3u8</link> 
-			</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein 1 FR</cname>
 		<item>
@@ -1875,21 +1851,21 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Cinema EN</cname>
+		<cname>Cinema ENvv</cname>
 		<item>
 	        <title> ar</title>
 			<link>http://212.68.33.139:8001</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Cinema EN</cname>
+		<cname>Cinema ENvv</cname>
 		<item>
 	        <title> fr</title>
 			<link>http://212.68.33.139:8003</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Cinema EN</cname>
+		<cname>Cinema ENvv</cname>
 		<item>
 	        <title> en</title>
 			<link>http://212.68.33.139:8002</link>
@@ -1905,7 +1881,7 @@
 	<streaminginfo>
 		<cname>rts deux</cname>
 		<item>
-		<title>RTS Deux</title>
+		<title>akamaihd</title>
 		<link>http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
@@ -1918,7 +1894,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Equipe 21</cname>
+		<cname>Equipe 21vv</cname>
 			<item>
 					<title>index</title>
 					<link>http://95.81.146.15/5687/index.m3u8</link>
@@ -1933,7 +1909,7 @@
 			</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>HD1</cname>
+		<cname>HD1vv</cname>
 		<item>
 		<title>wat</title>
 		<link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;auth=pvtoken%3Dst%253D0000000000%257Eexp%253D9999999999%257Eacl%253D%25252f%25252a%257Edata%253DZXhwPTE0MDc3MjYzMzN%2BYWNsPSUyZip%2BZGF0YT1wdmMsc35obWFjPTFhMGE4NTk1NjBjOGRjNGVmNTIxZWQ4ZGExODc1MjRiMWYwYmJmMDUxMDFkMWU4ZDJlM2E5YmU1NjkwNjNjNWQ%253D%2521DICnlYvc%2FdmyS2FqMPqgEOeNAJFILRiYPxqjY4EHEys%253D%257Ehmac%253D6D960F9624EDF71727A75B6C360CD79C661CB96C62AF2B45286B5523B71D04D4%26hdntl%3Dexp%3D1407726333~acl%3D%252f*~data%3Dhdntl~hmac%3D90ab911ebe7c4fc6976777c6cd2874eedaec5da4128c8ed92817442dcae65afb%26hdcore%3D2.5.14%26als%3D0%2C2%2C0%2C0%2C0%2CNaN%2C0%2C0%2C0%2C19%2Cf%2C54125192%2C54064223.59%2Ct%2Cs%2CQHQOKBVWPVWK%2C2.7.6%2C19</link>
@@ -1967,7 +1943,7 @@
 	</streaminginfo>
 
 	<streaminginfo>
-		<cname>MBC 3</cname>
+		<cname>MBC 3vv</cname>
 		<item>
 	        <title>rtmp</title>
 			<link>rtmp://85.91.143.20/15678//15678.stream timeout=20</link>
@@ -2779,54 +2755,7 @@
 	</streaminginfo>
 	
 
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>livehd720_3</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18958050/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>maxlive</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19254203/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>live720_4</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19290257/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>live720_1</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo//19290257/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>BEIN ESP</cname>
 		<item>
@@ -3398,7 +3327,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720</title>
+			<title>live720_8</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3410,7 +3339,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_8</title>
+			<title>live720_7 REAL MADRID VS LORENZO</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3420,14 +3349,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>src="(.*?)"</expres>
-				<page>http://www.tv.livesports-hd.com/iframe/chaine25.php</page>
+				<page>http://xlivex.net/3/RE/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_7</title>
+			<title>live720_6</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3444,7 +3373,7 @@
 <streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_1 real</title>
+			<title>live720_5 BUNDESLIGA</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3454,14 +3383,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://lhd7.co/3/</page>
+				<page>http://xlivex.net/3/D/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_2 real</title>
+			<title>live720_4 LIGUE1</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3478,7 +3407,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_3 bayern</title>
+			<title>live720_3 CALCIO</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3488,14 +3417,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://l720.co/B/M/</page>
+				<page>http://xlivex.net/3/RO/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_4 chelsea</title>
+			<title>live720_2 LIGA</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3505,14 +3434,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://l720.co/C/M/</page>
+				<page>http://xlivex.net/3/B/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_5 juventus</title>
+			<title>live720_1 EPL CITY</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3522,8 +3451,26 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://lhd7.co/3/J1/M/</page>
+				<page>http://xlivex.net/3/M1/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>live720_1 EPL MAN UTD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-delink</name>
+				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
+				<page>http://xlivex.net/3/M2/M/</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	
 </streamingInfos>
