@@ -14,14 +14,14 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>raisport</cname>
+		<cname>Tele Sports</cname>
 		<item>
 			<title>raisport1</title>
 			<link>mmsh://212.162.68.163:80/raisport+ timeout=10</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>raisport2</cname>
+		<cname>Tele Sports</cname>
 		<item>
 			<title>raisport</title>
 			<link>mmsh://212.162.68.163:80/raisport2 timeout=10</link>
@@ -1659,7 +1659,13 @@
 		</item>
 	</streaminginfo>
 	
-
+<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>hdcast5</title>
+			<link>rtmp://80.82.78.22:443/liverepeater playpath=11 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=11&amp;width=600&amp;height=450 token=#atd%#$ZH timeout=20</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Sky Sports 1</cname>
 		<item>
@@ -1906,7 +1912,63 @@
 			<link>http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>NTV Plus Football 1 HD</title>
+			<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>NTV Plus Football 1 sd</title>
+			<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8</link>
+		</item>
+	</streaminginfo>
 	
+	<streaminginfo>		
+		<cname>Tele Sports</cname>
+		<item>
+			<title>Silk sport 1 HD</title>
+			<link>rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/ timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>		
+		<cname>Tele Sports</cname>
+		<item>
+			<title>SportsTV3</title>
+			<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3 timeout=10</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>aspor</title>
+			<link>http://hls.turkuvazgroup.net/aspor-hls/smil:aspor.smil/chunklist_www_b396000.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>russia1</title>
+			<link>http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>NTV Plus Football 1 HD</title>
+			<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>NTV Plus Football 1 sd</title>
+			<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8</link>
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>Cinema ENvv</cname>
 		<item>
@@ -3890,7 +3952,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_3 CALCIO</title>
+			<title>live720_3 EPL CHELSEA</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3900,14 +3962,14 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/3/RO/M/</page>
+				<page>http://xlivex.net/5/C/1/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_2 LIGA</title>
+			<title>live720_2 EPL ARSENAL</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3917,7 +3979,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/3/B/M/</page>
+				<page>http://xlivex.net/5/A/1/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3934,7 +3996,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/3/M1/M/</page>
+				<page>http://xlivex.net/5/M/1/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -3951,9 +4013,228 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/3/M2/M/</page>
+				<page>http://xlivex.net/5/T/1/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>micast</title>
+
+				<link>rtmp://94.102.51.75:443/liveedge/ playpath=4v35125L swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=4v35125L timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>mipsplayer</title>
+
+				<link>rtmp://37.48.94.35/live playpath=dfnjfjgjgcjgjgjgjfg?id=219151 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/ Conn=S:OK timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>kooralive</title>
+
+				<link>rtmp://185.2.137.212/live playpath=kooraliveHD00s1?id=25913 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/Abouda Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>kooralive1</title>
+
+				<link>rtmp://185.2.137.212/live playpath=kooraliveHD0001?id=25804 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/Abouda Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>mybeststream</title>
+
+				<link>rtmpe://5.157.48.98:443/c0be82e1442e7169a9a358db47fcafcb playpath=bein1163 swfUrl=http://mybeststream.xyz/NWZiOWRjYWU4OTUw.../jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/ timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein1-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein1-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein2-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein2-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein3-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein3-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein4-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein4-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein5-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein5-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein6-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein6-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein7-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein7-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein8-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein8-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein9-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein9-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein10-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein10-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein11-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein11-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein12-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein12-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein13-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein13-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein14-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein14-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>fifaembed</title>
+				<link>http://live1.fifaembed.com:1935/live/bein15-hq$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>http://live1.fifaembed.com:1935/live/bein15-hq(.*?)"</expres>
+				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 </streamingInfos>
