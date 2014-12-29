@@ -3289,7 +3289,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://xlivex.net/3/RE/Y/</page>
+				<page>http://xlivex.net/L/1/Y/</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3320,7 +3320,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://xlivex.net/3/RE/Y/</page>
+				<page>http://xlivex.net/L/1/Y/</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3350,7 +3350,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://xlivex.net/3/RE/Y/</page>
+				<page>http://xlivex.net/L/1/Y/</page>
 				</regex>
 				
 		</item>
@@ -3771,7 +3771,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tlive.us/u1/</page>
+				<page>http://sportksa.org/watch.php?id=41</page>
 				</regex>
 		</item>
 		</streaminginfo>
@@ -3802,7 +3802,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://tlive.us/u1/</page>
+				<page>http://sportksa.org/watch.php?id=41</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3832,7 +3832,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tlive.us/u1/</page>
+				<page>http://sportksa.org/watch.php?id=41</page>
 				</regex>
 				
 		</item>
@@ -3863,7 +3863,7 @@
 				<regex>
 				<name>delink</name>
 				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://tlive.us/u1/</page>
+				<page>http://sportksa.org/watch.php?id=41</page>
 				</regex>
 				
 		</item>
@@ -3986,7 +3986,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_1 EPL CITY</title>
+			<title>live720_1 EPL LIVERPOOL</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -3996,7 +3996,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://xlivex.net/5/M/1/M/</page>
+				<page>http://xlivex.net/L/1/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
