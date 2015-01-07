@@ -4181,7 +4181,7 @@
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
-			<title>live720_1 FCB</title>
+			<title>live720_1 REAL VS ATLETIC</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
@@ -4191,7 +4191,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://hd720.co/1/B/M/</page>
+				<page>http://lhd7.co/R/M/</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -4421,6 +4421,42 @@
 				<name>get-link</name>
 				<expres>http://live1.fifaembed.com:1935/live/bein15-hq(.*?)"</expres>
 				<page>http://m.fifaembed.com/beinsports.php</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>SONARA1</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>extraHD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>extra2HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/extra2.html</page>
 				</regex> 
 		</item>
 	</streaminginfo>
