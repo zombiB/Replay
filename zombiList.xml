@@ -4246,9 +4246,6 @@
 				</regex> 
 		</item>
 	</streaminginfo>
-</streamingInfos>
-
-	
 	<streaminginfo>
 		<cname>.Live Event</cname>
 		<item>
@@ -4275,3 +4272,7 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+</streamingInfos>
+
+	
+	
