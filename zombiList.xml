@@ -7,6 +7,13 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
+		<cname>NBCSN</cname>
+		<item>
+			<title>nbcsn0</title>
+			<link>rtmp://50.7.164.34:2555/stream/ playpath=mona1 swfUrl=http://embed.beststreams.ru/flowplayer-3.2.18.swf live=1 pageUrl=http://embed.beststreams.ru/v2.php?channel=mona1 timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>TVA Gatineau</cname>
 		<item>
 			<title>24/7</title>
@@ -2436,404 +2443,7 @@
 			<link>rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
 	
-
-		<cname>Bein Sport News</cname>
-
-		<item>
-			<title>sd</title>
-
-			<link>http://149.255.39.122/aasd/8817/index.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://5.153.233.74:443/c0be82e1442e7169a9a358db47fcafcb app=c0be82e1442e7169a9a358db47fcafcb playpath=1b342 swfUrl=http://res.xuscacamusca.se/6ec3e75435a5cb7af67afd7e98cee751/player1.swf pageUrl=http://xuscacamusca.se/?id=24104&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=2b878 swfUrl=http://res.xuscacamusca.se/bd0d900c0e94e9d140b14d8db2edf3bb/player1.swf pageUrl=http://xuscacamusca.se/?id=24105&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=3b426 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24106&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=4b206 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24110&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=5b981 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24111&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=6b660 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24112&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=7b842 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24113&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=8b916 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24114&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=9b272 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24115&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>tmpe://l.xuscacamusca.se/r/ playpath=10b510 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24116&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=11b761 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24117&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=12b994 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24118&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=13b361 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24119&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=14b898 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24120&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>xuscacamusca</title>
-
-				<link>rtmpe://l.xuscacamusca.se/r/ playpath=15b378 swfUrl=http://res.xuscacamusca.se/5e11797518d00400d99fb91bf8134017/player1.swf pageUrl=http://xuscacamusca.se/?id=24121&amp;width=100%25&amp;height=100% live=1 timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=20 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=23 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=24 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=25 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=26 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=27 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=28 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=29 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=32 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=33 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=34 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>xxcast</title>
-
-				<link>rtmp://89.248.171.97:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=21&amp;width=640&amp;height=460 token=#atd%#$ZH timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>yalla-shoot</title>
-
-				<link>rtmp://94.242.228.84:80/liverepeater playpath=164455 swfUrl=http://cdn.goodcast.me/players.swf live=1 pageUrl=http://goodcast.me/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>yalla-shoot</title>
-
-				<link>rtmp://195.154.220.46:80/liverepeater playpath=164454 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/stream.php?id=164454&amp;width=600&amp;height=450&amp;stretching= token=Fo5_n0w?U.rA6l3-70w47ch timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>yalla-shoot</title>
-
-				<link>rtmp://94.242.228.84:80/liverepeater playpath=164456 swfUrl=http://cdn.goodcast.me/players.swf live=1 pageUrl=http://goodcast.me/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>yalla-shoot</title>
-
-				<link>rtmp://195.154.220.46:80/liverepeater playpath=164457 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/stream.php?id=164457&amp;width=600&amp;height=450&amp;stretching= token=Fo5_n0w?U.rA6l3-70w47ch timeout=10</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/80.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/81.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/82.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/479.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/480.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/481.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/482.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/87.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/88.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/89.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/90.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/91.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/92.ch</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 15</cname>
-		<item>
-			<title>dzsat</title>
-
-				<link>http://213.133.100.136/dzsat/weekend/93.ch</link>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
@@ -2855,7 +2465,7 @@
 		<item>
 			<title>uforone</title>
 
-				<link>rtmp://wzmatch.uforone.net:1935/live/beinsports1 playpath=beinsports1?Sport.HD swfUrl=http://www.Abouda.com/player.swf live=1 pageUrl=http://www.Abouda.com/play.php timeout=10</link>
+				<link>rtmp://wzmatch.uforone.net:1935/live/beinsports1 timeout=10</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -2875,32 +2485,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-	
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>sonara-2-</title>
-
-				<link>rtmp://live.sonara.net/live//vbf1 timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>sonara-1-</title>
-
-				<link>rtmp://live.sonara.net/live/ playpath=vbf1 swfUrl=http://www.sonara.net/mediaplayera/player.swf live=1 pageUrl=http://www.sonara.net/Abouda timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	
-	
-
-	
 	<streaminginfo>
 		<cname>BEIN ESP</cname>
 		<item>
@@ -2914,117 +2498,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title> 1 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=20</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title> 2 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title> 3 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title> 4 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title> 5 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title> 6 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title> 7 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title> 8 HD flashtv</title>
-
-				<link>rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/Sportsiptv token=#atd%#$ZH timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title> 9 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title> 10 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title> 11 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title> 12 HD flashtv</title>
-
-				<link>rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z timeout=10</link>
-		</item>
-	</streaminginfo>
-
 	<streaminginfo>
 		<cname>viasat SPORT 3</cname>
 		<item>
@@ -3160,33 +2633,6 @@
 		</item>
 	</streaminginfo> 
 	
-
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>micast</title>
-
-				<link>rtmp://94.102.51.75:443/liveedge/ playpath=4v35125L swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=4v35125L timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>mipsplayer</title>
-
-				<link>rtmp://37.48.94.35/live playpath=dfnjfjgjgcjgjgjgjfg?id=219151 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/ Conn=S:OK timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>mybeststream</title>
-
-				<link>rtmpe://5.157.48.98:443/c0be82e1442e7169a9a358db47fcafcb playpath=bein1163 swfUrl=http://mybeststream.xyz/NWZiOWRjYWU4OTUw.../jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/ timeout=20</link>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
@@ -3219,26 +2665,137 @@
 				
 		</item>
 	</streaminginfo>
-	<streaminginfo>
+	
+	
+<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>iguideAR 1</title>
+				<link>rtmp://46.165.220.225/iguide playpath=kcei6bxb8npfsae swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>iguideAR</title>
-				<link>rtmp://94.102.63.55/iguide playpath=zq54e3gwfwfr9r3 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+			<title>iguideAR 2</title>
+				<link>rtmp://207.244.67.24/iguide playpath=zq54e3gwfwfr9r3 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>iguideAR 3</title>
+				<link>rtmp://207.244.67.9/iguide playpath=h8jumqu0jhxmcur swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>iguideAR 4</title>
+				<link>rtmp://207.244.77.15/iguide playpath=h8jumqu0jhxmcur swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>iguideAR 5</title>
+				<link>rtmp://207.244.76.206/iguide playpath=fmr2urscdx0r7fi swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>iguideAR 6</title>
+				<link>rtmp://207.244.76.206/iguide playpath=vmdzjkssh6ahtp6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>iguideAR 7</title>
+				<link>rtmp://207.244.67.9/iguide playpath=zzfqvfs2w9x3e9l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>iguideAR 8</title>
+				<link>rtmp://178.162.199.141/iguide playpath=hb9x2txckide04r swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>iguideAR 9</title>
+				<link>rtmp://46.165.220.225/iguide playpath=s23zgr9rr2nouon swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>iguideAR 10</title>
+				<link>rtmp://207.244.89.23/iguide playpath=ikq7alery10mswt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>iguideAR 11</title>
+				<link>rtmp://95.211.211.222/iguide playpath=sighaniivpikwlo swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
+				
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>iguideAR 12</title>
+				<link>rtmp://207.244.76.206/iguide playpath=vjzoko4mkc1bzi5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
 				
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein Sport 1</cname>
 		<item>
-			<title>fifaembed</title>
-				<link>http://live1.fifaembed.com:1935/live/bein15-hq$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>http://live1.fifaembed.com:1935/live/bein15-hq(.*?)"</expres>
-				<page>http://m.fifaembed.com/beinsports.php</page>
-				</regex> 
+			<title>Janjua kora live1</title>
+				<link>rtmp://185.2.137.212/live playpath=KooRaLiveHD003?id=26329 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/ Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
+				
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>kooralive3</title>
+
+				<link>rtmp://185.2.137.212/live playpath=kooraliveHD00s1?id=25913 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/ Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>kooralive2</title>
+
+				<link>rtmp://185.2.137.212/live playpath=kooraliveHD0001?id=25804 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/ Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Janjua kortna</title>
+				<link>rtmp://185.2.137.180/live playpath=d5hg4?id=13331 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/embedplayer/d5hg4/3/600/450 Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=25</link>
+				
+		</item>
+	</streaminginfo>
+	
 		
 	
 	<streaminginfo>
@@ -3960,12 +3517,7 @@
 				<regex>
 				<name>getlink</name>
 				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://hd720.co/1/B/Y/</page>
+				<page>https://www.youtube.com/watch?v=d2JhS11dA1k</page>
 				</regex>
 				</item>
 		</streaminginfo>
@@ -3974,7 +3526,7 @@
 
 		<cname>.Live Youtube</cname>
 		<item>
-			<title>@Tab3live  720p</title>
+			<title>hdgoal  720p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -3990,13 +3542,9 @@
 				<regex>
 				<name>getlink</name>
 				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				<page>https://www.youtube.com/watch?v=d2JhS11dA1k</page>
 				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://hd720.co/1/B/Y/</page>
-				</regex>
+				
 				
 		</item>
 	</streaminginfo>
@@ -4036,7 +3584,7 @@
 
 		<cname>.Live Youtube</cname>
 		<item>
-			<title>yariga 360p</title>
+			<title>hdgoal 360p</title>
 			<link>$doregex[getQualityLink]</link>
 
 				<regex>
@@ -4052,13 +3600,9 @@
 				<regex>
 				<name>getlink</name>
 				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				<page>https://www.youtube.com/watch?v=d2JhS11dA1k</page>
 				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*(.*?)\s</expres>
-				<page>http://hd720.co/1/B/Y/</page>
-				</regex>
+				
 		</item>
 		</streaminginfo>
 	
@@ -4210,15 +3754,45 @@
 				</regex>
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>.Live Event</cname>
 		<item>
-			<title>SONARA1</title>
+			<title>CH3</title>
+
+				<link>rtmp://live.sonara.net/live//aas1 timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>CH2</title>
+
+				<link>rtmp://185.2.137.180/live playpath=fgbngffggf?id=26045 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/embedplayer/fgbngffggf/3/600/450 Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>CH1</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
 				<expres>"path": "(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>extra2HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/extra2.html</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -4230,19 +3804,19 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"path": "(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
+				<page>http://www.sportnews24hour.com/p/extra1.html</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Event</cname>
 		<item>
-			<title>extra2HD</title>
+			<title>extraHD</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
 				<expres>"path": "(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/extra2.html</page>
+				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
 				</regex> 
 		</item>
 	</streaminginfo>
