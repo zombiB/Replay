@@ -2976,6 +2976,18 @@
 	<streaminginfo>
 		<cname>.Live Event</cname>
 		<item>
+			<title>extra3HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/live2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
 			<title>extra2HD</title>
 				<link>$doregex[get-link]</link>
 				<regex>
@@ -3057,6 +3069,7 @@
                 </regex>
                 </item>
 				</streaminginfo>
+				
 </streamingInfos>
 
 	
