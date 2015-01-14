@@ -2907,7 +2907,109 @@
 				
 		</item>
 		</streaminginfo>
+	<streaminginfo>
 	
+
+		<cname>.Live Youtube</cname>
+<item>
+			<title>youtube 720p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>https://www.youtube-nocookie.com/embed/s*(.*?)\s</expres>
+				<page>http://www.sportnews24hour.com/p/ch3.html</page>
+				</regex>
+		</item>
+		</streaminginfo>
+		<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+<item>
+			<title>youtube 480p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>https://www.youtube-nocookie.com/embed/s*(.*?)\s</expres>
+				<page>http://www.sportnews24hour.com/p/ch3.html</page>
+				</regex>
+		</item>
+		</streaminginfo>
+<streaminginfo>
+	
+
+		<cname>.Live Youtube</cname>
+		<item>
+			<title>extrayoutube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+				</regex>
+				<regex>
+				<name>delink</name>
+				<expres>https://www.youtube-nocookie.com/embed/s*(.*?)\s</expres>
+				<page>http://www.sportnews24hour.com/p/ch3.html</page>
+				</regex>
+		</item>
+		</streaminginfo>
+<streaminginfo>
+		<cname>alkass</cname>
+		<item>
+			<title>alkassOne</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/al-kass-one.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>.Live Ustream</cname>
@@ -2943,6 +3045,253 @@
 				</regex>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP1</cname>
+		<item>
+			<title>m3u8</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/mbc-pro-sports1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP2</cname>
+		<item>
+			<title>m3u8</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/mbc-pro-sports2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP3</cname>
+		<item>
+			<title>m3u8</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/mbc-pro-sports3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP4</cname>
+		<item>
+			<title>m3u8</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/mbc-pro-sports4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-1fr.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-2fr.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-1.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-3.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-4.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-5.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-7.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-8.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-9.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-10.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-11.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-12.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-13.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>hd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>stretching: "fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-14.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
 	
 	<streaminginfo>
 		<cname>.Live Event</cname>
@@ -2972,7 +3321,18 @@
 				</regex> 
 		</item>
 	</streaminginfo>
-	
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>extra4HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"path": "(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/extra3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Event</cname>
 		<item>
