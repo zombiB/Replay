@@ -3100,12 +3100,11 @@
 <streaminginfo>
 		<cname>Bein 1 FR</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-1fr.html</page>
 				</regex>  
 			</item>
@@ -3113,12 +3112,11 @@
 	<streaminginfo>
 		<cname>Bein 2 FR</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-2fr.html</page>
 				</regex>  
 			</item>
@@ -3126,12 +3124,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-1.html</page>
 				</regex>  
 			</item>
@@ -3139,12 +3136,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
 				</regex>  
 			</item>
@@ -3152,12 +3148,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-3.html</page>
 				</regex>  
 			</item>
@@ -3165,12 +3160,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-4.html</page>
 				</regex>  
 			</item>
@@ -3178,25 +3172,35 @@
 	<streaminginfo>
 		<cname>Bein Sport 5</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-5.html</page>
+				</regex>  
+			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>coolhd</title>
+			<link>$doregex[get-link] timeout=20</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"image":"","file":"(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-6.html</page>
 				</regex>  
 			</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 7</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-7.html</page>
 				</regex>  
 			</item>
@@ -3204,12 +3208,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 8</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-8.html</page>
 				</regex>  
 			</item>
@@ -3217,12 +3220,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 9</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-9.html</page>
 				</regex>  
 			</item>
@@ -3230,12 +3232,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 10</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-10.html</page>
 				</regex>  
 			</item>
@@ -3243,12 +3244,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 11</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-11.html</page>
 				</regex>  
 			</item>
@@ -3256,12 +3256,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 12</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-12.html</page>
 				</regex>  
 			</item>
@@ -3269,12 +3268,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 13</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-13.html</page>
 				</regex>  
 			</item>
@@ -3282,12 +3280,11 @@
 	<streaminginfo>
 		<cname>Bein Sport 14</cname>
 		<item>
-			<title>hd</title>
+			<title>coolhd</title>
 			<link>$doregex[get-link] timeout=20</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-14.html</page>
 				</regex>  
 			</item>
@@ -3298,7 +3295,12 @@
 		<item>
 			<title>CH3</title>
 
-				<link>rtmp://live.sonara.net/live//aas1 timeout=20</link>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>width="300" height="270" src="(.*?)"</expres>
+				<page>http://7live.co/1/I/M/</page>
+				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -3316,7 +3318,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
 				</regex> 
 		</item>
@@ -3328,7 +3330,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/extra3.html</page>
 				</regex> 
 		</item>
@@ -3340,7 +3342,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/live2.html</page>
 				</regex> 
 		</item>
@@ -3352,7 +3354,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/extra2.html</page>
 				</regex> 
 		</item>
@@ -3364,7 +3366,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/extra1.html</page>
 				</regex> 
 		</item>
@@ -3376,7 +3378,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
 				</regex> 
 		</item>
@@ -3388,8 +3390,7 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
 				</regex> 
 		</item>
@@ -3401,34 +3402,12 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>stretching: "fill",
-           file: '(.*?)'</expres>
+				<expres>"image":"","file":"(.*?)"</expres>
 				<page>http://www.sportnews24hour.com/p/extra3.html</page>
 				</regex> 
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
 	
-	<item>
-                <title>720 hd</title>
-                <link>$doregex[getUrl]</link>
-                <regex>
-                <name>getUrl</name>
-                <expres>(.*)</expres>
-                <page>http://www.dailymotion.com/cdn/live/video/x2efpmk?protocol=hls&amp;auth=$doregex[get-auth]&amp;redirect=0</page>
-                <referer></referer>
-                <agent></agent>
-                </regex>
-                <regex>
-                <name>get-auth</name>
-                <expres>auth=([^"]*)</expres>
-                <page>http://www.dailymotion.com/json/video/x2efpmk?fields=stream_live_hls_url</page>
-                <referer></referer>
-				<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko</agent>
-                </regex>
-                </item>
-				</streaminginfo>
 				
 </streamingInfos>
 
