@@ -2991,6 +2991,218 @@
 				</regex>
 		</item>
 		</streaminginfo>
+		<streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link1</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>hlsvp":.?"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   
+   
+   
+   
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+   <item>
+<title>link2</title>
+<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
+<regex>
+<name>getQualityLink</name>
+<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+<page>$doregex[nuetralizeLink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
+				</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link3</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>stream_url":.?"(.*?)"</expres>
+<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   <streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link11</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>hlsvp":.?"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   
+   
+   
+   
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+   <item>
+<title>link21</title>
+<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
+<regex>
+<name>getQualityLink</name>
+<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+<page>$doregex[nuetralizeLink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
+				</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link31</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>stream_url":.?"(.*?)"</expres>
+<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
 <streaminginfo>
 		<cname>alkass</cname>
 		<item>
@@ -3291,7 +3503,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-1fr.html</page>
 				</regex>  
 			</item>
@@ -3304,7 +3516,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-2fr.html</page>
 				</regex>  
 			</item>
@@ -3317,7 +3529,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-1.html</page>
 				</regex>  
 			</item>
@@ -3330,7 +3542,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
 				</regex>  
 			</item>
@@ -3343,7 +3555,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-3.html</page>
 				</regex>  
 			</item>
@@ -3356,7 +3568,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-4.html</page>
 				</regex>  
 			</item>
@@ -3369,7 +3581,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-5.html</page>
 				</regex>  
 			</item>
@@ -3382,7 +3594,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-6.html</page>
 				</regex>  
 			</item>
@@ -3395,7 +3607,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-7.html</page>
 				</regex>  
 			</item>
@@ -3408,7 +3620,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-8.html</page>
 				</regex>  
 			</item>
@@ -3421,7 +3633,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-9.html</page>
 				</regex>  
 			</item>
@@ -3434,7 +3646,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-10.html</page>
 				</regex>  
 			</item>
@@ -3447,7 +3659,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-11.html</page>
 				</regex>  
 			</item>
@@ -3460,7 +3672,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-12.html</page>
 				</regex>  
 			</item>
@@ -3473,7 +3685,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-13.html</page>
 				</regex>  
 			</item>
@@ -3486,10 +3698,24 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/bein-sports-14.html</page>
 				</regex>  
 			</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>Live3</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/live3.html</page>
+				</regex>
+		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>.Live Event</cname>
@@ -3500,7 +3726,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/live4.html</page>
 				</regex>
 		</item>
@@ -3514,7 +3740,7 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"fill",
-           file:"(.*?)"</expres>
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/live1.html</page>
 				</regex>
 		</item>
