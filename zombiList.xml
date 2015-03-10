@@ -1764,7 +1764,7 @@
 		<cname>AlFajer Gaza</cname>
 		<item>
 			<title>original</title>
-			<link>rtmp://vstream2.hadara.ps/unlimitedalfajer timeout=20</link>
+			<link>http://vstream2.hadara.ps:1935/unlimitedalfajer//alfajertv_1/chunklist_w33835073.m3u8</link>
 		</item>
 	</streaminginfo>
 
@@ -4074,6 +4074,137 @@
 				<regex>
 				<name>get-link</name>
 				<expres>"image":"","file":"(.*?)"</expres>
+				<page>http://www.sportnews24hour.com/p/extra3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>C3</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/live1.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>C2</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/ch3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>C1</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>xtra4HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/extra3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>xtra3HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/live2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>xtra2HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/extra2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>xtra1HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/extra1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>xtraHD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>c2HD</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
+				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Event</cname>
+		<item>
+			<title>c1hd</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>"fill",
+           file: '(.*?)'</expres>
 				<page>http://www.sportnews24hour.com/p/extra3.html</page>
 				</regex> 
 		</item>
