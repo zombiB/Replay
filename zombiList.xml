@@ -1,18 +1,279 @@
 <streamingInfos>
-<streaminginfo>
-		<cname>NBCSN</cname>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
 		<item>
-			<title>nbcsn0</title>
-			<link>rtmpe://46.246.124.22:1935/live playpath=nbcsn0 swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ token=#yw%tt#w@kku timeout=10</link>
+			<title>link4</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/01/ustream8.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>link3</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/01/ustream7.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>link2</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/01/ustream6.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>.Live Ustream</cname>
+		<item>
+			<title>link1</title>
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/01/ustream5.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>original</title>
+			<link>http://vstreamgz.hadara.ps:1935/alfajertv_gaza//fajerhd_1/chunklist_w33835073.m3u8</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP1</cname>
+		<item>
+			<title>link3</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-1-link-3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP1</cname>
+		<item>
+			<title>link2</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-1-link-2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP1</cname>
+		<item>
+			<title>link1</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-1-link-1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP2</cname>
+		<item>
+			<title>link1</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-2-link-1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP3</cname>
+		<item>
+			<title>link1</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-3-link-1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MBC PRO SP4</cname>
+		<item>
+			<title>link1</title>
+
+				<link>$doregex[get-link]</link>
+				<regex>
+				<name>get-link</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-4-link-1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>link1</title>
+			<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/telesports-link4.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>link2</title>
+			<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/telesports-link4.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>link4</title>
+			<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/telesports-link4.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>link3</title>
+			<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/telesports-link3.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>link2</title>
+			<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/telesports-link2.html</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Tele Sports</cname>
+		<item>
+			<title>link1</title>
+			<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/telesports-link1.html</page>
+				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>NBCSN</cname>
 		<item>
-			<title>nbcsn0</title>
-			<link>rtmp://50.7.164.34:2555/stream/ playpath=mona1 swfUrl=http://embed.beststreams.ru/flowplayer-3.2.18.swf live=1 pageUrl=http://embed.beststreams.ru/v2.php?channel=mona1 timeout=20</link>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/nbcsnlink4.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>NBCSN</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/nbcsnlink3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NBCSN</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/nbcsnlink2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NBCSN</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/nbcsnlink1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	
 	<streaminginfo>
 		<cname>TVA Gatineau</cname>
 		<item>
@@ -632,93 +893,7 @@
 
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Sport1</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/de/18</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>ZDF</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/de/2</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>EuroSport German</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/de/15</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>BBC One</cname>
 		<item>
@@ -1006,13 +1181,6 @@
 		<item>
 			<title>youtube</title>
 			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SrNpdcDyXXA</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Saudia Sport</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0MzUblPSsSU</link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1760,13 +1928,7 @@
 	
 	
 	
-	<streaminginfo>
-		<cname>AlFajer Gaza</cname>
-		<item>
-			<title>original</title>
-			<link>http://vstream2.hadara.ps:1935/unlimitedalfajer//alfajertv_1/chunklist_w33835073.m3u8</link>
-		</item>
-	</streaminginfo>
+	
 
 	
 	<streaminginfo>
@@ -1878,91 +2040,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>		
-		<cname>Tele Sports</cname>
-		<item>
-			<title>trthd</title>
-			<link>rtmp://si.trtcdn.com/tv/trthd/mp4:trthd_3 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>Tele Sports</cname>
-		<item>
-			<title>SportsTV3</title>
-			<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>aspor</title>
-			<link>http://hls.turkuvazgroup.net/aspor-hls/smil:aspor.smil/chunklist_www_b396000.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>russia1</title>
-			<link>http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>NTV Plus Football 1 HD</title>
-			<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>NTV Plus Football 1 sd</title>
-			<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8</link>
-		</item>
-	</streaminginfo>
 	
-	<streaminginfo>		
-		<cname>Tele Sports</cname>
-		<item>
-			<title>Silk sport 1 HD</title>
-			<link>rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/ timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>		
-		<cname>Tele Sports</cname>
-		<item>
-			<title>SportsTV3</title>
-			<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>aspor</title>
-			<link>http://hls.turkuvazgroup.net/aspor-hls/smil:aspor.smil/chunklist_www_b396000.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>russia1</title>
-			<link>http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>NTV Plus Football 1 HD</title>
-			<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>NTV Plus Football 1 sd</title>
-			<link>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8</link>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Cinema ENvv</cname>
 		<item>
@@ -2365,40 +2443,6 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-	<streaminginfo>
-		<cname>MBC PRO SP1</cname>
-		<item>
-			<title>m3u8</title>
-
-				<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live/stream1.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC PRO SP2</cname>
-		<item>
-			<title>m3u8</title>
-
-				<link>http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC PRO SP3</cname>
-		<item>
-			<title>m3u8</title>
-
-				<link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC PRO SP4</cname>
-		<item>
-			<title>m3u8</title>
-
-				<link>http://mbcprosports04-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 
 		<cname>Sky Sports 1</cname>
@@ -2444,100 +2488,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>HLS</title>
-
-				<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>HLS</title>
-
-				<link>http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>uforone</title>
-
-				<link>rtmp://wzmatch.uforone.net:1935/live/beinsports1 timeout=10</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>uforone</title>
-
-				<link>rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports2 timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>uforone</title>
-
-				<link>rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports3 timeout=20</link>
-		</item>
-	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>BEIN ESP</cname>
-		<item>
-			<title>ustream</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/19120698/streams/live/playlist.m3u8')</expres>
-				<page></page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>viasat SPORT 3</cname>
-		<item>
-			<title>SPORT 3 HD</title>
-
-				<link>http://viasatlive2-i.akamaihd.net/hls/live/202775/tv3plus/mastererki1.m3u8|X-Forwarded-For=81.224.210.98</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>viasat Canal9</cname>
-		<item>
-			<title>Canal9</title>
-
-				<link>http://viasatlive3-i.akamaihd.net/hls/live/206923/canal9dkebs/4arp.m3u8|X-Forwarded-For=81.224.210.98</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>viasat tv3sport1</cname>
-		<item>
-			<title>TV3 SPORT 1</title>
-
-				<link>http://viasatlive1-i.akamaihd.net/hls/live/207015/tv3sport1HD/2TmY8fEdOfL.m3u8|X-Forwarded-For=81.224.210.98</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>viasat tv3sport2</cname>
-		<item>
-			<title>TV3 SPORT 2</title>
-
-				<link>http://viasatlive5-i.akamaihd.net/hls/live/207018/tv3sport2HD/2h5416erG1v.m3u8|X-Forwarded-For=81.224.210.98</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>viasat Canal8</cname>
-		<item>
-			<title>canal8.dk</title>
-
-				<link>http://viasatlive1-i.akamaihd.net/hls/live/206922/canal8dkebs/4arp.m3u8|X-Forwarded-For=81.224.210.98</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
 	
@@ -2600,821 +2551,1069 @@
 				
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein14-link6.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein14-link5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein14-link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein14-link3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein14-link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein14-link1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein13-link6.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein13-link5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein13-link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein13-link3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein13-link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein13-link1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 	
- 
 	<streaminginfo>
-		<cname>Bein sport 1</cname>
+		<cname>Bein Sport 12</cname>
 		<item>
-			<title>livehq</title>
-			<link>rtmp://213.136.71.43/live/beinsports1 timeout=15</link>
-		</item>
-	</streaminginfo>   
-
-<streaminginfo>
-		<cname>Bein sport 2</cname>
-		<item>
-			<title>livehq</title>
-			<link>rtmp://213.136.71.43/live/beinsports2 timeout=15</link>
-		</item>
-	</streaminginfo>   
-
-<streaminginfo>
-		<cname>Bein sport 3</cname>
-		<item>
-			<title>livehq</title>
-			<link>rtmp://213.136.71.43/live/beinsports3 timeout=15</link>
-		</item>
-	</streaminginfo>  
-<streaminginfo>
-		<cname>Bein sport 4</cname>
-		<item>
-			<title>livehq</title>
-			<link>rtmp://213.136.71.43/live/beinsports4 timeout=15</link>
-		</item>
-	</streaminginfo> 
-	
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>beinus1</title>
-				<link>http://180.250.29.21/jhos/bein1/1420248174/playlist.m3u8</link>
-				
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein12-link2.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 12</cname>
 		<item>
-			<title>beinus2</title>
-				<link>http://180.250.29.21/jhos/bein2/1420248174/playlist.m3u8</link>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>beinus3</title>
-				<link>http://180.250.29.21/jhos/bein3/1420248174/playlist.m3u8</link>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>iguideEN</title>
-				<link>rtmp://94.102.63.54/iguide playpath=sighaniivpikwlo swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD timeout=20</link>
-				
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein12-link1.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein11-link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein11-link3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein11-link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein11-link1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 	
-<streaminginfo>
-		<cname>Bein Sport 1
-</cname>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
 		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://94.102.63.54/iguide playpath=jey3dkzi9fl9gwf swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 2
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://94.102.63.54/iguide playpath=bnzkd32fic5xz8z swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 3
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://94.102.63.54/iguide playpath=ghnj2fxvmzf6l5x swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 4
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://93.174.93.230/iguide playpath=v19dck9e3ihn6kh swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 5
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://89.248.169.55/iguide playpath=3p4ohvspwwym93t swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/  token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 6
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://94.102.63.54/iguide playpath=l6obfk8d48slxx3 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 7
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://94.102.49.207/iguide playpath=a8dl8z4ujx7odtu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 8
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://94.102.49.207/iguide playpath=13jons77xx7lcgd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 9
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://94.102.49.207/iguide playpath=dxrz9bzb1sqinyj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 10
-</cname>
-		<item>
-			<title>iguideAR 1</title>
-				<link>rtmp://94.102.49.207/iguide playpath=poel64e7rhdaaju swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDve timeout=20</link>
-				
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein10-link4.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 10</cname>
 		<item>
-			<title>Janjua kora live1</title>
-				<link>rtmp://185.2.137.212/live playpath=KooRaLiveHD003?id=26329 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/ Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
-				
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein10-link3.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 3</cname>
+		<cname>Bein Sport 10</cname>
 		<item>
-			<title>kooralive3</title>
-
-				<link>rtmp://185.2.137.212/live playpath=kooraliveHD00s1?id=25913 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/ Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein10-link2.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 10</cname>
 		<item>
-			<title>kooralive2</title>
-
-				<link>rtmp://185.2.137.212/live playpath=kooraliveHD0001?id=25804 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/ Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=20</link>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein10-link1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein9-link4.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 9</cname>
 		<item>
-			<title>Janjua kortna</title>
-				<link>rtmp://185.2.137.180/live playpath=d5hg4?id=13331 swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjuaplayer.com/embedplayer/d5hg4/3/600/450 Conn=S:OK tcommand=soLagaDaSeStoriAga;TRUE timeout=25</link>
-				
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein9-link3.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 1</cname>
+		<cname>Bein Sport 9</cname>
 		<item>
-			<title>m3u8</title>
-				<link>http://videos.streaming-hub.com/bein1.m3u8</link>
-				
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein9-link2.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 2</cname>
+		<cname>Bein Sport 9</cname>
 		<item>
-			<title>m3u8</title>
-				<link>http://videos.streaming-hub.com/bein2.m3u8</link>
-				
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein9-link1.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 3</cname>
+		<cname>Bein Sport 8</cname>
 		<item>
-			<title>m3u8</title>
-				<link>http://videos.streaming-hub.com/bein3.m3u8</link>
-				
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein8-link6.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein8-link5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein8-link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein8-link-3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein8-link-2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein8-link-1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-6.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-6.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-2_10.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-6.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-1.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
-			<title>m3u8</title>
-				<link>http://videos.streaming-hub.com/bein4.m3u8</link>
-				
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein4link8.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein4link7.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein4link5_7.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein4link5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein4link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein4link3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein4link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein4link1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link10.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link9.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link8.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link7.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link6.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/05/bein3link1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein10.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein9.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein8.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein7.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein6.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein5.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein3.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/03/bein4link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/03/bein3link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/03/bein2link4.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/03/bein1.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein6link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein5link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein4link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein3link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein2link2.html</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>source src="(.*?)"</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/bein1link2.html</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	
-		<streaminginfo>
 	
-
-		<cname>.Live Youtube</cname>
-		<item>
-			<title>youtube 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=d2JhS11dA1k</page>
-				</regex>
-				</item>
-		</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-		<item>
-			<title>hdgoal  720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=d2JhS11dA1k</page>
-				</regex>
-				
-				
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-		<item>
-			<title>hdgoal 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=d2JhS11dA1k</page>
-				</regex>
-				
-		</item>
-		</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-<item>
-			<title>youtube 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>https://www.youtube-nocookie.com/embed/s*(.*?)\s</expres>
-				<page>http://www.sportnews24hour.com/p/ch3.html</page>
-				</regex>
-		</item>
-		</streaminginfo>
-		<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-<item>
-			<title>youtube 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>https://www.youtube-nocookie.com/embed/s*(.*?)\s</expres>
-				<page>http://www.sportnews24hour.com/p/ch3.html</page>
-				</regex>
-		</item>
-		</streaminginfo>
-<streaminginfo>
-	
-
-		<cname>.Live Youtube</cname>
-		<item>
-			<title>extrayoutube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>https://www.youtube-nocookie.com/embed/s*(.*?)\s</expres>
-				<page>http://www.sportnews24hour.com/p/live2.html</page>
-				</regex>
-		</item>
-		</streaminginfo>
-		<streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link1</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>640x360\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>hlsvp":.?"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   
-   
-   
-   
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-   <item>
-<title>link2</title>
-<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
-<regex>
-<name>getQualityLink</name>
-<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-<page>$doregex[nuetralizeLink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
-				</regex>
-</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link3</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>1280x720\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>stream_url":.?"(.*?)"</expres>
-<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   <streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link11</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>640x360\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>hlsvp":.?"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   
-   
-   
-   
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-   <item>
-<title>link21</title>
-<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
-<regex>
-<name>getQualityLink</name>
-<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-<page>$doregex[nuetralizeLink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
-				</regex>
-</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link31</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>1280x720\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>stream_url":.?"(.*?)"</expres>
-<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   <streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link31</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>640x360\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>hlsvp":.?"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   
-   
-   
-   
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-   <item>
-<title>link32</title>
-<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
-<regex>
-<name>getQualityLink</name>
-<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-<page>$doregex[nuetralizeLink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
-				</regex>
-</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link33</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>1280x720\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>stream_url":.?"(.*?)"</expres>
-<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   <streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link41</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>640x360\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>hlsvp":.?"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   
-   
-   
-   
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-   <item>
-<title>link42</title>
-<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
-<regex>
-<name>getQualityLink</name>
-<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-<page>$doregex[nuetralizeLink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
-				</regex>
-</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link43</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>1280x720\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>stream_url":.?"(.*?)"</expres>
-<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
+		
 <streaminginfo>
 		<cname>alkass</cname>
 		<item>
@@ -3463,58 +3662,7 @@
 				</regex>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC PRO SP1</cname>
-		<item>
-			<title>m3u8</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/mbc-pro-sports1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC PRO SP2</cname>
-		<item>
-			<title>m3u8</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/mbc-pro-sports2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC PRO SP3</cname>
-		<item>
-			<title>m3u8</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/mbc-pro-sports3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MBC PRO SP4</cname>
-		<item>
-			<title>m3u8</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/mbc-pro-sports4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
+	
 <streaminginfo>
 		<cname>Bein 1 FR</cname>
 		<item>
@@ -4209,294 +4357,431 @@
 				</regex> 
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/03/bein1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/03/bein2link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/03/bein3link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/03/bein4link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein14.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein13.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein5.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein6.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein1link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein2link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein3link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein4link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein5link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein6link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein1link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein2link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein3link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein4link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein5link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein6link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
+
+		<streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link4-360</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>hlsvp":.?"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   
+   
+   
+   
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+   <item>
+<title>link4-480p</title>
+<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
+<regex>
+<name>getQualityLink</name>
+<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+<page>$doregex[nuetralizeLink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
+				</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link4-720p</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>1280x720\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>stream_url":.?"(.*?)"</expres>
+<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   <streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link3-360</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>hlsvp":.?"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   
+   
+   
+   
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+   <item>
+<title>link3-480p</title>
+<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
+<regex>
+<name>getQualityLink</name>
+<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+<page>$doregex[nuetralizeLink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
+				</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link3-720p</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>1280x720\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>stream_url":.?"(.*?)"</expres>
+<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   <streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link2-360</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>hlsvp":.?"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   
+   
+   
+   
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+   <item>
+<title>link2-480p</title>
+<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
+<regex>
+<name>getQualityLink</name>
+<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+<page>$doregex[nuetralizeLink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
+				</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link2-720p</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>1280x720\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>stream_url":.?"(.*?)"</expres>
+<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   <streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link1-360p</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>640x360\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>hlsvp":.?"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
+   
+   
+   
+   
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+   <item>
+<title>link1-480p</title>
+<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
+<regex>
+<name>getQualityLink</name>
+<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
+<page>$doregex[nuetralizeLink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>hlsvp":"(.*?)"</expres>
+<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
+				</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+<cname>.Live Youtube</cname>
+
+<item>
+      <title>link1-720p</title>
+      <link>$doregex[get-quality]</link>
+
+           <regex>
+				<name>get-quality</name>
+				<expres>1280x720\s*(.*?)\s</expres>
+				<page>$doregex[convert-url]</page>
+				<cookieJar></cookieJar>
+				</regex>
+
+      				<regex>
+				<name>convert-url</name>
+				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
+				<page></page>
+				<cookieJar></cookieJar>
+				</regex>
+                
+
+    <regex>
+    <name>get-url</name>
+    <expres>stream_url":.?"(.*?)"</expres>
+<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
+    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
+    </regex>
+	<regex>
+				<name>delink</name>
+				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
+				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
+				</regex>
+   </item>
+   </streaminginfo>
 				
 </streamingInfos>
 
