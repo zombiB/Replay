@@ -3628,40 +3628,7 @@
 		</item>
 	</streaminginfo>
 	
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>live720_2 juv vs napoli</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-delink</name>
-				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://www.hd720.co/J/M/</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>live720_1 BARCA VS ATHLETICO</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-delink</name>
-				<expres>controls="" width="300" height="270" src="(.*?)"</expres>
-				<page>http://www.hd720.co/B/M/</page>
-				</regex>
-		</item>
-	</streaminginfo>
+	
 	
 <streaminginfo>
 		<cname>Bein 1 FR</cname>
