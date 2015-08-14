@@ -1,5 +1,5 @@
 <streamingInfos>
-	<streaminginfo>
+<streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
 			<title>link4</title>
@@ -11,8 +11,8 @@
 				</regex>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/01/ustream8.html</page>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fpp1g95c5aa8jud/ustream.xml</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -28,8 +28,8 @@
 				</regex>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/01/ustream7.html</page>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fpp1g95c5aa8jud/ustream.xml</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -45,8 +45,8 @@
 				</regex>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/01/ustream6.html</page>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fpp1g95c5aa8jud/ustream.xml</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -62,8 +62,8 @@
 				</regex>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/01/ustream5.html</page>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fpp1g95c5aa8jud/ustream.xml</page>
 				</regex>
 		</item>
 	</streaminginfo>
@@ -82,8 +82,8 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-1-link-3.html</page>
+				<expres>mbc1link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/9ikxo92a39a8dpf/mbcpro.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -95,8 +95,8 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-1-link-2.html</page>
+				<expres>mbc1link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/9ikxo92a39a8dpf/mbcpro.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -108,8 +108,8 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-1-link-1.html</page>
+				<expres>mbc1link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/9ikxo92a39a8dpf/mbcpro.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -121,8 +121,8 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-2-link-1.html</page>
+				<expres>mbc2link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/9ikxo92a39a8dpf/mbcpro.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -134,8 +134,8 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-3-link-1.html</page>
+				<expres>mbc3link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/9ikxo92a39a8dpf/mbcpro.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -147,81 +147,9 @@
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/mbc-pro-4-link-1.html</page>
+				<expres>mbc4link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/9ikxo92a39a8dpf/mbcpro.xml</page>
 				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>AlFajer Gaza</cname>
-		<item>
-			<title>link1</title>
-			<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/telesports-link4.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>AlFajer Gaza</cname>
-		<item>
-			<title>link2</title>
-			<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/telesports-link4.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>link4</title>
-			<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/telesports-link4.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>link3</title>
-			<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/telesports-link3.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>link2</title>
-			<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/telesports-link2.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tele Sports</cname>
-		<item>
-			<title>link1</title>
-			<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/telesports-link1.html</page>
-				</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -231,8 +159,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/nbcsnlink4.html</page>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/63enmfwddxv09uj/nbcsn.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -243,8 +171,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/nbcsnlink3.html</page>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/63enmfwddxv09uj/nbcsn.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -255,8 +183,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/nbcsnlink2.html</page>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/63enmfwddxv09uj/nbcsn.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -267,8 +195,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/nbcsnlink1.html</page>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/63enmfwddxv09uj/nbcsn.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3158,12 +3086,36 @@
 	<streaminginfo>
 		<cname>Bein Sport 4</cname>
 		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
 			<title>Link8</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein4link8.html</page>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3174,8 +3126,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein4link7.html</page>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3186,8 +3138,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein4link5_7.html</page>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3198,8 +3150,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein4link5.html</page>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3210,8 +3162,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein4link4.html</page>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3222,8 +3174,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein4link3.html</page>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3234,8 +3186,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein4link2.html</page>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3246,20 +3198,20 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein4link1.html</page>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
-	<streaminginfo>
+<streaminginfo>
 		<cname>Bein Sport 3</cname>
 		<item>
 			<title>Link10</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link10.html</page>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3270,8 +3222,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link9.html</page>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3282,8 +3234,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link8.html</page>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3294,8 +3246,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link7.html</page>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3306,8 +3258,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link6.html</page>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3318,8 +3270,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link5.html</page>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3330,8 +3282,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link4.html</page>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3342,8 +3294,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link3.html</page>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3354,8 +3306,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link2.html</page>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3366,20 +3318,20 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein3link1.html</page>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
-	<streaminginfo>
+<streaminginfo>
 		<cname>Bein Sport 2</cname>
 		<item>
 			<title>Link10</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein10.html</page>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3390,8 +3342,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein9.html</page>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3402,8 +3354,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein8.html</page>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3414,8 +3366,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein7.html</page>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3426,8 +3378,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein6.html</page>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3438,8 +3390,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein5.html</page>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3450,8 +3402,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein4.html</page>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3462,8 +3414,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein3.html</page>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3474,8 +3426,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein2.html</page>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3486,8 +3438,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein1.html</page>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3498,8 +3450,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/03/bein4link4.html</page>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3510,8 +3462,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/03/bein3link4.html</page>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3522,8 +3474,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/03/bein2link4.html</page>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3534,8 +3486,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/03/bein1.html</page>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3546,8 +3498,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein6link2.html</page>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3558,8 +3510,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein5link2.html</page>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3570,8 +3522,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein4link2.html</page>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3582,8 +3534,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein3link2.html</page>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3594,8 +3546,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein2link2.html</page>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -3606,8 +3558,8 @@
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/bein1link2.html</page>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
