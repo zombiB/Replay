@@ -1,5 +1,113 @@
 <streamingInfos>
 	<streaminginfo>
+		<cname>Nature</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/nature-hd</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>RMC Decouverte</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/rmc</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Finance</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/finance-et-mondialisme</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>France 24 FR</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/france-24</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>M6 Music</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/m6-music</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>D17</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/d17</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Euronews fr</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/euronews</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 0</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/france-o</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 4</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/france-4</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>Bein 1 FR</cname>
 		<item>
 			<title>4free</title>
