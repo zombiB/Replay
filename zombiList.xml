@@ -1,5 +1,41 @@
 <streamingInfos>
 	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/bein-france-1</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/bein-france-2</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 3 FR</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/bein-france-3</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>National Geo FR</cname>
 		<item>
 			<title>4free</title>
