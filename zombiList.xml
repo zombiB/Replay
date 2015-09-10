@@ -1,5 +1,113 @@
 <streamingInfos>
 	<streaminginfo>
+		<cname>TVReplay</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/special-investigation</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Encyclo</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/divers-docs</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>MAN VS WILD</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/j-irai-dormir-chez-vous</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NT1</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/nt1</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>National Geo Wild FR</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/nat-geo-wild</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Discovery World</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/discovery</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Planete Plus</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/planete-plus</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Planete Thalassa</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/planete-thalassa</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>HD1</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/hd1</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>Nature</cname>
 		<item>
 			<title>4free</title>
