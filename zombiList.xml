@@ -1,5 +1,209 @@
 <streamingInfos>
 	<streaminginfo>
+		<cname>National Geo FR</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/national-geographic</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>UNIVERS</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/l-univers-et-ses-mysteres</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TVReplay</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/tv-replay</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Histoire</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/histoire</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Science</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/tv-sciences</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BFMTV</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/bfm-tv</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>I-TELE</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/i-tele</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NRJ 12</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/nrj-12</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TMC</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/tmc</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>W9</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/w9-live</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>D8</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/d8-live</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>arte</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/arte</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>M6</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/m6-live</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 5</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/france-5-live</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 3</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/france-3-live</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/france-2-direct</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=iPad</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/tf1</page>
+				</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 	<cname>D17</cname>
 	<item>
 	<title>bypassGeob</title>
