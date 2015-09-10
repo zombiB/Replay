@@ -70,8 +70,73 @@
 	<streaminginfo>
 		<cname>AlFajer Gaza</cname>
 		<item>
-			<title>original</title>
-			<link>http://vstreamgz.hadara.ps:1935/alfajertv_gaza//fajerhd_1/chunklist_w33835073.m3u8</link>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/3h9ypuinba6ju0l/fajrgaza.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/3h9ypuinba6ju0l/fajrgaza.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/3h9ypuinba6ju0l/fajrgaza.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/3h9ypuinba6ju0l/fajrgaza.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/3h9ypuinba6ju0l/fajrgaza.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>AlFajer Gaza</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/3h9ypuinba6ju0l/fajrgaza.xml</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -200,717 +265,7 @@
 				</regex> 
 		</item>
 	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>TVA Gatineau</cname>
-		<item>
-			<title>24/7</title>
-			<link>rtmp://67.212.85.90/media/chot.tva timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-<streaminginfo>
-		<cname>tf1</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
 
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/11</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>rts deux</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/2</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>rts un</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/1</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>M6</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/10</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>FRANCE 3</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/6</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>France 24 FR</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/17</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>tv5monde</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/12</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>arte</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/3</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>W9</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/22</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 5</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/7</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 2</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/5</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>GULLI</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/20</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>RTL 9</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/26</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>D8</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/16</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Euronews fr</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/15</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>NRJ 12</cname>
-		<item>
-			<title>iphone-tv NRJTV</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/29</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>NRJ 12</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/25</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>NT1</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/24</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>FRANCE 4</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/18</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>BFMTV</cname>
-		<item>
-			<title>iphone-tv </title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/27</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>BFMTV</cname>
-		<item>
-			<title>iphone-tv BFMTVBUSINESS</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/fr/28</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>BBC One</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/uk/8</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>BBC Two</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/uk/10</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>DISCOVERY CHANNEL</cname>
-		<item>
-			<title>iphone-tv</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>(http.*?)"</expres>
-				<page>$doregex[get-unpacked]</page>
-				</regex>
-				<regex>
-				<name>get-unpacked</name>
-				<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-				<page>$doregex[get-decoded]</page>
-</regex>
-<regex>
-<name>get-decoded</name>
-<expres>$pyFunction:get_packed_iphonetv_url(page_data);</expres>
-<page>$doregex[get-first]</page>
-</regex>
-
-<regex>
-<name>get-first</name>
-<expres>eval\((decodeURIComponent.*\);)</expres>
-				<page>http://en.iphone-tv.eu/stream/us/40</page>
-				</regex>
-
-		</item>
-	</streaminginfo>
-	
-	
 	<streaminginfo>
 		<cname>Weo</cname>
 		<item>
@@ -919,21 +274,19 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>TV 5 MONDE</cname>
+		<cname>EuroSport German</cname>
 		<item>
-			<title>400 m3u8</title>
-			<link>http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/index_400_av-p.m3u8|X-Forwarded-For=195.186.145.47</link> 
+			<title>720p</title>
+			<link>http://pebbles105-lh.akamaihd.net/i/eurosportde_1@97452/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>TV 5 MONDE</cname>
 		<item>
-			<title>206 m3u8</title>
-			<link>http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8</link> 
+			<title>720p</title>
+			<link>http://pebbles103-lh.akamaihd.net/i/tv5monde_1@97380/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
-	
-	
 
 	<streaminginfo>
 	<cname>FRANCE 2</cname>
@@ -1014,496 +367,66 @@
 	
 	
 	<streaminginfo>
-		<cname>amgad</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tT9P86JT4qA</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
 		<cname>ALNADATV</cname>
 		<item>
 			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h1MdsWJa_vs</link>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
+			<regex>
+			<name>get-id</name>
+			<expres>src="//www.youtube.com/embed/(.*?)?rel=0&amp;autoplay=1</expres>
+			<page>http://www.alnada.tv/cms/live.php</page>
+			</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Alsaha2</cname>
 		<item>
 			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=57Ro7cfyLkw</link>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
+			<regex>
+			<name>get-id</name>
+			<expres>width="650" height="360" src="https://www.youtube.com/embed/(.*?)"</expres>
+			<page>http://alsahaonline.tv/</page>
+			</regex>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Alsaha3</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=s4Xe_IGY5_A</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Europe 1</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=53oNvQKP4PA</link>
-		</item>
-	</streaminginfo>
+
 	<streaminginfo>
 		<cname>KSA 2</cname>
 		<item>
 			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Umc7W53azqI</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Ibnothaimeentv</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l5OiCOK6YbU</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>KSA Doc</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F_MgfXVY7lM</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>KSA News</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G5u5dEeIX4c</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Al Rafidain</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8WVCpMuVhoM</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>RFI</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IMoROPhO55I</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Melody Drama</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_cN8Op5KgIs</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Rotana Masriya</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W1mgo1DKqbI</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Russia Alyaum</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SrNpdcDyXXA</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Alekhbaria Syria</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nuz4euccnxE</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CBC Drama</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=talUzDl2fSg</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>KSA 1</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oKVEkDYQrXs</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Syria</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FFErJAAIX_8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sada Al Balad2</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L0Xm2aEVg5Q</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sada Al Balad</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_a71bk5XRtE</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sada AlBalad Drama</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M-1PeiMAVYY</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Rotana cinema</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I3zFXLBdzWs</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Al mayaden</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BYIc3imQYP4</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>sunnah TV</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XA9hTQpgS-M</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>AlQahera W Elnas</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ahDnepO4RYE</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Toyor Al Janah</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=toslMbh8ar8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Quran TV ksa</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n1SlD2G8Fws</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Elsharq</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qRjQuroQdo8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CBC Extra</cname>
-		<item>
-			<title>youtube</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-vnvUxy2jUo</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CBC 2</cname>
-		<item>
-			<title>youtube addon</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NyoD4UNNGBU</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Alaqsa</cname>
-		<item>
-			<title>youtube addon</title>
-			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ox3v1AAvZSg</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Toyor Al Janah</cname>
-		<item>
-			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=toslMbh8ar8</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CBC 2</cname>
-		<item>
-			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=OFs8THBMRBU</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CBC Extra</cname>
-		<item>
-			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=tfnz_ue-Sko</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>CBC</cname>
-		<item>
-			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=NyoD4UNNGBU</page>
-				</regex>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=$doregex[get-id]</link>
+			<regex>
+			<name>get-id</name>
+			<expres>data-context-item-id="(.*?)"</expres>
+			<page>https://www.youtube.com/user/SaudiChannel2</page>
+			</regex>
 		</item>
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Russia Alyaum</cname>
-		<item>
-			<title>youtube 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=SrNpdcDyXXA</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Russia Alyaum</cname>
-		<item>
-			<title>youtube 480p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=SrNpdcDyXXA</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Russia Alyaum</cname>
-		<item>
-			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=SrNpdcDyXXA</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
 		<cname>Alaqsa</cname>
 		<item>
-			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=ox3v1AAvZSg</page>
+			<title>official/f4m</title>
+			<link>plugin://plugin.video.f4mTester/?url=$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>clip: {
+                url: '(.*?)'</expres>
+				<page>http://aqsatv.ps/live/</page>
 				</regex>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>NATIONAL GEO FR</cname>
+<streaminginfo>
+		<cname>Alaqsa</cname>
 		<item>
-			<title>stream4free m3u8</title>
-			<link>rtmp://195.154.188.161/live tiemout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>NATIONAL GEO FR</cname>
-		<item>
-			<title>stream4free</title>
-			<link>rtmp://195.154.188.161/live playpath=nationalgeo swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/national-geographic</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>UNIVERS</cname>
-		<item>
-			<title>stream4free m3u8</title>
-			<link>http://195.154.188.161/hls/univers.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>UNIVERS</cname>
-		<item>
-			<title>stream4free</title>
-			<link>rtmp://195.154.188.161/live playpath=univers swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/l-univers-et-ses-mysteres</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Finance</cname>
-		<item>
-			<title>stream4free</title>
-			<link>rtmp://195.154.188.161/live playpath=finance swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/finance-et-mondialisme</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Histoire</cname>
-		<item>
-			<title>stream4free</title>
-			<link>rtmp://195.154.188.161/live playpath=histoire swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/histoire</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Histoire</cname>
-		<item>
-			<title>stream4free m3u8</title>
-			<link>http://195.154.188.161/hls/histoire.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Science</cname>
-		<item>
-			<title>stream4free m3u8</title>
-			<link>http://195.154.188.161/hls/science.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Science</cname>
-		<item>
-			<title>stream4free</title>
-			<link>rtmp://195.154.188.161/live playpath=science swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/tv-sciences</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>MAN VS WILD</cname>
-		<item>
-			<title>stream4free</title>
-			<link>rtmp://195.154.188.161/live playpath=manwild swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/man-vs-wild</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Nature</cname>
-		<item>
-			<title>stream4free m3u8</title>
-			<link>http://195.154.188.161/hls/nature.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Nature</cname>
-		<item>
-			<title>stream4free</title>
-			<link>rtmp://195.154.188.161/live playpath=nature swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/nature-hd</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>TVReplay</cname>
-		<item>
-			<title>stream4free</title>
-			<link>rtmp://195.154.188.161/live playpath=tvreplay swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 timeout=15 swfVfy=1 pageUrl=http://www.stream4free.eu/tv-replay</link>
+			<title>official/ipad</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>ipadUrl: '(.*?)'</expres>
+				<page>http://aqsatv.ps/live/</page>
+				</regex>
 		</item>
 	</streaminginfo>
 	
@@ -1511,8 +434,50 @@
 	<streaminginfo>
 		<cname>FRANCE 2</cname>
 		<item>
-			<title>akamaihd</title>
+			<title>sd</title>
 			<link>http://pebbles101-lh.akamaihd.net/i/france2_1@97347/index_900_av-b.m3u8|X-Forwarded-For=195.186.145.47</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+			<title>hd</title>
+			<link>http://pebbles101-lh.akamaihd.net/i/france2_1@97347/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 3</cname>
+		<item>
+			<title>hd</title>
+			<link>http://pebbles100-lh.akamaihd.net/i/france3_1@97329/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 5</cname>
+		<item>
+			<title>hd</title>
+			<link>http://pebbles102-lh.akamaihd.net/i/france5_1@97351/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>RTL 9</cname>
+		<item>
+			<title>hd</title>
+			<link>http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BBC</cname>
+		<item>
+			<title>hd</title>
+			<link>http://pebbles105-lh.akamaihd.net/i/bbcworld_1@97498/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>CNN</cname>
+		<item>
+			<title>hd</title>
+			<link>http://pebbles105-lh.akamaihd.net/i/cnn_1@97501/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
 	
@@ -1551,29 +516,19 @@
 			<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8</link>
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Gtv Sports Plus</cname>
+		<item>
+			<title>official</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>'file': '(.*?)'</expres>
+				<page>http://www.ghanalive.tv/gtv-sports/</page>
+				</regex>
+		</item>
+	</streaminginfo>
 	
-	
-	<streaminginfo>
-		<cname>D17</cname>
-		<item>
-			<title>akamaihd</title>
-			<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d17_aka-lh.akamaihd.net/z/d17_hds@182614/manifest.f4m?hdcore=2.11.3&amp;g=RKZVIOALHRKW&amp; als=0,0.1,0,3,0,NaN,0,0,0,97,f,11173574,11173584.2 9,t,u,RKZVIOALHRKW,2.11.3,97&amp;hdcore=2.11.3</link> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>TF1</cname>
-		<item>
-			<title>wat</title>
-			<link>http://smooth.wat.tv/DVR_ETF1/source/dvr.m3u8</link> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>TF1</cname>
-		<item>
-			<title>halima</title>
-			<link>rtmp://halima-live.com:1936/live2 playpath=tf1 swfUrl=http://www.scorpion-server.com.tn/js/jwplayer.flash.swf live=1 flashver=WIN\2013,0,0,214 pageUrl=http://www.scorpion-server.com.tn/chaine.php?cat=16&amp;id=81 timeout=15</link> 
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>TF1</cname>
 		<item>
@@ -1581,263 +536,118 @@
 			<link>http://pebbles109-lh.akamaihd.net/i/tf1_1@97468/master.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&amp;X-Forwarded-For=146.159.95.38</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>NRJ 12</cname>
-		<item>
-			<title>master</title>
-			<link>http://max.myfrtv.com/8206/m3u8/8206.m3u8$doregex[get-token]</link>
-			<regex>
-			<name>get-token</name>
-			<expres>(.*)</expres>
-			<page>http://myfrtv.com/channels/new-file/</page>
-			<x-forward>205.236.221.231</x-forward>
-			</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>NRJ 12</cname>
-		<item>
-			<title>master</title>
-			<link>rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>NT1</cname>
-		<item>
-			<title>master</title>
-			<link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;auth=pvtoken%3Dexp%253D9999999999%257Eacl%253D%25252f%25252a%257Edata%253DZXhwPTE0MDc3MjY1NDN%2BYWNsPSUyZip%2BZGF0YT1wdmMsc35obWFjPTM0MjA3YTQ3MzY3Yzg3MDg1NzE4ODllYWFiNTY0ZGZiZWFkNmE1YzdlMGNhMGU4MmI0OWYwODdhY2I4YWJkZmY%253D%252196e4sdLWrezE46RaCBzzP43%2FLEM5en2KujAosbeDimQ%253D%257Ehmac%253D2AA3E9BD61EC957996CFAC754462A786C5ED62A96052B222DAC2C0035AEC7B66%26hdntl%3Dexp%3D1407726543~acl%3D%252f*~data%3Dhdntl~hmac%3D8f4bbcfcf6fcfd5afd5cf47b275887c421990f8bde35e9f4da79540fa203fe45%26als%3D0%2C2%2C0%2C0%2C0%2CNaN%2C0%2C0%2C0%2C30%2Cf%2C53716579.66%2C53716589.97%2Ct%2Cs%2CUGLENDKFJKPW%2C2.11.3%2C30%26hdcore%3D2.11.3</link>
-			<regex>
-				<name>get-urlencoded</name>
-				<expres>$pyFunction:urllib.quote_plus('$doregex[get-url]'+'&amp;hdcore=2.11.3|X-Forwarded-For=77.132.237.189&amp;User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A30.0)%20Gecko%2F20100101%20Firefox%2F30.0')</expres>
-				<page></page>
-			</regex>
 
-			<regex>
-				<name>get-url</name>
-				<expres>(.*)</expres>
-				<page>http://www.wat.tv/get/nt1live/591997?getURL=1</page>
-			</regex>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
-		<cname>TMC</cname>
+		<cname>GTV Ghana</cname>
 		<item>
-			<title>master</title>
-			<link>http://max.myfrtv.com/8211/m3u8/8211.m3u8$doregex[get-token]</link>
-				<regex>
-				<name>get-token</name>
-				<expres>(.*)</expres>
-				<page>http://myfrtv.com/channels/new-file/</page>
-				<x-forward>205.236.221.231</x-forward>
+			<title>official</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>'file': '(.*?)'</expres>
+				<page>http://www.ghanalive.tv/gtv/</page>
 				</regex>
 		</item>
 	</streaminginfo>
 	
-	
 	<streaminginfo>
-		<cname>GTV Ghana</cname>
-		<item>
-			<title>original</title>
-			<link>rtmp://skylite.pointcdn.net//skylite/ams/ghanatv timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 1HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800  timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 1HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 2HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 2HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 3HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 3HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 4HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 4HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 5HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 5HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 6HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 6HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 7HQ</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200 timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>SPORT TIME</cname>
-		<item>
-			<title> GERMANY SPORT TIME TV 7HD</title>
-			<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800 timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>BBC One</cname>
-		<item>
-			<title>high</title>
-			<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fzaphod-live.bbc.co.uk.edgesuite.net%2Fhds-live%2Flivepkgr%2F_definst_%2Fbbc1%2Fbbc1_1500.f4m%7CX-Forwarded-For%3D212.58.241.131</link>
-		</item>
-	</streaminginfo>
-	
-<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>hdcast5</title>
-			<link>rtmp://80.82.78.22:443/liverepeater playpath=11 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=11&amp;width=600&amp;height=450 token=#atd%#$ZH timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>hdcast0</title>
-			<link>rtmpe://46.246.29.160:1935/live/ playpath=sskys1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Sky Sports 2</cname>
-		<item>
-			<title>hdcast0</title>
-			<link>rtmpe://46.246.29.160:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Sky Sports 3</cname>
-		<item>
-			<title>hdcast0</title>
-			<link>rtmpe://46.246.29.160:1935/live/ playpath=sskys3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
-		</item>
-	</streaminginfo>
-<streaminginfo>
 		<cname>Sky Sports 5</cname>
 		<item>
-			<title>hdcast0</title>
-			<link>rtmpe://46.246.29.160:1935/live/ playpath=sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/8enq4zq05aduvj3/skysport5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 5</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/8enq4zq05aduvj3/skysport5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 5</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/8enq4zq05aduvj3/skysport5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 5</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/8enq4zq05aduvj3/skysport5.xml</page>
+				</regex> 
 		</item>
 	</streaminginfo>	
+
 	<streaminginfo>
-		<cname>Sky Sports 3</cname>
+		<cname>Sky Sports F1</cname>
 		<item>
-			<title>hdcast</title>
-			<link>rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
-		</item>
-	</streaminginfo>	
-	<streaminginfo>
-		<cname>Sky Sports 4</cname>
-		<item>
-			<title>hdcast0</title>
-			<link>rtmpe://46.246.29.160:1935/live/ playpath=sskys4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=20</link>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cq0ro5xa3ivfq36/skyf1.xml</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Sky Sports F1</cname>
 		<item>
-			<title>sky 5 hdcast</title>
-			<link>rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cq0ro5xa3ivfq36/skyf1.xml</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>Sky Sports F1</cname>
 		<item>
-			<title>sky 5 hdcast</title>
-			<link>rtmpe://46.246.29.162:1935/live/ playpath=Sporthdskyf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cq0ro5xa3ivfq36/skyf1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports F1</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cq0ro5xa3ivfq36/skyf1.xml</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 
-	<streaminginfo>
-		<cname>sunnah TVvv</cname>
-		<item>
-			<title>rtmp 720p</title>
-			<link>rtmp://5.9.81.202/live//sunna_720p timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>Al Hiwarvv</cname>
-		<item>
-			<title>alhiwar.tv</title>
-			<link>rtmp://185.2.136.148/livepkgr playpath=livestream swfUrl=http://alhiwar.tv/tv/510/player.swf live=true  pageUrl=http://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;prev=/search%3Fq%3Dal%2Bhiwar%26biw%3D1366%26bih%3D615&amp;rurl=translate.google.com&amp;sl=ar&amp;u=http://www.alhiwar.tv/&amp;usg=ALkJrhhSMbPdHP5Qj4XnT0dmn-Nj_rubJg timeout=20</link>
-		</item>
-	</streaminginfo>
-    
-	<streaminginfo>
-		<cname>AL MASARvv</cname>
-		<item>
-			<title>original</title>
-			<link>rtmp://msr1tv.flashmediacast.com:2071/live/livestream timeout=20</link>
-		</item>
-	</streaminginfo>
-	
 	<streaminginfo>
 		<cname>Al Sharqiya</cname>
 		<item>
@@ -1854,37 +664,14 @@
 		</item>
 	</streaminginfo>
 	
-	
-	
-	
-
-	
 	<streaminginfo>
 		<cname>Alfajr Int</cname>
 		<item>
 			<title>vstream2</title>
-			<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/unlimited_1 timeout=20</link>
+			<link>rtmp://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2_1 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
-	
-	
-	<streaminginfo>
-		<cname>ALTAGHEER TV</cname>
-		<item>
-			<title>joinvisions</title>
-			<link>http://stream.joinvisions.net:1935/taglive/taghier/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>AlYawmvv</cname>
-		<item>
-			<title>fb</title>
-			<link>rtmp://839156450.e.541833257.r.w6cdn.com/541833257//mp4:freeegeYSbQLHNsFZa timeout=15</link>
-		</item>
-	</streaminginfo>
-
 	<streaminginfo>
 		<cname>ANN</cname>
 		<item>
@@ -1896,56 +683,39 @@
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>frlive 925p</title>
+			<title>925p</title>
 			<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>frlive 540p</title>
+			<title>540p</title>
 			<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_540.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>frlive 315</title>
+			<title>315p</title>
 			<link>http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_315.m3u8 </link>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>arte</cname>
 		<item>
-			<title>akamaihd </title>
+			<title>720p</title>
 			<link>http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/master.m3u8|X-Forwarded-For=195.186.145.47</link>
 		</item>
 	</streaminginfo>
-	
-	
 	<streaminginfo>
-		<cname>BAHRAIN SPORTS</cname>
+		<cname>M6</cname>
 		<item>
-			<title>netromedia.net</title>
-			<link>rtmp://alayam.netromedia.net/btv3/btv3 timeout=20</link>
+			<title>720p</title>
+			<link>lh.akamaihd.net/i/m6_1@97467/master.m3u8|X-Forwarded-For=195.186.145.47</link>
 		</item>
 	</streaminginfo>
 	
-	
-	<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>hd</title>
-			<link>http://5.39.70.216/10$-month/sports@fontsbay.com/31.ch</link> 
-			</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>hd</title>
-			<link>http://5.39.70.216/10$-month/sports@fontsbay.com/36.ch</link> 
-			</item>
-	</streaminginfo>
 	<streaminginfo>		
 		<cname>NBC Golf</cname>
 		<item>
@@ -1968,83 +738,34 @@
 		</item>
 	</streaminginfo>
 	
-	
 	<streaminginfo>
-		<cname>Cinema ENvv</cname>
+		<cname>rts un</cname>
 		<item>
-	        <title> ar</title>
-			<link>http://212.68.33.139:8001</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Cinema ENvv</cname>
-		<item>
-	        <title> fr</title>
-			<link>http://212.68.33.139:8003</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Cinema ENvv</cname>
-		<item>
-	        <title> en</title>
-			<link>http://212.68.33.139:8002</link>
+			<title>sd</title>
+			<link>http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47</link>  
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>rts un</cname>
 		<item>
-			<title>akamaihd</title>
-			<link>http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47</link>  
+			<title>720p</title>
+			<link>http://pebbles109-lh.akamaihd.net/i/rts1_1@97469/master.m3u8|X-Forwarded-For=195.186.145.47</link>  
 		</item>
 	</streaminginfo>
 	<streaminginfo>
 		<cname>rts deux</cname>
 		<item>
-		<title>akamaihd</title>
+		<title>sd</title>
 		<link>http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/index_900_av-p.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>LCI</cname>
+		<cname>rts deux</cname>
 		<item>
-			<title>LCI</title>
-			<link>rtmp://cp84002.live.edgefcs.net:80/live playpath=eTF1-LCI-Flash-Int@15274 swfUrl=http://www.wat.tv/images/v40/PlayerWat.swf?revision=4.1.207 live=true timeout=30 swfVfy=1 pageUrl=http://www.wat.tv/images/v40/LoaderExportV3.swf</link>  
-			<x-forward>91.121.98.216</x-forward> 
+		<title>720p</title>
+		<link>http://pebbles109-lh.akamaihd.net/i/rts2_1@97470/master.m3u8|X-Forwarded-For=195.186.145.47</link> 
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>Equipe 21vv</cname>
-			<item>
-					<title>index</title>
-					<link>http://95.81.146.15/5687/index.m3u8</link>
-					<x-forward>91.121.98.216</x-forward>
-			</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Equipe 21</cname>
-			<item>
-					<title>L'Equipe 21</title>
-					<link>rtmp://vipwowza.yacast.net:1935/equipetv_live21/live21/ playpath=manifest.f4m live=1</link>
-			</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>HD1vv</cname>
-		<item>
-		<title>wat</title>
-		<link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;auth=pvtoken%3Dst%253D0000000000%257Eexp%253D9999999999%257Eacl%253D%25252f%25252a%257Edata%253DZXhwPTE0MDc3MjYzMzN%2BYWNsPSUyZip%2BZGF0YT1wdmMsc35obWFjPTFhMGE4NTk1NjBjOGRjNGVmNTIxZWQ4ZGExODc1MjRiMWYwYmJmMDUxMDFkMWU4ZDJlM2E5YmU1NjkwNjNjNWQ%253D%2521DICnlYvc%2FdmyS2FqMPqgEOeNAJFILRiYPxqjY4EHEys%253D%257Ehmac%253D6D960F9624EDF71727A75B6C360CD79C661CB96C62AF2B45286B5523B71D04D4%26hdntl%3Dexp%3D1407726333~acl%3D%252f*~data%3Dhdntl~hmac%3D90ab911ebe7c4fc6976777c6cd2874eedaec5da4128c8ed92817442dcae65afb%26hdcore%3D2.5.14%26als%3D0%2C2%2C0%2C0%2C0%2CNaN%2C0%2C0%2C0%2C19%2Cf%2C54125192%2C54064223.59%2Ct%2Cs%2CQHQOKBVWPVWK%2C2.7.6%2C19</link>
-		<regex>
-		<name>get-urlencoded</name>
-		<expres>$pyFunction:urllib.quote_plus('$doregex[get-url]'+'&amp;hdcore=2.5.14|X-Forwarded-For=77.132.237.189&amp;User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A30.0)%20Gecko%2F20100101%20Firefox%2F30.0')</expres>
-		<page></page>
-		</regex>
-		<regex>
-		<name>get-url</name>
-		<expres>(.*)</expres>
-		<page>http://www.wat.tv/get/hd1live/591997?getURL=1</page>
-		</regex>
-		</item>
-	</streaminginfo>
-	
 	
 	<streaminginfo>
 		<cname>CN FR</cname>
@@ -2053,23 +774,7 @@
 			<link>http://pebbles121-lh.akamaihd.net/i/cn_1@137751/index_1300_av-p.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%203_0%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%2F528.18%20(KHTML%2C%20like%20Gecko)%20Version%2F4.0%20Mobile%2F7A341%20Safari%2F528.16&amp;X-Forwarded-For=146.159.95.38</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>GULLI</cname>
-		<item>
-			<title>yacast.net</title>
-			<link>http://vipwowza.yacast.net/gulli_live/_definst_/mp4:gulli_850/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
 
-	<streaminginfo>
-		<cname>MBC 3vv</cname>
-		<item>
-	        <title>rtmp</title>
-			<link>rtmp://85.91.143.20/15678//15678.stream timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
 	<streaminginfo>
 		<cname>MTV</cname>
 		<item>
@@ -2082,7 +787,7 @@
 		<cname>Nile Cinema</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema timeout=20</link>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2091,7 +796,7 @@
 		<cname>Nile Comedy</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=20</link>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2099,7 +804,7 @@
 		<cname>Nile Culture</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 timeout=20</link>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2107,7 +812,7 @@
 		<cname>Nile Drama</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1 timeout=20</link>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1 timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -2115,7 +820,7 @@
 		<cname>Nile Family</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family timeout=20</link>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2123,7 +828,7 @@
 		<cname>Nile Learning</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning timeout=20</link>
+			<link>rtmp://livestreaming5.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning timeout=20</link>
 		</item>
 	</streaminginfo>
 
@@ -2131,7 +836,7 @@
 		<cname>Nile Life</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2139,97 +844,7 @@
 		<cname>Nile Sport</cname>
 		<item>
 			<title>livestreaming</title>
-			<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	
-	
-	<streaminginfo>
-		<cname>Quran TV ksavv</cname>
-		<item>
-			<title>720p</title>
-			<link>rtmp://5.9.81.202/live//quraan_720p timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>KSA 1vv</cname>
-		<item>
-			<title>islambox</title>
-			<link>rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTE5Ny0xNS0yMzUtNzkyMDE0LTA1LTIzLTE3LTA0LTM3/vb008_sauditv1.stream?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892 timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-    
-    <streaminginfo>
-		<cname>Royavv</cname>
-		<item>
-			<title>joinvisions </title>
-			<link>http://stream..net:1935/royalive/roya_2/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>Spacetoon</cname>
-		<item>
-			<title>rtmp</title>
-			<link>rtmp://85.91.143.21/35985/35985.stream timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>TV 5 MONDE</cname>
-		<item>
-			<title>stream</title>
-			<link>rtmp://85.91.143.22/90457/90457.stream timeout=20</link>
-		</item>
-	</streaminginfo>
-	
-	
-	<streaminginfo>
-		<cname>Hanibal</cname>
-		<item>
-			<title>streaminghd</title>
-			<link>rtmp://41.231.53.11:1935/thd/ playpath=hannibal swfUrl=http://www.streaminghd.tn/video/player.swf?random=457216235 live=1 pageUrl=http://www.direct4live.com/2013/07/hannibal-tv-en-live-direct.html timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Al Hiwar Ettounsi</cname>
-		<item>
-			<title>streaminghd</title>
-			<link>rtmp://41.231.53.11:1935/thd playpath=hiwar swfUrl=http://streaminghd.tn/video/player.swf?random=2088406218 live=1 pageUrl=http://www.direct4live.com/2014/03/el-hiwar-ettounsi-tv-direct-live.html timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Nessma</cname>
-		<item>
-			<title>streaminghd</title>
-			<link>rtmp://41.231.53.11:1935/thd/ playpath=nessma swfUrl=http://streaminghd.tn/video/player.swf?random=108740157 live=1 pageUrl=http://www.direct4live.com/2013/07/nessma-en-direct-live.html timeout=20</link>
-		</item>
-	</streaminginfo>		
-	<streaminginfo>
-		<cname>Al Janoubiya</cname>
-		<item>
-			<title>streaminghd </title>
-			<link>rtmp://41.231.53.11:1935/thd/ playpath=janoubia swfUrl=http://www.streaminghd.tn/video/player.swf?random=182728996 live=1 pageUrl=http://www.direct4live.com/2013/08/al-janoubia-tv-en-direct-live.html timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Telvza TV</cname>
-		<item>
-			<title>streaminghd </title>
-			<link>rtmp://41.231.53.11:1935/thd/ playpath=telvza swfUrl=http://streaminghd.tn/video/player.swf?random=1664158234 live=1 pageUrl=http://www.direct4live.com/2013/10/telvza-tv-en-direct-live.html timeout=20</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tounesna</cname>
-		<item>
-			<title>streaminghd </title>
-			<link>rtmp://41.231.53.11:1935/thd playpath=tunisna swfUrl=http://streaminghd.tn/video/player.swf?random=1578550586 live=1 pageUrl=http://www.direct4live.com/2014/02/tounesna-tv-direct-live.html timeout=20</link>
+			<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport timeout=20</link>
 		</item>
 	</streaminginfo>
 	
@@ -2254,32 +869,6 @@
 			<link>rtmp://free.flashwebtown.com:1935/bashaclick playpath=myStream.sdp swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=m3alitv&amp;autostart=true pageUrl=http://www.elahmad.com/tv/m3alitv.php timeout=20</link>
 		</item>
 	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-		<cname>Al Maghribia</cname>
-		<item>
-			<title>streamago</title>
-			<link>http://ca-edge-2.cdn2.streamago.tv:80/streamagoedge/1922/815/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Tunisia national 1</cname>
-		<item>
-			<title> streamago</title>
-			<link>http://ca-edge-1.cdn2.streamago.tv:80/streamagoedge/1052/224/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>TV 5 MONDE</cname>
-		<item>
-			<title>streamago</title>
-			<link>http://rm-edge-3.cdn2.streamago.tv/streamagoedge/1924/817/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	
 	
 	<streaminginfo>
 		<cname>AL RASHEED</cname>
@@ -2339,2022 +928,1479 @@
 				</regex>
 		</item>
 	</streaminginfo>	
-	<streaminginfo>
-		<cname>astro super sport</cname>
-		<item>
-			<title>astro super sport 1</title>
-			<link>http://122.155.203.9:8081/get/assp1/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>astro super sport</cname>
-		<item>
-			<title>astro super sport 2</title>
-			<link>http://122.155.203.9:8081/get/assp2/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>astro super sport</cname>
-		<item>
-			<title>astro super sport 3</title>
-			<link>http://122.155.203.9:8081/get/assp3/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>astro super sport</cname>
-		<item>
-			<title>astro super sport 4</title>
-			<link>http://122.155.203.9:8081/get/assp4/playlist.m3u8</link>
-		</item>
-	</streaminginfo>
 	
 	<streaminginfo>
-
 		<cname>Sky Sports 1</cname>
-
 		<item>
-			<title>1uk</title>
-
-			<link>rtmpe://198.204.255.66:1935/live playpath=skysp1?=e04e48bc1eeb4ba21ecdda7dc60b1b9b swfUrl=http://www.kbps.tv/jl/player.swf live=1 pageUrl=http://www.kbps.tv/embed3.php?s=skysp1&amp;width=615&amp;height=415&amp;domain=negmtv.altervista.org --live timeout=15</link>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
+				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>Sky Sports 2</cname>
-
 		<item>
-			<title>2uk</title>
-
-			<link>rtmpe://198.204.255.66:1935/live playpath=skysp2?=80ad7fab2386de75cb5c0b56bc81f800 swfUrl=http://www.kbps.tv/jl/player.swf live=1 pageUrl=http://www.kbps.tv/embed3.php?s=skysp2&amp;width=615&amp;height=415&amp;domain=negmtv.altervista.org --live timeout=15</link>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
+				</regex> 
 		</item>
 	</streaminginfo>
-	
 	<streaminginfo>
-	
-
 		<cname>Sky Sports 2</cname>
-
-		<item>
-			<title>hdcast</title>
-
-			<link>rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-	
-
-		<cname>Sky Sports 4</cname>
-
-		<item>
-			<title>hdcast</title>
-
-			<link>rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</link>
-		</item>
-	</streaminginfo>
-	
-	
-	
-	<streaminginfo>
-	
-
-		<cname>Al Alam</cname>
-		<item>
-			<title> 360p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>data-context-item-id="s*(.*?)\s</expres>
-				<page>http://www.youtube.com/user/AlalamTV2/featured</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-	
-
-		<cname>Al Alam</cname>
-		<item>
-			<title> 720p</title>
-			<link>$doregex[getQualityLink]</link>
-
-				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=1280x720\s*(.*?)\s</expres>
-				<page>$doregex[nuetralizeLink]</page>
-				</regex>
-				<regex>
-				<name>nuetralizeLink</name>
-				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>getlink</name>
-				<expres>hlsvp": "(.*?)"</expres>
-				<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-				</regex>
-				<regex>
-				<name>delink</name>
-				<expres>data-context-item-id="s*(.*?)\s</expres>
-				<page>http://www.youtube.com/user/AlalamTV2/featured</page>
-				</regex>
-				
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein14-link6.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein14-link5.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein14-link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein14-link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein14-link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 14</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein14-link1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein13-link6.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein13-link5.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein13-link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein13-link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein13-link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 13</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein13-link1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein12-link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein12-link1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein11-link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein11-link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein11-link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein11-link1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein10-link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein10-link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein10-link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein10-link1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein9-link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein9-link3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein9-link2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein9-link1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein8-link6.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein8-link5.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein8-link4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein8-link-3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein8-link-2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein8-link-1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-6.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-5.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein7-link-1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-6.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-5.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-2_10.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein6-link-1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-6.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-5.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-4.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>source src="(.*?)"</expres>
-				<page>http://geekzombi.blogspot.com/2015/05/bein5-link-1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
 		<item>
 			<title>Link3</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 4</cname>
+		<cname>Sky Sports 2</cname>
 		<item>
 			<title>Link2</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 4</cname>
+		<cname>Sky Sports 2</cname>
 		<item>
 			<title>Link1</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
+	
 <streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
+		<cname>Sky Sports 3</cname>
 		<item>
 			<title>Link4</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 3</cname>
+		<cname>Sky Sports 3</cname>
 		<item>
 			<title>Link3</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 3</cname>
+		<cname>Sky Sports 3</cname>
 		<item>
 			<title>Link2</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 3</cname>
+		<cname>Sky Sports 3</cname>
 		<item>
 			<title>Link1</title>
 				<link>$doregex[get-delink]</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	
-	
-		
-<streaminginfo>
-		<cname>alkass</cname>
-		<item>
-			<title>alkassOne</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"path": "(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/al-kass-one.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	
-	
-<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>coolhd</title>
-			<link>$doregex[get-link] timeout=20</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/bein-1fr.html</page>
-				</regex>  
-			</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>coolhd</title>
-			<link>$doregex[get-link] timeout=20</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/bein-2fr.html</page>
-				</regex>  
-			</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>XtraHD</title>
-			<link>$doregex[get-link] timeout=20</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/bein-1fr.html</page>
-				</regex>  
-			</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>XtraHD</title>
-			<link>$doregex[get-link] timeout=20</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/bein-2fr.html</page>
-				</regex>  
-			</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>Live3</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/live3.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>Live2</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/live4.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>Live1</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/live1.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>CH3</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/live1.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>CH2</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/ch3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>CH1</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>extra4HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/extra3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>extra3HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/live2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>extra2HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/extra2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>extra1HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/extra1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>extraHD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>ch2HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>ch1hd</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"image":"","file":"(.*?)"</expres>
-				<page>http://www.sportnews24hour.com/p/extra3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>C3</title>
-
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/live1.html</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>C2</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/ch3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>C1</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/bein-sports-2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>xtra4HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/extra3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>xtra3HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/live2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>xtra2HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/extra2.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>xtra1HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/extra1.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>xtraHD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>c2HD</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/extrahd.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Event</cname>
-		<item>
-			<title>c1hd</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>"fill",
-           file: '(.*?)'</expres>
-				<page>http://www.sportnews24hour.com/p/extra3.html</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-
 		<streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link4-360</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>640x360\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>hlsvp":.?"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   
-   
-   
-   
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 15</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 14</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 <streaminginfo>
-<cname>.Live Youtube</cname>
-
-   <item>
-<title>link4-480p</title>
-<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
-<regex>
-<name>getQualityLink</name>
-<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-<page>$doregex[nuetralizeLink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
-				</regex>
-</item>
-</streaminginfo>
-
-
-
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 <streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link4-720p</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>1280x720\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>stream_url":.?"(.*?)"</expres>
-<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube2.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   <streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link3-360</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>640x360\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>hlsvp":.?"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   
-   
-   
-   
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 <streaminginfo>
-<cname>.Live Youtube</cname>
-
-   <item>
-<title>link3-480p</title>
-<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
-<regex>
-<name>getQualityLink</name>
-<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-<page>$doregex[nuetralizeLink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
-				</regex>
-</item>
-</streaminginfo>
-
-
-
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 <streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link3-720p</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>1280x720\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>stream_url":.?"(.*?)"</expres>
-<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/calcio-youtube1.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   <streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link2-360</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>640x360\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>hlsvp":.?"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   
-   
-   
-   
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 <streaminginfo>
-<cname>.Live Youtube</cname>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
 
-   <item>
-<title>link2-480p</title>
-<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
-<regex>
-<name>getQualityLink</name>
-<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-<page>$doregex[nuetralizeLink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
-				</regex>
-</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link2-720p</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>1280x720\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>stream_url":.?"(.*?)"</expres>
-<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube2.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   <streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link1-360p</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>640x360\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>hlsvp":.?"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]&amp;feature=player_embedded</page>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
-   
-   
-   
-   
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-   <item>
-<title>link1-480p</title>
-<link>$doregex[getQualityLink]|Cookie=$get_cookies$</link>
-<regex>
-<name>getQualityLink</name>
-<expres>RESOLUTION=854x480\s*(.*?)\s</expres>
-<page>$doregex[nuetralizeLink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>https://www.youtube.com/watch?v=$doregex[delink]</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
-				</regex>
-</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-<cname>.Live Youtube</cname>
-
-<item>
-      <title>link1-720p</title>
-      <link>$doregex[get-quality]</link>
-
-           <regex>
-				<name>get-quality</name>
-				<expres>1280x720\s*(.*?)\s</expres>
-				<page>$doregex[convert-url]</page>
-				<cookieJar></cookieJar>
-				</regex>
-
-      				<regex>
-				<name>convert-url</name>
-				<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-				<page></page>
-				<cookieJar></cookieJar>
-				</regex>
-                
-
-    <regex>
-    <name>get-url</name>
-    <expres>stream_url":.?"(.*?)"</expres>
-<page>https://m.youtube.com/watch?ajax=1&amp;layout=mobile&amp;tsp=1&amp;v=$doregex[delink]</page>
-    <agent>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30/</agent>
-    </regex>
-	<regex>
-				<name>delink</name>
-				<expres>src="//www.youtube.com/embed/s*?(.*?)\s</expres>
-				<page>http://geekzombi.blogspot.com/2015/02/liga-youtube1.html</page>
-				</regex>
-   </item>
-   </streaminginfo>
 				
 </streamingInfos>
-
-	
-	
