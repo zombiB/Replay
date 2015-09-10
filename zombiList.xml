@@ -1,4 +1,18 @@
 <streamingInfos>
+	<streaminginfo>
+	<cname>D17</cname>
+	<item>
+	<title>bypassGeob</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d17_aka-lh.akamaihd.net/z/d17_hds@182614/manifest.f4m%7CX-Forwarded-For%3D94.199.122.171</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>D8</cname>
+	<item>
+	<title>bypassGeob</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d8_aka-lh.akamaihd.net/z/d8_hds@182613/manifest.f4m%7CX-Forwarded-For%3D94.199.122.171</link>
+	</item>
+</streaminginfo>
 <streaminginfo>
 		<cname>.Live Ustream</cname>
 		<item>
