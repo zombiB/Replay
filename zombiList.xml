@@ -3259,6 +3259,126 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+		<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link6</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link5</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link4</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link3</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link2</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Canal+ sport</cname>
+		<item>
+			<title>Link1</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/e4e7omuv5qwdu8j/canalsport.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 	
 
 				
