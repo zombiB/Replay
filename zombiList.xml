@@ -1984,7 +1984,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein 3 FR</cname>
 		<item>
 			<title>Link6</title>
 				<link>$doregex[get-delink]</link>
@@ -1996,7 +1996,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein 3 FR</cname>
 		<item>
 			<title>Link5</title>
 				<link>$doregex[get-delink]</link>
@@ -2008,7 +2008,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein 3 FR</cname>
 		<item>
 			<title>Link4</title>
 				<link>$doregex[get-delink]</link>
@@ -2020,7 +2020,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein 3 FR</cname>
 		<item>
 			<title>Link3</title>
 				<link>$doregex[get-delink]</link>
@@ -2032,7 +2032,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein 3 FR</cname>
 		<item>
 			<title>Link2</title>
 				<link>$doregex[get-delink]</link>
@@ -2044,7 +2044,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 15</cname>
+		<cname>Bein 3 FR</cname>
 		<item>
 			<title>Link1</title>
 				<link>$doregex[get-delink]</link>
@@ -2056,7 +2056,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein 2 FR</cname>
 		<item>
 			<title>Link6</title>
 				<link>$doregex[get-delink]</link>
@@ -2068,7 +2068,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein 2 FR</cname>
 		<item>
 			<title>Link5</title>
 				<link>$doregex[get-delink]</link>
@@ -2080,7 +2080,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein 2 FR</cname>
 		<item>
 			<title>Link4</title>
 				<link>$doregex[get-delink]</link>
@@ -2092,7 +2092,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein 2 FR</cname>
 		<item>
 			<title>Link3</title>
 				<link>$doregex[get-delink]</link>
@@ -2104,7 +2104,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein 2 FR</cname>
 		<item>
 			<title>Link2</title>
 				<link>$doregex[get-delink]</link>
@@ -2116,7 +2116,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 14</cname>
+		<cname>Bein 2 FR</cname>
 		<item>
 			<title>Link1</title>
 				<link>$doregex[get-delink]</link>
@@ -2128,7 +2128,7 @@
 		</item>
 	</streaminginfo>
 <streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein 1 FR</cname>
 		<item>
 			<title>Link6</title>
 				<link>$doregex[get-delink]</link>
@@ -2140,7 +2140,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein 1 FR</cname>
 		<item>
 			<title>Link5</title>
 				<link>$doregex[get-delink]</link>
@@ -2152,7 +2152,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein 1 FR</cname>
 		<item>
 			<title>Link4</title>
 				<link>$doregex[get-delink]</link>
@@ -2164,7 +2164,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein 1 FR</cname>
 		<item>
 			<title>Link3</title>
 				<link>$doregex[get-delink]</link>
@@ -2176,7 +2176,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein 1 FR</cname>
 		<item>
 			<title>Link2</title>
 				<link>$doregex[get-delink]</link>
@@ -2188,7 +2188,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein 1 FR</cname>
 		<item>
 			<title>Link1</title>
 				<link>$doregex[get-delink]</link>
