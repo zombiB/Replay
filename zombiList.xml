@@ -1742,13 +1742,7 @@
 			<link>rtmp://109.123.123.82:1935/wesal playpath=wesal1 swfUrl=http://www.elahmad.com/tv/swf/wesaltv.swf?autostart=true pageUrl=http://www.elahmad.com/tv/wesaltv.htm timeout=20</link>
 		</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>NBN</cname>
-		<item>
-			<title>elahmad</title>
-			<link>rtmp://lived.nbn.com.lb/nbn?hghpl]=keylive72-229-239-1302013-08-25-05-32-36/ playpath=mpegts.stream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=nbnlb&amp;autostart=true&amp;%2F%5B0%5D%5BDYNAMIC%5D%5B0%5D pageUrl=http://www.elahmad.com/tv/nbn-lebanon.php swfVfy=true live=true timeout=15</link>
-		</item>
-	</streaminginfo> 
+	
 	<streaminginfo>
 		<cname>M3Ali Tv</cname>
 		<item>
