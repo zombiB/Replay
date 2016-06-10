@@ -9,6 +9,32 @@
 	</streaminginfo>
 	
 	<streaminginfo>
+		<cname>Bein Max 3</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/uefaeuro.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/uefaeuro.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
 		<cname>Bein Max 4</cname>
 		<item>
 			<title>Link2</title>
@@ -16,7 +42,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein4.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -28,7 +54,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein4.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -41,7 +67,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein3.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -53,7 +79,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein3.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -66,7 +92,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein2.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -78,7 +104,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein2.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -90,7 +116,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein2.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -102,7 +128,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein2.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -114,7 +140,7 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein2.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -126,10 +152,11 @@
 				<regex>
 				<name>get-delink</name>
 				<expres>max1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein2.xml</page>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
+	
 	
 	<streaminginfo>
 		<cname>Bein Max 1</cname>
