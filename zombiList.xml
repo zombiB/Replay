@@ -1,5 +1,150 @@
 <streamingInfos>
+	<streaminginfo>
+		<cname>Bein Max 2</cname>
+		<item>
+			<title>Link12</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 2</cname>
+		<item>
+			<title>Link11</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 2</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 2</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 2</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 2</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 	
+	
+	<streaminginfo>
+		<cname>Bein Max 1</cname>
+		<item>
+			<title>Link12</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 1</cname>
+		<item>
+			<title>Link11</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 1</cname>
+		<item>
+			<title>Link10</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 1</cname>
+		<item>
+			<title>Link9</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 1</cname>
+		<item>
+			<title>Link8</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Max 1</cname>
+		<item>
+			<title>Link7</title>
+				<link>$doregex[get-delink]</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 	<streaminginfo>
 	<cname>Bein Max 1</cname>
 	<item>
