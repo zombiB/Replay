@@ -42,22 +42,22 @@
 	<streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
-<title>MedQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>LowQ3</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
 <name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
+<expres>max3source src="(.*?)"</expres>
 <page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 </regex>
 </item>
@@ -66,22 +66,22 @@
 <streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
-<title>MedQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>LowQ3</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
 <name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
+<expres>max3source src="(.*?)"</expres>
 <page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 </regex>
 </item>
@@ -90,22 +90,22 @@
 <streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
-<title>MedQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>LowQ3</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
 <name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
+<expres>max3source src="(.*?)"</expres>
 <page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 </regex>
 </item>
@@ -114,22 +114,22 @@
 <streaminginfo>
 	<cname>Bein Sport 4</cname>
 	<item>
-<title>MedQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>LowQ3</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
 <name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
+<expres>max3source src="(.*?)"</expres>
 <page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 </regex>
 </item>
@@ -138,160 +138,256 @@
 <streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
-<title>MedQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>LowQ3</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
 <name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
+<expres>max3source src="(.*?)"</expres>
 <page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>MedQ2</title>
-<link>$doregex[nuetralizeLink]</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-<title>MedQ1</title>
-<link>$doregex[nuetralizeLink]</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>MedQ1</title>
-<link>$doregex[nuetralizeLink]</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>MedQ1</title>
-<link>$doregex[nuetralizeLink]</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>MedQ1</title>
-<link>$doregex[nuetralizeLink]</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>file: "(.*?)"</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 </regex>
 </item>
 	</streaminginfo>
 	<streaminginfo>
-	<cname>Bein Sport 5</cname>
+	<cname>Bein Sport 1</cname>
 	<item>
-<title>MedQ1</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>LowQ2</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_medium/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+<title>LowQ2</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+<title>LowQ2</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+<title>LowQ2</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+<title>LowQ2</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+<title>LowQ1</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+<title>LowQ1</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+<title>LowQ1</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+<title>LowQ1</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+<title>LowQ1</title>
+<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -301,21 +397,139 @@
 </regex>
 </item>
 	</streaminginfo>
-
-<streaminginfo>
+	<streaminginfo>
 	<cname>Bein Sport 1</cname>
 	<item>
-<title>HighQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>MedQ1</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+<title>MedQ1</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+<title>MedQ1</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+<title>MedQ1</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+<title>MedQ1</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+<title>MedQ2</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -324,20 +538,22 @@
 <page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	
+<streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
-<title>HighQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>MedQ2</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -346,20 +562,22 @@
 <page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	
+<streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
-<title>HighQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>MedQ2</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -368,20 +586,22 @@
 <page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	
+<streaminginfo>
 	<cname>Bein Sport 4</cname>
 	<item>
-<title>HighQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>MedQ2</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -390,20 +610,22 @@
 <page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	
+<streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
-<title>HighQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>MedQ2</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -412,42 +634,141 @@
 <page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
-	<cname>Bein Sport 2</cname>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
 	<item>
-<title>HighQ2</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>MedQ3</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
 <name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
-	<cname>Bein Sport 1</cname>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
 	<item>
-<title>HighQ1</title>
-<link>$doregex[nuetralizeLink]</link>
+<title>MedQ3</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+<title>MedQ3</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+<title>MedQ3</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+<title>MedQ3</title>
+<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+<title>HighQ1</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -456,20 +777,22 @@
 <page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	
+<streaminginfo>
 	<cname>Bein Sport 2</cname>
 	<item>
 <title>HighQ1</title>
-<link>$doregex[nuetralizeLink]</link>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -478,20 +801,22 @@
 <page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	
+<streaminginfo>
 	<cname>Bein Sport 3</cname>
 	<item>
 <title>HighQ1</title>
-<link>$doregex[nuetralizeLink]</link>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -500,20 +825,22 @@
 <page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	
+<streaminginfo>
 	<cname>Bein Sport 4</cname>
 	<item>
 <title>HighQ1</title>
-<link>$doregex[nuetralizeLink]</link>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
@@ -522,25 +849,266 @@
 <page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 </regex>
 </item>
-	</streaminginfo><streaminginfo>
+	</streaminginfo>
+	
+<streaminginfo>
 	<cname>Bein Sport 5</cname>
 	<item>
 <title>HighQ1</title>
-<link>$doregex[nuetralizeLink]</link>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
 
 <regex>
 <name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('.m3u8','_high/index.m3u8')</expres>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
 <page></page>
 </regex>
 <regex>
 <name>getlink</name>
-<expres>file: "(.*?)"</expres>
+<expres>https(.*?).m3u8</expres>
 <page>$doregex[get-delink]</page>
 </regex>
 <regex>
 <name>get-delink</name>
 <expres>max1source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+<title>HighQ2</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+<title>HighQ2</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+<title>HighQ2</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+<title>HighQ2</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+<title>HighQ2</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max2source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 1</cname>
+	<item>
+<title>HighQ3</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 2</cname>
+	<item>
+<title>HighQ3</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 3</cname>
+	<item>
+<title>HighQ3</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 4</cname>
+	<item>
+<title>HighQ3</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+</regex>
+</item>
+	</streaminginfo>
+	
+<streaminginfo>
+	<cname>Bein Sport 5</cname>
+	<item>
+<title>HighQ3</title>
+<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
+
+<regex>
+<name>nuetralizeLink</name>
+<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getlink</name>
+<expres>https(.*?).m3u8</expres>
+<page>$doregex[get-delink]</page>
+</regex>
+<regex>
+<name>get-delink</name>
+<expres>max3source src="(.*?)"</expres>
 <page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
 </regex>
 </item>
