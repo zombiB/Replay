@@ -1471,65 +1471,6 @@
 			<link>http://50.7.69.138:9080/hls/mbc2.m3u8|User-Agent=iPad</link>
 		</item>
 	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>d8</cname>
-		<item>
-			<title>rc</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>file: "(.*?)"</expres>
-				<page>http://racacaxtv.ga/s4fwatch.php?name=Regarder%20D8%20en%20direct&amp;url=http://www.racacax1234.ga/yomama/d8d17/live/hls/d8-clair-hd-and/and-hd-clair/index.m3u8</page></regex>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>france 5</cname>
-		<item>
-			<title>rc</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>file: "(.*?)"</expres>
-				<page>http://racacaxtv.ga/s4fwatch.php?name=Regarder%20France%205%20en%20direct&amp;url=http://racacax1234.ga/yomama/francetv/simulcast/France_5/hls_v1/index.m3u8</page></regex>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>france 3</cname>
-		<item>
-			<title>rc</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>file: "(.*?)"</expres>
-				<page>http://racacaxtv.ga/s4fwatch.php?name=Regarder%20France%203%20en%20direct&amp;url=http://racacax1234.ga/yomama/francetv/simulcast/France_3/hls_v1/index.m3u8</page></regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>france 2</cname>
-		<item>
-			<title>rc</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>file: "(.*?)"</expres>
-				<page>http://racacaxtv.ga/s4fwatch.php?name=Regarder%20France%202%20en%20direct&amp;url=http://racacax1234.ga/yomama/francetv/simulcast/France_2/hls_v1/index.m3u8</page></regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>tf1</cname>
-		<item>
-			<title>rc</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>file: "(.*?)"</expres>
-				<page>http://racacaxtv.ga/s4fwatch.php?name=Regarder%20TF1%20en%20direct&amp;url=http://racacax1234.ga/yomama/tf1/master.m3u8</page>
-				</regex>
-		</item>
-	</streaminginfo>
 
 	<streaminginfo>
 		<cname>france 3</cname>
