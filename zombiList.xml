@@ -1,4 +1,6 @@
 <streamingInfos>
+
+
 		<streaminginfo>
 		<cname>FRANCE 5</cname>
 		<item>
@@ -234,7 +236,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>rtl9</cname>
+		<cname>rtl 9</cname>
 		<item>
 <title>Opus.re</title>
 <link>$doregex[get-url]</link>
@@ -329,1155 +331,29 @@
 	<cname>Bein Sport 5</cname>
 	<item>
 		<title>broLink</title>
-				<link>plugin://plugin.video.live.streamspro/?url=%24doregex%5BURL%5D&amp;mode=17&amp;regexs=%7Bu%27URL%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20%20%20%20%20import%20requests%5Cn%20%20%20%20%20import%20re%5Cn%20%20%20%20%20import%20base64%5Cn%5Cn%20%20%20%20%20id%20%3D%20re.findall%28%22javascript.%2A%3Fid%3D%5C%27%28.%2A%3F%29%5C%27%22%2C%20page_data%29%5B0%5D%5Cn%20%20%20%20%20url%20%3D%20%5C%27http%3A//bro.adca.st/stream.php%3Fid%3D%5C%27%20%2B%20id%20%2B%20%5C%27%26width%3D640%26height%3D480%5C%27%5Cn%20%20%20%20%20headers%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20%5C%27http%3A//www.yalla-shoot.com/ch/BeinMax1/brocast-high.php%5C%27%7D%5Cn%20%20%20%20%20source%20%3D%20requests.get%28url%2C%20headers%20%3D%20headers%29%5Cn%20%20%20%20%20curl%20%3D%20re.findall%28%5C%27curl%20%3D%20%22%28.%2A%3F%29%22%5C%27%2C%20source.text%29%5B0%5D%5Cn%20%20%20%20%20m3u8%20%3D%20base64.b64decode%28curl%29%5Cn%5Cn%20%20%20%20%20url2%20%3D%20%5C%27http%3A//bro.adca.st/getToken.php%5C%27%20%20%20%20%20%5Cn%20%20%20%20%20headers2%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20url%2C%20%5C%27X-Requested-With%5C%27%3A%20%5C%27XMLHttpRequest%5C%27%7D%5Cn%20%20%20%20%20source2%20%3D%20requests.get%28url2%2C%20headers%20%3D%20headers2%29%5Cn%20%20%20%20%20token%20%3D%20re.findall%28%5C%27%22token%22%3A%22%28.%2A%3F%29%22%5C%27%2C%20source2.text%29%5B0%5D%5Cn%5Cn%20%20%20%20%20return%20m3u8%20%2B%20token%20%2B%20%5C%27%7CReferer%3Dhttp%3A//cdn.bro.adca.st/jwplayer.flash.swf%26User-Agent%3DMozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%5Cn%27%2C%20%27referer%27%3A%20u%27http%3A//www.yalla-shoot.com/%27%2C%20%27name%27%3A%20u%27URL%27%2C%20%27page%27%3A%20u%27http%3A//www.yalla-shoot.com/ch/bein5/brocast-med.php%27%7D%7D</link>
+				<link>plugin://plugin.video.live.streamspro/?url=%24doregex%5BURL%5D&amp;mode=17&amp;regexs=%7Bu%27URL%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20%20%20%20%20import%20requests%5Cn%20%20%20%20%20import%20re%5Cn%20%20%20%20%20import%20base64%5Cn%5Cn%20%20%20%20%20id%20%3D%20re.findall%28%22javascript.%2A%3Fid%3D%5C%27%28.%2A%3F%29%5C%27%22%2C%20page_data%29%5B0%5D%5Cn%20%20%20%20%20url%20%3D%20%5C%27http%3A//bro.adca.st/stream.php%3Fid%3D%5C%27%20%2B%20id%20%2B%20%5C%27%26width%3D640%26height%3D480%5C%27%5Cn%20%20%20%20%20headers%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20%5C%27http%3A//www.yalla-shoot.com/ch/Bein5/brocast-high.php%5C%27%7D%5Cn%20%20%20%20%20source%20%3D%20requests.get%28url%2C%20headers%20%3D%20headers%29%5Cn%20%20%20%20%20curl%20%3D%20re.findall%28%5C%27curl%20%3D%20%22%28.%2A%3F%29%22%5C%27%2C%20source.text%29%5B0%5D%5Cn%20%20%20%20%20m3u8%20%3D%20base64.b64decode%28curl%29%5Cn%5Cn%20%20%20%20%20url2%20%3D%20%5C%27http%3A//bro.adca.st/getToken.php%5C%27%20%20%20%20%20%5Cn%20%20%20%20%20headers2%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20url%2C%20%5C%27X-Requested-With%5C%27%3A%20%5C%27XMLHttpRequest%5C%27%7D%5Cn%20%20%20%20%20source2%20%3D%20requests.get%28url2%2C%20headers%20%3D%20headers2%29%5Cn%20%20%20%20%20token%20%3D%20re.findall%28%5C%27%22token%22%3A%22%28.%2A%3F%29%22%5C%27%2C%20source2.text%29%5B0%5D%5Cn%5Cn%20%20%20%20%20return%20m3u8%20%2B%20token%20%2B%20%5C%27%7CReferer%3Dhttp%3A//cdn.bro.adca.st/jwplayer.flash.swf%26User-Agent%3DMozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%5Cn%27%2C%20%27referer%27%3A%20u%27http%3A//www.yalla-shoot.com/%27%2C%20%27name%27%3A%20u%27URL%27%2C%20%27page%27%3A%20u%27http%3A//www.yalla-shoot.com/ch/bein5/brocast-med.php%27%7D%7D</link>
 	</item>
 	</streaminginfo>
-	
 	<streaminginfo>
-	<cname>Bein Sport 1</cname>
+	<cname>Bein Sport 6</cname>
 	<item>
-<title>LowQ3</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>LowQ3</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>LowQ3</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>LowQ3</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>LowQ3</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
+		<title>broLink</title>
+				<link>plugin://plugin.video.live.streamspro/?url=%24doregex%5BURL%5D&amp;mode=17&amp;regexs=%7Bu%27URL%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20%20%20%20%20import%20requests%5Cn%20%20%20%20%20import%20re%5Cn%20%20%20%20%20import%20base64%5Cn%5Cn%20%20%20%20%20id%20%3D%20re.findall%28%22javascript.%2A%3Fid%3D%5C%27%28.%2A%3F%29%5C%27%22%2C%20page_data%29%5B0%5D%5Cn%20%20%20%20%20url%20%3D%20%5C%27http%3A//bro.adca.st/stream.php%3Fid%3D%5C%27%20%2B%20id%20%2B%20%5C%27%26width%3D640%26height%3D480%5C%27%5Cn%20%20%20%20%20headers%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20%5C%27http%3A//www.yalla-shoot.com/ch/Bein6/brocast-high.php%5C%27%7D%5Cn%20%20%20%20%20source%20%3D%20requests.get%28url%2C%20headers%20%3D%20headers%29%5Cn%20%20%20%20%20curl%20%3D%20re.findall%28%5C%27curl%20%3D%20%22%28.%2A%3F%29%22%5C%27%2C%20source.text%29%5B0%5D%5Cn%20%20%20%20%20m3u8%20%3D%20base64.b64decode%28curl%29%5Cn%5Cn%20%20%20%20%20url2%20%3D%20%5C%27http%3A//bro.adca.st/getToken.php%5C%27%20%20%20%20%20%5Cn%20%20%20%20%20headers2%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20url%2C%20%5C%27X-Requested-With%5C%27%3A%20%5C%27XMLHttpRequest%5C%27%7D%5Cn%20%20%20%20%20source2%20%3D%20requests.get%28url2%2C%20headers%20%3D%20headers2%29%5Cn%20%20%20%20%20token%20%3D%20re.findall%28%5C%27%22token%22%3A%22%28.%2A%3F%29%22%5C%27%2C%20source2.text%29%5B0%5D%5Cn%5Cn%20%20%20%20%20return%20m3u8%20%2B%20token%20%2B%20%5C%27%7CReferer%3Dhttp%3A//cdn.bro.adca.st/jwplayer.flash.swf%26User-Agent%3DMozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%5Cn%27%2C%20%27referer%27%3A%20u%27http%3A//www.yalla-shoot.com/%27%2C%20%27name%27%3A%20u%27URL%27%2C%20%27page%27%3A%20u%27http%3A//www.yalla-shoot.com/ch/bein6/brocast-med.php%27%7D%7D</link>
+	</item>
 	</streaminginfo>
 	<streaminginfo>
-	<cname>Bein Sport 1</cname>
+	<cname>Bein Sport 8</cname>
 	<item>
-<title>LowQ2</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>LowQ2</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>LowQ2</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>LowQ2</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>LowQ2</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-<title>LowQ1</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>LowQ1</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>LowQ1</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>LowQ1</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>LowQ1</title>
-<link>https$doregex[nuetralizeLink]_low/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
+		<title>broLink</title>
+				<link>plugin://plugin.video.live.streamspro/?url=%24doregex%5BURL%5D&amp;mode=17&amp;regexs=%7Bu%27URL%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20%20%20%20%20import%20requests%5Cn%20%20%20%20%20import%20re%5Cn%20%20%20%20%20import%20base64%5Cn%5Cn%20%20%20%20%20id%20%3D%20re.findall%28%22javascript.%2A%3Fid%3D%5C%27%28.%2A%3F%29%5C%27%22%2C%20page_data%29%5B0%5D%5Cn%20%20%20%20%20url%20%3D%20%5C%27http%3A//bro.adca.st/stream.php%3Fid%3D%5C%27%20%2B%20id%20%2B%20%5C%27%26width%3D640%26height%3D480%5C%27%5Cn%20%20%20%20%20headers%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20%5C%27http%3A//www.yalla-shoot.com/ch/Bein7/brocast-high.php%5C%27%7D%5Cn%20%20%20%20%20source%20%3D%20requests.get%28url%2C%20headers%20%3D%20headers%29%5Cn%20%20%20%20%20curl%20%3D%20re.findall%28%5C%27curl%20%3D%20%22%28.%2A%3F%29%22%5C%27%2C%20source.text%29%5B0%5D%5Cn%20%20%20%20%20m3u8%20%3D%20base64.b64decode%28curl%29%5Cn%5Cn%20%20%20%20%20url2%20%3D%20%5C%27http%3A//bro.adca.st/getToken.php%5C%27%20%20%20%20%20%5Cn%20%20%20%20%20headers2%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20url%2C%20%5C%27X-Requested-With%5C%27%3A%20%5C%27XMLHttpRequest%5C%27%7D%5Cn%20%20%20%20%20source2%20%3D%20requests.get%28url2%2C%20headers%20%3D%20headers2%29%5Cn%20%20%20%20%20token%20%3D%20re.findall%28%5C%27%22token%22%3A%22%28.%2A%3F%29%22%5C%27%2C%20source2.text%29%5B0%5D%5Cn%5Cn%20%20%20%20%20return%20m3u8%20%2B%20token%20%2B%20%5C%27%7CReferer%3Dhttp%3A//cdn.bro.adca.st/jwplayer.flash.swf%26User-Agent%3DMozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%5Cn%27%2C%20%27referer%27%3A%20u%27http%3A//www.yalla-shoot.com/%27%2C%20%27name%27%3A%20u%27URL%27%2C%20%27page%27%3A%20u%27http%3A//www.yalla-shoot.com/ch/bein8/brocast-med.php%27%7D%7D</link>
+	</item>
 	</streaminginfo>
 	<streaminginfo>
-	<cname>Bein Sport 1</cname>
+	<cname>Bein Sport 10</cname>
 	<item>
-<title>MedQ1</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>MedQ1</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>MedQ1</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>MedQ1</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>MedQ1</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-<title>MedQ2</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>MedQ2</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>MedQ2</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>MedQ2</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>MedQ2</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-<title>MedQ3</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>MedQ3</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>MedQ3</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>MedQ3</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>MedQ3</title>
-<link>https$doregex[nuetralizeLink]_medium/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-<title>HighQ1</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>HighQ1</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>HighQ1</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>HighQ1</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>HighQ1</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max1source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-<title>HighQ2</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>HighQ2</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>HighQ2</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>HighQ2</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>HighQ2</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max2source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 1</cname>
-	<item>
-<title>HighQ3</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 2</cname>
-	<item>
-<title>HighQ3</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 3</cname>
-	<item>
-<title>HighQ3</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 4</cname>
-	<item>
-<title>HighQ3</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	
-<streaminginfo>
-	<cname>Bein Sport 5</cname>
-	<item>
-<title>HighQ3</title>
-<link>https$doregex[nuetralizeLink]_high/index.m3u8</link>
-
-<regex>
-<name>nuetralizeLink</name>
-<expres>$pyFunction:'$doregex[getlink]'.replace('_high/index','')</expres>
-<page></page>
-</regex>
-<regex>
-<name>getlink</name>
-<expres>https(.*?).m3u8</expres>
-<page>$doregex[get-delink]</page>
-</regex>
-<regex>
-<name>get-delink</name>
-<expres>max3source src="(.*?)"</expres>
-<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-</regex>
-</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>zee alwan</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/zee-alwan.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>zee aflam</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/zee-aflam.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>mbc action</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/mbc-action.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>mbc max</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/mbc-max.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>mbc drama</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/mbc-drama.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>mbc 3</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/mbc3.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>mbc 4</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/mbc4.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>mbc 1</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/mbc1.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>mbc 2</cname>
-		<item>
-			<title>link1</title>
-			<link>http://50.7.69.138:9080/hls/mbc2.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-		<cname>france 3</cname>
-		<item>
-			<title>4</title>
-			<link>http://ftvenregions-lh.akamaihd.net/i/F3_Paris@145485/master.m3u8|X-Forwarded-For=194.4.244.50</link>
-		</item>
+		<title>broLink</title>
+				<link>plugin://plugin.video.live.streamspro/?url=%24doregex%5BURL%5D&amp;mode=17&amp;regexs=%7Bu%27URL%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20%20%20%20%20import%20requests%5Cn%20%20%20%20%20import%20re%5Cn%20%20%20%20%20import%20base64%5Cn%5Cn%20%20%20%20%20id%20%3D%20re.findall%28%22javascript.%2A%3Fid%3D%5C%27%28.%2A%3F%29%5C%27%22%2C%20page_data%29%5B0%5D%5Cn%20%20%20%20%20url%20%3D%20%5C%27http%3A//bro.adca.st/stream.php%3Fid%3D%5C%27%20%2B%20id%20%2B%20%5C%27%26width%3D640%26height%3D480%5C%27%5Cn%20%20%20%20%20headers%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20%5C%27http%3A//www.yalla-shoot.com/ch/Bein9/brocast-high.php%5C%27%7D%5Cn%20%20%20%20%20source%20%3D%20requests.get%28url%2C%20headers%20%3D%20headers%29%5Cn%20%20%20%20%20curl%20%3D%20re.findall%28%5C%27curl%20%3D%20%22%28.%2A%3F%29%22%5C%27%2C%20source.text%29%5B0%5D%5Cn%20%20%20%20%20m3u8%20%3D%20base64.b64decode%28curl%29%5Cn%5Cn%20%20%20%20%20url2%20%3D%20%5C%27http%3A//bro.adca.st/getToken.php%5C%27%20%20%20%20%20%5Cn%20%20%20%20%20headers2%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20url%2C%20%5C%27X-Requested-With%5C%27%3A%20%5C%27XMLHttpRequest%5C%27%7D%5Cn%20%20%20%20%20source2%20%3D%20requests.get%28url2%2C%20headers%20%3D%20headers2%29%5Cn%20%20%20%20%20token%20%3D%20re.findall%28%5C%27%22token%22%3A%22%28.%2A%3F%29%22%5C%27%2C%20source2.text%29%5B0%5D%5Cn%5Cn%20%20%20%20%20return%20m3u8%20%2B%20token%20%2B%20%5C%27%7CReferer%3Dhttp%3A//cdn.bro.adca.st/jwplayer.flash.swf%26User-Agent%3DMozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%5Cn%27%2C%20%27referer%27%3A%20u%27http%3A//www.yalla-shoot.com/%27%2C%20%27name%27%3A%20u%27URL%27%2C%20%27page%27%3A%20u%27http%3A//www.yalla-shoot.com/ch/bein10/brocast-med.php%27%7D%7D</link>
+	</item>
 	</streaminginfo>
 
 
@@ -1510,7 +386,7 @@
 	<streaminginfo>
 		<cname>Bein 2 FR</cname>
 		<item>
-			<title>4free</title>
+			<title>HD</title>
 			<link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -1533,99 +409,101 @@
 </regex>
 		</item>
 	</streaminginfo>
-	
 	<streaminginfo>
-	<cname>D17</cname>
-	<item>
-	<title>bypassGeob</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d17_aka-lh.akamaihd.net/z/d17_hds@182614/manifest.f4m%7CX-Forwarded-For%3D89.32.146.148</link>
-	</item>
-</streaminginfo>
+		<cname>Canal+ Sport</cname>
+		<item>
+			<title>HD</title>
+			<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+sport.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+sport.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>BEIN ESP</cname>
+		<item>
+			<title>HD</title>
+			<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsportsnews.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsportsnews.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+		</item>
+	</streaminginfo>
+		<streaminginfo>
+		<cname>Bein Movies 1</cname>
+		<item>
+			<title>HD</title>
+			<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinmovies1.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinmovies1.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+		</item>
+	</streaminginfo>
 <streaminginfo>
 	<cname>D8</cname>
 	<item>
 	<title>bypassGeob</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d8_aka-lh.akamaihd.net/z/d8_hds@182613/manifest.f4m%7CX-Forwarded-For%3D94.199.122.171</link>
+	<link>plugin://plugin.video.f4mTester/?url=http://hds_live_d8_aka-lh.akamaihd.net/z/c8_hds@182613/manifest.f4m%7CX-Forwarded-For%3D94.199.122.171</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>link4</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/fpp1g95c5aa8jud/ustream.xml</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>link3</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/fpp1g95c5aa8jud/ustream.xml</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>link2</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/fpp1g95c5aa8jud/ustream.xml</page>
-				</regex>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>.Live Ustream</cname>
-		<item>
-			<title>link1</title>
-				<link>$doregex[get-link]</link>
-				<regex>
-				<name>get-link</name>
-				<expres>$pyFunction:get_ustream('$doregex[get-delink]')</expres>
-				<page></page>
-				</regex>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/fpp1g95c5aa8jud/ustream.xml</page>
-				</regex>
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>AlFajer Gaza</cname>
 		<item>
 			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/3h9ypuinba6ju0l/fajrgaza.xml</page>
-				</regex> 
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[getlink]%26referer=http://www.show-sport.com</link>
+<regex>
+<name>getlink</name>
+<expres>link6source src="(.*?)"</expres>
+<page>https://dl.dropboxusercontent.com/s/3h9ypuinba6ju0l/fajrgaza.xml</page>
+</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1688,6 +566,7 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+	
 	<streaminginfo>
 		<cname>MBC PRO SP1</cname>
 		<item>
@@ -1770,7 +649,7 @@
 		<cname>NBCSN</cname>
 		<item>
 			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link4source src="(.*?)"</expres>
@@ -1782,7 +661,7 @@
 		<cname>NBCSN</cname>
 		<item>
 			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link3source src="(.*?)"</expres>
@@ -1794,7 +673,7 @@
 		<cname>NBCSN</cname>
 		<item>
 			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link2source src="(.*?)"</expres>
@@ -1806,7 +685,7 @@
 		<cname>NBCSN</cname>
 		<item>
 			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link1source src="(.*?)"</expres>
@@ -1820,20 +699,6 @@
 		<item>
 			<title>creacast</title>
 			<link>rtmp://str81.creacast.com:80/weo/high timeout=20</link>
-		</item>
-	</streaminginfo>
-
-	<streaminginfo>
-	<cname>FRANCE 2</cname>
-		<item>
-			<title>Low Playtv GEOBLOCKED</title>
-			<link>http://188.165.101.226:80/mobile/_definst_/canal-atlas_300/playlist.m3u8?sessionid=$doregex[key]&amp;mode=10</link>
-			<regex>
-			<name>key</name>
-			<expres>sessionid=([^'"]*)</expres>
-			<page>http://m.playtv.fr/api/channels/france-2/?preset=with_programme%2Cwith_streams</page>
-			<referer></referer>
-			</regex>
 		</item>
 	</streaminginfo>
 	<streaminginfo>
@@ -1864,26 +729,12 @@
 	<streaminginfo>
 		<cname>Ajyal Network</cname>
 		<item>
-			<title>lIVE tv SD (rtmp)</title>
-			<link>rtmp://46.43.64.162/ajyal//livestreamm timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Ajyal Network</cname>
-		<item>
-			<title>lIVE tv HD (rtmp)</title>
-			<link>rtmp://46.43.64.162:1935/ajyal/livestream2 timeout=15</link>
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Ajyal Network</cname>
-		<item>
 			<title>lIVE tv SD (m3u8)</title>
 				<link>$doregex[get-link]</link>
 				<regex>
 				<name>get-link</name>
 				<expres>file: "(.*?)"</expres>
-				<page>http://www.arn.ps/tv2/ajyal.js</page>
+				<page>http://www.arn.ps/tv/sd/tv/ajyal.js</page>
 				</regex> 
 		</item>
 	</streaminginfo>
@@ -2012,7 +863,7 @@
 		<cname>Sky Sports 5</cname>
 		<item>
 			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link4source src="(.*?)"</expres>
@@ -2024,7 +875,7 @@
 		<cname>Sky Sports 5</cname>
 		<item>
 			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link3source src="(.*?)"</expres>
@@ -2036,7 +887,7 @@
 		<cname>Sky Sports 5</cname>
 		<item>
 			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link2source src="(.*?)"</expres>
@@ -2048,7 +899,7 @@
 		<cname>Sky Sports 5</cname>
 		<item>
 			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link1source src="(.*?)"</expres>
@@ -2061,7 +912,7 @@
 		<cname>Sky Sports F1</cname>
 		<item>
 			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link4source src="(.*?)"</expres>
@@ -2073,7 +924,7 @@
 		<cname>Sky Sports F1</cname>
 		<item>
 			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link3source src="(.*?)"</expres>
@@ -2085,7 +936,7 @@
 		<cname>Sky Sports F1</cname>
 		<item>
 			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link2source src="(.*?)"</expres>
@@ -2097,7 +948,7 @@
 		<cname>Sky Sports F1</cname>
 		<item>
 			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link1source src="(.*?)"</expres>
@@ -2298,1477 +1149,7 @@
 		</item>
 	</streaminginfo>	
 	
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 1</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 2</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 2</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 2</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 2</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
 	
-<streaminginfo>
-		<cname>Sky Sports 3</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 3</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 3</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 3</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-		<streaminginfo>
-		<cname>Sky Sports 4</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 4</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 4</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Sky Sports 4</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein 3 FR</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 3 FR</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 3 FR</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 3 FR</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 3 FR</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 3 FR</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 2 FR</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein 1 FR</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 12</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 11</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 10</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 9</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 8</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 7</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 6</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 5</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 4</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 3</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 2</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
-	<streaminginfo>
-		<cname>Bein Sport 1</cname>
-		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
-				<regex>
-				<name>get-delink</name>
-				<expres>link1source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
-				</regex> 
-		</item>
-	</streaminginfo>
 	<streaminginfo>
 		<cname>Bein Sport 1</cname>
 		<item>
@@ -3790,6 +1171,32 @@
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
 <page>http://www.liveonlinetv247.info/embed/beinsports1.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3.php</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent></agent>
 </regex> 
@@ -3821,11 +1228,300 @@
 </regex> 
 		</item>
 	</streaminginfo>
-		<streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports4.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports5.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports6.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports6.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports8.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports8.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports9.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports9.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports10.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports10.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports11.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports11.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports12.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports12.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 13</cname>
+		<item>
+			<title>HD</title>
+				<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports13.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports13.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 3 FR</cname>
+		<item>
+			<title>HD</title>
+			<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3france.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link10</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-10</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link10source src="(.*?)"</expres>
@@ -3836,8 +1532,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link9</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-9</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link9source src="(.*?)"</expres>
@@ -3848,8 +1544,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link8</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-8</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link8source src="(.*?)"</expres>
@@ -3860,8 +1556,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link7</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-7</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link7source src="(.*?)"</expres>
@@ -3872,8 +1568,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link6</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link6source src="(.*?)"</expres>
@@ -3884,8 +1580,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link5</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link5source src="(.*?)"</expres>
@@ -3896,8 +1592,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link4</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link4source src="(.*?)"</expres>
@@ -3908,8 +1604,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link3</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link3source src="(.*?)"</expres>
@@ -3920,8 +1616,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link2</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link2source src="(.*?)"</expres>
@@ -3932,8 +1628,8 @@
 	<streaminginfo>
 		<cname>Canal+ sport</cname>
 		<item>
-			<title>Link1</title>
-				<link>$doregex[get-delink]</link>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
 				<expres>link1source src="(.*?)"</expres>
@@ -3941,7 +1637,1479 @@
 				</regex> 
 		</item>
 	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>Link4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>Link3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>Link2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 1</cname>
+		<item>
+			<title>Link1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/fie9i37sqkr8m54/skysport1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 2</cname>
+		<item>
+			<title>Link4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 2</cname>
+		<item>
+			<title>Link3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 2</cname>
+		<item>
+			<title>Link2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 2</cname>
+		<item>
+			<title>Link1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/2nf1y2kduw7ocpg/skysport2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
 	
+<streaminginfo>
+		<cname>Sky Sports 3</cname>
+		<item>
+			<title>Link4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 3</cname>
+		<item>
+			<title>Link3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 3</cname>
+		<item>
+			<title>Link2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 3</cname>
+		<item>
+			<title>Link1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/jsqtsfsxcs7kyip/skysport3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+		<streaminginfo>
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>Link4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>Link3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>Link2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Sky Sports 4</cname>
+		<item>
+			<title>Link1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/nmfbga0tg3s1h9u/skysport4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>Bein 3 FR</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 3 FR</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 3 FR</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 3 FR</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 3 FR</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 3 FR</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/cj97yg1pbc16v63/bein15.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bvi3veb63242pv3/bein14.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein 1 FR</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/dvrbciua853c59g/bein13.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 12</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/q8tenzdzt50jdiz/bein12.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 11</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/vigswor977uh2yt/bein11.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 10</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/sk4ta3yjpvfhagp/bein10.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 9</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/z1nxljq5seihi1z/bein9.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 8</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/yg2m4loynujrzy6/bein8.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 7</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/bl48ro196lpu8x7/bein7.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 6</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/j4w7ffssh4jmd7x/bein6.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 5</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/16hqeo5s332u4ap/bein5.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-10</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-9</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-8</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-7</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 4</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-10</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-9</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-8</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-7</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 3</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-10</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-9</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-8</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-7</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 2</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/0800jgw429hbu6u/bein2.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-10</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-9</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-8</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-7</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport 1</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>link1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/1mfh6ah3wkptk83/bein1.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+		
 
 				
 </streamingInfos>
