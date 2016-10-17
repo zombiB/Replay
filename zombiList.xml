@@ -1,4 +1,298 @@
 <streamingInfos>
+		<streaminginfo>
+		<cname>FRANCE 5</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p102)"</expres>
+<page>http://opus.re/chan.php?u=france5_1@97351/index_900_av-p.m3u8?srvid=p102&amp;name=FRANCE%205</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+		<streaminginfo>
+		<cname>BFMTV</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p121)"</expres>
+<page>http://opus.re/chan.php?u=bfmtv_1@137750/index_900_av-p.m3u8?srvid=p121&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TF1</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p102)"</expres>
+<page>http://opus.re/chan.php?u=tf1hd_1@97413/index_900_av-p.m3u8?srvid=p102&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 2</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p100)"</expres>
+<page>http://opus.re/chan.php?u=france2hd_1@97420/index_900_av-p.m3u8?srvid=p100&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 3</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p100)"</expres>
+<page>http://opus.re/chan.php?u=france3_1@97329/index_900_av-p.m3u8?srvid=p100&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 4</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p100)"</expres>
+<page>http://opus.re/chan.php?u=france4_1@97330/index_900_av-p.m3u8?srvid=p100&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>FRANCE 0</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p122)"</expres>
+<page>http://opus.re/chan.php?u=franceo_1@137770/index_900_av-p.m3u8?srvid=p122&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>M6</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p100)"</expres>
+<page>http://opus.re/chan.php?u=m6hd_1@97421/index_900_av-p.m3u8?srvid=p100&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>6ter</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p112)"</expres>
+<page>http://opus.re/chan.php?u=6terhd_1@97443/index_900_av-p.m3u8?srvid=p112&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>W9</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p101)"</expres>
+<page>http://opus.re/chan.php?u=w9_1@97344/index_900_av-p.m3u8?srvid=p101&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>D8</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p100)"</expres>
+<page>http://opus.re/chan.php?u=d8_1@97328/index_900_av-p.m3u8?srvid=p100&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>D17</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p100)"</expres>
+<page>http://opus.re/chan.php?u=d17_1@97327/index_900_av-p.m3u8?srvid=p100&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>numero 23</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p112)"</expres>
+<page>http://opus.re/chan.php?u=n23hd_1@97444/index_900_av-p.m3u8?srvid=p112&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NRJ 12</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p121)"</expres>
+<page>http://opus.re/chan.php?u=nrj12_1@137759/index_900_av-p.m3u8?srvid=p121&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>TMC</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p103)"</expres>
+<page>http://opus.re/chan.php?u=tmc_1@97379/index_900_av-p.m3u8?srvid=p103&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>NT1</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p108)"</expres>
+<page>http://opus.re/chan.php?u=nt1_1@97528/index_900_av-p.m3u8?srvid=p108&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>rts un</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p126)"</expres>
+<page>http://opus.re/chan.php?u=rts1hd_1@114347/index_900_av-p.m3u8?srvid=p126&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>rts deux</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p102)"</expres>
+<page>http://opus.re/chan.php?u=rts2hd_1@97415/index_900_av-p.m3u8?srvid=p102&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>rtl9</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p102)"</expres>
+<page>http://opus.re/chan.php?u=rtl9_1@97354/index_900_av-p.m3u8?srvid=p102&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>cn fr</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p121)"</expres>
+<page>http://opus.re/chan.php?u=cn_1@137751/index_900_av-p.m3u8?srvid=p121&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>gulli</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p102)"</expres>
+<page>http://opus.re/chan.php?u=gulli_1@97352/index_900_av-p.m3u8?srvid=p102&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>arte</cname>
+		<item>
+<title>Opus.re</title>
+<link>$doregex[get-url]</link>
+<regex><name>get-url</name>
+<expres>file:\s+"(http.*p100)"</expres>
+<page>http://opus.re/chan.php?u=artefrhd_1@97419/index_900_av-p.m3u8?srvid=p100&amp;name=BFM%20TV</page>
+<referer>http://opus.re/0pus.php</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>National Geo FR</cname>
+		<item>
+<title>Opus.re</title>
+<link>http://opus.cf/allfrtvstrm/tkn/s4f/ae71e78dc49f76feca2a9277720a88f2f7b40593/national-geographic/natgeo.m3u8</link>
+</item>
+	</streaminginfo>
 	
 		<streaminginfo>
 	<cname>Bein Sport 1</cname>
@@ -1744,21 +2038,7 @@
 				</regex>
 				</item>
 	</streaminginfo>
-	<streaminginfo>
-		<cname>M6</cname>
-		<item>
-			<title>sfr</title>
-			<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8</link>
-		</item>
-	</streaminginfo>
-	
-	<streaminginfo>
-		<cname>W9</cname>
-		<item>
-			<title>sfr</title>
-			<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8</link>
-		</item>
-	</streaminginfo>
+
 	<streaminginfo>
 		<cname>Gtv Sports Plus</cname>
 		<item>
