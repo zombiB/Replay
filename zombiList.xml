@@ -1,4 +1,18 @@
 <streamingInfos>
+	<streaminginfo>
+		<cname>Bein Sport News</cname>
+		<item>
+			<title>youtube official</title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=o10-vQokBuI</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport News</cname>
+		<item>
+			<title>youtube 2 </title>
+			<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8eCmmRRvfO8</link>
+		</item>
+	</streaminginfo>
 <streaminginfo>
 		<cname>Attasi3a</cname>
 		<item>
