@@ -1,120 +1,240 @@
 <streamingInfos>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-10</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can10source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-9</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can9source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-8</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can8source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-7</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can7source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-6</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can6source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-5</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can5source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-4</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can4source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-3</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can3source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-2</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can2source src="(.*?)"</expres>
-				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				<expres>max2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
 				</regex> 
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein CAN 2017</cname>
+		<cname>Bein Sport Max2</cname>
 		<item>
 			<title>SportDevil-1</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
 				<regex>
 				<name>get-delink</name>
-				<expres>can1source src="(.*?)"</expres>
+				<expres>max1source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/ao05mmwnerx08eu/bein3.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-10</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max10source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-9</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max9source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-8</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max8source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-7</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max7source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-6</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max6source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-5</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max5source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-4</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max4source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-3</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max3source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-2</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max2source src="(.*?)"</expres>
+				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
+				</regex> 
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>Bein Sport Max1</cname>
+		<item>
+			<title>SportDevil-1</title>
+				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
+				<regex>
+				<name>get-delink</name>
+				<expres>max1source src="(.*?)"</expres>
 				<page>https://dl.dropboxusercontent.com/s/pqqp93moi8fynto/bein4.xml</page>
 				</regex> 
 		</item>
@@ -490,7 +610,7 @@
 	</item>
 	</streaminginfo>
 	<streaminginfo>
-	<cname>Bein Sport 10</cname>
+	<cname>Bein Sport HD10</cname>
 	<item>
 		<title>broLink</title>
 				<link>plugin://plugin.video.live.streamspro/?url=%24doregex%5BURL%5D&amp;mode=17&amp;regexs=%7Bu%27URL%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cn%20%20%20%20%20import%20requests%5Cn%20%20%20%20%20import%20re%5Cn%20%20%20%20%20import%20base64%5Cn%5Cn%20%20%20%20%20id%20%3D%20re.findall%28%22javascript.%2A%3Fid%3D%5C%27%28.%2A%3F%29%5C%27%22%2C%20page_data%29%5B0%5D%5Cn%20%20%20%20%20url%20%3D%20%5C%27http%3A//bro.adca.st/stream.php%3Fid%3D%5C%27%20%2B%20id%20%2B%20%5C%27%26width%3D640%26height%3D480%5C%27%5Cn%20%20%20%20%20headers%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20%5C%27http%3A//www.yalla-shoot.com/ch/Bein9/brocast-high.php%5C%27%7D%5Cn%20%20%20%20%20source%20%3D%20requests.get%28url%2C%20headers%20%3D%20headers%29%5Cn%20%20%20%20%20curl%20%3D%20re.findall%28%5C%27curl%20%3D%20%22%28.%2A%3F%29%22%5C%27%2C%20source.text%29%5B0%5D%5Cn%20%20%20%20%20m3u8%20%3D%20base64.b64decode%28curl%29%5Cn%5Cn%20%20%20%20%20url2%20%3D%20%5C%27http%3A//bro.adca.st/getToken.php%5C%27%20%20%20%20%20%5Cn%20%20%20%20%20headers2%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20url%2C%20%5C%27X-Requested-With%5C%27%3A%20%5C%27XMLHttpRequest%5C%27%7D%5Cn%20%20%20%20%20source2%20%3D%20requests.get%28url2%2C%20headers%20%3D%20headers2%29%5Cn%20%20%20%20%20token%20%3D%20re.findall%28%5C%27%22token%22%3A%22%28.%2A%3F%29%22%5C%27%2C%20source2.text%29%5B0%5D%5Cn%5Cn%20%20%20%20%20return%20m3u8%20%2B%20token%20%2B%20%5C%27%7CReferer%3Dhttp%3A//cdn.bro.adca.st/jwplayer.flash.swf%26User-Agent%3DMozilla/5.0%20%28X11%20Linux%20i686%20rv%3A42.0%29%20Gecko/20100101%20Firefox/42.0%20Iceweasel/42.0%5C%27%5Cn%27%2C%20%27referer%27%3A%20u%27http%3A//www.yalla-shoot.com/%27%2C%20%27name%27%3A%20u%27URL%27%2C%20%27page%27%3A%20u%27http%3A//www.yalla-shoot.com/ch/bein10/brocast-med.php%27%7D%7D</link>
@@ -1527,7 +1647,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport HD10</cname>
 		<item>
 			<title>HD</title>
 				<link>$doregex[select_Url]</link>
@@ -1553,7 +1673,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport HD11</cname>
 		<item>
 			<title>HD</title>
 				<link>$doregex[select_Url]</link>
@@ -1579,7 +1699,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport HD12</cname>
 		<item>
 			<title>HD</title>
 				<link>$doregex[select_Url]</link>
@@ -1605,7 +1725,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 13</cname>
+		<cname>Bein Sport HD13</cname>
 		<item>
 			<title>HD</title>
 				<link>$doregex[select_Url]</link>
@@ -2192,7 +2312,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport HD12</cname>
 		<item>
 			<title>SportDevil-6</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2204,7 +2324,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport HD12</cname>
 		<item>
 			<title>SportDevil-5</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2216,7 +2336,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport HD12</cname>
 		<item>
 			<title>SportDevil-4</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2228,7 +2348,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport HD12</cname>
 		<item>
 			<title>SportDevil-3</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2240,7 +2360,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport HD12</cname>
 		<item>
 			<title>SportDevil-2</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2252,7 +2372,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 12</cname>
+		<cname>Bein Sport HD12</cname>
 		<item>
 			<title>SportDevil-1</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2265,7 +2385,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport HD11</cname>
 		<item>
 			<title>SportDevil-6</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2277,7 +2397,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport HD11</cname>
 		<item>
 			<title>SportDevil-5</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2289,7 +2409,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport HD11</cname>
 		<item>
 			<title>SportDevil-4</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2301,7 +2421,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport HD11</cname>
 		<item>
 			<title>SportDevil-3</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2313,7 +2433,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport HD11</cname>
 		<item>
 			<title>SportDevil-2</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2325,7 +2445,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 11</cname>
+		<cname>Bein Sport HD11</cname>
 		<item>
 			<title>SportDevil-1</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2338,7 +2458,7 @@
 	</streaminginfo>
 	
 	<streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport HD10</cname>
 		<item>
 			<title>SportDevil-6</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2350,7 +2470,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport HD10</cname>
 		<item>
 			<title>SportDevil-5</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2362,7 +2482,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport HD10</cname>
 		<item>
 			<title>SportDevil-4</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2374,7 +2494,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport HD10</cname>
 		<item>
 			<title>SportDevil-3</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2386,7 +2506,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport HD10</cname>
 		<item>
 			<title>SportDevil-2</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
@@ -2398,7 +2518,7 @@
 		</item>
 	</streaminginfo>
 	<streaminginfo>
-		<cname>Bein Sport 10</cname>
+		<cname>Bein Sport HD10</cname>
 		<item>
 			<title>SportDevil-1</title>
 				<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=$doregex[get-delink]%26referer=http://www.show-sport.com</link>
