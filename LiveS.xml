@@ -32,8 +32,8 @@
 <cookieJar></cookieJar>
 </regex>
 </item>
-<item>
-<title>Actionha_Kooora</title>
+ <item>
+<title>ahmedtechmax</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -44,7 +44,7 @@
 <thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[a href="(.*?)"]]></expres>
-<page>https://twitrss.me/twitter_user_to_rss/?user=Actionha_Kooora</page>
+<page>https://twitrss.me/twitter_user_to_rss/?user=ahmedtechmax</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
