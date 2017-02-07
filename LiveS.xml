@@ -49,6 +49,22 @@
 </regex>
 </item>
 <item>
+<title>Live_700</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://www.tutelevisionenvivo.org/</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[a href="(.*?)"]]></expres>
+<page>https://twitrss.me/twitter_user_to_rss/?user=Live_700</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+<item>
 <title>Liev_725</title>
 <link>$doregex[makelist]</link>
 <regex>
