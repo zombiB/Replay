@@ -132,7 +132,22 @@
 <cookieJar></cookieJar>
 </regex>
 </item>
-
+<item>
+<title>marshassan1111</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://www.tutelevisionenvivo.org/</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[a href="(.*?)"]]></expres>
+<page>https://twitrss.me/twitter_user_to_rss/?user=marshassan1111</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
 <item>
 <title>kooraonlinetv</title>
 <link>$doregex[makelist]</link>
